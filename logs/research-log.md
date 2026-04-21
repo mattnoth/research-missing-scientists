@@ -715,3 +715,30 @@ Highest-profile case in cluster. Current evidence more consistent with voluntary
 
 ### Assessment
 All four uncommitted modified files are complete, well-formed, and consistent with the spec. None are truncated. The rate limit hit after these files were written but before they could be committed. They should be committed as-is.
+
+## Reconcile summary (2026-04-21)
+
+### Uncommitted files at start and how each was handled
+- `data/diagram-data.json` — Complete, 831 lines. Committed as-is (7c891e4).
+- `data/timeline-data.json` — Complete, 436 lines. Committed as-is (7c891e4).
+- `logs/contradictions.md` — Complete, 101 lines. Committed as-is (7c891e4). Later updated to add missing Hicks/Maiwald entries (525f3a2).
+- `logs/known-unknowns.md` — Complete, 156 lines. Committed as-is (7c891e4).
+- `run-all.log` — Pipeline transcript. Added to .gitignore; left untracked (7c891e4).
+- `prompt-reconcile.md` — Operational prompt file. Left untracked.
+- `prompt-resume.md` — Operational prompt file. Left untracked.
+- `reconcile.log` — Operational log. Added to .gitignore; left untracked.
+
+### Audit gaps fixed
+- Created `STATUS.md` (required by spec, never generated due to rate limit).
+- Updated `CHANGELOG.md` with prompt-001 completion and reconcile entries.
+- Fixed H4 assessment discrepancy: dossier.md table now matches hypotheses.md ("Weak support").
+- Added 4 missing contradiction entries for Hicks and Maiwald to `logs/contradictions.md`.
+
+### Deferred gaps (NEEDS_RESEARCH)
+- Non-English foreign coverage not searched (documented in known-unknowns.md).
+- Base-rate actuarial analysis not performed (documented in known-unknowns.md).
+
+### Full audit
+See `logs/audit-report.md` for the complete per-case and top-level artifact audit.
+
+READY_FOR_PROMPT_002
