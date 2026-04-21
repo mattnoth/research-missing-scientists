@@ -2,7 +2,7 @@
 
 **Source type:** Tier 1 (Law enforcement statements via media)
 **Accessed:** 2026-04-20
-**Note:** No standalone NMSP press release was located on the NMSP website. These statements are extracted from T2 news reporting where NMSP officials are directly quoted.
+**Note:** No standalone NMSP press release was located on the NMSP website. These statements are extracted from T3 news reporting where NMSP officials are directly quoted.
 
 ## Spokesperson Wilson Silver (August 2025)
 

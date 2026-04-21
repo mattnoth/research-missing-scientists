@@ -97,30 +97,30 @@ Reza's disappearance is one of 11 cases of missing or deceased scientists with g
 - Three patent applications for "Burn-resistant and high tensile strength metal alloys" list Monica A. Jacinto and Dallis Ann Hardwick as inventors (US-20030053926-A1, US-20040208777-A1, US-20100266442-A1). **[T1: [USPTO/Google Patents](https://patents.google.com/patent/US20100266442A1/en)]**
 - Patent describes nickel-based alloy (55-75% Ni, 12-17% Co, 4-16% Cr, 1-4% Al, 1-4% Ti) for rocket engine components in oxygen-rich environments. **[T1: [USPTO](https://patents.google.com/patent/US20100266442A1/en)]**
 - House Oversight Committee formally requested information from federal agencies. **[T1: [House Oversight Committee press release](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/)]**
-- She received the inaugural HENAAC Luminary Award in 2004. **[T2: multiple news sources]**
+- She received the inaugural HENAAC Luminary Award in 2004. **[T4: multiple news sources]**
 
-## Reported Facts (T2 - Mainstream/Local News)
+## Reported Facts (T3/T4 - Local and National News)
 
-- Reza hiked with two companions from her yoga group (one male, one female). **[T2: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
-- She did not drive herself to the trailhead; her car was at a companion's residence. **[T2: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone), corroborated by Men's Journal]**
-- Reza and her male companion were reportedly running on the terrain before she vanished. **[T2: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
-- Physical evidence found: one beanie, one lip balm. **[T2: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
-- Scent dogs' trail terminated at beanie location in a ravine. **[T2: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
-- Montrose SAR confirmed cell phone forensic data was explored (since-removed Facebook post). **[T2: preserved via Reddit, corroborated by Men's Journal]**
-- A 911 call that same morning from the Mt. Waterman area reported a woman screaming. **[T2: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
-- Volunteer searches continued monthly through at least November 2025. **[T2: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
-- Wikipedia describes her JPL title as "Director of Materials Processing." Solve the Case lists "Director of the Materials Processing Group at NASA JPL." [FOX 11](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza) describes her as "aerospace engineer and materials processor." **[T2: multiple]**
+- Reza hiked with two companions from her yoga group (one male, one female). **[T4: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
+- She did not drive herself to the trailhead; her car was at a companion's residence. **[T7: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone), corroborated by Men's Journal]**
+- Reza and her male companion were reportedly running on the terrain before she vanished. **[T4: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
+- Physical evidence found: one beanie, one lip balm. **[T7: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
+- Scent dogs' trail terminated at beanie location in a ravine. **[T7: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
+- Montrose SAR confirmed cell phone forensic data was explored (since-removed Facebook post). **[T4: preserved via Reddit, corroborated by Men's Journal]**
+- A 911 call that same morning from the Mt. Waterman area reported a woman screaming. **[T7: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
+- Volunteer searches continued monthly through at least November 2025. **[T4: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
+- Wikipedia describes her JPL title as "Director of Materials Processing." Solve the Case lists "Director of the Materials Processing Group at NASA JPL." [FOX 11](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza) describes her as "aerospace engineer and materials processor." **[T3/T5: multiple]**
 
 ## Alleged (Unconfirmed)
 
-- A Find a Grave memorial (ID 284387277) was created on June 26, 2025, listing her death as June 22, 2025, with "green burial," while search operations were still active. The memorial was removed approximately March 27, 2026, four days after media reporting. Creator identified only as "lillian"; maintainer as "J.C." (ID 50725353). **[T6: [Sentinel Briefing investigation](https://thesentinel.network/p/the-green-burial-she-was-declared)]**
-- Cell phone forensic results were obtained but never publicly disclosed. **[T6: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
-- Professional connections between Reza and retired Maj. Gen. William McCasland (also missing). **[T6: multiple independent sources]**
+- A Find a Grave memorial (ID 284387277) was created on June 26, 2025, listing her death as June 22, 2025, with "green burial," while search operations were still active. The memorial was removed approximately March 27, 2026, four days after media reporting. Creator identified only as "lillian"; maintainer as "J.C." (ID 50725353). **[T7: [Sentinel Briefing investigation](https://thesentinel.network/p/the-green-burial-she-was-declared)]**
+- Cell phone forensic results were obtained but never publicly disclosed. **[T7: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
+- Professional connections between Reza and retired Maj. Gen. William McCasland (also missing). **[T7: multiple independent sources]**
 
 ## Speculated
 
-- That her disappearance may be connected to other missing/dead scientists in a pattern of targeting. **[T6/T2: multiple sources; under federal investigation but no confirmed link]**
-- That the Find a Grave memorial suggests foreknowledge of her death. **[T6: [Sentinel Briefing](https://thesentinel.network/p/the-green-burial-she-was-declared)]**
+- That her disappearance may be connected to other missing/dead scientists in a pattern of targeting. **[T7/T4: multiple sources; under federal investigation but no confirmed link]**
+- That the Find a Grave memorial suggests foreknowledge of her death. **[T7: [Sentinel Briefing](https://thesentinel.network/p/the-green-burial-she-was-declared)]**
 
 ---
 
@@ -137,7 +137,7 @@ Reza's disappearance is one of 11 cases of missing or deceased scientists with g
 | S5 | US Patent US-20040208777-A1 (Google Patents) | Government record | https://patents.google.com/patent/US20040208777 |
 | S6 | House Oversight Committee press release (Comer/Burlison) | Congressional record | https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/ |
 
-### Tier 2 (Secondary - Mainstream/Local News)
+### Tier 3–4 (Secondary - Local and National News)
 
 | # | Source | Type | URL |
 |---|---|---|---|
@@ -148,13 +148,13 @@ Reza's disappearance is one of 11 cases of missing or deceased scientists with g
 | S11 | The Hill | National news | https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/ |
 | S12 | Fortune | Business news | https://fortune.com/2026/04/19/federal-government-investigation-disappearances-deaths-nuclear-space-scientists-energy-secretary-chris-wright-trump/ |
 
-### Tier 3 (Tertiary / Reference)
+### Tier 5 (Tertiary / Reference)
 
 | # | Source | Type | URL |
 |---|---|---|---|
 | S13 | Wikipedia - Monica Jacinto | Encyclopedia | https://en.wikipedia.org/wiki/Monica_Jacinto |
 
-### Tier 6 (Independent / Investigative)
+### Tier 7 (Independent / Investigative)
 
 | # | Source | Type | URL |
 |---|---|---|---|
@@ -204,4 +204,4 @@ Three US patent applications (US-20030053926-A1, US-20040208777-A1, US-201002664
 
 ### "Director of Materials Processing at NASA JPL" -- PARTIALLY VERIFIED
 
-The LASD missing person listing on Solve the Case states she is "Director of the Materials Processing Group at NASA JPL." This is a law-enforcement-sourced record (T1), but no JPL organizational directory or NASA statement has been located to independently confirm the exact title. Wikipedia (with reliability caveats noted on the page itself) and multiple T2 news sources repeat the title. The claim is assessed as **Reported** with high confidence.
+The LASD missing person listing on Solve the Case states she is "Director of the Materials Processing Group at NASA JPL." This is a law-enforcement-sourced record (T1), but no JPL organizational directory or NASA statement has been located to independently confirm the exact title. Wikipedia (with reliability caveats noted on the page itself) and multiple T3/T4 news sources repeat the title. The claim is assessed as **Reported** with high confidence.

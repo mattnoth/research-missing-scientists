@@ -17,6 +17,16 @@ Items deferred from the prompt-001 cycle. Revisit before or after PDF/website ge
 - [ ] **Maiwald case file** — Same as Hicks.
 - [ ] **Grillmair case file** — Add explicit Documented/Reported/Alleged/Speculated section header (substance already inline).
 
+## Contact list (for future outreach)
+- [ ] **Build a people-of-interest list** — Compile names, roles, affiliations, and publicly available contact info for key people across the cases: local beat reporters who covered these stories, named experts quoted in coverage (former FBI, think tank analysts, etc.), family spokespeople who have spoken publicly, congressional staffers involved in oversight hearings. This is prep for eventual direct outreach — no contact until the human operator decides to proceed. Store as a structured file (JSON or markdown table) with name, role, relevance to which case(s), and any public contact info found.
+- [ ] **Identify the best local/beat reporters per case** — Who has the deepest coverage? Who broke stories vs. who rewrote wire copy? These are the highest-value outreach targets.
+
+## Re-tag case files for new tier system
+- [x] **Update all case file tier references** — Completed 2026-04-21 via `prompts/build/prompt-retag-tiers.md`. All 11 case files migrated.
+- [x] **Update dossier.md tier references** — No actionable tier tags found; only Tier 1 references which are unchanged.
+- [x] **Update analysis/ tier references** — Already migrated in prior pass; verified correct.
+- [x] **Update CLAUDE.md and any prompt files** — Already updated per prompt-retag-tiers.md exclusion list.
+
 ## Significant gaps (harder to fill)
 
 - [ ] **Base-rate actuarial analysis** — Compare observed rate (11 events, ~4-year window) against expected rate for the combined defense/aerospace workforce (~30k+ across LANL, JPL, Sandia, KCNSC, etc.). Most important analytical gap. May require workforce demographic data that isn't freely public.
@@ -58,8 +68,13 @@ The connection diagram needs significantly more data to match the richness of th
 - [ ] Current: 34 nodes / 44 edges — research supports significantly more
 
 ## Website — Diagram Interactivity & Animations
+- [ ] **Fix click-to-highlight connections** — Current implementation isn't working well; clicking a node should reliably highlight its direct connections and dim everything else. Needs debugging.
+- [ ] **Make connection lines clickable** — Clicking an edge should show details about the relationship (type, strength, relevant cases, etc.)
 - [ ] Make graph nodes clickable (navigate to relevant case or detail)
 - [ ] Add more cool animations to the diagram (transitions, hover effects, edge pulses, etc.)
+
+## Website — Diagram Layout & Readability
+- [ ] **Fix force-directed auto-spreading** — When there are too many nodes, the graph is unreadable because nodes pile up on top of each other. The auto-spreading/repulsion that should be keeping nodes apart isn't working. Investigate force simulation parameters (charge strength, link distance, collision radius) and fix so the graph scales gracefully as node count grows.
 
 ## Website — UFO/UAP Section
 - [ ] Create a dedicated page or section focused on UFO/UAP/alien theories and these scientists' connections to that world
@@ -106,6 +121,11 @@ The connection diagram needs significantly more data to match the richness of th
 - [ ] **CONTRIBUTING.md in the research repo** — Document how someone can contribute: how to submit a new case or connection, the source-tiering and confidence-rating requirements, the case file schema, and the no-contact policy. Lower the barrier for open-source researchers.
 - [ ] **Contributing guide on the website** — A public-facing "How to Contribute" page (friendlier than a raw markdown file) explaining what kinds of contributions are welcome: new cases, source links, corrections, foreign-language coverage, FOIA documents, etc.
 - [ ] **Moderation / review process** — Define how submissions get vetted before merging (source tier check, neutrality review, no doxxing/contact). Could be maintainer-only review or a small trusted-reviewer group.
+
+## Website — Natural Language Research Chat (far future)
+- [ ] **Embed a chat interface on the website** — Let visitors ask questions in natural language about the cases, connections, and research (e.g., "Which scientists worked at LANL?", "What are the UAP connections?"). Powered by an LLM with this repo as its knowledge base / RAG context.
+- [ ] **Use repo as a research harness** — Allow the chat to kick off new research prompts against the repo's prompt pipeline, returning structured results. Essentially turning the site into an interactive research tool, not just a static dossier.
+- [ ] **Scope and safety guardrails** — Enforce the no-contact policy, source-tiering standards, and neutrality rules within the chat. Prevent the model from fabricating claims or presenting speculation as fact.
 
 ## Website — UI Polish
 - [ ] Change the question mark icon

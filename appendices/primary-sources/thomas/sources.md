@@ -32,29 +32,29 @@
 - **Key content:** Confirms affiliation with Novartis Institutes for Biomedical Research, Cambridge, MA. Research in Developmental and Molecular Pathways (DMP) Group.
 - **Retrieved:** April 2026
 
-## T2 Sources (Secondary / News)
+## T3/T4 Sources (Secondary / Local and National News)
 
 ### 5. NBC Dateline "Missing in America"
 - **URL:** https://www.nbcnews.com/dateline/missing-in-america/jason-thomas-missing-wakefield-massachusetts-rcna263785
-- **Tier:** T2
+- **Tier:** T4
 - **Key content:** Detailed account of disappearance; interview with Chief Skory (canine/drone search details, scent displacement by trains); wife's account of parents' deaths and emotional state.
 
 ### 6. Boston 25 News
 - **URL:** https://www.boston25news.com/news/local/he-literally-vanished-wakefield-woman-asks-public-help-search-husband/FPPCD6SIIFFM3LW4I4WHNG2D6I/
-- **Tier:** T2
+- **Tier:** T3
 - **Key content:** Wife Kristen Bartoli's public appeal; details of December 12 departure; parents' deaths; phone/wallet left behind.
 
 ### 7. NBC Boston
 - **URL:** https://www.nbcboston.com/news/local/massachusetts-man-wakefield-jason-thomas-vanished/3916919/
-- **Tier:** T2
+- **Tier:** T3
 - **Key content:** Missing person coverage.
 
 ### 8. Boston.com (January 5, 2026)
 - **URL:** https://www.boston.com/news/local-news/2026/01/05/wakefield-man-vanished-has-been-missing-for-3-weeks-wife-says/
-- **Tier:** T2
+- **Tier:** T3
 - **Key content:** Early coverage of disappearance.
 
 ### 9. Boston.com (March 17, 2026)
 - **URL:** https://www.boston.com/news/local-news/2026/03/17/body-pulled-from-wakefield-lake-believed-to-be-that-of-missing-man/
-- **Tier:** T2
+- **Tier:** T3
 - **Key content:** Body recovery reporting.

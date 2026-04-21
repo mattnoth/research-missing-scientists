@@ -53,12 +53,12 @@ In April 2026, his death was publicly linked by journalists to a broader pattern
 - **[AAS Division for Planetary Sciences obituary](https://dps.aas.org/news/michael-david-hicks-1964-2023/)** (T1 -- professional society): Published formal obituary notice consistent with above details.
 - **[House Oversight Committee press release](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/)** (T1 -- government): Confirms Congressional inquiry into deaths/disappearances of scientists with ties to U.S. nuclear and rocket technology, including JPL scientists. Letters sent to NASA, DOE, DOD, FBI.
 
-### Reported (Tier 2)
+### Reported (Tier 3–4)
 
-- **[Newsweek](https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585)** (T2): Reported that Hicks' cause of death was not publicly disclosed and that no record of an autopsy was found. Reported colleague Dr. Joe Masiero's characterization of Hicks as a dedicated mentor.
-- **[Fox 11 Los Angeles](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza) / FOX News** (T2): Reported Hicks as one of four LA County-connected cases in the broader pattern; reported White House confirmation of federal review.
-- **[CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/)** (T2): Reviewed obituaries and law enforcement findings; found no links between any of the deaths. Quoted skeptics noting cases are scattered across years and loosely affiliated organizations.
-- **[The Hill](https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/)** (T2): Reported Hicks' death as part of pattern but noted no established link between cases.
+- **[Newsweek](https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585)** (T4): Reported that Hicks' cause of death was not publicly disclosed and that no record of an autopsy was found. Reported colleague Dr. Joe Masiero's characterization of Hicks as a dedicated mentor.
+- **[Fox 11 Los Angeles](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza) / FOX News** (T3/T4): Reported Hicks as one of four LA County-connected cases in the broader pattern; reported White House confirmation of federal review.
+- **[CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/)** (T4): Reviewed obituaries and law enforcement findings; found no links between any of the deaths. Quoted skeptics noting cases are scattered across years and loosely affiliated organizations.
+- **[The Hill](https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/)** (T4): Reported Hicks' death as part of pattern but noted no established link between cases.
 
 ### Alleged
 
@@ -84,11 +84,11 @@ In April 2026, his death was publicly linked by journalists to a broader pattern
 
 | # | Source | Type | URL | Accessed |
 |---|--------|------|-----|----------|
-| 1 | Newsweek -- "List of dead or missing scientists 'suspicious' as eleventh case raised" | News (T2) | https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585 | 2026-04-20 |
-| 2 | Newsweek -- "Obituaries shed light on wave of dead scientists" | News (T2) | https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019 | 2026-04-20 |
-| 3 | Fox 11 Los Angeles -- "11 missing or dead scientists draw federal scrutiny" | News (T2) | https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza | 2026-04-20 |
-| 4 | CBS News -- "Speculation swirls around deaths and disappearances" | News (T2) | https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/ | 2026-04-20 |
-| 5 | The Hill -- "Missing scientists: Who are they?" | News (T2) | https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/ | 2026-04-20 |
+| 1 | Newsweek -- "List of dead or missing scientists 'suspicious' as eleventh case raised" | News (T4) | https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585 | 2026-04-20 |
+| 2 | Newsweek -- "Obituaries shed light on wave of dead scientists" | News (T4) | https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019 | 2026-04-20 |
+| 3 | Fox 11 Los Angeles -- "11 missing or dead scientists draw federal scrutiny" | News (T3) | https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza | 2026-04-20 |
+| 4 | CBS News -- "Speculation swirls around deaths and disappearances" | News (T4) | https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/ | 2026-04-20 |
+| 5 | The Hill -- "Missing scientists: Who are they?" | News (T4) | https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/ | 2026-04-20 |
 
 ## Named Expert Commentary
 

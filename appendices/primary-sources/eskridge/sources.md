@@ -23,31 +23,31 @@
 - **Key content:** "A Historical Perspective on Anti-Gravity Technology" by Amy Eskridge, presented at Huntsville Alabama L5 Society meeting. Documents her public-facing research activity.
 - **Retrieved:** April 2026
 
-## T2 Sources (Secondary / News)
+## T4 Sources (Secondary / National News)
 
 ### 4. Newsweek: "Who is Amy Eskridge?"
 - **URL:** https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659
-- **Tier:** T2
+- **Tier:** T4
 - **Key content:** Biographical overview; master's in EE; CEO/CTO/co-founder roles; death reported as self-inflicted gunshot wound; limited official details released; 2020 interview quotes.
 
 ### 5. Fox News: "11th scientist death emerges"
 - **URL:** https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets
-- **Tier:** T2
+- **Tier:** T4
 - **Key content:** Eskridge's 2020 interview quotes about threats; "We discovered antigravity" statement; broader pattern context.
 
 ### 6. NewsNation: Father denies conspiracies
 - **URL:** https://www.newsnationnow.com/space/ufo/father-dead-scientist-denies-suspicious/
-- **Tier:** T2
+- **Tier:** T4
 - **Key content:** Richard Eskridge stated "nothing suspicious" about daughter's death; "Scientists die also, just like other people."
 
 ### 7. IBTimes UK: Father dismisses conspiracy theories
 - **URL:** https://www.ibtimes.co.uk/grieving-father-dismisses-conspiracy-theories-1792374
-- **Tier:** T2
+- **Tier:** T4
 - **Key content:** Richard Eskridge's rebuttal of conspiracy narratives.
 
 ### 8. Primetimer: Interview resurfaces
 - **URL:** https://www.primetimer.com/features/i-can-learn-a-new-field-in-three-months-ufo-scientist-amy-eskridges-interview-resurfaces-after-she-passed-away-in-2022
-- **Tier:** T2
+- **Tier:** T4
 - **Key content:** Coverage of 2020 interview content.
 
 ## T3/T5/T6 Sources (Lower-tier / Alleged)

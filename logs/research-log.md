@@ -52,15 +52,15 @@ Chronological record of searches performed, sources consulted, and decisions mad
 
 #### Pages fetched
 1. NM DPS missing person record (T1) -- successful, key details extracted
-2. Los Alamos Reporter LAPD notice (T1 via T2) -- successful
-3. Los Alamos Reporter social media concern article (T2) -- successful, Carl Buckland friend details
-4. CBS News broader pattern article (T2) -- successful but minimal Chavez-specific detail
-5. KOB.com article (T2) -- content truncated, limited value
-6. Boomtown Los Alamos article (T2) -- paywalled, only metadata extracted
-7. michaelrcronin.com article (T3) -- successful but limited new detail
-8. LA Daily Post LAPD search update (T2) -- successful, Deputy Chief Rodriguez quote
+2. Los Alamos Reporter LAPD notice (T1 via T3) -- successful
+3. Los Alamos Reporter social media concern article (T3) -- successful, Carl Buckland friend details
+4. CBS News broader pattern article (T4) -- successful but minimal Chavez-specific detail
+5. KOB.com article (T3) -- content truncated, limited value
+6. Boomtown Los Alamos article (T3) -- paywalled, only metadata extracted
+7. michaelrcronin.com article (T5) -- successful but limited new detail
+8. LA Daily Post LAPD search update (T3) -- successful, Deputy Chief Rodriguez quote
 9. losalamosnm.gov county page (T1) -- returned HTTP 403
-10. NewsNation article (T2) -- returned HTTP 403
+10. NewsNation article (T4) -- returned HTTP 403
 
 #### Key findings
 - **Tier 1 sources identified:** NM DPS missing person database entry; LAPD official statements (via local media and county website). County website returned 403.
@@ -117,7 +117,7 @@ Chronological record of searches performed, sources consulted, and decisions mad
 9. KOB (family one month) -- JS-rendered, minimal extraction
 
 #### Key findings
-- **Factory-reset phone claim is FAMILY-SOURCED (niece Jazmin McMillen), NOT confirmed by NMSP publicly.** Tier 2 provenance, not Tier 1.
+- **Factory-reset phone claim is FAMILY-SOURCED (niece Jazmin McMillen), NOT confirmed by NMSP publicly.** Tier 3 provenance (via local media), not Tier 1.
 - McMillen told CBS: "Melissa was an administrative assistant and did not have high-level clearance" -- pushes back on high-clearance framing.
 - McMillen also told CBS she has not "seen any evidence linking her to any of the other cases."
 - NMSP spokesperson Wilson Silver confirmed "no updates" in August 2025; notably restrained public posture.
@@ -164,16 +164,16 @@ Chronological record of searches performed, sources consulted, and decisions mad
 8. WebSearch: "Grillmair LASD press release homicide Llano February 2026" -- 10 results; no direct LASD .gov URL found
 
 #### Pages fetched
-1. ABC7 Los Angeles -- charges and timeline (T2), successful
+1. ABC7 Los Angeles -- charges and timeline (T3), successful
 2. Caltech official memorial (T1) -- successful, comprehensive biographical data
-3. FOX 11 Los Angeles -- suspect prior arrest details (T2), successful
-4. Wikipedia -- Carl Grillmair biography (T3), successful, useful for cross-referencing
-5. Pasadena Now -- prior arrest and release details (T2), successful
-6. MyNewsLA -- initial LASD report details (T2), successful
-7. MyNewsLA -- arraignment postponement (T2), successful
-8. Yahoo News (LA Times syndication) -- December trespassing deep dive (T2), successful; most detailed source on Snyder's criminal history
-9. CBS Los Angeles -- initial shooting report (T2), successful
-10. Caltech student newspaper (The California Tech) -- colleague quotes (T2), successful
+3. FOX 11 Los Angeles -- suspect prior arrest details (T3), successful
+4. Wikipedia -- Carl Grillmair biography (T5), successful, useful for cross-referencing
+5. Pasadena Now -- prior arrest and release details (T3), successful
+6. MyNewsLA -- initial LASD report details (T3), successful
+7. MyNewsLA -- arraignment postponement (T3), successful
+8. Yahoo News (LA Times syndication) -- December trespassing deep dive (T3), successful; most detailed source on Snyder's criminal history
+9. CBS Los Angeles -- initial shooting report (T3), successful
+10. Caltech student newspaper (The California Tech) -- colleague quotes (T3), successful
 11. KTLA -- 403 error
 12. LA Mag -- 403 error
 
@@ -217,7 +217,7 @@ This case has the strongest non-conspiracy explanation of any in the cluster. A 
 **Researcher:** Sub-agent (Claude)
 
 #### Searches performed
-1. WebSearch: "Monica Jacinto Reza JPL missing 2025" -- 10 results, strong coverage across T2/T6 sources
+1. WebSearch: "Monica Jacinto Reza JPL missing 2025" -- 10 results, strong coverage across T3/T4/T7 sources
 2. WebSearch: "Monica Reza NASA JPL Angeles National Forest missing" -- 10 results, overlapping; House Oversight and Newsweek results
 3. WebSearch: "Monica Reza nickel superalloy inventor patent JPL" -- 10 results; patent records confirmed via Google Patents and Justia
 4. WebSearch: ""Monica Jacinto" OR "Monica Reza" LASD sheriff missing person statement 2025" -- 10 results; KTLA, Crescenta Valley Weekly, Websleuths
@@ -230,17 +230,17 @@ This case has the strongest non-conspiracy explanation of any in the cluster. A 
 11. WebSearch: ""Monica Reza" 911 call screaming woman Mount Waterman June 2025" -- 10 results; Sentinel and Websleuths
 
 #### Pages fetched
-1. Wikipedia - Monica Jacinto (T3) -- successful, comprehensive biography with reliability caveats noted on page
-2. FOX 11 Los Angeles (T2) -- successful, LASD lead agency confirmed, federal probe details
+1. Wikipedia - Monica Jacinto (T5) -- successful, comprehensive biography with reliability caveats noted on page
+2. FOX 11 Los Angeles (T3) -- successful, LASD lead agency confirmed, federal probe details
 3. Solve the Case / LASD listing (T1) -- successful, full physical description, case numbers, detective names
 4. Google Patents US-20100266442-A1 (T1) -- successful, full patent details, inventors, composition, applications
-5. Crescenta Valley Weekly / Vienna statement (T1 via T2) -- successful, key LASD quotes
-6. The Sentinel Briefing "Green Burial" (T6) -- successful, Find a Grave anomaly, search evidence details
-7. Yahoo News / Men's Journal (T2) -- successful, companion details, running claim, career details
-8. The Sentinel Briefing "Phone Gap" (T6) -- successful, cell phone forensics claim, 911 call
+5. Crescenta Valley Weekly / Vienna statement (T1 via T3) -- successful, key LASD quotes
+6. The Sentinel Briefing "Green Burial" (T7) -- successful, Find a Grave anomaly, search evidence details
+7. Yahoo News / Men's Journal (T4) -- successful, companion details, running claim, career details
+8. The Sentinel Briefing "Phone Gap" (T7) -- successful, cell phone forensics claim, 911 call
 9. Justia Patents (T1) -- returned 403
-10. KTLA (T2) -- returned 403
-11. NewsNation (T2) -- returned 403
+10. KTLA (T3) -- returned 403
+11. NewsNation (T4) -- returned 403
 12. House Oversight press release (T1) -- returned 403
 
 #### Key findings
@@ -298,11 +298,11 @@ This case has the strongest non-conspiracy explanation of any in the cluster. A 
 2. U of Arizona LPL memorial (T1) -- successful; PhD 1997, JPL 1998-2022, 80+ papers, missions listed
 3. U of Arizona LPL news (T1) -- successful; dissertation title confirmed
 4. Forest Lawn obituary (T1) -- successful; full biographical and family details, memorial service, al-anon donation request
-5. Newsweek "List of dead or missing scientists" (T2) -- successful; "no record of an autopsy" claim; colleague Dr. Joe Masiero quote
-6. Newsweek "Obituaries shed light" (T2) -- successful; described as "astronomer, artist and father"
-7. Fox 11 LA (T2) -- successful; LA County connection, federal review confirmed
-8. CBS News (T2) -- successful; skeptical perspectives from CSIS, NTI, former DOE official
-9. Global Times (T7) -- successful; Chinese state media framing with conspiracy amplification
+5. Newsweek "List of dead or missing scientists" (T4) -- successful; "no record of an autopsy" claim; colleague Dr. Joe Masiero quote
+6. Newsweek "Obituaries shed light" (T4) -- successful; described as "astronomer, artist and father"
+7. Fox 11 LA (T3) -- successful; LA County connection, federal review confirmed
+8. CBS News (T4) -- successful; skeptical perspectives from CSIS, NTI, former DOE official
+9. Global Times (T8) -- successful; Chinese state media framing with conspiracy amplification
 
 #### Key findings
 - **Cause of death not disclosed in any source.** Not in obituary, not in professional memorials, not in media reporting.
@@ -346,12 +346,12 @@ This case has the strongest non-conspiracy explanation of any in the cluster. A 
 #### Pages fetched
 1. Legacy.com obituary (T1) -- successful; full biographical and family details, JPL projects listed, no cause of death
 2. Google Scholar profile (T1) -- partially successful; rendered as code, confirmed PhD Applied Physics
-3. Newsweek "List of dead or missing scientists" (T2) -- successful; "no record of an autopsy" claim; principal investigator description
-4. Newsweek "Obituaries shed light" (T2) -- successful; no new details beyond obituary
-5. Fox 11 LA (T2) -- successful; LA County connection, federal review confirmed
-6. CBS News (T2) -- successful; skeptical perspectives (same as Hicks research)
-7. The Hill (T2) -- 403 Forbidden
-8. Global Times (T7) -- successful (shared fetch with Hicks); Maiwald listed among 11 cases
+3. Newsweek "List of dead or missing scientists" (T4) -- successful; "no record of an autopsy" claim; principal investigator description
+4. Newsweek "Obituaries shed light" (T4) -- successful; no new details beyond obituary
+5. Fox 11 LA (T3) -- successful; LA County connection, federal review confirmed
+6. CBS News (T4) -- successful; skeptical perspectives (same as Hicks research)
+7. The Hill (T4) -- 403 Forbidden
+8. Global Times (T8) -- successful (shared fetch with Hicks); Maiwald listed among 11 cases
 
 #### Key findings
 - **Cause of death not disclosed in any source.** Obituary simply states he "passed away."
@@ -407,16 +407,16 @@ This case has the strongest non-conspiracy explanation of any in the cluster. A 
 
 #### Pages fetched
 1. NM DPS Missing Persons record M101688 (T1) -- successful; key biographical data extracted
-2. Newsweek "Missing government security man compared to Neil McCasland case" (T2) -- successful; noted Newsweek did not independently verify KCNSC employment
-3. CBS News cluster overview (T2) -- successful; used "reportedly" for KCNSC claim
-4. LiveNOW from FOX overview (T2) -- successful; cited "Fox News" for KCNSC claim
-5. British Brief article (T2/T3) -- successful; explicitly attributed KCNSC claim to anonymous source via Daily Mail
-6. Newsweek FBI investigation overview (T2) -- successful; Garcia listed with no sourcing detail
-7. Daily Wire article (T2) -- successful; cited Economic Times India, not independent
-8. NewsNation Lauren Conlin segment (T2) -- returned 403
-9. Cybernews article (T3) -- returned 403
-10. Colorado Springs Gazette (T2) -- returned 403
-11. BroBible article (T3) -- JS-heavy, no article body rendered
+2. Newsweek "Missing government security man compared to Neil McCasland case" (T4) -- successful; noted Newsweek did not independently verify KCNSC employment
+3. CBS News cluster overview (T4) -- successful; used "reportedly" for KCNSC claim
+4. LiveNOW from FOX overview (T4) -- successful; cited "Fox News" for KCNSC claim
+5. British Brief article (T5) -- successful; explicitly attributed KCNSC claim to anonymous source via Daily Mail
+6. Newsweek FBI investigation overview (T4) -- successful; Garcia listed with no sourcing detail
+7. Daily Wire article (T5) -- successful; cited Economic Times India, not independent
+8. NewsNation Lauren Conlin segment (T4) -- returned 403
+9. Cybernews article (T5) -- returned 403
+10. Colorado Springs Gazette (T4) -- returned 403
+11. BroBible article (T5) -- JS-heavy, no article body rendered
 
 #### Key findings: KCNSC employment sourcing chain
 **The entire KCNSC employment claim traces to a single anonymous source speaking to DailyMail.com (~April 12, 2026).** No outlet has published independent confirmation:
@@ -571,10 +571,10 @@ Searched for on-the-record statements from identifiable experts on the missing/d
 #### Pages fetched
 1. Wakefield town website / DA Marian Ryan statement (T1) -- successful
 2. Legacy.com obituary (T1) -- successful
-3. Boston 25 News wife interview (T2) -- successful
-4. NBC Dateline (T2) -- 403 Forbidden
+3. Boston 25 News wife interview (T3) -- successful
+4. NBC Dateline (T4) -- 403 Forbidden
 5. Middlesex DA press release (T1) -- 403 Forbidden
-6. Boston.com March 17 (T2) -- partial extraction
+6. Boston.com March 17 (T3) -- partial extraction
 
 #### Key findings
 - DA Marian Ryan: no foul play suspected (T1)
@@ -613,17 +613,17 @@ Searched for on-the-record statements from identifiable experts on the missing/d
 8. WebSearch: "Amy Eskridge Huntsville police department investigation 2022 coroner report Madison County" -- 10 results
 
 #### Pages fetched
-1. Newsweek "Who is Amy Eskridge?" (T2) -- successful
+1. Newsweek "Who is Amy Eskridge?" (T4) -- successful
 2. The Arab Tribune obituary (T1) -- successful
-3. Fox News "11th scientist death" (T2) -- successful
-4. Yahoo News / Fox News syndication (T2) -- successful
-5. IBTimes UK father's statement (T2) -- rendering failure
-6. NewsNation father interview (T2) -- 403 Forbidden
+3. Fox News "11th scientist death" (T4) -- successful
+4. Yahoo News / Fox News syndication (T4) -- successful
+5. IBTimes UK father's statement (T4) -- rendering failure
+6. NewsNation father interview (T4) -- 403 Forbidden
 
 #### Key findings
 - Death confirmed June 11, 2022, age 34, Huntsville, AL (T1 obituary)
 - Reported as self-inflicted gunshot wound; no police/coroner report publicly released
-- Father Richard Eskridge dismissed conspiracy theories: "nothing suspicious" (T2)
+- Father Richard Eskridge dismissed conspiracy theories: "nothing suspicious" (T4)
 - Father is retired NASA MSFC engineer (plasma physics, fusion); co-founded organizations with Amy
 - 2020 interview: threat claims, DEW claims, harassment -- all self-reported, unverified
 - Franc Milburn claims not suicide; reportedly submitted to Congress 2023 (no record found)
@@ -657,7 +657,7 @@ Searched for on-the-record statements from identifiable experts on the missing/d
 19 web searches conducted covering: disappearance details, military career (AFRL, SAPOC, NRO, GPS, Office of Special Projects), post-retirement career (ATA/BlueHalo, Riverside Research), DeLonge/UAP connection (WikiLeaks emails, wife's statements, congressional interest), search efforts (BCSO, FBI), 911 call details, and political affiliations.
 
 #### Pages fetched (successful)
-10 pages successfully fetched: Wikipedia biography (T3), Newsweek (3 articles, T2), ABC News (T2), Fox News (T2), CBS News (T2), WikiLeaks emailid/3099 (T1), ABQ Journal (T2), Newsweek "Who is McCasland" (T2). 8 pages returned 403 or failed rendering, including the BCSO press release PDF (T1) and House Oversight press release (T1).
+10 pages successfully fetched: Wikipedia biography (T5), Newsweek (3 articles, T4), ABC News (T4), Fox News (T4), CBS News (T4), WikiLeaks emailid/3099 (T1), ABQ Journal (T3), Newsweek "Who is McCasland" (T4). 8 pages returned 403 or failed rendering, including the BCSO press release PDF (T1) and House Oversight press release (T1).
 
 #### Key findings
 - Military career comprehensively documented: 34-year USAF career spanning classified satellite reconnaissance, GPS, AFRL command, NRO, SAPOC executive secretary.
@@ -742,3 +742,89 @@ All four uncommitted modified files are complete, well-formed, and consistent wi
 See `logs/audit-report.md` for the complete per-case and top-level artifact audit.
 
 READY_FOR_PROMPT_002
+
+## 2026-04-21 — Tier migration inventory (prompt-retag-tiers)
+
+### Scope
+Migrating all source tier references from the old 7-tier system to the new 8-tier system per `prompts/build/prompt-retag-tiers.md`.
+
+### Files already migrated (new-system tags confirmed)
+- `cases/casias.md` — T1, T3 tags ✓
+- `cases/chavez.md` — T1, T3, T4, T5, T8 tags ✓
+- `cases/eskridge.md` — T1, T4, T5 tags ✓
+- `cases/garcia.md` — T1, T3, T6 tags ✓
+- `cases/hicks.md` — T1, T3, T4 tags ✓
+- `cases/maiwald.md` — T1, T3, T4 tags ✓
+- `cases/reza.md` — T1, T3, T4, T5, T7 tags ✓
+- `cases/thomas.md` — T1, T3, T4, T7 tags ✓
+- `analysis/connection-analysis.md` — T1, T3, T4 tags ✓
+- `analysis/hypotheses.md` — T3, T6 tags ✓
+- `appendices/foreign-coverage/china.md` — Tier 3 for SCMP ✓ (geographic proximity to HK/China story)
+- `appendices/primary-sources/*` — all T1 ✓
+
+### Files needing migration
+
+**`cases/grillmair.md`** — ~40 old T2 tags. All sources are local LA media (ABC7, Fox 11 LA, CBS LA, MyNewsLA, Pasadena Now, LA Times/Yahoo, Caltech student paper). All T2 → T3.
+
+**`cases/mccasland.md`** — ~35 old T2 tags. Mix of national outlets (CNN, ABC News, Fox News, Newsweek, NewsNation → T4), local (ABQ Journal → T3), and aggregator (Wikipedia → T5).
+
+**`cases/loureiro.md`** — ~20 old T2 tags. Mix of local (CBS Boston, WBUR, Boston 25 → T3), national (NBC News, PBS, ABC News → T4), and aggregator (Wikipedia, NextBigFuture → T5). Also: Max Planck condolence statement reclassified T2 → T1 (institutional primary source); CNN Portugal → T3 (geographic proximity to Portuguese story).
+
+**`logs/research-log.md`** — ~60 old tags across all tiers:
+- Old T7 (Global Times, 2 occurrences) → T8
+- Old T6 (Sentinel Briefing, 2 occurrences) → T7
+- Old T3 (Wikipedia, aggregators, ~6 occurrences) → T5
+- Old T2 (~50 occurrences) → T3 or T4 per outlet
+
+**`logs/contradictions.md`** — 10 remaining old T2 tags (lines 75, 85, 90, 95, 104, 105, 109, 110, 114, 119). All are national outlets (Newsweek, Fox News, CBS News, NewsNation) → T4.
+
+**`logs/audit-checklist.md`** — 2 old-system references in example/description text.
+
+### Ambiguities logged
+
+1. **Max Planck Institute condolence statement (loureiro.md line 159):** Tagged old T2 (media) but is actually an institutional statement → reclassified as T1. Not a media outlet.
+2. **CNN Portugal (loureiro.md line 158):** Portuguese outlet covering a case involving two Portuguese nationals. Geographic/cultural proximity to the story → classified as T3 (beat reporting), not T4.
+3. **NextBigFuture (loureiro.md line 92):** Tech blog/aggregator, not original reporting → classified as T5 (aggregator), not T4.
+4. **British Brief (research-log.md line 413):** Small UK news/commentary site → classified as T5 (aggregator/tertiary), not T4. Lacks the reporting capacity of listed T4 international outlets.
+5. **Colorado Springs Gazette (research-log.md line 418):** Covers military beat broadly but has no geographic proximity to the Garcia case (Albuquerque) → classified as T4.
+6. **Daily Wire (research-log.md line 415):** Cited Economic Times India, not independent reporting → classified as T5 (aggregator/tertiary).
+
+## 2026-04-21 — Tier migration complete (prompt-retag-tiers)
+
+### Summary
+
+Migration from 7-tier to 8-tier source classification system complete.
+
+**Tags updated by new tier:**
+| New Tier | Count (approx.) | Migration path |
+|----------|-----------------|----------------|
+| T1 | 0 changed | Unchanged (1 reclassification: Max Planck condolence → T1) |
+| T3 (local/beat) | ~45 | From old T2: local NM outlets, local LA outlets, local Boston outlets, CNN Portugal |
+| T4 (national) | ~65 | From old T2: Newsweek, CBS News, CNN, ABC News, Fox News, NBC News, NewsNation, The Hill, Fortune, PBS, IBTimes UK, Daily Mail |
+| T5 (aggregator) | ~10 | From old T3: Wikipedia, BroBible, Cybernews, michaelrcronin.com; from old T2: NextBigFuture, British Brief, Daily Wire |
+| T7 (independent) | 2 | From old T6: Sentinel Briefing (2 articles) |
+| T8 (foreign state) | 2 | From old T7: Global Times (2 entries) |
+
+**Files modified (22 total):**
+- `cases/grillmair.md`, `cases/mccasland.md`, `cases/loureiro.md`
+- `analysis/foreign-intel-layer.md`
+- `logs/research-log.md`, `logs/contradictions.md`, `logs/audit-checklist.md`, `logs/audit-report.md`
+- `appendices/primary-sources/eskridge/sources.md`, `appendices/primary-sources/thomas/sources.md`
+- `appendices/primary-sources/garcia/nnsa-statement.md`, `appendices/primary-sources/casias/nmsp-statements.md`
+- `appendices/primary-sources/grillmair/lasd-initial-report.md`
+- `appendices/primary-sources/loureiro/brown-shooting-wikipedia-summary.md`
+- `appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md`, `appendices/primary-sources/mccasland/house-oversight-press-release.md`
+- `TODO-research.md` (marked migration tasks complete)
+- 8 case files already migrated in prior pass (casias, chavez, eskridge, garcia, hicks, maiwald, reza, thomas)
+
+**Files NOT modified (per exclusion list):**
+- `README.md`, `CLAUDE.md`, `prompts/research/README.md`, `prompts/build/prompt-retag-tiers.md`
+
+**Prompt specification files left unchanged:**
+- `prompts/build/prompt-000.md`, `prompts/build/prompt-001.md`, `prompts/research/prompt-deep-*.md` — These define the OLD tier system as originally written. Updating them would rewrite historical specifications. They describe the system under which prompt-001 research was conducted.
+
+**Quality checks passed:**
+- No file in `cases/`, `analysis/`, `appendices/`, or `logs/` contains old-system `(T2)` tags
+- `(T2)` grep returns only the excluded migration prompt file
+- No news outlet is tagged T2 — T2 is reserved for named expert commentary
+- Total tier references approximately equal before and after (tags remapped, not added or removed)

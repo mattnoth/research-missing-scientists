@@ -7,23 +7,23 @@ Conflicts between sources, tracked with citations and resolution status. Include
 ## Within-Case Contradictions
 
 ### Garcia: Mental state characterization
-- **Source A:** APD warned Garcia "may be a danger to himself" -- attributed to APD via multiple T2 outlets ([Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116), Daily Mail, Fox News)
-- **Source B:** Anonymous source described Garcia as "a very stable person" and disputed any suggestion of suicidal ideation or mental health crisis -- Daily Mail (T5; no direct URL located)
+- **Source A:** APD warned Garcia "may be a danger to himself" -- attributed to APD via multiple T4 outlets ([Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116), Daily Mail, Fox News)
+- **Source B:** Anonymous source described Garcia as "a very stable person" and disputed any suggestion of suicidal ideation or mental health crisis -- Daily Mail (T6; no direct URL located)
 - **Status:** Unresolved. The APD assessment is an official law-enforcement warning based on unknown criteria (possibly the combination of leaving on foot with a firearm and leaving behind personal effects). The anonymous source's rebuttal is unverifiable and the source's identity, relationship to Garcia, and potential agenda are unknown.
 
 ### Garcia: KCNSC employment claim vs. absence of confirmation
-- **Source A:** Anonymous source told Daily Mail that Garcia was a property custodian at KCNSC with top security clearance -- Daily Mail (T5)
-- **Source B:** No official source (KCNSC, Honeywell FM&T, NNSA, APD) has confirmed Garcia's employment; Newsweek explicitly stated it had not independently verified the claim -- [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116) (T2)
+- **Source A:** Anonymous source told Daily Mail that Garcia was a property custodian at KCNSC with top security clearance -- Daily Mail (T6)
+- **Source B:** No official source (KCNSC, Honeywell FM&T, NNSA, APD) has confirmed Garcia's employment; Newsweek explicitly stated it had not independently verified the claim -- [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116) (T4)
 - **Status:** Unresolved. Not a direct contradiction (silence is not denial), but the gap between the specificity of the anonymous claim and the complete absence of institutional confirmation is notable.
 
 ### Chavez: Physical description discrepancies
 - **Source A:** NM DPS lists height as 5'7" and weight as 145 lbs -- [NM DPS](https://missingpersons.dps.nm.gov/mpweb/mpdetailreport_serv?id=M99969) (T1)
-- **Source B:** LAPD notices via local media list 5'6" and 135 lbs -- [Los Alamos Reporter](https://losalamosreporter.com/2025/05/12/lapd-missing-person/) (T2)
+- **Source B:** LAPD notices via local media list 5'6" and 135 lbs -- [Los Alamos Reporter](https://losalamosreporter.com/2025/05/12/lapd-missing-person/) (T3)
 - **Status:** Unresolved. Minor discrepancy but reflects inconsistency between T1 sources.
 
 ### Chavez: Last seen date
 - **Source A:** NM DPS record lists last seen date as 05/08/2025 (the date he was reported missing) -- [NM DPS](https://missingpersons.dps.nm.gov/mpweb/mpdetailreport_serv?id=M99969) (T1)
-- **Source B:** Local media and friend accounts consistently say last seen on or around May 4, 2025 -- [Los Alamos Reporter](https://losalamosreporter.com/2025/05/12/lapd-missing-person/), [LA Daily Post](https://ladailypost.com/los-alamos-police-continue-search-for-anthony-chavez/) (T2)
+- **Source B:** Local media and friend accounts consistently say last seen on or around May 4, 2025 -- [Los Alamos Reporter](https://losalamosreporter.com/2025/05/12/lapd-missing-person/), [LA Daily Post](https://ladailypost.com/los-alamos-police-continue-search-for-anthony-chavez/) (T3)
 - **Status:** Partially resolved. The NM DPS entry likely reflects the report date rather than the actual last-seen date. May 4 appears to be the accurate last-seen date.
 
 ### Chavez: NM DPS case entry date anomaly
@@ -32,48 +32,48 @@ Conflicts between sources, tracked with citations and resolution status. Include
 - **Status:** Unresolved. Entry date predates disappearance by over two years. May be data entry error or indicate a prior missing person report.
 
 ### Casias: Clearance level
-- **Source A:** Task brief and some media describe Casias as having "security clearance" -- multiple (T2/T3)
-- **Source B:** Niece Jazmin McMillen stated Melissa "was an administrative assistant and did not have high-level clearance" -- [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/) (T2)
+- **Source A:** Task brief and some media describe Casias as having "security clearance" -- multiple (T4/T5)
+- **Source B:** Niece Jazmin McMillen stated Melissa "was an administrative assistant and did not have high-level clearance" -- [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/) (T4)
 - **Status:** Partially resolved. LANL admin staff typically hold at minimum a Q clearance for facility access, but McMillen's statement pushes back on the implication of access to sensitive information. Both statements can be simultaneously true.
 
 ### Casias: Factory-reset phones -- sourcing
-- **Source A:** Family (Jazmin McMillen) states both phones were "completely wiped" / factory reset -- [Santa Fe New Mexican](https://www.santafenewmexican.com/news/local_news/state-police-investigates-disappearance-of-lanl-worker-from-ranchos-de-taos/article_5e975bb9-e5d2-4853-8368-06504c936020.html), [ABQ Journal](https://www.abqjournal.com/news/taos-county-woman-lanl-employee-missing-for-two-months/497899) (T2)
+- **Source A:** Family (Jazmin McMillen) states both phones were "completely wiped" / factory reset -- [Santa Fe New Mexican](https://www.santafenewmexican.com/news/local_news/state-police-investigates-disappearance-of-lanl-worker-from-ranchos-de-taos/article_5e975bb9-e5d2-4853-8368-06504c936020.html), [ABQ Journal](https://www.abqjournal.com/news/taos-county-woman-lanl-employee-missing-for-two-months/497899) (T3)
 - **Source B:** NMSP has not publicly confirmed or denied this detail in any located statement -- absence of confirmation
 - **Status:** Unresolved. The phone-wiping claim is the most operationally significant detail in the Casias case and comes from a single family source. LE silence could reflect investigative confidentiality, not disagreement.
 
 ### McCasland: Mental health characterization
-- **Source A:** Silver Alert and reports reference "medical issues," "mental fog," anxiety, memory loss, sleep issues -- BCSO via media (T2)
-- **Source B:** Wife stated he "was not confused and disoriented" and did not have dementia; faced "some risk, but not from dementia" -- [Albuquerque Journal](https://www.abqjournal.com/news/retired-general-was-not-confused-and-disoriented-when-he-went-missing-wife-says/2999479), [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) (T2)
+- **Source A:** Silver Alert and reports reference "medical issues," "mental fog," anxiety, memory loss, sleep issues -- BCSO via media (T4)
+- **Source B:** Wife stated he "was not confused and disoriented" and did not have dementia; faced "some risk, but not from dementia" -- [Albuquerque Journal](https://www.abqjournal.com/news/retired-general-was-not-confused-and-disoriented-when-he-went-missing-wife-says/2999479), [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) (T3/T4)
 - **Status:** Partially resolved. BCSO acknowledged Silver Alert was based on age (over 50) and self-reported mental fog, not a dementia diagnosis. Wife clarified the nature of his condition. The characterizations are in tension but not strictly contradictory.
 
 ### McCasland: DeLonge advisory relationship scope
 - **Source A:** DeLonge email implies deep advisory relationship: McCasland "helped assemble my advisory team," was "very, very aware," received a "four-hour briefing" -- WikiLeaks (T1 document; DeLonge's claims)
-- **Source B:** Wife describes "brief, unpaid consulting on fiction/media for verisimilitude"; contact decreased after WikiLeaks/Russian hacking incident -- [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) (T2)
+- **Source B:** Wife describes "brief, unpaid consulting on fiction/media for verisimilitude"; contact decreased after WikiLeaks/Russian hacking incident -- [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) (T4)
 - **Status:** Unresolved. DeLonge's and the wife's characterizations diverge significantly. McCasland has not spoken publicly.
 
 ### McCasland: "Concerning Friday-morning phone call"
 - **Source A:** Reports of a "concerning Friday-morning telephone call to a close relative" -- unspecified media
-- **Source B:** Wife called this a "complete fabrication" -- [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) (T2)
+- **Source B:** Wife called this a "complete fabrication" -- [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) (T4)
 - **Status:** Resolved in favor of wife's statement. No independent source corroborated the phone call claim.
 
 ### Reza: Find a Grave memorial vs. active search
-- **Source A:** Find a Grave memorial created June 26, 2025, listing death date as June 22 with "green burial" -- Find a Grave (T6, Sentinel Briefing)
-- **Source B:** LASD search was still active (concluded initial phase June 29); no remains recovered; no death certificate or obituary located -- LASD (T1), multiple (T2)
+- **Source A:** Find a Grave memorial created June 26, 2025, listing death date as June 22 with "green burial" -- Find a Grave (T7, Sentinel Briefing)
+- **Source B:** LASD search was still active (concluded initial phase June 29); no remains recovered; no death certificate or obituary located -- LASD (T1), multiple (T4)
 - **Status:** Unresolved. The memorial was removed in March 2026 after media attention. Creator ("lillian") and maintainer ("J.C.") have not been publicly identified.
 
 ### Loureiro: Motive clarity
 - **Source A:** DOJ stated Valente "did not provide a motive" in his video confession -- DOJ (T1)
-- **Source B:** Law enforcement sources described "20-year grudges that propelled him to buy guns" -- [ABC News](https://abcnews.com/US/lengthy-grudge-motivated-brown-mass-shooting-mit-professor/story?id=128961044) citing LE sources (T2)
+- **Source B:** Law enforcement sources described "20-year grudges that propelled him to buy guns" -- [ABC News](https://abcnews.com/US/lengthy-grudge-motivated-brown-mass-shooting-mit-professor/story?id=128961044) citing LE sources (T4)
 - **Status:** Partially resolved. The DOJ statement refers to what Valente explicitly said; the "20-year grudge" is investigators' interpretation based on the totality of evidence. Former classmates' theory of academic jealousy is plausible but not confirmed by suspect's own words.
 
 ### Grillmair: Date of death
-- **Source A:** February 16 (most sources, Wikipedia, Caltech memorial) -- T1/T2
-- **Source B:** Some references to February 17 or 21 -- ABC7 (T2)
+- **Source A:** February 16 (most sources, Wikipedia, Caltech memorial) -- T1/T3/T4
+- **Source B:** Some references to February 17 or 21 -- ABC7 (T3)
 - **Status:** Resolved. February 16, 2026, is the consensus date from LASD and Caltech. Later dates likely reflect ME identification or reporting dates.
 
 ### Eskridge: Father vs. external investigators
-- **Source A:** Father Richard Eskridge stated "nothing suspicious" about his daughter's death; dismissed conspiracy theories -- [NewsNation](https://www.newsnationnow.com/space/ufo/father-dead-scientist-denies-suspicious/) (T2)
-- **Source B:** Franc Milburn (retired British intelligence officer) concluded death was not suicide; Shellenberger reportedly testified she was "murdered by a private aerospace company" -- media reports (T3/T5)
+- **Source A:** Father Richard Eskridge stated "nothing suspicious" about his daughter's death; dismissed conspiracy theories -- [NewsNation](https://www.newsnationnow.com/space/ufo/father-dead-scientist-denies-suspicious/) (T4)
+- **Source B:** Franc Milburn (retired British intelligence officer) concluded death was not suicide; Shellenberger reportedly testified she was "murdered by a private aerospace company" -- media reports (T5/T6)
 - **Status:** Unresolved. Father is a firsthand source who worked alongside Amy and has direct knowledge. Milburn's methodology and evidence have not been publicly disclosed. Shellenberger's evidentiary basis is unknown.
 
 ### Hicks: Employment timeline ambiguity
@@ -82,17 +82,17 @@ Conflicts between sources, tracked with citations and resolution status. Include
 - **Status:** Unresolved. No source explains whether the departure was retirement, layoff (JPL had budget-related layoffs in this period), health-related, or voluntary.
 
 ### Hicks: "No autopsy record found" vs. absence of evidence
-- **Source A:** [Newsweek](https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585) reported no autopsy record was found -- Newsweek (T2)
+- **Source A:** [Newsweek](https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585) reported no autopsy record was found -- Newsweek (T4)
 - **Source B:** No on-record statement from the LA County Medical Examiner confirming or denying an autopsy -- absence of confirmation
 - **Status:** Unresolved. An incomplete records search returning no results is different from a confirmed absence of autopsy.
 
 ### Maiwald: "No autopsy performed" -- source unclear
-- **Source A:** Multiple outlets report no autopsy was performed -- [Newsweek](https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019), other media (T2)
+- **Source A:** Multiple outlets report no autopsy was performed -- [Newsweek](https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019), other media (T4)
 - **Source B:** The original basis for this claim has not been traced to an on-record statement from the LA County Medical Examiner -- absence of source
 - **Status:** Unresolved. Same pattern as Hicks: the "no autopsy" claim lacks traceable T1 sourcing.
 
 ### Maiwald: "Principal researcher" vs. "principal investigator"
-- **Source A:** Media frequently describe Maiwald as a "principal investigator" -- multiple T2 sources
+- **Source A:** Media frequently describe Maiwald as a "principal investigator" -- multiple T4 sources
 - **Source B:** JPL "Principal" is a specific honor for outstanding individual contributions, distinct from the PI role on a specific project -- Legacy.com obituary (T1)
 - **Status:** Partially resolved. The obituary clarifies the JPL Principal designation. Media conflation of the terms inflates the perceived seniority.
 
@@ -101,21 +101,21 @@ Conflicts between sources, tracked with citations and resolution status. Include
 ## Cross-Case Contradictions
 
 ### Expert assessment: Pattern vs. no pattern
-- **Source A (pattern exists):** Former FBI Asst. Director Swecker: potential "modern-day espionage." Rep. Burlison: "all the hallmarks of a foreign operation." Michio Kaku: clustering is "unheard of." -- Fox News, Newsweek (T2)
-- **Source B (no pattern):** Retired FBI Agent Coffindaffer: "not a large-scale conspiracy." CSIS's Rodgers: cases "scattered across several years at different and only loosely affiliated organizations." NTI's Roecker: targeting individual scientists would achieve "nothing strategic." -- [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/), Newsweek (T2)
+- **Source A (pattern exists):** Former FBI Asst. Director Swecker: potential "modern-day espionage." Rep. Burlison: "all the hallmarks of a foreign operation." Michio Kaku: clustering is "unheard of." -- Fox News, Newsweek (T4)
+- **Source B (no pattern):** Retired FBI Agent Coffindaffer: "not a large-scale conspiracy." CSIS's Rodgers: cases "scattered across several years at different and only loosely affiliated organizations." NTI's Roecker: targeting individual scientists would achieve "nothing strategic." -- [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/), Newsweek (T4)
 - **Status:** Unresolved. The divide broadly follows a line between former law enforcement (who favor cautious worst-case thinking) and nuclear/defense policy analysts (who assess strategic rationality). DOE Secretary Wright -- who has both authority and classified access -- stated "we have not found anything alarming yet."
 
 ### Congressional framing: Foreign operation vs. evidence-free
-- **Source A:** Rep. Burlison: "all the hallmarks of a foreign operation" and foreign targeting is "the most likely explanation" -- Newsweek, Fox News (T2)
-- **Source B:** BCSO (investigating McCasland): "uncovered no evidence of foul play" and "not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work" -- [Newsweek](https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036) citing BCSO (T2)
+- **Source A:** Rep. Burlison: "all the hallmarks of a foreign operation" and foreign targeting is "the most likely explanation" -- Newsweek, Fox News (T4)
+- **Source B:** BCSO (investigating McCasland): "uncovered no evidence of foul play" and "not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work" -- [Newsweek](https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036) citing BCSO (T4)
 - **Status:** Unresolved. Congressional characterization reflects concern and political positioning. BCSO statement reflects investigative findings to date. These represent different epistemic standards.
 
 ### Casias family statement vs. pattern inclusion
-- **Source A:** Casias's niece Jazmin McMillen told [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/) she has "not seen any evidence linking her to any of the other cases" and that Melissa "was an administrative assistant and did not have high-level clearance" -- CBS News (T2)
-- **Source B:** Multiple media outlets and Congressional letters include Casias in the "missing scientists" cluster alongside figures like McCasland and Reza -- Multiple outlets (T2/T3)
+- **Source A:** Casias's niece Jazmin McMillen told [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/) she has "not seen any evidence linking her to any of the other cases" and that Melissa "was an administrative assistant and did not have high-level clearance" -- CBS News (T4)
+- **Source B:** Multiple media outlets and Congressional letters include Casias in the "missing scientists" cluster alongside figures like McCasland and Reza -- Multiple outlets (T4/T5)
 - **Status:** Unresolved but notable. The family member closest to the case actively pushes back on the cluster framing and the clearance implications. Her inclusion in the pattern is driven by media grouping, not family or LE identification of connections.
 
 ### Eskridge family vs. external narrative
-- **Source A:** Father Richard Eskridge: "nothing suspicious" about his daughter's death; "scientists die also, just like other people" -- [NewsNation](https://www.newsnationnow.com/space/ufo/father-dead-scientist-denies-suspicious/) (T2)
-- **Source B:** Franc Milburn, Michael Shellenberger, and various media outlets characterize her death as suspicious and potentially connected to her antigravity research -- [Fox News](https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets), multiple outlets (T2/T3/T5)
+- **Source A:** Father Richard Eskridge: "nothing suspicious" about his daughter's death; "scientists die also, just like other people" -- [NewsNation](https://www.newsnationnow.com/space/ufo/father-dead-scientist-denies-suspicious/) (T4)
+- **Source B:** Franc Milburn, Michael Shellenberger, and various media outlets characterize her death as suspicious and potentially connected to her antigravity research -- [Fox News](https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets), multiple outlets (T4/T5/T7)
 - **Status:** Unresolved. The father is the most direct source. External commentators have not presented evidence sufficient to override a firsthand family member's assessment, particularly one with relevant scientific expertise (retired NASA engineer).

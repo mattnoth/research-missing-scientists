@@ -58,13 +58,13 @@ In April 2026, his death was publicly linked by journalists to a broader pattern
 - **[JPL Open Repository](https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=hdl:2014/9805)** (T1 -- institutional): Contains publications by Maiwald on THz frequency receiver instrumentation for Herschel HIFI.
 - **[House Oversight Committee press release](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/)** (T1 -- government): Confirms Congressional inquiry into deaths/disappearances of scientists with ties to U.S. nuclear and rocket technology.
 
-### Reported (Tier 2)
+### Reported (Tier 3–4)
 
-- **[Newsweek](https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019)** (T2): Reported that Maiwald's cause of death was never made public; reported no autopsy was performed; described him as a principal investigator managing Earth observation and space instrumentation.
-- **[Fox 11 Los Angeles](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza)** (T2): Included Maiwald as one of four LA County-connected cases in broader pattern. Reported White House confirmation of federal review.
-- **[CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/)** (T2): Reviewed obituaries and law enforcement findings; found no links between any of the deaths.
-- **[The Hill](https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/) / [NewsNation](https://www.newsnationnow.com/missing/who-missing-dead-scientists-connection-government/)** (T2): Reported Maiwald's inclusion in the pattern; no new factual details beyond obituary.
-- **Daily Mail** (T2): Reported that NASA never commented publicly on Maiwald's death, and that the only public record was the online obituary.
+- **[Newsweek](https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019)** (T4): Reported that Maiwald's cause of death was never made public; reported no autopsy was performed; described him as a principal investigator managing Earth observation and space instrumentation.
+- **[Fox 11 Los Angeles](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza)** (T3): Included Maiwald as one of four LA County-connected cases in broader pattern. Reported White House confirmation of federal review.
+- **[CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/)** (T4): Reviewed obituaries and law enforcement findings; found no links between any of the deaths.
+- **[The Hill](https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/) / [NewsNation](https://www.newsnationnow.com/missing/who-missing-dead-scientists-connection-government/)** (T4): Reported Maiwald's inclusion in the pattern; no new factual details beyond obituary.
+- **Daily Mail** (T4): Reported that NASA never commented publicly on Maiwald's death, and that the only public record was the online obituary.
 
 ### Alleged
 
@@ -93,12 +93,12 @@ In April 2026, his death was publicly linked by journalists to a broader pattern
 
 | # | Source | Type | URL | Accessed |
 |---|--------|------|-----|----------|
-| 1 | Newsweek -- "Obituaries shed light on wave of dead scientists" | News (T2) | https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019 | 2026-04-20 |
-| 2 | Fox 11 Los Angeles -- "11 missing or dead scientists draw federal scrutiny" | News (T2) | https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza | 2026-04-20 |
-| 3 | CBS News -- "Speculation swirls around deaths and disappearances" | News (T2) | https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/ | 2026-04-20 |
-| 4 | The Hill -- "Missing scientists: Who are they?" | News (T2) | https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/ | 2026-04-20 |
-| 5 | NewsNation -- "Who are the missing and dead researchers?" | News (T2) | https://www.newsnationnow.com/missing/who-missing-dead-scientists-connection-government/ | 2026-04-20 |
-| 6 | IBTimes UK -- "FBI Expert, Lawmakers Warn of Suspicious Deaths" | News (T2) | https://www.ibtimes.co.uk/unexplained-deaths-us-scientists-national-security-concerns-1792480 | 2026-04-20 |
+| 1 | Newsweek -- "Obituaries shed light on wave of dead scientists" | News (T4) | https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019 | 2026-04-20 |
+| 2 | Fox 11 Los Angeles -- "11 missing or dead scientists draw federal scrutiny" | News (T3) | https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza | 2026-04-20 |
+| 3 | CBS News -- "Speculation swirls around deaths and disappearances" | News (T4) | https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/ | 2026-04-20 |
+| 4 | The Hill -- "Missing scientists: Who are they?" | News (T4) | https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/ | 2026-04-20 |
+| 5 | NewsNation -- "Who are the missing and dead researchers?" | News (T4) | https://www.newsnationnow.com/missing/who-missing-dead-scientists-connection-government/ | 2026-04-20 |
+| 6 | IBTimes UK -- "FBI Expert, Lawmakers Warn of Suspicious Deaths" | News (T4) | https://www.ibtimes.co.uk/unexplained-deaths-us-scientists-national-security-concerns-1792480 | 2026-04-20 |
 
 ## Named Expert Commentary
 

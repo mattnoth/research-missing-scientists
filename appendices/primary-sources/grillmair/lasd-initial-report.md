@@ -7,7 +7,7 @@
 | **Publisher** | CBS Los Angeles / MyNewsLA (relaying LASD Homicide Bureau information) |
 | **Document type** | Law enforcement press release / media relay (no direct LASD .gov URL located) |
 | **Date of document** | February 16–20, 2026 |
-| **Tier** | T1/T2 — Primary content (LE-sourced facts) relayed through secondary outlets. No direct LASD press release URL was found on lasd.org. |
+| **Tier** | T1/T3 — Primary content (LE-sourced facts) relayed through local secondary outlets. No direct LASD press release URL was found on lasd.org. |
 
 ---
 

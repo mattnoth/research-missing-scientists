@@ -9,7 +9,7 @@
 | **Date of Document** | March 12, 2026 |
 | **Tier** | T1 (law enforcement official release) |
 
-## Summary (reconstructed from T2 news coverage quoting the release)
+## Summary (reconstructed from T3/T4 news coverage quoting the release)
 
 The BCSO issued a press release updating the public on the search for retired Air Force Major General William Neil McCasland, 68, missing since February 27, 2026. Key details from the release, as reported by multiple outlets:
 
@@ -27,4 +27,4 @@ The BCSO issued a press release updating the public on the search for retired Ai
 
 ## Access Note
 
-Direct access to the PDF at the BCSO URL returned HTTP 403 on 2026-04-20. Content above is reconstructed from multiple T2 sources (ABC News, Albuquerque Journal, Newsweek, Fox News) that quote the release. This is noted as a limitation — the primary document was not directly verified.
+Direct access to the PDF at the BCSO URL returned HTTP 403 on 2026-04-20. Content above is reconstructed from multiple T4 sources (ABC News, Albuquerque Journal, Newsweek, Fox News) that quote the release. This is noted as a limitation — the primary document was not directly verified.

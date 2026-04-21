@@ -19,34 +19,55 @@ fixed list of three — finer distinctions are used where the evidence warrants.
   conferences) — primary for the family's own statements, not for facts about
   the investigation itself.
 
-- **Tier 2 — Secondary reporting.** Mainstream news (CNN, CBS, ABC, NBC,
-  Reuters, AP, Washington Post, NYT); local news (Albuquerque Journal, Taos
-  News, Los Alamos Reporter, KRQE, KOB, CBS LA, Boston Globe); specialty
-  trade press. Network "Dateline" and "what we know" roundups are Tier 2,
-  not primary, even when they quote primary sources.
+- **Tier 2 — Named expert commentary.** On-the-record statements from
+  identifiable subject-matter experts (e.g., former FBI officials, CSIS /
+  NTI / think tank analysts, UAP-disclosure advocates with documented
+  professional backgrounds). An expert speaking on the record stakes their
+  professional reputation on a specific claim — this carries more weight
+  than filtered reporting. Evaluated individually on the expert's
+  credentials, independence, and the relevance of their claim.
 
-- **Tier 3 — Tertiary / aggregator.** Wikipedia; news roundups citing other
+- **Tier 3 — Local and beat reporting.** Local news outlets with geographic
+  or institutional proximity to the cases (Albuquerque Journal, Taos News,
+  Los Alamos Reporter, KRQE, KOB, CBS LA, Boston Globe); specialty trade
+  press; reporters with a documented beat covering the relevant institutions
+  or subject matter. These reporters typically have direct sources, community
+  knowledge, and sustained coverage that national outlets lack.
+
+- **Tier 4 — National mainstream reporting.** National news outlets (CNN, CBS,
+  ABC, NBC, Reuters, AP, Washington Post, NYT) covering cases outside their
+  regular beat. Network "Dateline" and "what we know" roundups fall here,
+  not at the primary level, even when they quote primary sources. National
+  outlets have editorial infrastructure but often lack domain expertise and
+  local context; parachute coverage is particularly prone to paraphrasing
+  errors and decontextualized quotes.
+
+- **Tier 5 — Tertiary / aggregator.** Wikipedia; news roundups citing other
   news outlets without original reporting; "here's what we know so far"
   compilations.
 
-- **Tier 4 — Named expert commentary.** On-the-record statements from
-  identifiable subject-matter experts (e.g., former FBI officials, CSIS /
-  NTI / think tank analysts, UAP-disclosure advocates with documented
-  professional backgrounds). Evaluated individually on the expert's
-  credentials and the relevance of their claim.
-
-- **Tier 5 — Secondary reporting relying on anonymous sources.** Claims that
-  appear in Tier 2 outlets but trace to a single anonymous source and are
+- **Tier 6 — Reporting relying on anonymous sources.** Claims that appear in
+  Tier 3 or Tier 4 outlets but trace to a single anonymous source and are
   then repeated across other outlets. The Daily Mail's KCNSC employment
   claim for Steven Garcia is the canonical example.
 
-- **Tier 6 — Independent commentary, Substack, YouTube, TikTok, podcasts,
+- **Tier 7 — Independent commentary, Substack, YouTube, TikTok, podcasts,
   social media.** Useful for finding leads and seeing what claims are in
   circulation. Not used as evidence for factual claims.
 
-- **Tier 7 — Foreign state-affiliated press.** Included when geopolitically
+- **Tier 8 — Foreign state-affiliated press.** Included when geopolitically
   relevant. Country of origin and known editorial orientation noted. Not
   dismissed for being foreign; not elevated for being foreign.
+
+### Quote provenance rule
+When a factual claim or direct quote is found only in national mainstream
+reporting (Tier 4) or lower, researchers should attempt to trace it to a
+higher-tier origin before relying on it. Paraphrasing in national coverage
+is common and sometimes inaccurate — a quote attributed to a source in a
+national article may not reflect what the source actually said. If a quote
+cannot be traced to a primary source (Tier 1), an on-the-record expert
+statement (Tier 2), or a local reporter's direct interview (Tier 3), that
+limitation must be noted alongside the claim.
 
 ### Confidence ratings
 Separate from source tier, every factual claim in this repository carries
@@ -64,8 +85,8 @@ one of the following labels:
 
 The **tier** tells you provenance. The **rating** tells you weight. These
 are independent. A Tier 1 source can make a "may have been a danger to
-himself" statement that rates only "Reported." A Tier 2 article can cite
-a rock-solid court filing that rates "Confirmed."
+himself" statement that rates only "Reported." A Tier 3 local news article
+can cite a rock-solid court filing that rates "Confirmed."
 
 ### Inclusion criteria for cases
 Cases are included based on this repository's own criteria, not based on

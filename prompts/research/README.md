@@ -44,7 +44,7 @@ These rules prevent drift across multi-session, multi-prompt execution:
 ### 2. Schema adherence
 - Case files follow the schema defined in `prompts/build/prompt-001.md` § "Artifact specifications → cases/{slug}.md".
 - New sections may be added but existing required fields must not be removed or renamed.
-- Source tier and confidence rating systems (Tier 1–7, Confirmed/Reported/Alleged/Speculated) are immutable.
+- Source tier and confidence rating systems (Tier 1–8, Confirmed/Reported/Alleged/Speculated) are immutable. The quote provenance rule applies (see README.md § Quote provenance rule).
 
 ### 3. No silent overwrites
 - Before updating any existing content, read the current version first.

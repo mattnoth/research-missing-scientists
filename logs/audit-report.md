@@ -9,13 +9,13 @@ Checklist derived from: `prompt-001.md` (see `logs/audit-checklist.md`).
 
 | Case | Lines | Required Sections | Missing Sections | Truncation | Stubs | Citation Integrity | Source Files | Research Log | Contradictions Log | Verdict |
 |---|---|---|---|---|---|---|---|---|---|---|
-| casias | 116 | All 14 present | none | No | No | Strong (inline T1/T2 tags) | 4 | Yes | Yes (3 entries) | COMPLETE |
-| chavez | 102 | All 14 present | none | No | No | Strong (inline T1/T2 + `[gap]` markers) | 4 | Yes | Yes (3 entries) | COMPLETE |
+| casias | 116 | All 14 present | none | No | No | Strong (inline T1/T3/T4 tags) | 4 | Yes | Yes (3 entries) | COMPLETE |
+| chavez | 102 | All 14 present | none | No | No | Strong (inline T1/T3/T4 + `[gap]` markers) | 4 | Yes | Yes (3 entries) | COMPLETE |
 | eskridge | 113 | All 14 present | none | No | No | Strong (explicit weaker-fit assessment) | 2 | Yes | Yes (2 entries) | COMPLETE |
 | garcia | 118 | All 14 present | none | No | No | Excellent (KCNSC sourcing chain) | 3 | Yes | Yes (2 entries) | COMPLETE |
 | grillmair | 127 | 13 of 14 | Doc/Rep/Alleg/Spec section header (substance inline) | No | No | Strong | 5 | Yes | Yes (1 entry) | MINOR-GAPS |
 | hicks | 118 | All 14 present | none | No | No | Good (narrative lacks inline tier tags) | 2 | Yes | Yes (added during reconcile) | MINOR-GAPS |
-| loureiro | 187 | All 14 present | none | No | No | Strong (exemplary T1/T2 tagging) | 7 | Yes | Yes (1 entry) | COMPLETE |
+| loureiro | 187 | All 14 present | none | No | No | Strong (exemplary T1/T3/T4 tagging) | 7 | Yes | Yes (1 entry) | COMPLETE |
 | maiwald | 132 | All 14 present | none | No | No | Good (narrative lacks inline tier tags) | 2 | Yes | Yes (added during reconcile) | MINOR-GAPS |
 | mccasland | 255 | All 14 present | none | No | No | Excellent (inline tags + DeLonge assessment) | 6 | Yes | Yes (3 entries) | COMPLETE |
 | reza | 207 | 11 of 14 | Inclusion rationale header, Named expert section, Foreign coverage section | No | No | Good (tiering in separate sections) | 5 | Yes | Yes (1 entry) | MINOR-GAPS |
@@ -86,7 +86,7 @@ Checklist derived from: `prompt-001.md` (see `logs/audit-checklist.md`).
 | Gap | Severity | Case/Artifact | What's needed |
 |---|---|---|---|
 | Grillmair: missing explicit Doc/Rep/Alleg/Spec section header | MINOR | cases/grillmair.md | Add the section header; substance is already present inline. Cosmetic only. |
-| Hicks: narrative lacks inline tier/confidence tags | MINOR | cases/hicks.md | Add T1/T2 tags to narrative prose. Info exists in the Documented/Reported sections. |
+| Hicks: narrative lacks inline tier/confidence tags | MINOR | cases/hicks.md | Add T1/T3/T4 tags to narrative prose. Info exists in the Documented/Reported sections. |
 | Maiwald: narrative lacks inline tier/confidence tags | MINOR | cases/maiwald.md | Same as Hicks. |
 | Reza: missing Inclusion rationale header | MINOR | cases/reza.md | Add explicit section header with justification paragraph. Info is implicit in metadata. |
 | Reza: missing Named expert commentary section | MINOR | cases/reza.md | Add section, even if noting none identified. |

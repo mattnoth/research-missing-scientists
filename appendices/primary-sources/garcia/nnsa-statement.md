@@ -4,7 +4,7 @@
 - **Access date:** April 20, 2026
 - **Publisher:** National Nuclear Security Administration (NNSA)
 - **Document type:** Agency statement to media (exact format and date undetermined)
-- **Tier:** T1 (Primary -- U.S. government agency statement), but accessed only via T2 secondary reporting
+- **Tier:** T1 (Primary -- U.S. government agency statement), but accessed only via T4 secondary reporting
 
 ## Paraphrased excerpt
 

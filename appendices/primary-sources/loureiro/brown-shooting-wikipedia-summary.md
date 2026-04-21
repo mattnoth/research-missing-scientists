@@ -3,7 +3,7 @@
 **Source:** Wikipedia
 **URL:** https://en.wikipedia.org/wiki/2025_Brown_University_shooting
 **Date accessed:** April 20, 2026
-**Tier:** T3 (tertiary/encyclopedia, but well-sourced with T1/T2 citations)
+**Tier:** T3 (tertiary/encyclopedia, but well-sourced with T1/T3/T4 citations)
 **Confidence:** Confirmed (cross-referenced with primary sources)
 
 ## Key Facts Extracted

@@ -24,7 +24,7 @@ Per prompt-001 "Artifact specifications → `cases/{slug}.md`":
 14. **Open questions** (what the case research could not resolve)
 
 **Interpretation notes:**
-- "Tier and confidence rating" means inline markers like `(T1, confirmed)` or `[Tier 2, reported]` on factual claims in the narrative.
+- "Tier and confidence rating" means inline markers like `(T1, confirmed)` or `[Tier 3, reported]` on factual claims in the narrative.
 - "Clearly separated sections or inline labels" for documented/reported/alleged/speculated — either discrete headings or consistent inline tagging satisfies this.
 - Not every case will have named expert commentary or foreign coverage; their absence is acceptable if noted.
 
@@ -95,7 +95,7 @@ Per prompt-001 "Artifact specifications → `dossier.md`":
 Prompt-001 does not set explicit numeric thresholds. Interpretations:
 - **Primary sources per case**: ≥1 Tier 1 source per case, or documented explanation. No hard numeric minimum.
 - **Foreign-language sources**: the spec says "where relevant" for foreign coverage. English-language foreign coverage satisfies the spec; non-English is flagged as a known unknown.
-- **Search budget**: "roughly 8–12 attempts at Tier 1 sources, 5–10 at Tier 2" per case. This is guidance, not a hard minimum. Under-sourcing should be "reported honestly."
+- **Search budget**: "roughly 8–12 attempts at Tier 1 sources, 5–10 at Tier 3/4" per case. This is guidance, not a hard minimum. Under-sourcing should be "reported honestly."
 
 ## 7. Additional required artifacts
 

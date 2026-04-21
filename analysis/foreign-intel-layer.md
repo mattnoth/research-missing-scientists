@@ -8,7 +8,7 @@ This document evaluates the hypothesis that foreign state intelligence services 
 
 ### Documented cases
 
-**Israel's targeting of Iranian nuclear scientists (2010-2020).** The most relevant modern precedent. Israeli intelligence (attributed, though Israel has not formally acknowledged) conducted a campaign of targeted assassinations against Iranian nuclear scientists, including Mohsen Fakhrizadeh (killed November 2020), Majid Shahriari (killed November 2010), and others. Methods included car bombs, motorcycle drive-by shootings, and remotely operated weapons. These operations shared common features: targets were active participants in a clandestine nuclear weapons program, methods were operationally sophisticated, and the campaign was sustained over a decade. [Public record, multiple T2 sources, Confirmed]
+**Israel's targeting of Iranian nuclear scientists (2010-2020).** The most relevant modern precedent. Israeli intelligence (attributed, though Israel has not formally acknowledged) conducted a campaign of targeted assassinations against Iranian nuclear scientists, including Mohsen Fakhrizadeh (killed November 2020), Majid Shahriari (killed November 2010), and others. Methods included car bombs, motorcycle drive-by shootings, and remotely operated weapons. These operations shared common features: targets were active participants in a clandestine nuclear weapons program, methods were operationally sophisticated, and the campaign was sustained over a decade. [Public record, multiple T4 sources, Confirmed]
 
 **Soviet-era scientist targeting.** Cold War intelligence operations included defection recruitment, coercion, and occasional assassinations of scientific personnel. The Georgi Markov assassination (1978, Bulgarian intelligence with KGB support, ricin umbrella) and the Alexander Litvinenko poisoning (2006, attributed to Russian intelligence, polonium-210) demonstrate state willingness to conduct lethal operations abroad. However, these targeted defectors and dissidents, not active defense scientists in their home country. [Public record, Confirmed]
 
@@ -18,11 +18,11 @@ This document evaluates the hypothesis that foreign state intelligence services 
 
 The Israeli precedent is the closest analogue but differs in critical ways:
 
-1. **Iran's program was small and vulnerable.** Iran had a limited number of irreplaceable nuclear weapons scientists. The U.S. defense-science workforce numbers in the tens of thousands, making individual targeting strategically futile for capability degradation (as NTI's Roecker argued). [T2, Reported]
+1. **Iran's program was small and vulnerable.** Iran had a limited number of irreplaceable nuclear weapons scientists. The U.S. defense-science workforce numbers in the tens of thousands, making individual targeting strategically futile for capability degradation (as NTI's Roecker argued). [T4, Reported]
 
 2. **Methods were sophisticated and attributable.** Israeli operations used car bombs, motorcycle shootings, and remote-controlled weapons -- operationally complex methods that left clear evidence of state-actor involvement. The current cases show no such operational signatures. No case has physical evidence suggesting sophisticated tradecraft. [Case file review]
 
-3. **Targets were active in clandestine programs.** Iranian targets were actively developing nuclear weapons capability. Most subjects in the current cluster were retired, working in unclassified domains, or in administrative roles. Only McCasland (retired 13 years) and Reza (civilian materials scientist) plausibly held current strategic knowledge, and even Reza's patent-protected work was published. [T1/T2 sources]
+3. **Targets were active in clandestine programs.** Iranian targets were actively developing nuclear weapons capability. Most subjects in the current cluster were retired, working in unclassified domains, or in administrative roles. Only McCasland (retired 13 years) and Reza (civilian materials scientist) plausibly held current strategic knowledge, and even Reza's patent-protected work was published. [T1/T4 sources]
 
 **Assessment of precedent relevance:** Historical precedent confirms that state-actor targeting of scientists is a real category of intelligence activity. However, the specific conditions that made Israeli operations rational (small target set, clandestine program, irreplaceable individuals) do not clearly apply to the current cases. **Confidence: High that the category is real; Low that it applies here.** [Historical record]
 
@@ -36,27 +36,27 @@ The Israeli precedent is the closest analogue but differs in critical ways:
 
 *For:* Career profile makes him objectively a high-value intelligence target. Former SAPOC executive secretary (oversight of all DOD Special Access Programs). Former AFRL commander. Director of Special Programs in OUSD(AT&L). Post-retirement work at Applied Technology Associates/BlueHalo (directed energy, space warfare, missile defense). His knowledge base, even 13 years after military retirement, would be of interest to any peer adversary. [T1 official biography, Confirmed]
 
-*Against:* BCSO stated it has "not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work" [T2 Newsweek, Confirmed]. Wife reported he experienced "mental fog," anxiety, memory loss, and sleep issues [T2, Reported]. She stated he had "only very commonly held clearances" since retiring [T2, Reported]. He took his wallet and revolver -- inconsistent with forced abduction but potentially consistent with voluntary departure under distress. No intelligence agency has indicated foreign involvement. [T2, Confirmed]
+*Against:* BCSO stated it has "not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work" [T4 Newsweek, Confirmed]. Wife reported he experienced "mental fog," anxiety, memory loss, and sleep issues [T4, Reported]. She stated he had "only very commonly held clearances" since retiring [T4, Reported]. He took his wallet and revolver -- inconsistent with forced abduction but potentially consistent with voluntary departure under distress. No intelligence agency has indicated foreign involvement. [T4, Confirmed]
 
 **Reza** (Missing, June 2025)
 
-*For:* Co-inventor of Mondaloy superalloy with documented application in rocket engine components. Her work contributed to U.S. efforts to reduce dependence on Russian RD-180 engines -- a program of direct strategic relevance. Patent portfolio is public, but manufacturing know-how and JPL institutional knowledge would have intelligence value. [T1 USPTO patents; T2 multiple sources]
+*For:* Co-inventor of Mondaloy superalloy with documented application in rocket engine components. Her work contributed to U.S. efforts to reduce dependence on Russian RD-180 engines -- a program of direct strategic relevance. Patent portfolio is public, but manufacturing know-how and JPL institutional knowledge would have intelligence value. [T1 USPTO patents; T4 multiple sources]
 
-*Against:* Disappeared while hiking in a remote mountain area -- a scenario where accidental death is common and body recovery is not guaranteed. The Angeles National Forest terrain is rugged. LASD classified her as "at-risk missing person" but has not indicated suspicion of foul play or foreign involvement. Her patents are public; the marginal intelligence value of abducting her versus reading the patent literature is debatable. [T1 LASD; T2 multiple sources]
+*Against:* Disappeared while hiking in a remote mountain area -- a scenario where accidental death is common and body recovery is not guaranteed. The Angeles National Forest terrain is rugged. LASD classified her as "at-risk missing person" but has not indicated suspicion of foul play or foreign involvement. Her patents are public; the marginal intelligence value of abducting her versus reading the patent literature is debatable. [T1 LASD; T3/T4 multiple sources]
 
 ### Cases with low plausibility for foreign intelligence interest
 
 | Case | Why low plausibility | Source |
 |---|---|---|
-| Casias | Admin assistant; family disputes high clearance | T2 (CBS News, family statement) |
-| Chavez | Retired 8 years; specific role unknown; no documented classified work | T2 (Los Alamos Reporter) |
+| Casias | Admin assistant; family disputes high clearance | T4 (CBS News, family statement) |
+| Chavez | Retired 8 years; specific role unknown; no documented classified work | T3 (Los Alamos Reporter) |
 | Garcia | KCNSC employment unverified (T5 single source); if true, property custodian role | T5 (Daily Mail anonymous source) |
 | Hicks | Unclassified planetary science; left JPL 2022 | T1 (LPL memorial, obituary) |
 | Maiwald | Largely unclassified instrumentation (SBG-VSWIR, AMR, HIFI) | T1 (Legacy.com obituary, publications) |
 | Thomas | Pharma researcher; no defense connection | T1 (obituary, Middlesex DA) |
-| Grillmair | Unclassified astrophysics; named criminal suspect | T1 (Caltech memorial); T2 (LASD, courts) |
-| Loureiro | Named suspect with personal motive and video confession | T1 (DOJ); T2 (multiple) |
-| Eskridge | Private org; no government funding; ruled suicide; father rejects conspiracy | T1 (obituary); T2 (NewsNation) |
+| Grillmair | Unclassified astrophysics; named criminal suspect | T1 (Caltech memorial); T3 (LASD via local media, courts) |
+| Loureiro | Named suspect with personal motive and video confession | T1 (DOJ); T4 (multiple) |
+| Eskridge | Private org; no government funding; ruled suicide; father rejects conspiracy | T1 (obituary); T4 (NewsNation) |
 
 ---
 
@@ -64,21 +64,21 @@ The Israeli precedent is the closest analogue but differs in critical ways:
 
 ### Supporting foreign-involvement concern
 
-**Chris Swecker** (Former FBI Assistant Director): Characterized cases as potential "modern-day espionage." Suggested foreign powers could be involved through abduction, blackmail, torture, or killing. Warned against treating each case separately. Framed his analysis conditionally. [T2 Fox News, Reported]
+**Chris Swecker** (Former FBI Assistant Director): Characterized cases as potential "modern-day espionage." Suggested foreign powers could be involved through abduction, blackmail, torture, or killing. Warned against treating each case separately. Framed his analysis conditionally. [T4 Fox News, Reported]
 
-**Rep. Eric Burlison** (House Oversight Subcommittee Chair): Stated pattern "has all the hallmarks of a foreign operation" and named China, Russia, and Iran as potential actors. Called it the "most likely explanation." His statement carries political weight but is not based on disclosed evidence. [T2 Newsweek, Reported]
+**Rep. Eric Burlison** (House Oversight Subcommittee Chair): Stated pattern "has all the hallmarks of a foreign operation" and named China, Russia, and Iran as potential actors. Called it the "most likely explanation." His statement carries political weight but is not based on disclosed evidence. [T4 Newsweek, Reported]
 
-**Michio Kaku** (Physicist, City College of New York): Called the clustering "unheard of" and a cause for "national concern." Advocated for evidence-driven investigation, not speculation. Did not specifically endorse the foreign-intelligence theory. [T2 Fox News/Newsweek, Reported]
+**Michio Kaku** (Physicist, City College of New York): Called the clustering "unheard of" and a cause for "national concern." Advocated for evidence-driven investigation, not speculation. Did not specifically endorse the foreign-intelligence theory. [T4 Fox News/Newsweek, Reported]
 
 ### Against foreign-involvement theory
 
-**Jennifer Coffindaffer** (Retired FBI Special Agent): Stated categorically this is "not a large-scale conspiracy targeting people in science-based industry." Sees "no connections between the cases other than similar scientific occupations." Predicted the FBI will find "pragmatic and logical explanations." [T2 Newsweek, Reported]
+**Jennifer Coffindaffer** (Retired FBI Special Agent): Stated categorically this is "not a large-scale conspiracy targeting people in science-based industry." Sees "no connections between the cases other than similar scientific occupations." Predicted the FBI will find "pragmatic and logical explanations." [T4 Newsweek, Reported]
 
-**Joseph Rodgers** (Deputy Director, Project on Nuclear Issues, CSIS): Noted cases are "scattered across several years at different and only loosely affiliated organizations." Said he would be "more suspicious if all the scientists were working on one project or weapons system." Found no clear common thread. [T2 CBS News, Reported]
+**Joseph Rodgers** (Deputy Director, Project on Nuclear Issues, CSIS): Noted cases are "scattered across several years at different and only loosely affiliated organizations." Said he would be "more suspicious if all the scientists were working on one project or weapons system." Found no clear common thread. [T4 CBS News, Reported]
 
-**Scott Roecker** (VP Nuclear Materials Security, NTI): Argued there would be "nothing strategic a foreign adversary could achieve by targeting 10 or 20 U.S. nuclear scientists." Noted many subjects were long-retired or outside classified domains. Pointed out the U.S. has thousands of scientists and robust infrastructure that is not vulnerable to individual-level disruption. [T2 CBS News, Reported]
+**Scott Roecker** (VP Nuclear Materials Security, NTI): Argued there would be "nothing strategic a foreign adversary could achieve by targeting 10 or 20 U.S. nuclear scientists." Noted many subjects were long-retired or outside classified domains. Pointed out the U.S. has thousands of scientists and robust infrastructure that is not vulnerable to individual-level disruption. [T4 CBS News, Reported]
 
-**Chris Wright** (DOE Secretary): Confirmed DOE is investigating but stated "we have not found anything alarming yet." [T2 Fortune, Reported]
+**Chris Wright** (DOE Secretary): Confirmed DOE is investigating but stated "we have not found anything alarming yet." [T4 Fortune, Reported]
 
 ### Assessment of expert divide
 

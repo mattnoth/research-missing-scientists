@@ -4,7 +4,7 @@
 
 ### Global Times
 - **Orientation:** State-affiliated (published by People's Daily, CCP organ)
-- **Tier:** 7 (Foreign state-affiliated press)
+- **Tier:** 8 (Foreign state-affiliated press)
 - **Article found:**
   - "Mysterious deaths, disappearances of 10+ elite US scientists fuel a storm of UFO-related conspiracy theories in media reports; White House breaks silence and launches joint investigation with FBI" (April 19, 2026)
   - URL: https://www.globaltimes.cn/page/202604/1359252.shtml
@@ -32,4 +32,4 @@ Notably, the article emphasized the UFO and "antigravity" research connections a
 
 ## Note on SCMP
 
-The South China Morning Post (Hong Kong-based, independent-leaning, Tier 3-4) published a March 15, 2026 article about Chinese defense scientists being scrubbed from the Chinese Academy of Engineering website. This is a separate story about Chinese scientists (Zhao Xiangeng, Wu Manqing, Wei Yiyin) and does not cover the U.S. missing scientists story. No SCMP coverage of the American cases was found.
+The South China Morning Post (Hong Kong-based, independent-leaning, Tier 3) published a March 15, 2026 article about Chinese defense scientists being scrubbed from the Chinese Academy of Engineering website. This is a separate story about Chinese scientists (Zhao Xiangeng, Wu Manqing, Wei Yiyin) and does not cover the U.S. missing scientists story. No SCMP coverage of the American cases was found.
