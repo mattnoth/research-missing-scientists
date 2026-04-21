@@ -677,3 +677,41 @@ Highest-profile case in cluster. Current evidence more consistent with voluntary
 - `appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md`
 - `appendices/primary-sources/mccasland/house-oversight-press-release.md`
 - `appendices/primary-sources/mccasland/riverside-research-appointment.md`
+
+## Reconcile survey (2026-04-21)
+
+### What was committed (31 commits, a0ab7ef through 4d2d916)
+- All 11 case files: `cases/{casias,chavez,eskridge,garcia,grillmair,hicks,loureiro,maiwald,mccasland,reza,thomas}.md`
+- `dossier.md` (112 lines, with abstract, executive summary, case index)
+- `analysis/connection-analysis.md` (166 lines)
+- `analysis/foreign-intel-layer.md` (169 lines)
+- `analysis/hypotheses.md` (308 lines)
+- `appendices/primary-sources/` — 11 per-case subdirectories, plus 4 government-wide documents
+- `appendices/foreign-coverage/` — 5 country files (china, india, iran, russia, united-kingdom)
+- `appendices/named-expert-commentary/` — 10 expert files
+- `logs/research-log.md` — fully populated research log
+- Skeleton versions of `data/diagram-data.json` (5 lines), `data/timeline-data.json` (4 lines), `logs/contradictions.md` (20 lines), `logs/known-unknowns.md` (45 lines)
+- `data/schema/diagram-schema.json`, `data/schema/timeline-schema.json`
+
+### Uncommitted modified files (rate-limit artifacts)
+- `data/diagram-data.json` — 831 lines, fully populated with 11 person nodes, 10 institution nodes, 6 location nodes, 6 program nodes, 44 edges, 3 layer definitions. Valid JSON.
+- `data/timeline-data.json` — 436 lines, fully populated with 29 case events, 14 context events. Valid JSON.
+- `logs/contradictions.md` — 101 lines, expanded from 20-line skeleton; 12 within-case + 4 cross-case contradictions documented.
+- `logs/known-unknowns.md` — 156 lines, expanded from 45-line skeleton; 16 case-specific + 7 cross-case analytical gaps.
+- `run-all.log` — 58 new lines of pipeline transcript (not a research artifact).
+
+### Untracked files
+- `prompt-reconcile.md` — reconciliation prompt (operational, not a pipeline artifact)
+- `prompt-resume.md` — resume prompt (operational, not a pipeline artifact)
+- `reconcile.log` — reconciliation log (operational)
+
+### Missing artifacts
+- `STATUS.md` — required by prompt-001 spec as a final deliverable. Never created.
+
+### Directory health
+- `pdf-output/` — empty (expected; prompt-002 produces PDFs)
+- No empty directories under `appendices/primary-sources/` — all 11 cases have files
+- `.gitignore` does not cover `run-all.log` or `reconcile.log`
+
+### Assessment
+All four uncommitted modified files are complete, well-formed, and consistent with the spec. None are truncated. The rate limit hit after these files were written but before they could be committed. They should be committed as-is.

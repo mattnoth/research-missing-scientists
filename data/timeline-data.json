@@ -1,4 +1,437 @@
 {
   "$schema": "./schema/timeline-schema.json",
-  "events": []
+  "events": [
+    {
+      "id": "eskridge-death",
+      "date": "2022-06-11",
+      "type": "death",
+      "subject": "eskridge",
+      "description": "Amy Eskridge dies at age 34 in Huntsville, AL. Death reported as self-inflicted gunshot wound. Father later rejects conspiracy theories.",
+      "source_pointer": "cases/eskridge.md; obituary (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "eskridge-obituary",
+      "date": "2022-06-21",
+      "type": "other",
+      "subject": "eskridge",
+      "description": "Obituary published in AL.com (Huntsville) and The Arab Tribune. No cause of death listed.",
+      "source_pointer": "cases/eskridge.md; AL.com, Arab Tribune (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "hicks-death",
+      "date": "2023-07-30",
+      "type": "death",
+      "subject": "hicks",
+      "description": "Michael David Hicks dies at age 59 in Sunland, CA. Cause of death not publicly disclosed. No autopsy record found.",
+      "source_pointer": "cases/hicks.md; Forest Lawn obituary (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "hicks-memorial",
+      "date": "2023-09-30",
+      "type": "other",
+      "subject": "hicks",
+      "description": "Memorial service held at Will and Ariel Durant Library, Los Angeles.",
+      "source_pointer": "cases/hicks.md; Forest Lawn obituary (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "maiwald-death",
+      "date": "2024-07-04",
+      "type": "death",
+      "subject": "maiwald",
+      "description": "Frank Maiwald dies at age 61 in Los Angeles, CA. Cause of death not publicly disclosed. Reportedly no autopsy performed.",
+      "source_pointer": "cases/maiwald.md; Legacy.com obituary (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "loureiro-psfc-director",
+      "date": "2024-05-01",
+      "type": "other",
+      "subject": "loureiro",
+      "description": "Nuno Loureiro named Director of MIT Plasma Science and Fusion Center.",
+      "source_pointer": "cases/loureiro.md; MIT News (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "chavez-last-seen",
+      "date": "2025-05-04",
+      "type": "disappearance",
+      "subject": "chavez",
+      "description": "Anthony Chavez last seen leaving home on 37th Street, Los Alamos, on foot without wallet, keys, phone, or vehicle.",
+      "source_pointer": "cases/chavez.md; LAPD via local media (T1/T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "chavez-reported-missing",
+      "date": "2025-05-08",
+      "type": "investigation_milestone",
+      "subject": "chavez",
+      "description": "Chavez formally reported missing to Los Alamos Police Department.",
+      "source_pointer": "cases/chavez.md; LAPD (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "chavez-public-notice",
+      "date": "2025-05-12",
+      "type": "investigation_milestone",
+      "subject": "chavez",
+      "description": "LAPD issues public missing person notice; local media coverage begins.",
+      "source_pointer": "cases/chavez.md; LAPD/Los Alamos Reporter (T1/T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "reza-disappearance",
+      "date": "2025-06-22",
+      "type": "disappearance",
+      "subject": "reza",
+      "description": "Monica Reza disappears while hiking on Mt. Waterman Trail, Angeles National Forest. Last seen ~9:10 AM by hiking companion. 911 call reports woman screaming in area.",
+      "source_pointer": "cases/reza.md; LASD record (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "reza-find-a-grave",
+      "date": "2025-06-26",
+      "type": "other",
+      "subject": "reza",
+      "description": "Find a Grave memorial created listing Reza's death as June 22, 2025, with 'green burial' -- while search operations still active and no remains found.",
+      "source_pointer": "cases/reza.md; Sentinel Briefing (T6)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "reza-search-concludes",
+      "date": "2025-06-29",
+      "type": "investigation_milestone",
+      "subject": "reza",
+      "description": "LASD initial response phase concluded; case transferred to Homicide Bureau Missing Persons Unit.",
+      "source_pointer": "cases/reza.md; LASD via Crescenta Valley Weekly (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "casias-disappearance",
+      "date": "2025-06-26",
+      "type": "disappearance",
+      "subject": "casias",
+      "description": "Melissa Casias last seen ~2:18 PM on surveillance footage walking eastbound on NM-518 near Talpa. Purse, wallet, both phones (factory-reset) found at home.",
+      "source_pointer": "cases/casias.md; ABQ Journal, Santa Fe New Mexican (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "casias-reported-missing",
+      "date": "2025-06-26",
+      "type": "investigation_milestone",
+      "subject": "casias",
+      "description": "Husband Mark Casias reports Melissa missing around 5 PM.",
+      "source_pointer": "cases/casias.md; ABQ Journal (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "garcia-disappearance",
+      "date": "2025-08-28",
+      "type": "disappearance",
+      "subject": "garcia",
+      "description": "Steven Garcia leaves Albuquerque home on foot ~9 AM carrying a handgun, wearing green camo shirt. Leaves behind phone, wallet, keys, car. APD warns he 'may be a danger to himself.'",
+      "source_pointer": "cases/garcia.md; NM DPS record M101688 (T1), APD via media (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "thomas-parents-death",
+      "date": "2025-11-15",
+      "date_precision": "month",
+      "type": "other",
+      "subject": "thomas",
+      "description": "Both of Thomas's parents die within 90 minutes of each other -- mother in hospice (dementia), father of heart attack in Jason's arms.",
+      "source_pointer": "cases/thomas.md; Boston 25 News, wife's account (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "loureiro-brown-shooting",
+      "date": "2025-12-13",
+      "type": "other",
+      "subject": "loureiro",
+      "description": "Suspect Claudio Valente fires 44+ shots at Brown University, killing 2 students and wounding 9. Same weapon later linked to Loureiro murder.",
+      "source_pointer": "cases/loureiro.md; DOJ (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "thomas-disappearance",
+      "date": "2025-12-12",
+      "type": "disappearance",
+      "subject": "thomas",
+      "description": "Jason Thomas walks away from Murray Street home, Wakefield, MA, around midnight. Leaves behind phone and wallet.",
+      "source_pointer": "cases/thomas.md; Wakefield PD (T1), Boston 25 News (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "thomas-reported-missing",
+      "date": "2025-12-13",
+      "type": "investigation_milestone",
+      "subject": "thomas",
+      "description": "Wife Kristen Bartoli reports Thomas missing. NEMLEC deploys 5-6 canine units and 4 drones.",
+      "source_pointer": "cases/thomas.md; Middlesex DA statement (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "grillmair-trespass-incident",
+      "date": "2025-12-20",
+      "type": "other",
+      "subject": "grillmair",
+      "description": "Grillmair reports trespasser on his Llano property. LASD arrests Freddy Snyder nearby with loaded, unregistered rifle.",
+      "source_pointer": "cases/grillmair.md; LASD via media (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "grillmair-snyder-released",
+      "date": "2025-12-23",
+      "type": "other",
+      "subject": "grillmair",
+      "description": "Snyder released on own recognizance after court appearance.",
+      "source_pointer": "cases/grillmair.md; court records via media (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "loureiro-shooting",
+      "date": "2025-12-15",
+      "type": "death",
+      "subject": "loureiro",
+      "description": "Nuno Loureiro shot multiple times in foyer of his Brookline apartment building ~8:30 PM. Pronounced dead at Beth Israel Deaconess Medical Center early Dec 16.",
+      "source_pointer": "cases/loureiro.md; Norfolk County DA, Brookline PD (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "loureiro-suspect-found",
+      "date": "2025-12-18",
+      "type": "investigation_milestone",
+      "subject": "loureiro",
+      "description": "Suspect Claudio Valente found dead (self-inflicted gunshot) in storage unit in Salem, NH. Two guns recovered; ballistics link to both Brown and Loureiro shootings.",
+      "source_pointer": "cases/loureiro.md; DOJ (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "loureiro-confession-released",
+      "date": "2026-01-06",
+      "type": "investigation_milestone",
+      "subject": "loureiro",
+      "description": "DOJ releases transcripts of video confession recordings found on device in Valente's storage unit.",
+      "source_pointer": "cases/loureiro.md; DOJ/US Attorney (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "loureiro-presidential-award",
+      "date": "2025-01-15",
+      "date_precision": "month",
+      "type": "other",
+      "subject": "loureiro",
+      "description": "Loureiro receives Presidential Early Career Award for Scientists and Engineers from President Biden.",
+      "source_pointer": "cases/loureiro.md; MIT obituary (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "grillmair-charges-dismissed",
+      "date": "2026-02-05",
+      "type": "investigation_milestone",
+      "subject": "grillmair",
+      "description": "Prosecutors move to dismiss December weapons charge against Snyder, citing lack of prior criminal record.",
+      "source_pointer": "cases/grillmair.md; court records via media (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "grillmair-shooting",
+      "date": "2026-02-16",
+      "type": "death",
+      "subject": "grillmair",
+      "description": "Carl Grillmair shot and killed on front porch of his Llano home ~6:10 AM. Pronounced dead at scene.",
+      "source_pointer": "cases/grillmair.md; LASD Palmdale Station (T1/T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "grillmair-suspect-arrested",
+      "date": "2026-02-16",
+      "type": "suspect_arrested",
+      "subject": "grillmair",
+      "description": "Freddy Snyder arrested same day after threatening mother and carjacking her vehicle.",
+      "source_pointer": "cases/grillmair.md; LASD, LA County DA (T1/T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "grillmair-charged",
+      "date": "2026-02-18",
+      "type": "investigation_milestone",
+      "subject": "grillmair",
+      "description": "LA County DA charges Snyder with murder, carjacking, and first-degree residential burglary. Bail set at $3.175 million.",
+      "source_pointer": "cases/grillmair.md; LA County DA (T1/T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mccasland-disappearance",
+      "date": "2026-02-27",
+      "type": "disappearance",
+      "subject": "mccasland",
+      "description": "Maj. Gen. McCasland disappears from Albuquerque home between 11:10 AM and 12:04 PM. Left on foot. Took wallet, .38 revolver, hiking boots, red backpack. Left phone, glasses, wearable devices.",
+      "source_pointer": "cases/mccasland.md; BCSO Silver Alert (T1), ABC News (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mccasland-reported-missing",
+      "date": "2026-02-27",
+      "type": "investigation_milestone",
+      "subject": "mccasland",
+      "description": "Wife Susan Wilkerson reports McCasland missing at 3:07 PM. 911 call: she had 'some indication that he must have planned not to be found.'",
+      "source_pointer": "cases/mccasland.md; BCSO, NewsNation (T1/T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mccasland-silver-alert",
+      "date": "2026-03-02",
+      "date_precision": "day",
+      "type": "investigation_milestone",
+      "subject": "mccasland",
+      "description": "Bernalillo County Sheriff's Office issues Silver Alert for McCasland.",
+      "source_pointer": "cases/mccasland.md; BCSO press release (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "mccasland-sweatshirt-found",
+      "date": "2026-03-07",
+      "type": "investigation_milestone",
+      "subject": "mccasland",
+      "description": "Gray USAF sweatshirt found ~1.25 miles east of McCasland's home. Not confirmed as his. No blood detected.",
+      "source_pointer": "cases/mccasland.md; ABC News, CNN (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "mccasland-fbi-joins",
+      "date": "2026-03-11",
+      "type": "investigation_milestone",
+      "subject": "mccasland",
+      "description": "FBI joins search for McCasland, describes situation as 'developing.'",
+      "source_pointer": "cases/mccasland.md; CNN, ABC News (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "thomas-body-found",
+      "date": "2026-03-17",
+      "type": "body_found",
+      "subject": "thomas",
+      "description": "Wakefield detective spots body in Lake Quannapowitt after winter thaw. Clothing consistent with Jason Thomas. DA Marian Ryan: 'no foul play is suspected.'",
+      "source_pointer": "cases/thomas.md; Middlesex DA statement (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "reza-find-a-grave-removed",
+      "date": "2026-03-27",
+      "type": "other",
+      "subject": "reza",
+      "description": "Find a Grave memorial for Reza removed, four days after Sentinel Briefing publishes report on it.",
+      "source_pointer": "cases/reza.md; Sentinel Briefing (T6)",
+      "confidence": "reported"
+    }
+  ],
+  "context_events": [
+    {
+      "id": "ctx-eskridge-2020-interview",
+      "date": "2020-05-20",
+      "type": "media_event",
+      "description": "Amy Eskridge records interview with Jeremy Rys and Mark Sokol describing threats, harassment, and alleged directed energy weapon attacks related to antigravity research.",
+      "source_pointer": "cases/eskridge.md; YouTube interview (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "ctx-delonge-podesta-email",
+      "date": "2016-01-25",
+      "type": "other",
+      "description": "Tom DeLonge emails John Podesta referencing McCasland as adviser: 'he is very, very aware' of DeLonge's project. Published via WikiLeaks October 2016.",
+      "source_pointer": "cases/mccasland.md; WikiLeaks Podesta email 3099 (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "ctx-nnsa-statement",
+      "date": "2026-04-01",
+      "date_precision": "month",
+      "type": "institutional_statement",
+      "description": "NNSA spokeswoman states agency 'is aware of reports related to employees of our labs, plants, and sites and is looking into the matter.'",
+      "source_pointer": "cases/chavez.md; CBS News, Fortune (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "ctx-house-oversight-letters",
+      "date": "2026-04-15",
+      "date_precision": "month",
+      "type": "political_event",
+      "description": "House Oversight Committee Chairman James Comer and Rep. Eric Burlison send letters to DOE, DOD, FBI, and NASA requesting information on missing/dead scientists with ties to nuclear and rocket technology.",
+      "source_pointer": "cases/hicks.md, cases/reza.md; House Oversight Committee press release (T1)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "ctx-white-house-statement",
+      "date": "2026-04-17",
+      "type": "political_event",
+      "description": "White House Press Secretary Karoline Leavitt confirms federal review of scientist deaths and disappearances: 'no stone will be unturned.' FBI Director Patel confirms holistic investigation.",
+      "source_pointer": "cases/reza.md; Fortune, Fox News (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "ctx-federal-probe-launch",
+      "date": "2026-04-19",
+      "type": "investigation_milestone",
+      "description": "Federal government launches broad probe into scientist disappearances/deaths. DOE Secretary Chris Wright states 'we have not found anything alarming yet.'",
+      "source_pointer": "cases/reza.md; Fortune (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "ctx-burlison-foreign-op",
+      "date": "2026-04-01",
+      "date_precision": "month",
+      "type": "political_event",
+      "description": "Rep. Eric Burlison states the pattern 'has all the hallmarks of a foreign operation' and names China, Russia, Iran as potential actors.",
+      "source_pointer": "analysis/foreign-intel-layer.md; Newsweek (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "ctx-burlison-weaponized-podcast",
+      "date": "2026-03-13",
+      "type": "media_event",
+      "description": "Rep. Burlison states on 'Weaponized' podcast that McCasland 'definitely is connected to the UAP topic' and 'has a lot of information.'",
+      "source_pointer": "cases/mccasland.md; Newsweek (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "ctx-cbs-no-links-found",
+      "date": "2026-04-15",
+      "date_precision": "month",
+      "type": "media_event",
+      "description": "CBS News reviews cases; quotes CSIS analyst Rodgers and NTI's Roecker finding no connections. Former FBI agent Coffindaffer: 'not a large-scale conspiracy.'",
+      "source_pointer": "analysis/connection-analysis.md; CBS News (T2)",
+      "confidence": "reported"
+    },
+    {
+      "id": "ctx-eskridge-11th-case",
+      "date": "2026-04-17",
+      "date_precision": "day",
+      "type": "media_event",
+      "description": "Amy Eskridge identified as the '11th case' added to the broader list of missing/dead scientists. Her father Richard Eskridge tells NewsNation there is 'nothing suspicious' about her death.",
+      "source_pointer": "cases/eskridge.md; Fox News, NewsNation (T2)",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "ctx-milburn-claims",
+      "date": "2023-01-01",
+      "date_precision": "year",
+      "type": "other",
+      "description": "Retired British intelligence officer Franc Milburn's findings on Eskridge case reportedly submitted to Congress by independent investigators. No congressional record located.",
+      "source_pointer": "cases/eskridge.md; media reports (T3/T5)",
+      "confidence": "alleged"
+    },
+    {
+      "id": "ctx-bcso-no-foul-play",
+      "date": "2026-04-01",
+      "date_precision": "month",
+      "type": "institutional_statement",
+      "description": "BCSO states it has 'uncovered no evidence of foul play' and 'not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work.' No verified link to other cases.",
+      "source_pointer": "cases/mccasland.md; Newsweek citing BCSO (T2)",
+      "confidence": "confirmed"
+    }
+  ]
 }

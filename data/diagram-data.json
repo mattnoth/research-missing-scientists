@@ -1,5 +1,832 @@
 {
   "$schema": "./schema/diagram-schema.json",
-  "nodes": [],
-  "edges": []
+  "nodes": [
+    {
+      "id": "chavez",
+      "label": "Anthony \"Tony\" Chavez",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["LANL"],
+        "dates": {
+          "incident": "2025-05-04",
+          "reported": "2025-05-08"
+        },
+        "status": "missing",
+        "case_slug": "chavez",
+        "description": "Retired LANL employee (retired 2017); disappeared on foot without wallet, keys, phone, or vehicle from Los Alamos, NM."
+      }
+    },
+    {
+      "id": "casias",
+      "label": "Melissa Casias",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["LANL"],
+        "dates": {
+          "incident": "2025-06-26",
+          "reported": "2025-06-26"
+        },
+        "status": "missing",
+        "case_slug": "casias",
+        "description": "LANL administrative assistant; last seen walking on NM-518 near Talpa; both phones found factory-reset at home."
+      }
+    },
+    {
+      "id": "hicks",
+      "label": "Michael David Hicks",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["JPL"],
+        "dates": {
+          "incident": "2023-07-30"
+        },
+        "status": "deceased",
+        "case_slug": "hicks",
+        "description": "JPL research scientist (1998-2022); planetary defense (DART, NEAT, Dawn); died age 59, cause of death undisclosed."
+      }
+    },
+    {
+      "id": "grillmair",
+      "label": "Carl Johann Grillmair",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["Caltech/IPAC"],
+        "dates": {
+          "incident": "2026-02-16",
+          "resolved": "2026-02-18"
+        },
+        "status": "deceased",
+        "case_slug": "grillmair",
+        "description": "Caltech/IPAC astrophysicist (1997-2026); shot on front porch by suspect Freddy Snyder; suspect arrested and charged."
+      }
+    },
+    {
+      "id": "reza",
+      "label": "Monica Jacinto Reza",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["JPL", "Aerojet Rocketdyne"],
+        "dates": {
+          "incident": "2025-06-22"
+        },
+        "status": "missing",
+        "case_slug": "reza",
+        "description": "Director, Materials Processing Group at JPL; co-inventor of Mondaloy superalloy; disappeared on Mt. Waterman Trail hike."
+      }
+    },
+    {
+      "id": "thomas",
+      "label": "Jason R. Thomas",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["Novartis"],
+        "dates": {
+          "incident": "2025-12-12",
+          "resolved": "2026-03-17"
+        },
+        "status": "deceased",
+        "case_slug": "thomas",
+        "description": "Associate Director, Chemical Biology at Novartis; walked away from home without phone/wallet after parents' deaths; body found in Lake Quannapowitt; no foul play suspected."
+      }
+    },
+    {
+      "id": "maiwald",
+      "label": "Frank Maiwald",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["JPL"],
+        "dates": {
+          "incident": "2024-07-04"
+        },
+        "status": "deceased",
+        "case_slug": "maiwald",
+        "description": "JPL principal researcher (~1999-2024); SBG-VSWIR, AMR, HIFI/Herschel instruments; died age 61, cause undisclosed."
+      }
+    },
+    {
+      "id": "garcia",
+      "label": "Steven Abel Garcia",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["KCNSC (alleged)"],
+        "dates": {
+          "incident": "2025-08-28"
+        },
+        "status": "missing",
+        "case_slug": "garcia",
+        "description": "Alleged KCNSC contractor (single anonymous source); left Albuquerque home on foot carrying a handgun, no phone/wallet/keys."
+      }
+    },
+    {
+      "id": "loureiro",
+      "label": "Nuno Loureiro",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["MIT PSFC"],
+        "dates": {
+          "incident": "2025-12-15",
+          "resolved": "2025-12-18"
+        },
+        "status": "deceased",
+        "case_slug": "loureiro",
+        "description": "MIT Herman Feshbach Professor of Physics; Director, MIT Plasma Science and Fusion Center; shot by former classmate Claudio Valente."
+      }
+    },
+    {
+      "id": "eskridge",
+      "label": "Amy Catherine Eskridge",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["Institute for Exotic Science", "HoloChron LLC"],
+        "dates": {
+          "incident": "2022-06-11"
+        },
+        "status": "deceased",
+        "case_slug": "eskridge",
+        "description": "Co-founder, Institute for Exotic Science; gravity-modification researcher; death ruled suicide; father rejects conspiracy."
+      }
+    },
+    {
+      "id": "mccasland",
+      "label": "Maj. Gen. William Neil McCasland (ret.)",
+      "type": "person",
+      "metadata": {
+        "affiliations": ["USAF (retired)", "Applied Technology Associates/BlueHalo", "AFRL", "Riverside Research"],
+        "dates": {
+          "incident": "2026-02-27"
+        },
+        "status": "missing",
+        "case_slug": "mccasland",
+        "description": "Retired USAF two-star general; former AFRL commander and SAPOC executive secretary; disappeared from Albuquerque home with wallet and revolver but without phone or glasses."
+      }
+    },
+    {
+      "id": "inst-lanl",
+      "label": "Los Alamos National Laboratory (LANL)",
+      "type": "institution",
+      "metadata": {
+        "description": "DOE/NNSA nuclear weapons research lab in Los Alamos, NM. ~14,000 employees."
+      }
+    },
+    {
+      "id": "inst-jpl",
+      "label": "NASA Jet Propulsion Laboratory (JPL)",
+      "type": "institution",
+      "metadata": {
+        "description": "NASA center managed by Caltech in Pasadena, CA. ~6,000 employees. Planetary science, space exploration, Earth observation."
+      }
+    },
+    {
+      "id": "inst-caltech-ipac",
+      "label": "Caltech / IPAC",
+      "type": "institution",
+      "metadata": {
+        "description": "Infrared Processing and Analysis Center at Caltech; operates Spitzer, NEOWISE, NEO Surveyor data systems."
+      }
+    },
+    {
+      "id": "inst-mit-psfc",
+      "label": "MIT Plasma Science and Fusion Center",
+      "type": "institution",
+      "metadata": {
+        "description": "MIT research center founded at DOE request; 250+ researchers; SPARC tokamak partnership with Commonwealth Fusion Systems."
+      }
+    },
+    {
+      "id": "inst-kcnsc",
+      "label": "Kansas City National Security Campus (KCNSC)",
+      "type": "institution",
+      "metadata": {
+        "description": "NNSA facility managed by Honeywell FM&T; produces non-nuclear components for U.S. nuclear weapons. Albuquerque satellite facility."
+      }
+    },
+    {
+      "id": "inst-afrl",
+      "label": "Air Force Research Laboratory (AFRL)",
+      "type": "institution",
+      "metadata": {
+        "description": "USAF primary S&T organization at Wright-Patterson AFB; ~10,800 personnel; $4B+ annual portfolio."
+      }
+    },
+    {
+      "id": "inst-novartis",
+      "label": "Novartis Institutes for Biomedical Research",
+      "type": "institution",
+      "metadata": {
+        "description": "Novartis pharmaceutical research division. Not defense or government-affiliated."
+      }
+    },
+    {
+      "id": "inst-aerojet",
+      "label": "Aerojet Rocketdyne",
+      "type": "institution",
+      "metadata": {
+        "description": "Major U.S. rocket propulsion manufacturer; AR1 engine, RS-25; now part of L3Harris Technologies."
+      }
+    },
+    {
+      "id": "inst-bluehalo",
+      "label": "Applied Technology Associates / BlueHalo",
+      "type": "institution",
+      "metadata": {
+        "description": "Defense technology company; directed energy, space warfare, missile defense, cyber, C4ISR."
+      }
+    },
+    {
+      "id": "inst-nasa-msfc",
+      "label": "NASA Marshall Space Flight Center",
+      "type": "institution",
+      "metadata": {
+        "description": "NASA center in Huntsville, AL; propulsion research. Richard Eskridge (Amy's father) was a retired engineer here."
+      }
+    },
+    {
+      "id": "loc-los-alamos",
+      "label": "Los Alamos, NM",
+      "type": "location",
+      "metadata": {
+        "description": "Home of LANL; Chavez disappeared here."
+      }
+    },
+    {
+      "id": "loc-taos",
+      "label": "Talpa / Taos County, NM",
+      "type": "location",
+      "metadata": {
+        "description": "Casias last seen walking on NM-518 near Talpa."
+      }
+    },
+    {
+      "id": "loc-albuquerque",
+      "label": "Albuquerque, NM",
+      "type": "location",
+      "metadata": {
+        "description": "Garcia and McCasland disappeared from Albuquerque residences. Near Kirtland AFB, Sandia Labs, KCNSC-NM."
+      }
+    },
+    {
+      "id": "loc-la-county",
+      "label": "Los Angeles County, CA",
+      "type": "location",
+      "metadata": {
+        "description": "Hicks (Sunland), Maiwald (LA), Reza (Angeles NF), Grillmair (Llano) -- all within ~60 miles."
+      }
+    },
+    {
+      "id": "loc-brookline",
+      "label": "Brookline, MA",
+      "type": "location",
+      "metadata": {
+        "description": "Loureiro shot at his apartment at 9 Gibbs Street."
+      }
+    },
+    {
+      "id": "loc-wakefield",
+      "label": "Wakefield, MA",
+      "type": "location",
+      "metadata": {
+        "description": "Thomas walked away from Murray Street home; body found in Lake Quannapowitt."
+      }
+    },
+    {
+      "id": "loc-huntsville",
+      "label": "Huntsville, AL",
+      "type": "location",
+      "metadata": {
+        "description": "Eskridge died at home; NASA Marshall Space Flight Center located here."
+      }
+    },
+    {
+      "id": "prog-nuclear-weapons",
+      "label": "Nuclear Weapons Complex",
+      "type": "program",
+      "metadata": {
+        "description": "DOE/NNSA nuclear weapons research, design, and production infrastructure (LANL, KCNSC, Sandia)."
+      }
+    },
+    {
+      "id": "prog-propulsion-materials",
+      "label": "Propulsion & Advanced Materials",
+      "type": "program",
+      "metadata": {
+        "description": "Rocket propulsion and advanced metallurgy research domain; includes Mondaloy superalloy, AR1 engine, space-based laser."
+      }
+    },
+    {
+      "id": "prog-planetary-science",
+      "label": "Planetary Science & Earth Observation",
+      "type": "program",
+      "metadata": {
+        "description": "NASA planetary missions (DART, NEAT, Dawn, NEOWISE, NEO Surveyor, SBG-VSWIR, Herschel/HIFI)."
+      }
+    },
+    {
+      "id": "prog-fusion",
+      "label": "Fusion Energy Research",
+      "type": "program",
+      "metadata": {
+        "description": "DOE/ARPA-E funded fusion research; SPARC tokamak; Commonwealth Fusion Systems partnership."
+      }
+    },
+    {
+      "id": "prog-uap-disclosure",
+      "label": "UAP Disclosure Community",
+      "type": "program",
+      "metadata": {
+        "description": "Informal network around UAP/UFO disclosure; DeLonge/To The Stars; Congressional hearings; Wright-Patterson lore."
+      }
+    },
+    {
+      "id": "prog-classified-sap",
+      "label": "Special Access Programs (SAPs)",
+      "type": "program",
+      "metadata": {
+        "description": "Classified DOD programs overseen by SAPOC; McCasland served as SAPOC executive secretary."
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "chavez",
+      "target": "inst-lanl",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "reported",
+      "evidence_pointer": "cases/chavez.md; NM DPS record, local media",
+      "label": "Retired LANL employee (retired 2017, decades of service)"
+    },
+    {
+      "source": "casias",
+      "target": "inst-lanl",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "reported",
+      "evidence_pointer": "cases/casias.md; ABQ Journal, Santa Fe New Mexican",
+      "label": "LANL administrative assistant (active at time of disappearance)"
+    },
+    {
+      "source": "hicks",
+      "target": "inst-jpl",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/hicks.md; Forest Lawn obituary, U of Arizona LPL memorial",
+      "label": "JPL research scientist (1998-2022)"
+    },
+    {
+      "source": "maiwald",
+      "target": "inst-jpl",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/maiwald.md; Legacy.com obituary, SPIE publications",
+      "label": "JPL principal researcher (~1999-2024)"
+    },
+    {
+      "source": "reza",
+      "target": "inst-jpl",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "reported",
+      "evidence_pointer": "cases/reza.md; LASD record, Solve the Case listing",
+      "label": "Director, Materials Processing Group at JPL"
+    },
+    {
+      "source": "reza",
+      "target": "inst-aerojet",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/reza.md; USPTO patents, HENAAC award",
+      "label": "Technical Fellow at Aerojet Rocketdyne (37+ years, 1988-~2024)"
+    },
+    {
+      "source": "grillmair",
+      "target": "inst-caltech-ipac",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/grillmair.md; Caltech memorial statement",
+      "label": "Caltech/IPAC research scientist (1997-2026)"
+    },
+    {
+      "source": "loureiro",
+      "target": "inst-mit-psfc",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/loureiro.md; MIT News, MIT obituary",
+      "label": "Director, MIT PSFC; Herman Feshbach Professor of Physics"
+    },
+    {
+      "source": "thomas",
+      "target": "inst-novartis",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/thomas.md; Legacy.com obituary",
+      "label": "Associate Director, Chemical Biology at Novartis (since 2010)"
+    },
+    {
+      "source": "garcia",
+      "target": "inst-kcnsc",
+      "edge_type": "employment",
+      "layer": "medium",
+      "confidence": "alleged",
+      "evidence_pointer": "cases/garcia.md; Daily Mail single anonymous source (T5)",
+      "label": "Alleged property custodian at KCNSC Albuquerque (unverified)"
+    },
+    {
+      "source": "mccasland",
+      "target": "inst-afrl",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/mccasland.md; official USAF biography",
+      "label": "Commander, AFRL (May 2011 - Oct 2013)"
+    },
+    {
+      "source": "mccasland",
+      "target": "inst-bluehalo",
+      "edge_type": "employment",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/mccasland.md; press releases, news reports",
+      "label": "Director of Technology, Applied Technology Associates/BlueHalo"
+    },
+    {
+      "source": "eskridge",
+      "target": "inst-nasa-msfc",
+      "edge_type": "personal",
+      "layer": "medium",
+      "confidence": "reported",
+      "evidence_pointer": "cases/eskridge.md; Newsweek, Fox News",
+      "label": "Father Richard Eskridge was retired NASA MSFC engineer (plasma physics)"
+    },
+    {
+      "source": "chavez",
+      "target": "loc-los-alamos",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/chavez.md; NM DPS record",
+      "label": "Resident; disappeared from 37th Street, Los Alamos"
+    },
+    {
+      "source": "casias",
+      "target": "loc-taos",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/casias.md; NamUs MP150628",
+      "label": "Resident of Ranchos de Taos; last seen on NM-518 near Talpa"
+    },
+    {
+      "source": "garcia",
+      "target": "loc-albuquerque",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/garcia.md; NM DPS record M101688",
+      "label": "Resident; disappeared from Cattail Court SW, Albuquerque"
+    },
+    {
+      "source": "mccasland",
+      "target": "loc-albuquerque",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/mccasland.md; BCSO Silver Alert",
+      "label": "Resident near Quail Run Court NE; disappeared from home"
+    },
+    {
+      "source": "hicks",
+      "target": "loc-la-county",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/hicks.md; Forest Lawn obituary",
+      "label": "Resided in Sunland; died in Sunland, LA County"
+    },
+    {
+      "source": "maiwald",
+      "target": "loc-la-county",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/maiwald.md; Legacy.com obituary",
+      "label": "Died in Los Angeles"
+    },
+    {
+      "source": "reza",
+      "target": "loc-la-county",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/reza.md; LASD record",
+      "label": "Disappeared on Mt. Waterman Trail, Angeles National Forest, LA County"
+    },
+    {
+      "source": "grillmair",
+      "target": "loc-la-county",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/grillmair.md; LASD report",
+      "label": "Resided in Llano (unincorporated LA County); shot at home"
+    },
+    {
+      "source": "loureiro",
+      "target": "loc-brookline",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/loureiro.md; Norfolk County DA statement",
+      "label": "Resided at 9 Gibbs Street, Brookline; shot in apartment foyer"
+    },
+    {
+      "source": "thomas",
+      "target": "loc-wakefield",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/thomas.md; Middlesex DA statement",
+      "label": "Resided on Murray Street, Wakefield; body found in Lake Quannapowitt"
+    },
+    {
+      "source": "eskridge",
+      "target": "loc-huntsville",
+      "edge_type": "geography",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/eskridge.md; obituary",
+      "label": "Born, lived, and died in Huntsville, AL"
+    },
+    {
+      "source": "chavez",
+      "target": "prog-nuclear-weapons",
+      "edge_type": "research_domain",
+      "layer": "medium",
+      "confidence": "reported",
+      "evidence_pointer": "cases/chavez.md; LANL employment confirmed but specific role unknown",
+      "label": "LANL employee (role/division unknown; nuclear weapons complex affiliation)"
+    },
+    {
+      "source": "casias",
+      "target": "prog-nuclear-weapons",
+      "edge_type": "research_domain",
+      "layer": "medium",
+      "confidence": "reported",
+      "evidence_pointer": "cases/casias.md; ABQ Journal",
+      "label": "LANL admin assistant (nuclear weapons complex affiliation; low clearance per family)"
+    },
+    {
+      "source": "garcia",
+      "target": "prog-nuclear-weapons",
+      "edge_type": "research_domain",
+      "layer": "corkboard",
+      "confidence": "alleged",
+      "evidence_pointer": "cases/garcia.md; Daily Mail anonymous source (T5)",
+      "label": "Alleged KCNSC property custodian (nuclear weapons production; unverified)"
+    },
+    {
+      "source": "reza",
+      "target": "prog-propulsion-materials",
+      "edge_type": "research_domain",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/reza.md; USPTO patents US-20030053926-A1, US-20040208777-A1, US-20100266442-A1",
+      "label": "Co-inventor of Mondaloy superalloy for rocket engine components"
+    },
+    {
+      "source": "mccasland",
+      "target": "prog-propulsion-materials",
+      "edge_type": "research_domain",
+      "layer": "medium",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/mccasland.md; official USAF biography (Space Based Laser, AFRL command)",
+      "label": "AFRL commander; career spanned propulsion, space weapons, directed energy"
+    },
+    {
+      "source": "eskridge",
+      "target": "prog-propulsion-materials",
+      "edge_type": "research_domain",
+      "layer": "corkboard",
+      "confidence": "reported",
+      "evidence_pointer": "cases/eskridge.md; HAL5 presentation, 2020 interview",
+      "label": "Private gravity-modification research (no peer-reviewed results)"
+    },
+    {
+      "source": "hicks",
+      "target": "prog-planetary-science",
+      "edge_type": "research_domain",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/hicks.md; U of Arizona LPL memorial, publications",
+      "label": "Planetary defense: DART, NEAT, Dawn, Deep Space 1; 80+ papers"
+    },
+    {
+      "source": "maiwald",
+      "target": "prog-planetary-science",
+      "edge_type": "research_domain",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/maiwald.md; SPIE publications, Legacy.com obituary",
+      "label": "Space instrumentation: SBG-VSWIR, AMR, HIFI/Herschel; THz technology"
+    },
+    {
+      "source": "grillmair",
+      "target": "prog-planetary-science",
+      "edge_type": "research_domain",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/grillmair.md; Caltech memorial, publications",
+      "label": "Astrophysics: exoplanet atmospheres, stellar streams, NEOWISE, NEO Surveyor"
+    },
+    {
+      "source": "loureiro",
+      "target": "prog-fusion",
+      "edge_type": "research_domain",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/loureiro.md; MIT News, MIT obituary",
+      "label": "Director, MIT PSFC; magnetized plasma dynamics, SPARC tokamak partnership"
+    },
+    {
+      "source": "mccasland",
+      "target": "prog-classified-sap",
+      "edge_type": "research_domain",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/mccasland.md; official USAF biography",
+      "label": "Executive Secretary, SAPOC; Director of Special Programs, OUSD(AT&L)"
+    },
+    {
+      "source": "mccasland",
+      "target": "prog-uap-disclosure",
+      "edge_type": "speculative_uap",
+      "layer": "corkboard",
+      "confidence": "reported",
+      "evidence_pointer": "cases/mccasland.md; WikiLeaks Podesta email 3099; wife confirmed limited unpaid consulting with DeLonge",
+      "label": "DeLonge email names McCasland as adviser; wife confirms limited unpaid consulting on fiction"
+    },
+    {
+      "source": "eskridge",
+      "target": "prog-uap-disclosure",
+      "edge_type": "speculative_uap",
+      "layer": "corkboard",
+      "confidence": "reported",
+      "evidence_pointer": "cases/eskridge.md; 2020 YouTube interview",
+      "label": "Self-reported antigravity discoveries and threats; Institute for Exotic Science"
+    },
+    {
+      "source": "reza",
+      "target": "inst-afrl",
+      "edge_type": "funding",
+      "layer": "medium",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/reza.md; 1999 AFRL collaboration on Mondaloy scale-up",
+      "label": "Collaborated with AFRL on Mondaloy alloy scale-up (1999)"
+    },
+    {
+      "source": "inst-mit-psfc",
+      "target": "prog-fusion",
+      "edge_type": "program",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/loureiro.md; MIT News (ARPA-E BETHE award)",
+      "label": "MIT PSFC receives DOE/ARPA-E funding; SPARC tokamak partnership with CFS"
+    },
+    {
+      "source": "inst-lanl",
+      "target": "prog-nuclear-weapons",
+      "edge_type": "program",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "analysis/connection-analysis.md",
+      "label": "LANL is a DOE/NNSA nuclear weapons design laboratory"
+    },
+    {
+      "source": "inst-kcnsc",
+      "target": "prog-nuclear-weapons",
+      "edge_type": "program",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "analysis/connection-analysis.md",
+      "label": "KCNSC produces non-nuclear components for U.S. nuclear weapons"
+    },
+    {
+      "source": "inst-afrl",
+      "target": "prog-propulsion-materials",
+      "edge_type": "program",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/mccasland.md; AFRL mission scope",
+      "label": "AFRL conducts aerospace propulsion, materials, directed energy research"
+    },
+    {
+      "source": "inst-jpl",
+      "target": "prog-planetary-science",
+      "edge_type": "program",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "cases/hicks.md, cases/maiwald.md",
+      "label": "JPL is NASA's lead center for robotic planetary exploration"
+    },
+    {
+      "source": "chavez",
+      "target": "casias",
+      "edge_type": "institutional",
+      "layer": "tight",
+      "confidence": "reported",
+      "evidence_pointer": "analysis/connection-analysis.md; both LANL employees (different roles, eras)",
+      "label": "Both LANL employees (Chavez retired 2017; Casias active 2025)"
+    },
+    {
+      "source": "hicks",
+      "target": "maiwald",
+      "edge_type": "institutional",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "analysis/connection-analysis.md; both JPL employees (different departments)",
+      "label": "Both JPL scientists (Hicks: planetary; Maiwald: instrumentation)"
+    },
+    {
+      "source": "hicks",
+      "target": "reza",
+      "edge_type": "institutional",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "analysis/connection-analysis.md; both JPL employees (different departments)",
+      "label": "Both JPL employees (Hicks: planetary; Reza: materials)"
+    },
+    {
+      "source": "maiwald",
+      "target": "reza",
+      "edge_type": "institutional",
+      "layer": "tight",
+      "confidence": "confirmed",
+      "evidence_pointer": "analysis/connection-analysis.md; both JPL employees (different departments)",
+      "label": "Both JPL employees (Maiwald: instrumentation; Reza: materials)"
+    },
+    {
+      "source": "garcia",
+      "target": "mccasland",
+      "edge_type": "geography",
+      "layer": "medium",
+      "confidence": "confirmed",
+      "evidence_pointer": "analysis/connection-analysis.md; both Albuquerque residents",
+      "label": "Both disappeared from Albuquerque, NM (different dates, no documented link)"
+    },
+    {
+      "source": "loureiro",
+      "target": "thomas",
+      "edge_type": "geography",
+      "layer": "medium",
+      "confidence": "confirmed",
+      "evidence_pointer": "analysis/connection-analysis.md; ~15 miles apart in metro Boston, both Dec 2025",
+      "label": "Both metro Boston, both December 2025 (~15 miles apart; no documented link)"
+    },
+    {
+      "source": "reza",
+      "target": "mccasland",
+      "edge_type": "research_domain",
+      "layer": "corkboard",
+      "confidence": "speculated",
+      "evidence_pointer": "analysis/connection-analysis.md; WION flagged Mondaloy/AFRL connection; no documented personal link",
+      "label": "Domain adjacency: Reza's AFRL collaboration + McCasland's AFRL command (speculative; no documented personal connection)"
+    },
+    {
+      "source": "reza",
+      "target": "prog-uap-disclosure",
+      "edge_type": "speculative_uap",
+      "layer": "corkboard",
+      "confidence": "speculated",
+      "evidence_pointer": "analysis/connection-analysis.md; AFRL contract is routine aerospace, not UAP-related",
+      "label": "AFRL/Wright-Patterson institutional lineage (guilt-by-association; no UAP evidence)"
+    },
+    {
+      "source": "inst-afrl",
+      "target": "prog-uap-disclosure",
+      "edge_type": "speculative_uap",
+      "layer": "corkboard",
+      "confidence": "reported",
+      "evidence_pointer": "cases/mccasland.md; Wright-Patterson UFO lore (Project Blue Book), DeLonge email",
+      "label": "Wright-Patterson associated with UFO lore since 1940s; AFRL HQ at WPAFB"
+    }
+  ],
+  "layers": {
+    "tight": {
+      "description": "Documented, verifiable overlaps confirmed by primary or credible secondary sources. Includes institutional co-employment (LANL, JPL, Caltech/IPAC), geographic clustering (NM, LA County, Massachusetts), confirmed research domains, and direct person-to-person institutional connections.",
+      "rendering_notes": "Solid lines, full opacity. These connections are factual. Color by edge_type. Person-to-person institutional edges should be visually prominent."
+    },
+    "medium": {
+      "description": "Research-domain adjacencies, institutional funding chains, behavioral parallels (left without belongings), and connections requiring inference beyond documented facts but grounded in reported information. Includes the alleged Garcia-KCNSC link and geographic co-location without documented personal connection.",
+      "rendering_notes": "Dashed lines, 70% opacity. These connections are inferential but evidence-grounded. Label each with its confidence rating."
+    },
+    "corkboard": {
+      "description": "Speculative connections drawn from UAP-community theorizing, social media narratives, foreign intelligence targeting theories, and inferences that go substantially beyond documented evidence. Includes the DeLonge/UAP overlay, Reza-McCasland speculative link via AFRL, Eskridge's self-reported antigravity claims, and Garcia's unverified nuclear-facility connection to targeting narratives.",
+      "rendering_notes": "Dotted lines, 40% opacity, red or orange color. These are included for transparency, not endorsement. Each should carry a visible caveat label."
+    }
+  }
 }

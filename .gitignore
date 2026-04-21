@@ -17,3 +17,7 @@ __pycache__/
 
 # Generated output
 pdf-output/
+
+# Pipeline logs
+run-all.log
+reconcile.log
