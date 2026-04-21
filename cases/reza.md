@@ -61,9 +61,9 @@
 
 ### Background
 
-Monica Jacinto Reza is an American metallurgist and materials engineer of Hispanic descent. She began her career at Rocketdyne in 1988, working on oxygen-rich staged combustion cycle engines. In the mid-1990s, she and Australian metallurgist Dallis Hardwick (1950-2015) developed Mondaloy, a nickel-based superalloy that withstands high-pressure, high-temperature gaseous oxygen without combusting and without requiring protective coatings. The name "Mondaloy" is a portmanteau in which "Mon" derives from Monica. The alloy was eventually used in approximately 12 components of Aerojet Rocketdyne's AR1 engine and the Hydrocarbon Boost Technology Demonstrator.
+Monica Jacinto Reza is an American metallurgist and materials engineer of Hispanic descent. She began her career at Rocketdyne in 1988, working on oxygen-rich staged combustion cycle engines. In the mid-1990s, she and Australian metallurgist Dallis Hardwick (1950-2015) developed [Mondaloy](https://patents.google.com/patent/US20100266442A1/en), a nickel-based superalloy that withstands high-pressure, high-temperature gaseous oxygen without combusting and without requiring protective coatings. The name "Mondaloy" is a portmanteau in which "Mon" derives from Monica. The alloy was eventually used in approximately 12 components of Aerojet Rocketdyne's AR1 engine and the Hydrocarbon Boost Technology Demonstrator.
 
-Reza spent over 37 years at Aerojet Rocketdyne, achieving the rank of Technical Fellow (the company's highest technical rank). She subsequently became Director of the Materials Processing Group at NASA's Jet Propulsion Laboratory in Pasadena, California. Her work had direct relevance to U.S. rocket engine development, including efforts to reduce dependence on Russian-made RD-180 engines.
+Reza spent over 37 years at Aerojet Rocketdyne, achieving the rank of Technical Fellow (the company's highest technical rank). She subsequently became Director of the Materials Processing Group at NASA's Jet Propulsion Laboratory in Pasadena, California. Her work had direct relevance to U.S. rocket engine development, including efforts to reduce dependence on Russian-made RD-180 engines. She is [listed as a missing person by LASD](https://www.solvethecase.org/case/2025-56/monica-reza).
 
 ### Disappearance
 
@@ -73,7 +73,7 @@ Reza was last seen wearing a red long-sleeved shirt, green hiking pants, and hik
 
 ### Search Efforts
 
-LASD initiated an extensive search involving Los Angeles County Search and Rescue teams, aerial resources (helicopters), FLIR thermal imaging, canine units, forensic technology, and state and federal assets. Acting Captain Ryan A. Vienna of LASD Crescenta Valley Station described it as an "extraordinary search." Physical evidence recovered was limited to one beanie and one lip balm, which were described as inconsistent with her expected trajectory. Scent dogs reportedly terminated at the beanie in a ravine. The initial response phase concluded on June 29, 2025, and the case was transferred to the Homicide Bureau Missing Persons Unit.
+LASD initiated an extensive search involving Los Angeles County Search and Rescue teams, aerial resources (helicopters), FLIR thermal imaging, canine units, forensic technology, and state and federal assets. [Acting Captain Ryan A. Vienna](https://www.crescentavalleyweekly.com/news/07/03/2025/update-on-efforts-to-locate-missing-hiker-monica-reza/) of LASD Crescenta Valley Station described it as an "extraordinary search." Physical evidence recovered was limited to one beanie and one lip balm, which were described as inconsistent with her expected trajectory. Scent dogs reportedly terminated at the beanie in a ravine. The initial response phase concluded on June 29, 2025, and the case was transferred to the Homicide Bureau Missing Persons Unit.
 
 Volunteer searches continued monthly through at least November 2025 across an area described as a 40-50 mile radius. No remains, additional personal effects, or definitive evidence of her fate have been found.
 
@@ -83,7 +83,7 @@ Montrose Search and Rescue acknowledged in a since-removed Facebook post that th
 
 ### Federal Investigation
 
-Reza's disappearance is one of 11 cases of missing or deceased scientists with government/defense connections under review by the Trump White House, the FBI, and the House Oversight Committee. Chairman James Comer (R-KY) and Subcommittee Chairman Eric Burlison (R-MO) sent letters to the DOE, DOD, FBI, and NASA in April 2026. White House Press Secretary Karoline Leavitt confirmed the probe, stating "no stone will be unturned."
+Reza's disappearance is one of 11 cases of missing or deceased scientists with government/defense connections under review by the Trump White House, the [FBI](https://www.newsweek.com/fbi-investigating-missing-dead-scientists-what-we-know-11852176), and the [House Oversight Committee](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/). Chairman James Comer (R-KY) and Subcommittee Chairman Eric Burlison (R-MO) sent letters to the DOE, DOD, FBI, and NASA in April 2026. White House Press Secretary Karoline Leavitt confirmed the probe, stating "no stone will be unturned."
 
 ---
 

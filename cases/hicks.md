@@ -36,13 +36,13 @@ His colleague Dr. Joe Masiero, who worked with Hicks for approximately 10 years 
 
 Outside his scientific career, Hicks was an artist who worked in woodblock prints, oil painting, and metalwork. He played the ukulele and performed during observing runs at Mount Palomar.
 
-He died on July 30, 2023, at age 59 in Sunland, California. His obituary, [published by Forest Lawn](https://obituaries.forestlawn.com/obituaries/michael-hicks), identified him as "an astronomer, artist and father" but did not disclose a cause of death. [The AAS Division for Planetary Sciences](https://dps.aas.org/news/michael-david-hicks-1964-2023/) and [the University of Arizona's Lunar and Planetary Laboratory](https://lpl.arizona.edu/about/memoriam/michael-hicks) both published memorial tributes, neither of which stated a cause of death.
+He died on July 30, 2023, at age 59 in Sunland, California. His [obituary](https://obituaries.forestlawn.com/obituaries/michael-hicks) identified him as "an astronomer, artist and father" but did not disclose a cause of death. The [AAS Division for Planetary Sciences](https://dps.aas.org/news/michael-david-hicks-1964-2023/) and the [University of Arizona's Lunar and Planetary Laboratory](https://lpl.arizona.edu/about/memoriam/michael-hicks) both published memorial tributes, neither of which stated a cause of death.
 
 He was survived by his father Richard, daughter Julia, ex-wife Brunella Bigi, and six siblings (Richard, Stephen, Suzette, Jeanette, Paul, and Barbara). He was preceded in death by his mother Joan and infant brother Brian.
 
 His obituary directed charitable donations to al-anon.org.
 
-In April 2026, his death was publicly linked by journalists to a broader pattern of deaths and disappearances of scientists with connections to U.S. defense and aerospace programs. His case was included in [House Oversight Committee](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/) Chairman James Comer and Rep. Eric Burlison's letters to NASA, DOE, DOD, and the FBI requesting information. The White House confirmed a federal review of these cases.
+In April 2026, his death was publicly linked by journalists to a broader pattern of deaths and disappearances of scientists with connections to U.S. defense and aerospace programs. His case was included in [House Oversight Committee](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/) Chairman James Comer and Rep. Eric Burlison's letters to NASA, DOE, DOD, and the FBI requesting information. The White House confirmed a [federal review](https://www.newsweek.com/fbi-investigating-missing-dead-scientists-what-we-know-11852176) of these cases.
 
 ## What Is Documented vs. Reported vs. Alleged vs. Speculated
 

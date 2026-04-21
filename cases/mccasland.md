@@ -79,7 +79,7 @@ William Neil McCasland graduated from the U.S. Air Force Academy in 1979 with a 
 
 ### The Disappearance — February 27, 2026
 
-On the morning of February 27, 2026, a repairman was working at McCasland's Albuquerque residence and interacted with him around 10:00 AM (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054)/[Fox News](https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing) citing BCSO -- Confirmed). McCasland's wife, Susan Wilkerson, left the house at 11:10 AM for a medical appointment (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054) -- Confirmed). When she returned at 12:04 PM, McCasland was gone (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054) citing BCSO -- Confirmed). She reported him missing at 3:07 PM (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054) citing BCSO -- Confirmed).
+On the morning of February 27, 2026, a repairman was working at McCasland's Albuquerque residence and interacted with him around 10:00 AM ([ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054), [Fox News](https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing) citing BCSO -- Confirmed). McCasland's wife, Susan Wilkerson, left the house at 11:10 AM for a medical appointment. When she returned at 12:04 PM, McCasland was gone. She reported him missing at 3:07 PM.
 
 McCasland left on foot. He was last seen wearing a light green, long-sleeved button-up outdoor shirt with a button-down collar and two chest pockets (T4, [Fox News](https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing) citing BCSO -- Reported).
 
@@ -89,13 +89,13 @@ McCasland left on foot. He was last seen wearing a light green, long-sleeved but
 
 ### The 911 Call
 
-In the 911 call on February 27, Susan Wilkerson told the dispatcher: she had "some indication that he must have planned not to be found" (T4, [NewsNation](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/) -- Confirmed, citing released 911 audio). She described him as encountering "medical issues" and said he was seeing a doctor for "anxiety, short-term memory loss, and lack of sleep" (T4, [NewsNation](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/) -- Reported). She relayed that he had said words to the effect that if his "brain and body keep deteriorating, he didn't want to live like that," but characterized this as frustration rather than an explicit plan -- more of a "Man, I hate how this is going" statement (T4, [NewsNation](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/) -- Reported).
+In the [911 call on February 27](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/), Susan Wilkerson told the dispatcher: she had "some indication that he must have planned not to be found." She described him as encountering "medical issues" and said he was seeing a doctor for "anxiety, short-term memory loss, and lack of sleep." She relayed that he had said words to the effect that if his "brain and body keep deteriorating, he didn't want to live like that," but characterized this as frustration rather than an explicit plan -- more of a "Man, I hate how this is going" statement.
 
 ### The "Mental Fog"
 
 McCasland had reported experiencing what he described as a "mental fog" prior to his disappearance (T4, multiple outlets citing BCSO/family -- Confirmed). Investigators said he cited this condition as the reason for stepping down from various groups he worked with (T4, [NewsNation](https://www.newsnationnow.com/missing/who-is-william-neil-mccasland/) -- Reported). However, BCSO Lt. Kyle Woods stated McCasland was "not disoriented, confused" at the time of his disappearance and "would still be the most intelligent person in the room" (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054) -- Reported).
 
-His wife later issued a statement disputing that he had dementia, saying he "was not confused and disoriented" and faced "some risk, but not from dementia" (T3/T4, [Albuquerque Journal](https://www.abqjournal.com/news/retired-general-was-not-confused-and-disoriented-when-he-went-missing-wife-says/2999479), [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) -- Confirmed). She called reports of a "concerning Friday-morning telephone call to a close relative" a "complete fabrication" (T4, [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) -- Confirmed).
+His wife later [issued a statement](https://www.abqjournal.com/news/retired-general-was-not-confused-and-disoriented-when-he-went-missing-wife-says/2999479) disputing that he had dementia, saying he "was not confused and disoriented" and faced "some risk, but not from dementia." She called reports of a "concerning Friday-morning telephone call to a close relative" a "[complete fabrication](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216)."
 
 ### Search Efforts
 
@@ -115,13 +115,13 @@ As of mid-April 2026, no confirmed video or sighting has been found showing McCa
 
 ### FBI Involvement
 
-The FBI joined the search approximately two weeks after McCasland's disappearance (~March 11, 2026). The FBI described the situation as "developing" and stated it was "providing all assistance requested" (T4, [CNN](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) -- Confirmed). Kirtland AFB's 377th Air Base Wing commander, Col. Justin Secrest, stated they were "coordinating closely with local authorities" (T4, [Newsweek](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216) -- Confirmed).
+The [FBI joined the search](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) approximately two weeks after McCasland's disappearance (~March 11, 2026). The FBI described the situation as "developing" and stated it was "providing all assistance requested." Kirtland AFB's 377th Air Base Wing commander, Col. Justin Secrest, stated they were "[coordinating closely with local authorities](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216)."
 
 ### Investigation Status
 
-BCSO has stated they have "uncovered no evidence of foul play" and "not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work" (T4, [Newsweek](https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036) citing BCSO -- Confirmed). The sheriff's office stated it would "not speculate or rule in or rule out possibilities without evidence" (T4, [Newsweek](https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036) -- Confirmed).
+BCSO has stated they have "[uncovered no evidence of foul play](https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036)" and "not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work." The sheriff's office stated it would "not speculate or rule in or rule out possibilities without evidence."
 
-BCSO also confirmed it has "no verified information" linking McCasland's disappearance to other missing-person investigations (T4, [Newsweek](https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036) -- Confirmed).
+BCSO also confirmed it has "no verified information" linking McCasland's disappearance to other missing-person investigations.
 
 ---
 
@@ -166,7 +166,7 @@ BCSO also confirmed it has "no verified information" linking McCasland's disappe
 
 **The WikiLeaks email (T1 — the document itself is primary):**
 
-On January 25, 2016, Tom DeLonge emailed John Podesta (then Hillary Clinton's campaign chairman) with the subject line "General McCasland." In it, DeLonge wrote that he had been working with McCasland for four months, that McCasland was "very, very aware" of his project despite publicly maintaining a "skeptic" stance, that McCasland had previously commanded "the exact laboratory" at Wright-Patterson where Roswell materials were allegedly shipped, and that McCasland "helped assemble my advisory team" and was "a very important man." DeLonge identified himself as founder of To The Stars Media and stated McCasland had received a four-hour briefing on the project. This email was published by WikiLeaks as part of the Podesta email release in October 2016.
+On January 25, 2016, Tom DeLonge emailed John Podesta (then Hillary Clinton's campaign chairman) with the subject line "General McCasland" ([full email text](../appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md)). In it, DeLonge wrote that he had been working with McCasland for four months, that McCasland was "very, very aware" of his project despite publicly maintaining a "skeptic" stance, that McCasland had previously commanded "the exact laboratory" at Wright-Patterson where Roswell materials were allegedly shipped, and that McCasland "helped assemble my advisory team" and was "a very important man." DeLonge identified himself as founder of To The Stars Media and stated McCasland had received a four-hour briefing on the project. This email was published by WikiLeaks as part of the Podesta email release in October 2016.
 
 **Important caveats:**
 - The email is DeLonge's characterization of the relationship. McCasland has never publicly confirmed or denied these claims.
