@@ -1,6 +1,22 @@
 # Research Log
 
-Chronological record of searches performed, sources consulted, and decisions made.
+Chronological record of searches performed, sources consulted, and decisions made. Also serves as the append-only session ledger per [.claude/commands/end-session.md](../.claude/commands/end-session.md).
+
+## 2026-04-21 — Agent harness install (tailored)
+
+**What happened:**
+- Committed [INSTALL-PROMPT.md](../INSTALL-PROMPT.md) and [AGENT-HARNESS.md](../AGENT-HARNESS.md) — generic, portable agent-harness tooling.
+- Installed a **tailored** harness variant in this repo instead of running the generic install. Rationale: this repo's knowledge already has a domain-native taxonomy (`cases/`, `analysis/`, `appendices/`, `logs/`); the generic layer model (`knowledge/`, `workflows/`, `extractions/`) would force renames without adding value.
+- Created [NAVIGATION.md](../NAVIGATION.md) — intent-keyed routing table covering dossier, research content, methodology, open threads, agent operation.
+- Created [.claude/commands/end-session.md](../.claude/commands/end-session.md) — session-close ritual with 8 steps: research-content capture, integrity artifacts (contradictions, known-unknowns, dossier sync), tier consistency, navigation, actionables reconciliation, mandatory research-log append, status/changelog, final report.
+- Edited [CLAUDE.md](../CLAUDE.md) — added a "Session structure" section pointing at NAVIGATION.md, `/end-session`, and AGENT-HARNESS.md.
+- Existing artifacts preserved and integrated: `logs/research-log.md` is the session ledger (this entry is the first dogfood), `TODO-research.md` is the actionables file.
+
+**Key decisions:**
+- No `progress.md` created — `logs/research-log.md` already plays that role.
+- No `knowledge/`, `workflows/`, `extractions/` directories created — current structure is sufficient.
+- Rotation threshold intentionally deferred: research-log is structured by prompt-run, not per-session entries. Split to `logs/research-log-prompt-NNN.md` when a run section grows unwieldy.
+- INSTALL-PROMPT.md is kept in-repo (untracked → tracked) for future reuse, not because we ran the generic install here.
 
 ## 2026-04-20 — Bootstrap (prompt 000)
 

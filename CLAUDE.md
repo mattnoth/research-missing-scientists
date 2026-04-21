@@ -26,3 +26,9 @@ This is a structured research repository investigating deaths and disappearances
 - **Source tiering**: Every source is categorized Tier 1-8 (see README.md for definitions). Every factual claim carries a confidence rating: Confirmed, Reported, Alleged, or Speculated. The quote provenance rule applies: claims found only in national mainstream reporting (Tier 4) or lower must be traced to a higher-tier origin when possible.
 - **Neutrality**: No country or entity is pre-excluded or pre-implicated. Sensational framing is avoided in repository prose (quoted and attributed when from sources).
 - **Idempotency**: Research prompts are designed to be re-runnable — check for existing case files before redoing work.
+
+## Session structure
+
+- **Routing**: [NAVIGATION.md](NAVIGATION.md) — intent-keyed pointer to every artifact in this repo. Check here first when unsure where something lives.
+- **Session close**: run `/end-session` ([.claude/commands/end-session.md](.claude/commands/end-session.md)) before ending any session that touched research content. The research log ([logs/research-log.md](logs/research-log.md)) is the append-only session ledger; TODOs live in [TODO-research.md](TODO-research.md).
+- **Harness spec** (rarely needed): [AGENT-HARNESS.md](AGENT-HARNESS.md). Generic context-engineering pattern this repo's session structure is adapted from.
