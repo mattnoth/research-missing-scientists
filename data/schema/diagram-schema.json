@@ -1,41 +1,106 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Connection Diagram Data",
+  "description": "Structured specification for the connection diagram showing relationships between people, institutions, programs, events, and locations in the missing-scientists research.",
   "type": "object",
-  "required": ["nodes", "edges"],
+  "required": ["nodes", "edges", "layers"],
   "properties": {
     "nodes": {
       "type": "array",
+      "description": "People, institutions, programs, events, and locations.",
       "items": {
         "type": "object",
         "required": ["id", "label", "type"],
         "properties": {
-          "id": { "type": "string" },
-          "label": { "type": "string" },
+          "id": { "type": "string", "description": "Unique identifier for the node." },
+          "label": { "type": "string", "description": "Display label." },
           "type": {
             "type": "string",
-            "enum": ["person", "institution", "program", "location", "event"]
+            "enum": ["person", "institution", "program", "event", "location"],
+            "description": "Node type."
           },
-          "metadata": { "type": "object" }
+          "metadata": {
+            "type": "object",
+            "properties": {
+              "affiliations": {
+                "type": "array",
+                "items": { "type": "string" },
+                "description": "Institutional affiliations (for person nodes)."
+              },
+              "dates": {
+                "type": "object",
+                "properties": {
+                  "incident": { "type": "string", "description": "Date of disappearance or death." },
+                  "reported": { "type": "string", "description": "Date reported missing or death confirmed." },
+                  "resolved": { "type": "string", "description": "Date resolved, if applicable." }
+                }
+              },
+              "status": { "type": "string", "description": "Current status (missing, deceased, etc.)." },
+              "case_slug": { "type": "string", "description": "Reference to the case file slug (for person nodes)." },
+              "urls": {
+                "type": "array",
+                "items": { "type": "string", "format": "uri" },
+                "description": "Relevant URLs."
+              },
+              "description": { "type": "string", "description": "Short description of the node." }
+            }
+          }
         }
       }
     },
     "edges": {
       "type": "array",
+      "description": "Connections between nodes.",
       "items": {
         "type": "object",
-        "required": ["source", "target", "relationship"],
+        "required": ["source", "target", "edge_type", "layer", "confidence"],
         "properties": {
-          "source": { "type": "string" },
-          "target": { "type": "string" },
-          "relationship": { "type": "string" },
+          "source": { "type": "string", "description": "Source node id." },
+          "target": { "type": "string", "description": "Target node id." },
+          "edge_type": {
+            "type": "string",
+            "enum": ["employment", "funding", "research_domain", "geography", "speculative_uap", "speculative_intel", "personal", "institutional", "program", "other"],
+            "description": "Type of connection."
+          },
           "layer": {
             "type": "string",
-            "enum": ["tight", "medium", "corkboard"]
+            "enum": ["tight", "medium", "corkboard"],
+            "description": "Analysis layer this edge belongs to."
           },
           "confidence": {
             "type": "string",
-            "enum": ["confirmed", "reported", "alleged", "speculated"]
+            "enum": ["confirmed", "reported", "alleged", "speculated"],
+            "description": "Confidence rating for this connection."
+          },
+          "evidence_pointer": { "type": "string", "description": "Reference to the case file or appendix supporting this edge." },
+          "label": { "type": "string", "description": "Short description of the connection." }
+        }
+      }
+    },
+    "layers": {
+      "type": "object",
+      "description": "Metadata about each analysis layer.",
+      "required": ["tight", "medium", "corkboard"],
+      "properties": {
+        "tight": {
+          "type": "object",
+          "properties": {
+            "description": { "type": "string" },
+            "rendering_notes": { "type": "string" }
+          }
+        },
+        "medium": {
+          "type": "object",
+          "properties": {
+            "description": { "type": "string" },
+            "rendering_notes": { "type": "string" }
+          }
+        },
+        "corkboard": {
+          "type": "object",
+          "properties": {
+            "description": { "type": "string" },
+            "rendering_notes": { "type": "string" }
           }
         }
       }

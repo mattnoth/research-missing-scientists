@@ -1,30 +1,65 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Timeline Data",
+  "description": "Structured specification for the timeline of events in the missing-scientists research.",
   "type": "object",
-  "required": ["events"],
+  "required": ["events", "context_events"],
   "properties": {
     "events": {
       "type": "array",
+      "description": "Case-related events.",
       "items": {
         "type": "object",
-        "required": ["date", "description", "caseId"],
+        "required": ["id", "date", "type", "subject", "description", "confidence"],
         "properties": {
-          "date": { "type": "string", "format": "date" },
-          "dateEnd": { "type": "string", "format": "date" },
-          "description": { "type": "string" },
-          "caseId": { "type": "string" },
+          "id": { "type": "string", "description": "Unique event identifier." },
+          "date": { "type": "string", "format": "date", "description": "ISO 8601 date (YYYY-MM-DD)." },
+          "date_precision": {
+            "type": "string",
+            "enum": ["day", "month", "year"],
+            "description": "How precise the date is.",
+            "default": "day"
+          },
           "type": {
             "type": "string",
-            "enum": ["death", "disappearance", "investigation", "official-statement", "other"]
+            "enum": ["disappearance", "death", "body_found", "suspect_arrested", "investigation_milestone", "institutional_statement", "political_event", "other"],
+            "description": "Event type."
           },
+          "subject": { "type": "string", "description": "Case slug for the relevant person." },
+          "description": { "type": "string", "description": "Short description of the event." },
+          "source_pointer": { "type": "string", "description": "Reference to source document or case file." },
+          "confidence": {
+            "type": "string",
+            "enum": ["confirmed", "reported", "alleged", "speculated"],
+            "description": "Confidence rating."
+          }
+        }
+      }
+    },
+    "context_events": {
+      "type": "array",
+      "description": "Non-case events providing context (political, institutional, investigative milestones).",
+      "items": {
+        "type": "object",
+        "required": ["id", "date", "type", "description", "confidence"],
+        "properties": {
+          "id": { "type": "string", "description": "Unique event identifier." },
+          "date": { "type": "string", "format": "date", "description": "ISO 8601 date." },
+          "date_precision": {
+            "type": "string",
+            "enum": ["day", "month", "year"],
+            "default": "day"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["investigation_milestone", "institutional_statement", "political_event", "media_event", "other"],
+            "description": "Event type."
+          },
+          "description": { "type": "string", "description": "Short description." },
+          "source_pointer": { "type": "string", "description": "Reference to source document." },
           "confidence": {
             "type": "string",
             "enum": ["confirmed", "reported", "alleged", "speculated"]
-          },
-          "sources": {
-            "type": "array",
-            "items": { "type": "string" }
           }
         }
       }
