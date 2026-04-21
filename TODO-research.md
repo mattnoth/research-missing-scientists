@@ -36,3 +36,24 @@ Items deferred from the prompt-001 cycle. Revisit before or after PDF/website ge
 
 - can we get around the above?
 - make the prompt resuable in such a way as to update the research. also ask if i can put that on an automatic clock to the deployed website for updated research every day?
+
+## Website — Timeline Improvement
+- [ ] Better layout and spacing — current visualization is too basic
+- [ ] More readable event labels and descriptions
+- [ ] Improved zoom/scroll UX
+- [ ] Better mobile experience (consider vertical layout for mobile)
+- [ ] Group overlapping events more clearly
+- [ ] Add more context events (media milestones, congressional actions)
+
+## Website — Diagram Enrichment
+The connection diagram needs significantly more data to match the richness of the research:
+- [ ] Add more specific locations (Los Alamos neighborhoods, specific trails, specific addresses)
+- [ ] Add specific projects/programs (DART, NEAT, Dawn for Hicks; Mondaloy for Reza; PSFC fusion programs for Loureiro; SAPs for McCasland)
+- [ ] Expand speculative/corkboard layer — research contains extensive speculation analysis not yet visualized
+- [ ] Add behavioral pattern nodes (left without belongings, undisclosed cause of death)
+- [ ] Consider temporal proximity edges (events close in time)
+- [ ] Current: 34 nodes / 44 edges — research supports significantly more
+
+## Website — Diagram Interactivity & Animations
+- [ ] Make graph nodes clickable (navigate to relevant case or detail)
+- [ ] Add more cool animations to the diagram (transitions, hover effects, edge pulses, etc.)
