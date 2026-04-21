@@ -449,6 +449,40 @@ This case has the strongest non-conspiracy explanation of any in the cluster. A 
 - `appendices/primary-sources/garcia/nm-dps-missing-persons.md`
 - `appendices/primary-sources/garcia/nnsa-statement.md`
 
+### Loureiro case research
+
+**Date:** 2026-04-20
+**Researcher:** Sub-agent (Claude)
+
+#### Searches performed
+1. "Nuno Loureiro MIT shot 2025 Brookline" -- 10 results
+2. "Nuno Loureiro MIT Plasma Science Fusion Center director" -- 10 results
+3. "Brookline shooting December 2025 Brown University connection" -- 10 results
+4. "Claudio Valente video confession storage unit motive Brown MIT shooting" -- 10 results
+5. "Nuno Loureiro MIT fusion research defense Department of Energy SPARC" -- 10 results
+6. "Norfolk County DA Brookline police Nuno Loureiro murder investigation" -- 10 results
+7. "MIT Plasma Science Fusion Center Department of Defense DARPA funding contracts" -- 10 results
+8. "Claudio Valente Instituto Superior Tecnico grudge Loureiro classmate motive 2026" -- 10 results
+9. "Claudio Valente Brown University PhD dropout Portugal top student career failure resentment" -- 10 results
+10. "Nuno Loureiro wife family Brookline apartment shot foyer 9 Gibbs Street" -- 10 results
+
+#### Pages fetched (10 successful, 3 failed)
+MIT obituary, Wikipedia Brown shooting, WBUR timeline, ABC News grudge article, NextBigFuture fusion work, Boston 25 confession transcript, Wikipedia Loureiro, MIT Statement, CBS Boston police reports. Failed: Brookline.News (429), NBC News (403), Boston Globe (paywall).
+
+#### Key findings
+- Named suspect with ballistics, DNA, fingerprints, surveillance, rental car records, and video confession
+- Motive: academic resentment/grudge (law enforcement sources); Valente did not explicitly state motive
+- Brown was primary target (planned ~3 years); Loureiro murder was personal secondary attack
+- No evidence of defense/national security motive
+- Strongest candidate for reclassification from the pattern
+
+#### Files written
+- `cases/loureiro.md`
+- `appendices/primary-sources/loureiro/mit-obituary.md`
+- `appendices/primary-sources/loureiro/mit-statement-20251219.md`
+- `appendices/primary-sources/loureiro/doj-confession-transcript-summary.md`
+- `appendices/primary-sources/loureiro/brown-shooting-wikipedia-summary.md`
+
 ### Foreign coverage research
 
 **Date:** 2026-04-20
