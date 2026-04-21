@@ -37,6 +37,9 @@ Items deferred from the prompt-001 cycle. Revisit before or after PDF/website ge
 - can we get around the above?
 - make the prompt resuable in such a way as to update the research. also ask if i can put that on an automatic clock to the deployed website for updated research every day?
 
+## Automated Trigger
+- [ ] **Set up a scheduled Claude Code trigger** to run prompt-004 (maintenance/update) on a daily or weekly cron. Should: check for new developments (House Oversight findings, FBI updates, new cases, case resolutions), update research artifacts, bump version, and flag if PDFs/website need regeneration. Needs: a trigger prompt adapted from prompt-004 that runs non-interactively and commits results. Consider whether to also auto-rebuild the website (`npm run build` in mattnoth-dev) or just flag it for manual rebuild.
+
 ## Website — Timeline Improvement
 - [ ] Better layout and spacing — current visualization is too basic
 - [ ] More readable event labels and descriptions
@@ -57,3 +60,16 @@ The connection diagram needs significantly more data to match the richness of th
 ## Website — Diagram Interactivity & Animations
 - [ ] Make graph nodes clickable (navigate to relevant case or detail)
 - [ ] Add more cool animations to the diagram (transitions, hover effects, edge pulses, etc.)
+
+## Website — UFO/UAP Section
+- [ ] Create a dedicated page or section focused on UFO/UAP/alien theories and these scientists' connections to that world
+- [ ] Make it prominent in the site navigation (not buried)
+- [ ] Collect and link evidence tying cases to UAP-related programs, congressional hearings, whistleblower claims, etc.
+- [ ] Include outbound links to key UAP sources (congressional testimony, AARO reports, Grusch claims, etc.)
+
+## Website — Diagram Styles
+- [ ] Experiment with a traditional corkboard-style diagram (straight lines, pinned cards, string connections) as an additional view alongside the existing force-directed graph
+- [ ] Try other diagram layout styles (hierarchical, radial, etc.) to see what communicates the connections best
+
+## Website — UI Polish
+- [ ] Change the question mark icon

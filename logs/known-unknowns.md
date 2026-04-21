@@ -8,7 +8,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 
 ### Garcia: KCNSC employment unverified
 - **What we need:** Official confirmation (or denial) from KCNSC, Honeywell FM&T, NNSA, or APD that Steven Garcia was employed at or contracted to the Kansas City National Security Campus.
-- **What we searched:** 15 web searches across news outlets, government databases, and institutional sites. Fetched NM DPS record, Newsweek, CBS, Fox, British Brief, Daily Wire, Newsweek FBI overview. No KCNSC or Honeywell statement found. Newsweek reported reaching out to KCNSC with no documented response.
+- **What we searched:** 15 web searches across news outlets, government databases, and institutional sites. Fetched NM DPS record, [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116), [CBS](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/), Fox, [British Brief](https://britbrief.co.uk/crime/police/nuclear-secrets-contractor-vanishes-in-new-mexico-mystery.html), [Daily Wire](https://www.dailywire.com/news/top-scientists-are-turning-up-dead-or-missing-now-the-white-house-is-stepping-in), Newsweek FBI overview. No KCNSC or Honeywell statement found. [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116) reported reaching out to KCNSC with no documented response.
 - **Status:** Open. The KCNSC claim rests on a single anonymous source speaking to the Daily Mail. No independent verification has been published by any outlet. This is the single most important unresolved factual question for the Garcia case and materially affects the strength of his inclusion in the cluster.
 
 ### Garcia: No APD press release or Silver Alert located
@@ -18,7 +18,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 
 ### Garcia: NNSA statement original text not located
 - **What we need:** Full text, date, and medium of the NNSA statement acknowledging awareness of reports about missing employees.
-- **What we searched:** Searched NNSA and KCNSC sites; found the statement only as quoted in secondary sources (Newsweek, CBS News). No standalone press release on nnsa.energy.gov or kcnsc.doe.gov.
+- **What we searched:** Searched NNSA and KCNSC sites; found the statement only as quoted in secondary sources ([Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116), [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/)). No standalone press release on nnsa.energy.gov or kcnsc.doe.gov.
 - **Status:** Open.
 
 ### Garcia: No family statements found
@@ -78,7 +78,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 
 ### Hicks: Cause of death
 - **What we need:** Cause and manner of death. Whether an autopsy was conducted.
-- **What we searched:** Forest Lawn obituary (no cause listed), LPL memorial (no cause listed), AAS obituary (no cause listed), media reporting. Newsweek reported no autopsy record found.
+- **What we searched:** Forest Lawn obituary (no cause listed), LPL memorial (no cause listed), AAS obituary (no cause listed), media reporting. [Newsweek](https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585) reported no autopsy record found.
 - **Status:** Open. The undisclosed cause of death is the central unknown. The Al-Anon donation request in the obituary may provide personal context but is not dispositive.
 
 ### Hicks: Reason for leaving JPL in 2022
@@ -88,7 +88,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 
 ### Maiwald: Cause of death
 - **What we need:** Cause and manner of death. Whether an autopsy was conducted.
-- **What we searched:** Legacy.com obituary (no cause listed), media reporting. Multiple outlets report no autopsy performed; original basis for this claim unclear.
+- **What we searched:** Legacy.com obituary (no cause listed), media reporting. Multiple outlets report no autopsy performed ([Newsweek](https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019)); original basis for this claim unclear.
 - **Status:** Open.
 
 ### Eskridge: Official cause of death documentation
@@ -103,7 +103,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 
 ### Thomas: Official cause and manner of death
 - **What we need:** Medical examiner determination of cause and manner of death following body recovery from Lake Quannapowitt on March 17, 2026.
-- **What we searched:** Middlesex DA statement (referred to Chief Medical Examiner), subsequent reporting. No public ME statement found.
+- **What we searched:** [Middlesex DA statement](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) (referred to Chief Medical Examiner), subsequent reporting. No public ME statement found.
 - **Status:** Open. DA stated no foul play suspected based on preliminary information.
 
 ---
@@ -117,7 +117,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 
 ### FBI investigation findings
 - **What we need:** Results of the FBI-led "holistic review" announced in April 2026. Whether the FBI identified connections between cases, classified-access commonalities, or foreign-actor involvement.
-- **What we searched:** FBI Director Patel's public statements and FBI written statement to Newsweek. Investigation described as active; no findings disclosed.
+- **What we searched:** FBI Director Patel's public statements and FBI written statement to [Newsweek](https://www.newsweek.com/fbi-investigating-missing-dead-scientists-what-we-know-11852176). Investigation described as active; no findings disclosed.
 - **Status:** Open. FBI stated it would "produce information to the White House and the world." Timeline unclear.
 
 ### Congressional briefing results

@@ -89,38 +89,38 @@ Reza's disappearance is one of 11 cases of missing or deceased scientists with g
 
 ## Documented Facts (Confirmed)
 
-- Reza is listed as a missing person by LASD (case NIC: M668487735). **[T1: LASD]**
-- She was last seen June 22, 2025, at approximately 9:10 a.m. near the 6000ft Day Use Parking Lot on Angeles Crest Highway. **[T1: LASD]**
-- LASD classified her as an "at-risk missing person." **[T1: LASD via Crescenta Valley Weekly]**
-- Acting Captain Ryan A. Vienna confirmed the search used local, state, and federal assets. **[T1: LASD statement]**
-- Case assigned to Det. Rincon and Det. Sanchez, Homicide Bureau Missing Persons Unit. **[T1: LASD via Solve the Case]**
-- Three patent applications for "Burn-resistant and high tensile strength metal alloys" list Monica A. Jacinto and Dallis Ann Hardwick as inventors (US-20030053926-A1, US-20040208777-A1, US-20100266442-A1). **[T1: USPTO/Google Patents]**
-- Patent describes nickel-based alloy (55-75% Ni, 12-17% Co, 4-16% Cr, 1-4% Al, 1-4% Ti) for rocket engine components in oxygen-rich environments. **[T1: USPTO]**
-- House Oversight Committee formally requested information from federal agencies. **[T1: House Oversight Committee press release]**
+- Reza is listed as a missing person by LASD (case NIC: M668487735). **[T1: [LASD](https://www.solvethecase.org/case/2025-56/monica-reza)]**
+- She was last seen June 22, 2025, at approximately 9:10 a.m. near the 6000ft Day Use Parking Lot on Angeles Crest Highway. **[T1: [LASD](https://www.solvethecase.org/case/2025-56/monica-reza)]**
+- LASD classified her as an "at-risk missing person." **[T1: [LASD via Crescenta Valley Weekly](https://www.crescentavalleyweekly.com/news/07/03/2025/update-on-efforts-to-locate-missing-hiker-monica-reza/)]**
+- Acting Captain Ryan A. Vienna confirmed the search used local, state, and federal assets. **[T1: [LASD statement](https://www.crescentavalleyweekly.com/news/07/03/2025/update-on-efforts-to-locate-missing-hiker-monica-reza/)]**
+- Case assigned to Det. Rincon and Det. Sanchez, Homicide Bureau Missing Persons Unit. **[T1: [LASD via Solve the Case](https://www.solvethecase.org/case/2025-56/monica-reza)]**
+- Three patent applications for "Burn-resistant and high tensile strength metal alloys" list Monica A. Jacinto and Dallis Ann Hardwick as inventors (US-20030053926-A1, US-20040208777-A1, US-20100266442-A1). **[T1: [USPTO/Google Patents](https://patents.google.com/patent/US20100266442A1/en)]**
+- Patent describes nickel-based alloy (55-75% Ni, 12-17% Co, 4-16% Cr, 1-4% Al, 1-4% Ti) for rocket engine components in oxygen-rich environments. **[T1: [USPTO](https://patents.google.com/patent/US20100266442A1/en)]**
+- House Oversight Committee formally requested information from federal agencies. **[T1: [House Oversight Committee press release](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/)]**
 - She received the inaugural HENAAC Luminary Award in 2004. **[T2: multiple news sources]**
 
 ## Reported Facts (T2 - Mainstream/Local News)
 
-- Reza hiked with two companions from her yoga group (one male, one female). **[T2: Yahoo/Men's Journal]**
-- She did not drive herself to the trailhead; her car was at a companion's residence. **[T2: Sentinel Briefing, corroborated by Men's Journal]**
-- Reza and her male companion were reportedly running on the terrain before she vanished. **[T2: Yahoo/Men's Journal]**
-- Physical evidence found: one beanie, one lip balm. **[T2: Sentinel Briefing]**
-- Scent dogs' trail terminated at beanie location in a ravine. **[T2: Sentinel Briefing]**
+- Reza hiked with two companions from her yoga group (one male, one female). **[T2: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
+- She did not drive herself to the trailhead; her car was at a companion's residence. **[T2: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone), corroborated by Men's Journal]**
+- Reza and her male companion were reportedly running on the terrain before she vanished. **[T2: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
+- Physical evidence found: one beanie, one lip balm. **[T2: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
+- Scent dogs' trail terminated at beanie location in a ravine. **[T2: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
 - Montrose SAR confirmed cell phone forensic data was explored (since-removed Facebook post). **[T2: preserved via Reddit, corroborated by Men's Journal]**
-- A 911 call that same morning from the Mt. Waterman area reported a woman screaming. **[T2: Sentinel Briefing]**
-- Volunteer searches continued monthly through at least November 2025. **[T2: Yahoo/Men's Journal]**
-- Wikipedia describes her JPL title as "Director of Materials Processing." Solve the Case lists "Director of the Materials Processing Group at NASA JPL." FOX 11 describes her as "aerospace engineer and materials processor." **[T2: multiple]**
+- A 911 call that same morning from the Mt. Waterman area reported a woman screaming. **[T2: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
+- Volunteer searches continued monthly through at least November 2025. **[T2: [Yahoo/Men's Journal](https://www.yahoo.com/news/articles/monica-reza-missing-scientist-strange-151253761.html)]**
+- Wikipedia describes her JPL title as "Director of Materials Processing." Solve the Case lists "Director of the Materials Processing Group at NASA JPL." [FOX 11](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza) describes her as "aerospace engineer and materials processor." **[T2: multiple]**
 
 ## Alleged (Unconfirmed)
 
-- A Find a Grave memorial (ID 284387277) was created on June 26, 2025, listing her death as June 22, 2025, with "green burial," while search operations were still active. The memorial was removed approximately March 27, 2026, four days after media reporting. Creator identified only as "lillian"; maintainer as "J.C." (ID 50725353). **[T6: Sentinel Briefing investigation]**
-- Cell phone forensic results were obtained but never publicly disclosed. **[T6: Sentinel Briefing]**
+- A Find a Grave memorial (ID 284387277) was created on June 26, 2025, listing her death as June 22, 2025, with "green burial," while search operations were still active. The memorial was removed approximately March 27, 2026, four days after media reporting. Creator identified only as "lillian"; maintainer as "J.C." (ID 50725353). **[T6: [Sentinel Briefing investigation](https://thesentinel.network/p/the-green-burial-she-was-declared)]**
+- Cell phone forensic results were obtained but never publicly disclosed. **[T6: [Sentinel Briefing](https://thesentinel.network/p/the-phone-gap-monica-rezas-cell-phone)]**
 - Professional connections between Reza and retired Maj. Gen. William McCasland (also missing). **[T6: multiple independent sources]**
 
 ## Speculated
 
 - That her disappearance may be connected to other missing/dead scientists in a pattern of targeting. **[T6/T2: multiple sources; under federal investigation but no confirmed link]**
-- That the Find a Grave memorial suggests foreknowledge of her death. **[T6: Sentinel Briefing]**
+- That the Find a Grave memorial suggests foreknowledge of her death. **[T6: [Sentinel Briefing](https://thesentinel.network/p/the-green-burial-she-was-declared)]**
 
 ---
 

@@ -38,32 +38,32 @@ At the time of his death, Maiwald managed the development of the SBG-VSWIR (Visi
 **Astrobiology-related research:**
 In June 2023, approximately 13 months before his death, Maiwald was reportedly the lead researcher on work that could help future space missions detect signs of life on other worlds, including Jupiter's moon Europa, Saturn's moon Enceladus, and the dwarf planet Ceres.
 
-He served as a technical group supervisor at JPL. His research areas included high-frequency components (THz), electronics, mass spectrometry, and remote sensing instruments. His work has been cited over 3,400 times (per ResearchGate/Google Scholar). He received several prestigious JPL and NASA awards and held the designation of JPL Principal, described as an award given to scientists "making outstanding individual contributions."
+He served as a technical group supervisor at JPL. His research areas included high-frequency components (THz), electronics, mass spectrometry, and remote sensing instruments. His work has been cited over 3,400 times (per [ResearchGate](https://www.researchgate.net/profile/Frank-Maiwald)/[Google Scholar](https://scholar.google.com/citations?user=PPfNthEAAAAJ&hl=en)). He received several prestigious JPL and NASA awards and held the designation of JPL Principal, described as an award given to scientists "making outstanding individual contributions."
 
-He died on July 4, 2024, in Los Angeles, at age 61. His obituary on Legacy.com stated simply that he "passed away" without listing a cause of death. No cause of death has been publicly disclosed by any source. Multiple media outlets have reported that no autopsy was performed, though the original basis for this claim is unclear.
+He died on July 4, 2024, in Los Angeles, at age 61. His [obituary on Legacy.com](https://www.legacy.com/us/obituaries/legacyremembers/frank-maiwald-obituary?id=55630404) stated simply that he "passed away" without listing a cause of death. No cause of death has been publicly disclosed by any source. Multiple media outlets have reported that no autopsy was performed, though the original basis for this claim is unclear.
 
 NASA has never commented publicly on Maiwald's death. The only public record marking his passing was the Legacy.com obituary.
 
 He was survived by his wife YeonJae Maiwald (married 25 years), his father Bernhard Maiwald (with wife Marianne), siblings Ralph, Berndt, and Anja Maiwald, sisters-in-law Soohee and Yunsu Chang, and numerous nieces and nephews.
 
-In April 2026, his death was publicly linked by journalists to a broader pattern involving deaths and disappearances of scientists with connections to U.S. defense and aerospace programs. His case was included in the House Oversight Committee's inquiry and the White House-directed federal review.
+In April 2026, his death was publicly linked by journalists to a broader pattern involving deaths and disappearances of scientists with connections to U.S. defense and aerospace programs. His case was included in the [House Oversight Committee's](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/) inquiry and the White House-directed federal review.
 
 ## What Is Documented vs. Reported vs. Alleged vs. Speculated
 
 ### Documented (Tier 1)
 
-- **Legacy.com obituary** (T1 -- primary source): Confirms full name Frank Werner Maiwald; born June 24, 1964, Ratingen, Germany; died July 4, 2024, Los Angeles; surviving family members listed; career at JPL including SBG-VSWIR, AMR-C, AMR/SWOT, COWVR, AMR/Jason 3, HIFI projects; PhD from University of Cologne; multiple JPL and NASA awards. No cause of death listed.
-- **SPIE publication record** (T1 -- academic): Co-authored paper on SBG-VSWIR optical design published May 2024, confirming active research at time of death. Authors: Bradley, Ferdosi, Van Gorp, Ek, Diaz, Maiwald, Thompson, Green, Mouroulis.
-- **ResearchGate profile** (T1 -- academic): Confirms "Dr. Applied Physics" designation; research on THz frequency technology; publications on HIFI/Herschel instrumentation.
-- **JPL Open Repository** (T1 -- institutional): Contains publications by Maiwald on THz frequency receiver instrumentation for Herschel HIFI.
-- **House Oversight Committee press release** (T1 -- government): Confirms Congressional inquiry into deaths/disappearances of scientists with ties to U.S. nuclear and rocket technology.
+- **[Legacy.com obituary](https://www.legacy.com/us/obituaries/legacyremembers/frank-maiwald-obituary?id=55630404)** (T1 -- primary source): Confirms full name Frank Werner Maiwald; born June 24, 1964, Ratingen, Germany; died July 4, 2024, Los Angeles; surviving family members listed; career at JPL including SBG-VSWIR, AMR-C, AMR/SWOT, COWVR, AMR/Jason 3, HIFI projects; PhD from University of Cologne; multiple JPL and NASA awards. No cause of death listed.
+- **[SPIE publication record](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12798/1279810/Optical-design-study-of-surface-biology-and-geology-SBG-visible/10.1117/12.2692105.short)** (T1 -- academic): Co-authored paper on SBG-VSWIR optical design published May 2024, confirming active research at time of death. Authors: Bradley, Ferdosi, Van Gorp, Ek, Diaz, Maiwald, Thompson, Green, Mouroulis.
+- **[ResearchGate profile](https://www.researchgate.net/profile/Frank-Maiwald)** (T1 -- academic): Confirms "Dr. Applied Physics" designation; research on THz frequency technology; publications on HIFI/Herschel instrumentation.
+- **[JPL Open Repository](https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=hdl:2014/9805)** (T1 -- institutional): Contains publications by Maiwald on THz frequency receiver instrumentation for Herschel HIFI.
+- **[House Oversight Committee press release](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/)** (T1 -- government): Confirms Congressional inquiry into deaths/disappearances of scientists with ties to U.S. nuclear and rocket technology.
 
 ### Reported (Tier 2)
 
-- **Newsweek** (T2): Reported that Maiwald's cause of death was never made public; reported no autopsy was performed; described him as a principal investigator managing Earth observation and space instrumentation.
-- **Fox 11 Los Angeles** (T2): Included Maiwald as one of four LA County-connected cases in broader pattern. Reported White House confirmation of federal review.
-- **CBS News** (T2): Reviewed obituaries and law enforcement findings; found no links between any of the deaths.
-- **The Hill / NewsNation** (T2): Reported Maiwald's inclusion in the pattern; no new factual details beyond obituary.
+- **[Newsweek](https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019)** (T2): Reported that Maiwald's cause of death was never made public; reported no autopsy was performed; described him as a principal investigator managing Earth observation and space instrumentation.
+- **[Fox 11 Los Angeles](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza)** (T2): Included Maiwald as one of four LA County-connected cases in broader pattern. Reported White House confirmation of federal review.
+- **[CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/)** (T2): Reviewed obituaries and law enforcement findings; found no links between any of the deaths.
+- **[The Hill](https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/) / [NewsNation](https://www.newsnationnow.com/missing/who-missing-dead-scientists-connection-government/)** (T2): Reported Maiwald's inclusion in the pattern; no new factual details beyond obituary.
 - **Daily Mail** (T2): Reported that NASA never commented publicly on Maiwald's death, and that the only public record was the online obituary.
 
 ### Alleged

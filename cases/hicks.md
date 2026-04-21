@@ -36,29 +36,29 @@ His colleague Dr. Joe Masiero, who worked with Hicks for approximately 10 years 
 
 Outside his scientific career, Hicks was an artist who worked in woodblock prints, oil painting, and metalwork. He played the ukulele and performed during observing runs at Mount Palomar.
 
-He died on July 30, 2023, at age 59 in Sunland, California. His obituary, published by Forest Lawn, identified him as "an astronomer, artist and father" but did not disclose a cause of death. The AAS Division for Planetary Sciences and the University of Arizona's Lunar and Planetary Laboratory both published memorial tributes, neither of which stated a cause of death.
+He died on July 30, 2023, at age 59 in Sunland, California. His obituary, [published by Forest Lawn](https://obituaries.forestlawn.com/obituaries/michael-hicks), identified him as "an astronomer, artist and father" but did not disclose a cause of death. [The AAS Division for Planetary Sciences](https://dps.aas.org/news/michael-david-hicks-1964-2023/) and [the University of Arizona's Lunar and Planetary Laboratory](https://lpl.arizona.edu/about/memoriam/michael-hicks) both published memorial tributes, neither of which stated a cause of death.
 
 He was survived by his father Richard, daughter Julia, ex-wife Brunella Bigi, and six siblings (Richard, Stephen, Suzette, Jeanette, Paul, and Barbara). He was preceded in death by his mother Joan and infant brother Brian.
 
 His obituary directed charitable donations to al-anon.org.
 
-In April 2026, his death was publicly linked by journalists to a broader pattern of deaths and disappearances of scientists with connections to U.S. defense and aerospace programs. His case was included in House Oversight Committee Chairman James Comer and Rep. Eric Burlison's letters to NASA, DOE, DOD, and the FBI requesting information. The White House confirmed a federal review of these cases.
+In April 2026, his death was publicly linked by journalists to a broader pattern of deaths and disappearances of scientists with connections to U.S. defense and aerospace programs. His case was included in [House Oversight Committee](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/) Chairman James Comer and Rep. Eric Burlison's letters to NASA, DOE, DOD, and the FBI requesting information. The White House confirmed a federal review of these cases.
 
 ## What Is Documented vs. Reported vs. Alleged vs. Speculated
 
 ### Documented (Tier 1)
 
-- **Forest Lawn obituary** (T1 -- primary source): Confirms full name Michael David Hicks; birth February 7, 1964, Dayton, Ohio; death July 30, 2023; residence Sunland, CA; surviving family members; memorial service September 30, 2023. No cause of death listed. Donations directed to al-anon.org.
-- **University of Arizona LPL memorial** (T1 -- institutional): Confirms PhD from LPL in 1997; JPL career 1998--2022; research on comets and asteroids; 80+ peer-reviewed papers; work on DART, NEAT, Dawn, and Deep Space 1.
-- **AAS Division for Planetary Sciences obituary** (T1 -- professional society): Published formal obituary notice consistent with above details.
-- **House Oversight Committee press release** (T1 -- government): Confirms Congressional inquiry into deaths/disappearances of scientists with ties to U.S. nuclear and rocket technology, including JPL scientists. Letters sent to NASA, DOE, DOD, FBI.
+- **[Forest Lawn obituary](https://obituaries.forestlawn.com/obituaries/michael-hicks)** (T1 -- primary source): Confirms full name Michael David Hicks; birth February 7, 1964, Dayton, Ohio; death July 30, 2023; residence Sunland, CA; surviving family members; memorial service September 30, 2023. No cause of death listed. Donations directed to al-anon.org.
+- **[University of Arizona LPL memorial](https://lpl.arizona.edu/about/memoriam/michael-hicks)** (T1 -- institutional): Confirms PhD from LPL in 1997; JPL career 1998--2022; research on comets and asteroids; 80+ peer-reviewed papers; work on DART, NEAT, Dawn, and Deep Space 1.
+- **[AAS Division for Planetary Sciences obituary](https://dps.aas.org/news/michael-david-hicks-1964-2023/)** (T1 -- professional society): Published formal obituary notice consistent with above details.
+- **[House Oversight Committee press release](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/)** (T1 -- government): Confirms Congressional inquiry into deaths/disappearances of scientists with ties to U.S. nuclear and rocket technology, including JPL scientists. Letters sent to NASA, DOE, DOD, FBI.
 
 ### Reported (Tier 2)
 
-- **Newsweek** (T2): Reported that Hicks' cause of death was not publicly disclosed and that no record of an autopsy was found. Reported colleague Dr. Joe Masiero's characterization of Hicks as a dedicated mentor.
-- **Fox 11 Los Angeles / FOX News** (T2): Reported Hicks as one of four LA County-connected cases in the broader pattern; reported White House confirmation of federal review.
-- **CBS News** (T2): Reviewed obituaries and law enforcement findings; found no links between any of the deaths. Quoted skeptics noting cases are scattered across years and loosely affiliated organizations.
-- **The Hill** (T2): Reported Hicks' death as part of pattern but noted no established link between cases.
+- **[Newsweek](https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585)** (T2): Reported that Hicks' cause of death was not publicly disclosed and that no record of an autopsy was found. Reported colleague Dr. Joe Masiero's characterization of Hicks as a dedicated mentor.
+- **[Fox 11 Los Angeles](https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza) / FOX News** (T2): Reported Hicks as one of four LA County-connected cases in the broader pattern; reported White House confirmation of federal review.
+- **[CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/)** (T2): Reviewed obituaries and law enforcement findings; found no links between any of the deaths. Quoted skeptics noting cases are scattered across years and loosely affiliated organizations.
+- **[The Hill](https://thehill.com/homenews/administration/5837873-missing-dead-scientists-trump-probe-who-are-they/)** (T2): Reported Hicks' death as part of pattern but noted no established link between cases.
 
 ### Alleged
 

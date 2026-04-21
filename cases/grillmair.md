@@ -111,8 +111,8 @@ Not specifically researched for this case file. The Grillmair case was reference
 
 | Detail | Source A | Source B | Notes |
 |---|---|---|---|
-| Date of death | Feb 16 (most sources, Wikipedia, Caltech) | Feb 17 or Feb 21 (some ABC7/media references) | Feb 16 is the consensus date from the LASD report and Caltech memorial. Discrepancies likely reflect confusion between shooting date, death-pronounced date, and ME identification date. |
-| Bail amount | $2 million (CBS) | $3.175 million (Fox 11, MyNewsLA, Pasadena Now) | The $3.175 million figure appears in more recent and detailed reporting; the $2M figure may reflect an initial or partial amount. |
+| Date of death | Feb 16 (most sources, [Wikipedia](https://en.wikipedia.org/wiki/Carl_Grillmair), [Caltech](https://tech.caltech.edu/2026/03/17/caltech-astrophysicist-carl-griillmair-dies-at-67/)) | Feb 17 or Feb 21 (some [ABC7](https://abc7.com/post/man-charged-killing-caltech-astrophysicist-carl-grillmair-llano-carjacking-own-relative-burglarizing-home/18626990/)/media references) | Feb 16 is the consensus date from the LASD report and Caltech memorial. Discrepancies likely reflect confusion between shooting date, death-pronounced date, and ME identification date. |
+| Bail amount | $2 million ([CBS](https://www.cbsnews.com/losangeles/news/caltech-scientist-shot-to-death-in-front-of-los-angeles-county-home/)) | $3.175 million ([Fox 11](https://www.foxla.com/news/caltech-scientist-carl-grillmair-suspect-freddy-snyder-charged), [MyNewsLA](https://mynewsla.com/crime/2026/02/20/man-who-fatally-shot-caltech-scientist-had-been-released-after-gun-arrest/), [Pasadena Now](https://pasadenanow.com/main/man-charged-with-killing-caltech-scientist-had-been-released-after-loaded-gun-arrest)) | The $3.175 million figure appears in more recent and detailed reporting; the $2M figure may reflect an initial or partial amount. |
 | Who reported the shooting | 911 call (per LASD via media) | Not specified whether wife or neighbor called | The caller's identity has not been publicly disclosed. |
 
 ---
