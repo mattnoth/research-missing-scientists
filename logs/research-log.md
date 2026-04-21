@@ -553,3 +553,127 @@ Searched for on-the-record statements from identifiable experts on the missing/d
 - `appendices/named-expert-commentary/steven-greer.md`
 - `appendices/named-expert-commentary/kash-patel.md`
 - `appendices/named-expert-commentary/chris-wright-doe.md`
+
+### Thomas case research
+
+**Date:** 2026-04-20
+**Researcher:** Sub-agent (Claude)
+
+#### Searches performed
+1. WebSearch: "Jason Thomas Novartis missing Wakefield Massachusetts 2025" -- 10 results
+2. WebSearch: "Jason Thomas Lake Quannapowitt body found March 2026 cause of death" -- 10 results
+3. WebSearch: "Jason Thomas Novartis chemical biology cancer research background education" -- 10 results
+4. WebSearch: ""Jason Thomas" Wakefield wife "Kristen Bartoli" missing December 2025" -- 10 results
+5. WebSearch: "Jason Thomas Novartis obituary funeral Burlington Massachusetts 2026" -- 10 results
+6. WebSearch: ""Jason Thomas" Wakefield medical examiner cause manner death 2026" -- 10 results
+7. WebSearch: ""Jason Thomas" Wakefield police chief Skory search canine drone December 2025" -- 10 results
+
+#### Pages fetched
+1. Wakefield town website / DA Marian Ryan statement (T1) -- successful
+2. Legacy.com obituary (T1) -- successful
+3. Boston 25 News wife interview (T2) -- successful
+4. NBC Dateline (T2) -- 403 Forbidden
+5. Middlesex DA press release (T1) -- 403 Forbidden
+6. Boston.com March 17 (T2) -- partial extraction
+
+#### Key findings
+- DA Marian Ryan: no foul play suspected (T1)
+- Cause/manner of death not yet publicly released by Chief Medical Examiner
+- Both parents died within ~90 minutes of each other, November 2025
+- Left home without phone/wallet; last seen near railroad tracks
+- Body found March 17, 2026 in Lake Quannapowitt after ice melted
+- No connection to defense/aerospace/classified work; Novartis pharma cancer research
+- Weakest fit in repository
+
+#### Contradictions
+- Age 45 vs 46 (birthday between disappearance and obituary)
+
+#### Gaps
+- Official cause/manner of death
+- Whether lake was searched in December
+- Mental health context
+
+#### Files written
+- `cases/thomas.md`
+- `appendices/primary-sources/thomas/sources.md`
+
+### Eskridge case research
+
+**Date:** 2026-04-20
+**Researcher:** Sub-agent (Claude)
+
+#### Searches performed
+1. WebSearch: "Amy Eskridge Institute Exotic Science died 2022 Huntsville" -- 10 results
+2. WebSearch: "Amy Eskridge Huntsville Alabama death ruled suicide gunshot 2022" -- 10 results
+3. WebSearch: "Amy Eskridge "Richard Eskridge" NASA engineer father HoloChron" -- 10 results
+4. WebSearch: "Amy Eskridge obituary Huntsville Alabama 2022" -- 10 results
+5. WebSearch: "Amy Eskridge father Richard "nothing suspicious" death daughter statement" -- 10 results
+6. WebSearch: "Amy Eskridge "Franc Milburn" investigation Congress report antigravity" -- 10 results
+7. WebSearch: "Amy Eskridge 2020 interview Jeremy Rys threats directed energy weapon burns" -- 10 results
+8. WebSearch: "Amy Eskridge Huntsville police department investigation 2022 coroner report Madison County" -- 10 results
+
+#### Pages fetched
+1. Newsweek "Who is Amy Eskridge?" (T2) -- successful
+2. The Arab Tribune obituary (T1) -- successful
+3. Fox News "11th scientist death" (T2) -- successful
+4. Yahoo News / Fox News syndication (T2) -- successful
+5. IBTimes UK father's statement (T2) -- rendering failure
+6. NewsNation father interview (T2) -- 403 Forbidden
+
+#### Key findings
+- Death confirmed June 11, 2022, age 34, Huntsville, AL (T1 obituary)
+- Reported as self-inflicted gunshot wound; no police/coroner report publicly released
+- Father Richard Eskridge dismissed conspiracy theories: "nothing suspicious" (T2)
+- Father is retired NASA MSFC engineer (plasma physics, fusion); co-founded organizations with Amy
+- 2020 interview: threat claims, DEW claims, harassment -- all self-reported, unverified
+- Franc Milburn claims not suicide; reportedly submitted to Congress 2023 (no record found)
+- Shellenberger testified "murdered by private aerospace company" (no evidence documented)
+- No peer-reviewed antigravity experimental publications found
+- 2022 death predates 2025-2026 cluster by three years
+
+#### Contradictions
+1. Father says "nothing suspicious" vs Milburn/Shellenberger allege murder
+2. Suicide ruling widespread in media but no official documentation located
+3. Threat claims specific but entirely self-reported
+
+#### Gaps
+- Official police/coroner report
+- Whether police reports were filed about threats
+- Milburn investigation details
+- Congressional submission documentation
+- Shellenberger testimony evidence basis
+- Circumstances of gunshot
+
+#### Files written
+- `cases/eskridge.md`
+- `appendices/primary-sources/eskridge/sources.md`
+
+### McCasland case research
+
+**Date:** 2026-04-20
+**Researcher:** Sub-agent (Claude)
+
+#### Searches performed
+19 web searches conducted covering: disappearance details, military career (AFRL, SAPOC, NRO, GPS, Office of Special Projects), post-retirement career (ATA/BlueHalo, Riverside Research), DeLonge/UAP connection (WikiLeaks emails, wife's statements, congressional interest), search efforts (BCSO, FBI), 911 call details, and political affiliations.
+
+#### Pages fetched (successful)
+10 pages successfully fetched: Wikipedia biography (T3), Newsweek (3 articles, T2), ABC News (T2), Fox News (T2), CBS News (T2), WikiLeaks emailid/3099 (T1), ABQ Journal (T2), Newsweek "Who is McCasland" (T2). 8 pages returned 403 or failed rendering, including the BCSO press release PDF (T1) and House Oversight press release (T1).
+
+#### Key findings
+- Military career comprehensively documented: 34-year USAF career spanning classified satellite reconnaissance, GPS, AFRL command, NRO, SAPOC executive secretary.
+- Disappeared Feb 27, 2026 between 11:10 AM and 12:04 PM. Left phone/glasses/wearables. Took boots/wallet/.38 revolver/backpack.
+- Wife's 911 call: "I have some indication that he must have planned not to be found." Also relayed statement about not wanting to live with deteriorating brain/body.
+- Mental fog confirmed but not dementia per wife and BCSO.
+- DeLonge/UAP: WikiLeaks email documents DeLonge's claims; wife confirms brief unpaid consulting for fiction; denies Roswell knowledge. McCasland silent.
+- BCSO: no evidence of foul play, no classified-work connection, no link to other cases.
+- Still missing as of April 20, 2026. No sightings. USAF sweatshirt found 1.25 mi east, unconfirmed as his.
+
+#### Assessment
+Highest-profile case in cluster. Current evidence more consistent with voluntary departure driven by medical/psychological distress than foul play. Supports H1/H8, H2, tangentially H6 (weaker than publicly perceived). Does not currently support H4 or H7.
+
+#### Files written
+- `cases/mccasland.md`
+- `appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md`
+- `appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md`
+- `appendices/primary-sources/mccasland/house-oversight-press-release.md`
+- `appendices/primary-sources/mccasland/riverside-research-appointment.md`
