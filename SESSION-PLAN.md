@@ -26,19 +26,26 @@ These are durable principles from memory. They override defaults whenever they c
 
 ---
 
-## Phase 0 — Decisions (you, no agents)
+## Phase 0 — Decisions (resolved 2026-05-06)
 
-These unblock downstream work. Defaults apply if you don't decide.
+All 7 resolved during planning session 1 (2026-05-06). No agents launched; this session was decisions-only.
 
-| # | Decision | Default if unanswered |
+| # | Decision | Resolved value |
 |---|---|---|
-| 1 | Timeline asymmetry — encode meaning or rebalance? | Rebalance only |
-| 2 | Opinion-in-hypothesis — specific hypothesis or full audit? | Full audit |
-| 3 | Worldwide discovery sweep — greenlight + initial language scope? | Greenlight; English + RU + ZH + FR + DE + ES |
-| 4 | Update-pass scope — breadth (a) or depth (b)? | Depth-first on 2–3 weakest |
-| 5 | Path B "to a point" — schema-extension guardrail | Extend only when ≥2 cases share the new feature |
-| 6 | Acronym sweep — specific or general? | General first-use + glossary completeness |
-| 7 | Abstract on scroll up | Defer to website-side session (mattnoth-dev) |
+| 1 | Timeline asymmetry — encode meaning or rebalance? | **Rebalance only.** Underlying issue is a rendering bug (alternation parks on one side); fix lives in mattnoth-dev, not research repo. |
+| 2 | Opinion-in-hypothesis — specific hypothesis or full audit? | **Full audit.** Includes hunting for subjective characterizations from interested parties (family, employer, official spokespersons) stated as neutral fact — the wife/McCasland pattern is the concrete example. Plus X-Files balance check on H1–H9. |
+| 3 | Worldwide discovery sweep — greenlight + initial language scope? | **Greenlit.** Languages: English + Russian + Chinese + French + German + Spanish + **Japanese + Korean**. Hebrew + Persian/Farsi held back for round 2. |
+| 4 | Update-pass scope — breadth (a) or depth (b)? | **Hybrid depth-first.** Phase 6 Step A triage does double duty: source-weakness ranking *and* new-material density scan. Depth pass goes deep on the union of 2–3 cases. |
+| 5 | Path B "to a point" — schema-extension guardrail | **Extend only when ≥2 cases share the new feature.** Each extension is documented (methodology section) and case files using the field link back, so readers understand why a structured field exists. |
+| 6 | Acronym sweep — specific or general? | **General sweep.** First-use expansion per file; glossary completeness; cross-file consistency; **over-linking flag** (any acronym hyperlinked more than once per file). |
+| 7 | Abstract on scroll up | **Deferred to mattnoth-dev** (and styling/UX work generally). |
+
+### Standing rules captured during this session (added to memory)
+
+- **Enrichment is primary value, not cleanup** — every named person/organization gets a Wikipedia/about-page link plus a primary-source link on first occurrence per file.
+- **Verify-don't-trust on every clickable link** — every URL must be loaded and confirmed to resolve to the claimed target (no plausible-looking guesses); agents that propose URLs include a verification step.
+- **Link discipline: once per page** — full name + link on first mention per file, bare acronym on subsequent mentions, no repeat links. New file = reset. Tooltips for in-page acronym hover are a website-side feature.
+- **Archival workflow not capped by scratch.txt's spec** — Phase 3 surfaces richer options (link graphs, cross-referenced captures, evolution snapshots) before defaulting to the baseline.
 
 **Already resolved (no decision needed):**
 - Tom DeLonge link — both Wikipedia + actual WikiLeaks email URL. Action queued in Phase 1.
@@ -53,8 +60,8 @@ No narrative writing → no voice coupling → safe to parallelize. Output is a 
 
 | Agent | Type | Task |
 |---|---|---|
-| A | Explore | **Both-links sweep.** Tom DeLonge is the template (Wikipedia + WikiLeaks URL). Sweep narrative files for every public figure and primary-source document that needs both: (1) a "who/what is this" link (Wikipedia/about-page), and (2) a primary-source link. Initial candidates from survey: **John Podesta, Rep. Eric Burlison, Rep. James Comer, FBI Director Kash Patel, Karoline Leavitt, DOE Sec. Wright, Chris Swecker, Michio Kaku, Ross Coulthart, David Grusch**, plus institutional acronyms in glossary (AARO, TTSA, etc.). Output: table of name → file:line → current state → proposed Wikipedia URL → proposed primary-source URL. |
-| B | Explore | **Acronym audit.** Scan glossary.json + case files for inconsistent first-use expansion + glossary gaps. |
+| A | Explore | **Both-links sweep.** Tom DeLonge is the template (Wikipedia + WikiLeaks URL). Sweep narrative files for every public figure and primary-source document that needs both: (1) a "who/what is this" link (Wikipedia/about-page), and (2) a primary-source link. Initial candidates from survey: **John Podesta, Rep. Eric Burlison, Rep. James Comer, FBI Director Kash Patel, Karoline Leavitt, DOE Sec. Wright, Chris Swecker, Michio Kaku, Ross Coulthart, David Grusch**, plus institutional acronyms in glossary (AARO, TTSA, etc.). **Verify-don't-trust:** every proposed URL must be loaded and confirmed to resolve to the claimed target — no plausible-looking guesses. Wikipedia disambiguation pages, soft-404s, and stub redirects all count as verification failures. **Link discipline:** propose links *only* for the first occurrence per file; flag any file where the same person/org is currently linked multiple times so we can drop the redundant ones. Output: table of name → file:line → current state → proposed Wikipedia URL → proposed primary-source URL → **verification status (loaded? right page? final URL after redirect?)**. |
+| B | Explore | **Acronym audit.** Scan glossary.json + case files + analysis files + dossier.md for: (1) first-use full expansion per file; (2) glossary completeness (every acronym used in narrative has a glossary entry); (3) cross-file consistency (same expansion); (4) **over-linking** — any acronym hyperlinked more than once per file. Output: per-file checklist with proposed fixes. |
 | C | general-purpose (web) | **Broken-links pass.** Every URL in case files / appendices / glossary.json / data JSON. Categorize: alive / dead / 403 / soft-404 / redirected. For dead: Wayback availability check. Output: link health report. No edits. |
 | D | Explore | **Foreign-source bias audit.** Walk existing tier assignments looking for foreign outlets scored below comparable U.S. outlets. Specifically: are foreign Tier-3 / Tier-4 outlets being held to a different standard? |
 | E | Explore | **Alias-resolver scan.** glossary.json + data/diagram-data.json + case files → canonical-name → aliases map; flag dangling/duplicate references (JPL ↔ Jet Propulsion Laboratory, AFRL ↔ Air Force Research Laboratory, etc.). |
@@ -71,7 +78,7 @@ Cannot parallelize. Voice consistency matters; the new neutrality rule needs coh
 
 | Agent | Type | Task |
 |---|---|---|
-| F | Plan or general-purpose | Scan analysis/hypotheses.md, analysis/connection-analysis.md, dossier.md, and all case files for: (a) opinion-tinted phrasing; (b) "definitely no connection" / "did not know each other" / equivalent absence-of-connection assertions; (c) **hypothesis-balance check** — are H1–H9 split fairly between Scully-side (skeptical/rational) and Mulder-side (speculative/anomalous), or are Mulder-side hypotheses getting thinner investigative effort and faster downgrades to "Speculated"? Identify which Mulder hypotheses (zero-gravity research involvement, international cover-up coordination, UAP-disclosure adjacency, others) deserve more investigative weight. Output: candidates list with proposed neutral rewrites + hypothesis-rebalance proposals. **Does not edit.** |
+| F | Plan or general-purpose | Scan analysis/hypotheses.md, analysis/connection-analysis.md, dossier.md, and all case files for: (a) opinion-tinted phrasing; (b) "definitely no connection" / "did not know each other" / equivalent absence-of-connection assertions; (c) **subjective characterizations from interested parties stated as neutral fact** — concrete pattern: "his wife characterizes it as brief, unpaid consulting for fiction writing" reads as fact rather than as one party's framing of a contested connection. Sweep for family / employer / official-spokesperson / friend / associate quotes that are presented as settled fact rather than attributed claim; flag for rewriting as "*Spouse X characterized the relationship as Y*" with attribution; (d) **hypothesis-balance check** — are H1–H9 split fairly between Scully-side (skeptical/rational) and Mulder-side (speculative/anomalous), or are Mulder-side hypotheses getting thinner investigative effort and faster downgrades to "Speculated"? Identify which Mulder hypotheses (zero-gravity research involvement, international cover-up coordination, UAP-disclosure adjacency, others) deserve more investigative weight. Output: candidates list with proposed neutral rewrites + hypothesis-rebalance proposals. **Does not edit.** |
 
 You approve/edit candidates; single-pass commit.
 
@@ -82,6 +89,8 @@ You approve/edit candidates; single-pass commit.
 ## Phase 3 — Tooling: snapshot-source pipeline
 
 Build the Playwright/headless-browser archive tooling **before** any deep research runs, so all new citations get archived at time of capture.
+
+**Design scope:** the descriptions below are the *baseline* — Phase 3 should surface richer options before committing to a build. Worth considering: link-graph capture (snapshot the page *and* its linked references one hop out), evolution-over-time snapshots (re-capture quarterly to track changes), cross-referenced material harvesting (when an article cites three other sources, capture all four). Don't default to the minimum spec because it's what's written here.
 
 - **Web pages — Playwright:** Script `scripts/snapshot-source.sh` (or `.py`). Input: URL. Output: raw HTML + linked assets + screenshot + PDF + extracted text + manifest (timestamp, source URL, http status, content hash). Stored under `appendices/primary-sources/<case>/snapshots/<slug>/`. Decide: Python (Playwright Python binding) or Node (Playwright npm). Python likely lower friction.
 - **Video — yt-dlp + Whisper:** Script `scripts/snapshot-video.sh`. Input: TikTok / YouTube / Reddit-hosted video URL. Output: video file + auto-captions (yt-dlp) + Whisper transcript when no captions exist + thumbnail + manifest. Same directory layout as web pages.
@@ -106,7 +115,9 @@ This **is** the scope of the dossier. Existing 11 U.S. cases are one slice. Fore
 | W-3 | High | Russian-language press: TASS, Kommersant, Meduza, regional outlets. Defense/aerospace scientist deaths or disappearances since 2022. |
 | W-4 | High | Chinese-language press: Xinhua, People's Daily, regional outlets. Same scope. |
 | W-5 | Medium | French / German / Spanish: Le Monde, Der Spiegel, El País, regional outlets. |
-| W-6 | Medium | English-language indie / Substack writers tracking similar patterns; aggregator lists ("scientists dying" compilations); Wayback for takedowns. Verify each lead independently — these are leads, not sources. |
+| W-6 | Medium | Japanese-language press: Asahi, Yomiuri, NHK, regional outlets. Defense/aerospace/research scientist deaths or disappearances. |
+| W-7 | Medium | Korean-language press: Chosun, Hankyoreh, Yonhap, regional outlets. Same scope. |
+| W-8 | Medium | English-language indie / Substack writers tracking similar patterns; aggregator lists ("scientists dying" compilations); Wayback for takedowns. Verify each lead independently — these are leads, not sources. |
 
 **Across all W-* threads:** every lead is traced to its original primary source and tiered before any case-file work. Discovery layer, not authoritative.
 
@@ -134,8 +145,8 @@ Two-pass shape from earlier conversation. Triage first.
 
 | Step | Agent(s) | Task |
 |---|---|---|
-| A | 1 × Explore | Triage: rank all 11 by source weakness — count Tier 4+ claims, count "Reported"/"Alleged" confidence ratings. Output: ranked list with reasoning. |
-| B | 2–3 × general-purpose, parallel | Source-deepening pass on top-N. One agent per case. Higher-tier origin search per claim. Output: source-swap proposals. No narrative edits. |
+| A | 1 × Explore | **Hybrid triage** (Phase 0.4 resolution): rank all 11 by source weakness *and* surface "what's new since last reviewed" across all 11 in a single pass. Output: two ranked lists — (1) source weakness (count Tier 4+ claims, count "Reported"/"Alleged" confidence ratings); (2) new-material density (substantive findings since last reviewed date). User picks 2–3 from the union for depth treatment. Surface scan only on the news side — depth happens in Step B/C. |
+| B | 2–3 × general-purpose, parallel | Source-deepening pass on top-N (union from Step A). One agent per case. Higher-tier origin search per claim. Output: source-swap proposals. No narrative edits. |
 | C | 2–3 × general-purpose, parallel | News-refresh pass on same top-N. One agent per case. New material → dated `## Update — YYYY-MM-DD` block drafts. |
 
 You approve proposals before any commit.
@@ -225,19 +236,21 @@ Each phase is **standalone**. You can run Phase 1 today, walk away, and not touc
 
 The "Suggested execution order" below is one viable sequencing, not a mandate.
 
-## Next-session execution order (concrete)
+## Next-session execution order (revised 2026-05-06)
 
-Each session is independently runnable. Stop at any point; pick up next time.
+Session 1 was decisions-and-planning only (no agents). Subsequent sessions split into smaller, independently runnable units. Stop at any point; pick up next time.
 
 | Session | Goal | Time | What happens |
 |---|---|---|---|
-| 1 | **Decide + launch audit** | ~1 hr | Walk through Phase 0's 7 decisions (10 min). Launch Phase 1's 5 parallel read-only agents. Session ends when agents return findings. |
-| 2 | **Tag + cleanup commit** | ~45 min | **First**: `git tag pre-rebalance-2026-05-06` on current HEAD to preserve the pre-rebalance dossier — anyone can `git checkout pre-rebalance-2026-05-06` to recover. Then review Phase 1 findings, approve specific edits, single commit pass: DeLonge + other public-figure links (Wikipedia + primary source URLs), acronym first-use fixes, alias dedup, broken-link annotations, foreign-source retag where the audit flagged bias. **Apply the revision-marker convention** (standing rules, "Append, don't overwrite") on every file touched: top-of-file `*Last revised: YYYY-MM-DD*` line + inline `*(updated YYYY-MM-DD — see GitHub for details)*` markers where existing prose was reworded. Push the tag with `git push origin pre-rebalance-2026-05-06`. |
-| 3 | **Voice audit** | ~1 hr | Launch Phase 2 neutrality + hypothesis-balance agent. Review candidates list. Approve rewrites; single commit. Confirms the neutrality + X-Files posture is applied across analysis files. |
-| 4 | **Build snapshot tooling** | ~2–3 hr | Phase 3: build `snapshot-source` (Playwright), `snapshot-video` (yt-dlp + Whisper), `snapshot-reddit`. Test against 3–5 known URLs. Document in RUNBOOK.md. **Unlocks every subsequent research phase.** |
-| 5+ | **Research phases — pick by priority** | varies | After tooling lands, sessions can target one phase or one thread at a time: Phase 4 W-1 (TikTok seed run), W-3 (Russian press), Phase 5 (Eskridge update incl. precursor statement + Zero Gravity domain), Phase 6 (depth pass on weakest cases), Phase 9 (Huntsville hotbed; antigravity domain map), Phase 8 (pattern appendix). Phase 7 (methodology docs) can interleave whenever convenient. |
+| 1 ✅ | **Decisions + plan** | done | Walked through all 7 Phase 0 decisions; encoded them above; captured 4 new standing rules to memory; revised this plan to reflect the multi-session split. No agents, no research-content edits. |
+| 2 | **Phase 1 audit** | ~1 hr | Launch Phase 1's 5 parallel read-only agents (A: both-links sweep with verify-don't-trust + first-occurrence-only discipline; B: acronym sweep with over-linking flag; C: broken-links pass; D: foreign-source bias audit; E: alias-resolver scan). Session ends when agents return findings. **No edits.** |
+| 3 | **Cleanup commit** | ~45 min | **First**: `git tag pre-rebalance-2026-05-06` on current HEAD to preserve the pre-rebalance dossier — anyone can `git checkout pre-rebalance-2026-05-06` to recover. Then review Phase 1 findings, approve specific edits, single commit pass: enrichment links (DeLonge template + other public figures), first-occurrence-only discipline applied, acronym fixes, alias dedup, broken-link annotations, foreign-source retag where the audit flagged bias. **Apply the revision-marker convention** (standing rules, "Append, don't overwrite") on every file touched: top-of-file `*Last revised: YYYY-MM-DD*` line + inline `*(updated YYYY-MM-DD — see GitHub for details)*` markers where existing prose was reworded. Push the tag with `git push origin pre-rebalance-2026-05-06`. |
+| 4 | **Phase 2 voice audit** | ~1 hr | Launch single neutrality + hypothesis-balance agent (read-only). Returns candidates list including subjective-characterization-as-fact flags. **No edits.** |
+| 5 | **Voice commit** | ~45 min | Review Phase 2 candidates, approve rewrites, single commit. Confirms neutrality + X-Files posture across analysis layer. |
+| 6–7 | **Phase 3 tooling build** | ~3–4 hr (likely 2 sessions) | Build snapshot pipelines: web (Playwright), video (yt-dlp + Whisper), Reddit (full-tree). **Surface richer-than-baseline options before committing to design.** Test on 3–5 known URLs. Document in RUNBOOK.md. **Unlocks every research phase after this.** |
+| 8+ | **Research phases — pick by priority** | varies | After tooling lands, sessions can target one phase or one thread: Phase 4 W-1 (TikTok seed run), W-3 (Russian press), W-4 (Chinese press), W-6/W-7 (Japanese / Korean), Phase 5 (Eskridge update + Zero Gravity domain), Phase 6 (hybrid triage → depth pass on top 2–3), Phase 9 (Huntsville hotbed; antigravity domain map), Phase 8 (pattern appendix). Phase 7 (methodology docs incl. Path B extension protocol) interleaves whenever convenient. |
 
-**Stop conditions per session:** session 1 ends when Phase 1 agents return; session 2 ends after the cleanup commit; session 3 after the voice-audit commit; session 4 when tooling is tested + committed. Each is a clean handoff.
+**Stop conditions per session:** session 2 ends when Phase 1 agents return; session 3 ends after the cleanup commit; session 4 ends after the voice-audit agent returns; session 5 ends after the voice commit; session 6/7 ends when tooling is tested + committed. Each is a clean handoff.
 
 ## Suggested execution order (full sequencing)
 

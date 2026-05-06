@@ -2,6 +2,23 @@
 
 Chronological record of searches performed, sources consulted, and decisions made. Also serves as the append-only session ledger per [.claude/commands/end-session.md](../.claude/commands/end-session.md).
 
+## 2026-05-06 — Session 1: Phase 0 decisions (planning only)
+
+**What happened:**
+- No searches, no source consultation, no narrative changes. Session was scoped to Phase 0 decision-making + plan refinement only.
+- All 7 Phase 0 decisions in `SESSION-PLAN.md` resolved (table now reflects resolved values, not defaults).
+- 4 new standing rules surfaced during the walkthrough and written to memory: enrichment-as-primary-value, verify-don't-trust on links, first-occurrence-per-file link discipline, archival scope not capped by current spec.
+
+**Key research-relevant decisions:**
+- **Worldwide-sweep language scope confirmed:** EN + RU + ZH + FR + DE + ES + JA + KO. Hebrew + Persian/Farsi held back for round 2.
+- **Subjective-characterization pattern** identified as a recurring voice problem: when a family member, employer, or official spokesperson's framing of a contested fact is presented as neutral fact rather than as an attributed claim. Concrete example flagged: McCasland case → "his wife characterizes it as brief, unpaid consulting for fiction writing" reads as fact, but is one party's framing of a contested connection. Phase 2 voice audit (next research-touching session) explicitly scoped to find more instances.
+- **Hybrid triage** for Phase 6 update pass — surface what's new across all 11 cases at the same time as ranking by source weakness, so depth targets are picked from the union (most-weak ∪ most-new), not weakness alone.
+- **Path B schema extension threshold** = ≥2 cases, with reader-facing methodology note documenting each extension.
+- **Acronym sweep** = general (first-use expansion + glossary completeness + cross-file consistency + over-linking flag), not specific.
+
+**Further work:**
+- Session 2: Phase 1 audit (5 parallel read-only agents). Until that runs, no new research findings, no source-tier changes, nothing for this log to capture.
+
 ## 2026-04-21 — Harness-integration conformance check (read-only)
 
 **What happened:**
