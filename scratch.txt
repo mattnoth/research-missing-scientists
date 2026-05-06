@@ -1,0 +1,136 @@
+# Scratch — open items + continuation notes
+
+Working notes, not the canonical TODO. Formal items live in [TODO-research.md](TODO-research.md). Phased execution plan with agent strategy lives in [SESSION-PLAN.md](SESSION-PLAN.md) — start there for "what runs in what order."
+
+When SESSION-PLAN.md and this file conflict: SESSION-PLAN wins for execution order; scratch wins for scope detail and open `→` questions still being negotiated.
+
+---
+
+## Open items (originals expanded — answer the prompts when ready)
+
+- **Tom DeLonge link clickable** *(researched, ready to act)*
+  - Tom DeLonge: Blink-182 musician, founder of To The Stars Academy (TTSA), prominent UAP-disclosure advocate. The dossier-relevant context is the Jan 25, 2016 DeLonge-to-Podesta email released by WikiLeaks (Oct 2016) naming William McCasland.
+  - References found in: `dossier.md`, `cases/mccasland.md`, `cases/eskridge.md`, `analysis/connection-analysis.md`, `analysis/hypotheses.md`, `appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md`, `data/timeline-data.json`, `data/diagram-data.json`.
+  - **Action — both links, not one:**
+    1. Link the name `Tom DeLonge` → `https://en.wikipedia.org/wiki/Tom_DeLonge` on first occurrence in each narrative file (gives readers context on who he is).
+    2. Ensure every WikiLeaks email reference also exposes the **original external URL** `https://wikileaks.org/podesta-emails/emailid/3099` alongside the internal archive link — so readers can reach both the local copy and the source.
+  - Subsequent occurrences in the same file stay plain. Skip JSON, prompt, and log files.
+
+- **Timeline heavy on left side then right side with no apparent meaning**
+  - The timeline visualization clusters events asymmetrically (left- vs. right-leaning) but the side carries no semantic information. Reads as random.
+  - → *Should left/right encode something specific (e.g., classified vs. unclassified, federal lab vs. private contractor, deceased vs. missing) — or should the layout just be re-balanced visually?*
+
+- **Is the opinion in the hypothesis**
+  - Concern that opinion/editorializing has bled into one of the H1–H9 hypotheses, against the neutrality rule (CLAUDE.md).
+  - → *Which hypothesis triggered the worry, or do you want a full audit pass across analysis/hypotheses.md looking for non-neutral phrasing?*
+
+- **Add Chinese scientists**
+  - Currently the dossier is U.S.-centric. Adding Chinese-affiliated scientists could be either (a) new cases, (b) a comparative side-note in a hypothesis, or (c) a foreign-intel-layer expansion.
+  - → *Which framing — new full case files (same Tier 1–8 vetting), a comparative analysis section, or just additions to appendices/foreign-coverage?*
+
+- **Foreign news sources — equal footing required (not downweighted)**
+  - If this is a global phenomenon, foreign coverage cannot be trusted *less* than U.S. coverage on country-of-origin alone. Treating one country's news as more reliable than another's is bias and is rejected.
+  - U.S. national media is currently in poor shape — direct/primary links are hard to surface through it, which is part of why so many sourcing trails go cold here. Foreign outlets sometimes carry detail U.S. coverage misses.
+  - **Rule (carry into all source-deepening work):** Tier 4 = national mainstream regardless of country. Don't treat a foreign Tier-4 outlet as worse than a U.S. Tier-4 outlet. Local/beat (Tier 3) ranks above national mainstream from *any* country.
+  - → *On the next source-deepening pass, audit whether the existing tier assignments quietly downweight foreign outlets. If so, flag and re-tier.*
+
+- **Scope correction — dossier is global by default, not U.S.-only**
+  - The 11 existing cases are all U.S. by **historical artifact** (that's where research started), not by principled scope. Treating U.S. cases as the default and foreign as a "later phase" embeds the same bias the foreign-news rule rejects.
+  - The dossier's scope is: scientists in defense, advanced research, and related sensitive fields who die or go missing — **regardless of country**. Foreign cases get the same Tier 1–8 vetting, same case-file schema, same neutrality rules. No "foreign case" downgrade.
+  - Discovery sweeps default to worldwide. Community/forum sources (Reddit threads, Substack writers, indie blogs, archived takedowns) are a **discovery layer, not authoritative** — each lead must be traced to its original source and tiered normally.
+  - → *Greenlight a worldwide discovery sweep. Initial scope: international press in multiple languages, Reddit (r/HighStrangeness, r/UFOs, r/conspiracy, r/UAP), Substack writers tracking similar patterns, indie blogs, Wayback for takedowns. Output: candidate-case list with original-source pointers — no case files written yet. Foreign-language coverage explicitly included.*
+  - **Framing reminder:** when describing the existing 11 cases, acknowledge the U.S. geographic skew honestly — they're known instances, not the dossier's complete or principled scope.
+
+- **Amy Eskridge — pre-statement contradicting cause of death**
+  - Reported as suicide. User flag: she allegedly stated before her death that she would not commit suicide. This is a "precursor statement" — a comment made in advance that contradicts the eventual official cause.
+  - → *Phase 3 research scope should specifically hunt for any interview, social post, video, or third-party reporting where she addressed this. Tier the source(s) carefully — this is the kind of claim that often originates in low-tier outlets and needs primary verification.*
+
+- **Precursor-statement / "dead-man's-switch" pattern category**
+  - The Eskridge detail is one instance of a class: subjects who allegedly said in advance "if I die / disappear, it wasn't X" and then died/disappeared in exactly the manner they said wouldn't be the case.
+  - Same category as factory-reset phones, leaving belongings behind, undisclosed cause of death — a human-instinct pattern the dossier should *surface without verdicting* (per the conclusion-neutrality rule).
+  - → *Phase 7 (pattern-recognition framing): add this as its own pattern category. Sweep all 11 existing cases for similar precursor statements before closing the appendix. May find others.*
+
+- **Broken links across the site/source tables**
+  - User flagged that many of the source links surfaced previously were dead. Distinct from gov-site change tracking (TODO-research.md) — this is general link rot across appendices, glossary URLs, inline source links, etc.
+  - → *Run a link-check pass: every URL in case files, appendices, glossary.json, and data/*.json. For each broken link: (a) try Wayback first — if there's an archived snapshot, **capture it locally too** (HTML + screenshot/PDF via Playwright or equivalent) and swap the citation to point at the local copy + Wayback URL; (b) if not on Wayback, try to find the canonical replacement; (c) if neither exists, annotate the citation as "link dead — no archive recovered" rather than silently leaving a broken link.*
+  - **Tooling:** snapshot via Playwright (or headless Chrome / API) — full-fidelity page capture, not text scrape. Shares tooling with self-host primary-source workflow below.
+  - Cross-ref: overlaps with the gov-site change tracking layer (TODO-research.md) but is broader — non-gov sources rot too.
+
+- **Huntsville hotbed analysis (regional clustering)**
+  - Huntsville is in the dossier 14+ times, but only as Eskridge's geographic context — never analyzed as a regional hotbed. Huntsville hosts Redstone Arsenal, NASA Marshall Space Flight Center, U.S. Space Command HQ, and dozens of defense contractors. The user's flag: there's likely more activity in Huntsville (other deaths, disappearances, departures, controversies) that the dossier hasn't captured because it's been person-by-person, not place-by-place.
+  - → *Scope a dedicated Huntsville pass: other deaths/disappearances/scandals at Huntsville-based entities since 2022, additional people in Eskridge's research circle, local-press coverage, TikTok/Reddit discourse from Huntsville-based insiders. See SESSION-PLAN Phase 9a.*
+
+- **Antigravity / zero-gravity research domain (domain clustering)**
+  - The dossier mentions antigravity / anti-gravity only in the Eskridge case, framed as a "speculative weak signal" attached to one person. The framing was decided early — "this is fringe, downweight it" — and the decision was never reopened. Confirmation bias.
+  - "Zero Gravity" as a specific named entity does NOT appear in the dossier. Could be a specific company / lab / research group the dossier missed.
+  - The broader domain (Podkletnov, Ning Li, Hal Puthoff, Eric Davis, EarthTech, Institute for Exotic Science, HoloChron, etc.) is barely touched. Eskridge's father (Richard Eskridge — retired NASA MSFC propulsion researcher) puts her at the edge of a real research community whose contours the dossier hasn't mapped.
+  - → *Run the antigravity / exotic propulsion domain map. Public-facing figures, research entities, institutional history, connections to dossier subjects (incl. McCasland's UAP-community ties). See SESSION-PLAN Phase 9b. If "Zero Gravity" is a specific entity user has in mind, ask which one — could be Zero Gravity Solutions Corp, Zero Gravity Inc., or a domain-shorthand reference.*
+
+- **Industry-insider voices on TikTok (mainstream-vs-grassroots asymmetry)**
+  - User flag: "TikTok unfortunately is the only place people are really talking about this all in one place." Mainstream coverage is thin; insiders, family members, and adjacent voices are aggregating on TikTok specifically.
+  - The dossier has not engaged TikTok as a source venue at all.
+  - → *Phase 4 W-1 (TikTok thread) bumped to **Critical** priority — not one of six threads, the primary insider discourse venue. Document what insiders are saying even when mainstream is silent. The asymmetry between insider chatter and mainstream silence is itself a data point.*
+
+- **X-Files investigation posture (Mulder + Scully equal rigor)**
+  - User flag: "maybe we should take this xfiles approach. zero gravity is involved in this somehow. governments are covering it up across the world apparantly."
+  - The dossier currently leans Scully — skeptical default, "Speculated" tag applied early, evidence-demanded harder for fringe claims than for skeptical claims. Mulder-side hypotheses get less investigative effort.
+  - X-Files posture: investigate Mulder-side hypotheses (zero-gravity involvement, international cover-up, UAP-disclosure crossover) with the **same rigor and evidence-gathering effort** as Scully-side. Both sides surface for AND against. Investigation ≠ endorsement; conclusion-neutrality still rules the writeup.
+  - Now codified as a standing rule + memory entry. Phase 2 (opinion audit) extended to include a hypothesis-balance check.
+  - → *Phase 2 hypothesis-balance check should explicitly enumerate Mulder hypotheses and confirm each is getting equal investigative effort. If H1–H9 are Scully-skewed, propose rebalancing — not by softening Scully claims but by hardening Mulder ones (more research, better sources, fairer confidence-rating discipline).*
+
+- **TikTok transcripts ARE achievable (don't let friction block analysis)**
+  - User flag: "it sucks you can't get tiktok transcript." Correction — yt-dlp pulls the video file, Whisper transcribes, page-level auto-captions extract where TikTok provides them. Phase 3 `snapshot-video` pipeline handles this end-to-end.
+  - The friction is build-the-tooling, not technical impossibility. If TikTok later breaks yt-dlp (cat-and-mouse), fall back to manual screen-record + Whisper.
+  - → *Don't drop W-1 (TikTok) thread because of perceived inability. Build Phase 3 tooling first; W-1 unlocks immediately after.*
+
+- **Multi-angle analysis as a standing rule (anti-confirmation-bias)**
+  - User flag: "once you make your mind up you don't look for other shit." This is the LLM failure mode for this work — settle on the rational framing early, filter subsequent research through it, stop noticing what doesn't fit.
+  - Now codified as a standing rule in SESSION-PLAN.md and a memory entry. Five lenses: geographic clustering, industry-insider voices, "weird" details, mainstream-vs-grassroots asymmetry, domain-specific research communities. Apply *in parallel*, not sequentially.
+  - → *On every research pass, run the multi-lens check before committing to a framing. If the user expects something to surface and it doesn't, that's a flag scope was too narrow — re-scope, don't conclude absence.*
+
+- **Self-host primary-source materials (research integrity)**
+  - For any external URL cited as primary source, archive a **full-fidelity copy locally** under `appendices/primary-sources/<case>/snapshots/` (or similar). Local copy = canonical reference; external URL = pointer. If/when the external URL dies, the local copy is the fallback.
+  - **Full-fidelity** = raw HTML + linked assets + rendered screenshot or PDF + extracted text. Use Playwright or headless browser; plain scrape is not enough (loses formatting, images, layout, sometimes substance).
+  - **Why:** WikiLeaks could be DMCA'd or geo-blocked. Court filings get pulled. Press releases disappear in agency redesigns. Foreign-press articles vanish. The dossier's claims must remain verifiable independent of upstream hosting. The directory `appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md` is already an attempt at this pattern — it just needs to be formalized and extended.
+  - **Apply preemptively, not just on dead-link recovery.** Every primary source currently cited externally → snapshot at first opportunity. Every new citation going forward → snapshot at time of citation. Standing process, not one-shot pass.
+  - → *Build a `scripts/snapshot-source.sh` (or .py): take a URL → produce raw HTML + screenshot + PDF + extracted text → store under the case's primary-source directory with a timestamp manifest. Same script powers the broken-links recovery pass above.*
+  - Cross-ref: ties together broken-links pass (above), gov-site change tracking (TODO-research.md), and the appendices/primary-sources/ directory that already exists.
+
+- **Acronym issue** *(typo: "acryonm")*
+  - Acronyms either aren't expanded on first use, are expanded inconsistently, or aren't all in glossary.json.
+  - → *Specific acronym that prompted this, or a general sweep — first-use expansion across all narrative prose + glossary completeness check?*
+
+- **Abstract on scroll up**
+  - Likely a website UX request: the abstract should reveal/stick on upward scroll (mobile pattern). Currently doesn't.
+  - → *Confirm the behavior — reveal-on-scroll-up + hide-on-scroll-down sticky header? Or always-visible abstract pinned at top? This is a mattnoth-dev (website) task, not a research-repo task.*
+
+---
+
+## Continuation — Weirwood transfer + general update pass
+
+Pulled from conversation 2026-05-06. Not started; captured here so it survives the session.
+
+### Weirwood Network patterns worth porting
+
+Weirwood (`/Users/mnoth/source/asoiaf-chat/`) shipped sessions 27–34 between Apr 30 and May 5. Most is ASOIAF-graph plumbing, but four patterns map cleanly onto this dossier:
+
+- **Path B "categorizer extension"** — when a new case has features the existing case schema doesn't cover (a new agency type, a new death classification), extend the schema rather than force-fit. Applies whenever cases are added (e.g., the Chinese-scientists item above).
+- **Alias resolver / orphan-edge resolution** — same entity under name variants (JPL ↔ Jet Propulsion Laboratory, AFRL ↔ Air Force Research Lab). Worth applying to glossary + connection diagram, where there are likely dangling references.
+- **Stage-1 prose-only re-emission ("Option C")** — re-extract just the prose layer to enrich existing nodes without rerunning the whole pipeline. **This is the pattern that satisfies "don't overwrite original narrative" — append/enrich rather than replace.**
+- **Mechanical vs. prose extraction split** — implicit in our case schema (mechanical fields vs. narrative), but Weirwood's discipline of touching them in *separate passes* is healthier than mixed edits.
+
+Skipped (not transferable): wave-based parallel extraction, race protection, 27-agent fleet — overkill for 11 cases.
+
+### General update pass — proposed shape (decision pending)
+
+Two passes, run together but tracked separately. Triggered by `prompts/build/queued/prompt-004-update.md` + manual scope.
+
+1. **Source-deepening pass** — walk every claim in each case narrative against the quote-provenance rule. Anything sitting on Tier 4 (national mainstream) or lower → search for higher-tier origin (Tier 1–3: primary docs, court filings, local/beat reporting, named experts). Output: stronger citations, no new prose. Aligns with documented preference for local/beat + named experts over national media.
+2. **News-refresh pass** — for each case, search since last-reviewed date. Substantive findings appended as a dated `## Update — YYYY-MM-DD` block under existing narrative. Originals untouched.
+
+**Open scope decisions:**
+- (a) Breadth-first: shallow refresh across all 11, then return for depth where new material surfaced.
+- (b) Depth-first: pick 2–3 cases with the weakest source backing (most Tier 4+ claims, most "Reported"/"Alleged" confidence ratings) and do both passes thoroughly there first. **Leaning (b)** — source-trust preferences make depth more valuable than breadth, and a thorough pass on a few cases gives a template before scaling.
+- → *When picking this back up: confirm (a) vs. (b). If (b), I should scan all 11 and propose the 2–3 weakest-sourced cases first.*
+
+**Cross-ref:** TODO-research.md → "Automated Trigger" section already plans to put prompt-004 on a cron. The two-pass shape above is what the cron job should be running, not a raw refresh.

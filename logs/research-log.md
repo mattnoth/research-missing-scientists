@@ -851,3 +851,31 @@ Migration from 7-tier to 8-tier source classification system complete.
 - `(T2)` grep returns only the excluded migration prompt file
 - No news outlet is tagged T2 — T2 is reserved for named expert commentary
 - Total tier references approximately equal before and after (tags remapped, not added or removed)
+
+## 2026-05-06 — Planning session: rebalance, scope, and execution plan
+
+### Summary
+
+Pure planning session — no research conducted, no dossier prose edited. Captured a substantial set of methodology corrections from the user and codified them as durable rules + a phased execution plan.
+
+### Artifacts created or modified
+
+- **`SESSION-PLAN.md`** (new) — comprehensive phased plan with standing rules, Phase 0 decisions, agent strategy per phase, next-session execution ladder, snapshot tooling spec, X-Files posture, multi-angle analysis, geographic/domain clustering analysis (Phase 9), pattern-recognition framing layer (Phase 8). Cross-references TODO-research.md and scratch.txt.
+- **`scratch.txt`** (expanded) — open items unfolded from terse one-liners to actionable items with `→` prompt-back questions. New sections added for: scope correction (global default), Tom DeLonge resolution (researched, ready), Amy Eskridge precursor statement, precursor-statement pattern category, Huntsville hotbed analysis, antigravity / zero-gravity research domain, industry-insider voices on TikTok, multi-angle analysis as standing rule, X-Files investigation posture, TikTok transcripts achievable via Phase 3 tooling, self-host primary-source materials, broken links pass with Playwright integration.
+- **`TODO-research.md`** (modified) — added Tooling section for snapshot pipeline (Playwright, yt-dlp + Whisper, snapshot-reddit); added Methodology section for Weirwood Network pattern adoption (Path B categorizer extension, alias resolver, Option C re-emission, mechanical-vs-prose split); cross-ref to SESSION-PLAN.md.
+
+### Memory updates (durable across sessions)
+
+Five memory entries created or updated under `~/.claude/projects/-Users-mnoth-source-research-missing-scientists/memory/`:
+
+- **`feedback_source_trust.md`** (updated) — extended to specify national mainstream = Tier 4 *regardless of country*; foreign outlets must not be downweighted on origin alone.
+- **`feedback_conclusion_neutrality.md`** (new) — surface human-instinct patterns (factory-reset phones, walking out together, missing belongings, precursor statements) without verdicting; don't assert "no connection."
+- **`feedback_global_scope.md`** (new) — dossier scope is worldwide; existing 11 U.S. cases are historical artifact, not principled scope; no "foreign case" downgrade.
+- **`feedback_multi_angle_analysis.md`** (new) — apply geographic / industry-insider / "weird" / asymmetry / domain lenses *before* settling on a framing; TikTok is primary insider venue in 2026.
+- **`feedback_xfiles_posture.md`** (new) — Mulder-side hypotheses get same investigative rigor as Scully-side; investigation ≠ endorsement.
+
+### Next session
+
+Session 1 per SESSION-PLAN.md: walk through Phase 0's 7 decisions one at a time, then launch Phase 1's 5 parallel read-only audit agents (both-links sweep, acronym audit, broken-links pass, foreign-source bias audit, alias-resolver scan). Hold all edits until session 2.
+
+A copy-paste kickoff message was provided to the user for use in a fresh Claude Code session.

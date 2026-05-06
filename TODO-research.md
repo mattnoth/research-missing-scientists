@@ -2,6 +2,14 @@
 
 Items deferred from the prompt-001 cycle. Revisit before or after PDF/website generation.
 
+> **For phased execution + agent strategy, see [SESSION-PLAN.md](SESSION-PLAN.md).** This file holds the canonical task list; the plan handles ordering and parallelization.
+
+## Tooling — Snapshot pipeline (Playwright / headless browser)
+
+- [ ] **Build `scripts/snapshot-source` (Playwright)** — Input: URL. Output: raw HTML + linked assets + screenshot + PDF + extracted text + manifest (timestamp, source URL, http status, content hash). Stored under `appendices/primary-sources/<case>/snapshots/<slug>/`. Used by both broken-links recovery and the standing self-host primary-source workflow. Decide language: Python (Playwright Python) or Node. See SESSION-PLAN.md Phase 3.
+- [ ] **Backfill pass** — Run snapshot pipeline against every external URL currently cited as primary source. Existing markdown archives get an HTML + screenshot + PDF companion in their case's `snapshots/` directory.
+- [ ] **Document self-host workflow in RUNBOOK.md** — How and when to snapshot; where files live; how citations should reference both local archive and external URL.
+
 ## Actionable now (web search could fill)
 
 - [ ] **House Oversight briefing results** — Comer/Burlison requested briefing by April 27, 2026. Check for public statements, press releases, or news coverage of what was disclosed.
@@ -26,6 +34,15 @@ Items deferred from the prompt-001 cycle. Revisit before or after PDF/website ge
 - [x] **Update dossier.md tier references** — No actionable tier tags found; only Tier 1 references which are unchanged.
 - [x] **Update analysis/ tier references** — Already migrated in prior pass; verified correct.
 - [x] **Update CLAUDE.md and any prompt files** — Already updated per prompt-retag-tiers.md exclusion list.
+
+## Methodology — Patterns to port from Weirwood Network
+
+Four patterns from `/Users/mnoth/source/asoiaf-chat/` (Weirwood Network) that map onto this dossier's workflow. Captured 2026-05-06. Context and rationale in `scratch.txt` ("Continuation — Weirwood transfer + general update pass").
+
+- [ ] **Path B "categorizer extension"** — when a new case has features the existing case schema doesn't cover (a new agency type, a new death classification), extend the schema rather than force-fit. Applies whenever cases are added (e.g., the Chinese-scientists item). *Action:* document the extension protocol in `RUNBOOK.md` (or the case-file template) so future case adds follow it; record each extension when it happens.
+- [ ] **Alias resolver / orphan-edge resolution** — same entity under name variants (JPL ↔ Jet Propulsion Laboratory, AFRL ↔ Air Force Research Lab). Worth applying to glossary + connection diagram, where there are likely dangling references. *Action:* scan `glossary.json`, `data/diagram-data.json`, and case files for entity name variants; build a canonical-name → aliases map; deduplicate diagram nodes and cross-link glossary entries.
+- [ ] **Stage-1 prose-only re-emission ("Option C")** — re-extract just the prose layer to enrich existing nodes without rerunning the whole pipeline. This is the pattern that satisfies "don't overwrite original narrative" — append/enrich rather than replace. *Action:* adopt as the standing update pattern; new info appended as dated `## Update — YYYY-MM-DD` blocks under existing narrative; original prose never overwritten. Document in `prompts/build/queued/prompt-004-update.md` so all future maintenance runs follow it.
+- [ ] **Mechanical vs. prose extraction split** — implicit in our case schema (mechanical fields vs. narrative), but Weirwood's discipline of touching them in *separate passes* is healthier than mixed edits. *Action:* document the split in `RUNBOOK.md`. Mechanical = case schema fields (dates, names, agencies, source URLs, tier/confidence tags). Prose = narrative. Never mix in one commit.
 
 ## Significant gaps (harder to fill)
 
@@ -75,6 +92,11 @@ The connection diagram needs significantly more data to match the richness of th
 
 ## Website — Diagram Layout & Readability
 - [ ] **Fix force-directed auto-spreading** — When there are too many nodes, the graph is unreadable because nodes pile up on top of each other. The auto-spreading/repulsion that should be keeping nodes apart isn't working. Investigate force simulation parameters (charge strength, link distance, collision radius) and fix so the graph scales gracefully as node count grows.
+- [ ] **Fix truncated labels** — Long names like "NASA Jet Propulsion Laboratory" and "Planetary Science & …" are cut off mid-word with ellipsis. Either wrap to two lines, show full text on hover/tooltip, or expand the label bounding box. Decide per node type.
+- [ ] **Resolve label/edge collisions** — Case name labels (e.g., "Michael David Hicks") render directly on top of connecting edges, making both unreadable. Add label collision avoidance, a background halo/pill behind text, or reposition labels away from edges.
+- [ ] **Resolve label/label collisions** — Adjacent node labels (e.g., "Aerojet Rocketdyne" overlapping an edge and a neighboring label) pile onto each other. Needs label-level collision detection or a force term that repels labels as well as nodes.
+- [ ] **Establish visual hierarchy between people and institutions** — Right now a case subject label and an org label look almost identical (same font, same placement). People should be visually dominant; orgs secondary. Consider different font weight, size, color, or label position (above vs. below node).
+- [ ] **Improve status tag legibility** — "deceased" / "missing" tags under case names are small and low-contrast. Bump size, increase contrast, or render as a colored pill/badge so status is scannable at a glance.
 
 ## Website — UFO/UAP Section
 - [ ] Create a dedicated page or section focused on UFO/UAP/alien theories and these scientists' connections to that world
@@ -129,3 +151,18 @@ The connection diagram needs significantly more data to match the richness of th
 
 ## Website — UI Polish
 - [ ] Change the question mark icon
+- [x] **Mobile table scroll containers** — Completed 2026-04-22 via `prompts/build/completed/prompt-mobile-table-styling.md`. Tables wrapped in `.ms-table-wrap`, viewport-capped, 7th column hidden on narrow screens.
+- [ ] **Mobile TOC overlay** — Contents disclosure should be a compact trigger that opens a floating overlay (not inline expansion). See `prompts/build/queued/prompt-mobile-toc-overlay.md`.
+- [ ] **Tighten header-to-content vertical spacing** — "Abstract" too far from page title on mobile. Part of the TOC overlay prompt.
+- [ ] **Horizontal rule alignment on mobile** — `<hr>` lines between sections don't align with content edges on narrow viewports. Pre-existing layout bug, not yet prompted.
+
+## Research — Significant Locations
+- [ ] **Significant locations in theories** — Dedicated section/page cataloging recurring physical places across cases and theories: LANL and its sub-facilities (LANSCE, TA-sites), JPL, Sandia, KCNSC, AFRL sites, specific trails/neighborhoods where bodies were found, etc. For each: what happens there, which cases touch it, what public-interest narratives attach to it (UAP/SAP programs, weapons work, etc.), and authoritative outbound links. Would give readers a geographic spine alongside the per-case and per-hypothesis views.
+
+## Research — Government Site Change Tracking
+Rationale: federal site churn has been unusually heavy over the last ~2 years (quiet removals, re-orgs, redactions). Treating relevant gov pages as an evidentiary surface — rather than assuming dead links are mundane web rot — could surface a pattern in aggregate, even when any single change is ambiguous. This is an observational/logging layer, not a claim of cover-up; the point is to make the changes *visible and dated* so others can judge.
+
+- [ ] **Define a watchlist of gov URLs** — Candidate seeds: LANL (lanl.gov main, fire-danger page, LANSCE, specific TA pages), DOE (energy.gov program pages relevant to the labs), JPL (jpl.nasa.gov, Dawn/DART/NEAT program pages), AFRL (afrl.af.mil, Mondaloy references), Sandia, KCNSC, NASA, AARO (aaro.mil), and any congressional pages referenced in case coverage. Store as a structured list (JSON or markdown table) with URL, why-it-matters, and which case(s) it touches.
+- [ ] **Wayback Machine snapshot pipeline** — For each watchlist URL, capture snapshots at key dates: before/after each case event, before/after congressional hearings, and on a rolling cadence going forward. Log diffs chronologically: what text/links were added, removed, or quietly edited. Can be semi-automated via the Wayback Machine CDX API.
+- [ ] **Log entry: LANL fire-danger page 404 (observed 2026-04-21)** — First entry for the change-tracking log. User observed multiple on-site references to a Los Alamos fire-danger rating page returning 404 on lanl.gov. Action: capture the exact referring URLs, check Wayback for prior snapshots of the destination page, record whether the page previously existed and when it was removed/moved.
+- [ ] **Decide where this lives in the dossier** — Options: (a) new `logs/site-change-log.md` append-only ledger, (b) a section under `appendices/`, or (c) a dedicated `evidence/` top-level directory if this grows. Pick once there are a handful of entries.
