@@ -1,4 +1,6 @@
-# Michio Kaku
+# [Michio Kaku](https://en.wikipedia.org/wiki/Michio_Kaku)
+
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/named-expert-commentary/michio-kaku.md). 2026-05-08 revision added Wikipedia link to the subject's name.*
 
 ## Credentials
 Theoretical physicist; professor at City College of New York. Co-founder of string field theory. Prolific science communicator and author of numerous popular science books. Decades of experience in physics and science policy.

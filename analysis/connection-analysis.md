@@ -1,5 +1,7 @@
 # Connection Analysis
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/analysis/connection-analysis.md). 2026-05-08 revision expanded acronyms on first use (IPAC, KCNSC, PSFC, SBG-VSWIR, AMR, HIFI).*
+
 This document maps verifiable connections between the 11 cases. Connections are organized into three layers of decreasing evidentiary confidence. Every connection carries a confidence rating and evidence pointer. Connections are facts; whether they indicate causation is evaluated separately in `hypotheses.md`.
 
 ---
@@ -14,7 +16,7 @@ These connections are confirmed by primary or credible secondary sources.
 |---|---|---|---|
 | LANL (current or retired employees) | [Chavez](../cases/chavez.md) (retired 2017), [Casias](../cases/casias.md) (active admin asst.) | NM DPS record (T1), ABQ Journal (T3) | **High** |
 | JPL (current or recent employees) | [Reza](../cases/reza.md) (Director, Materials Processing), [Hicks](../cases/hicks.md) (research scientist 1998-2022), [Maiwald](../cases/maiwald.md) (principal researcher ~1999-2024) | LASD record (T1), Forest Lawn obituary (T1), Legacy.com obituary (T1) | **High** |
-| Caltech system (IPAC is Caltech-operated) | [Grillmair](../cases/grillmair.md) (IPAC, 1997-2026) | Caltech memorial (T1) | **High** -- but IPAC is institutionally distinct from JPL despite both being Caltech-managed |
+| Caltech system (Infrared Processing and Analysis Center (IPAC) is Caltech-operated) | [Grillmair](../cases/grillmair.md) (IPAC, 1997-2026) | Caltech memorial (T1) | **High** -- but IPAC is institutionally distinct from JPL despite both being Caltech-managed |
 
 **What this means:** Two institutional clusters exist. Three of 11 subjects worked at JPL; two at LANL. Grillmair is Caltech-adjacent but not JPL. These clusters are real but must be evaluated against institutional size: JPL employs ~6,000 people and LANL ~14,000. Three deaths across JPL over a 2023-2025 window and two disappearances among LANL's current/former workforce of tens of thousands are within plausible base rates before controlling for other factors.
 
@@ -22,7 +24,7 @@ These connections are confirmed by primary or credible secondary sources.
 
 | Cluster | Individuals | Geography | Dates |
 |---|---|---|---|
-| New Mexico | [Chavez](../cases/chavez.md) (Los Alamos), [Casias](../cases/casias.md) (Taos County), [Garcia](../cases/garcia.md) (Albuquerque), [McCasland](../cases/mccasland.md) (Albuquerque) | Within ~130 miles of each other in northern NM | May 2025 - Feb 2026 |
+| New Mexico | [Chavez](../cases/chavez.md) (Los Alamos), [Casias](../cases/casias.md) (Taos County), [Garcia](../cases/garcia.md) (Albuquerque), [McCasland](../cases/mccasland.md) (Albuquerque) | Within ~130 miles of each other in northern NM (LANL, Sandia, Kirtland AFB, Kansas City National Security Campus (KCNSC) NM operations) | May 2025 - Feb 2026 |
 | LA County / Angeles NF | [Reza](../cases/reza.md) (Angeles NF), [Hicks](../cases/hicks.md) (Sunland), [Maiwald](../cases/maiwald.md) (Los Angeles), [Grillmair](../cases/grillmair.md) (Llano) | Within ~60 miles in LA County area | July 2023 - Feb 2026 |
 | Massachusetts | [Loureiro](../cases/loureiro.md) (Brookline), [Thomas](../cases/thomas.md) (Wakefield) | ~15 miles apart in metro Boston | Dec 2025 |
 
@@ -60,7 +62,7 @@ These connections require inference beyond documented facts but are grounded in 
 |---|---|---|
 | [Reza](../cases/reza.md) | Co-inventor of Mondaloy superalloy for rocket engine components; career at Aerojet Rocketdyne and JPL Materials Processing | **High** -- patent record (T1) |
 | [McCasland](../cases/mccasland.md) | Commanded AFRL (aerospace research including propulsion); career included space-based laser programs, GPS, and classified special programs | **High** -- official biography (T1) |
-| [Maiwald](../cases/maiwald.md) | JPL principal researcher on space instrumentation (SBG-VSWIR, AMR, HIFI/Herschel); THz technology | **Moderate** -- instruments are adjacent to but not directly propulsion |
+| [Maiwald](../cases/maiwald.md) | JPL principal researcher on space instrumentation (Surface Biology and Geology — Visible to Shortwave Infrared (SBG-VSWIR); Advanced Microwave Radiometer (AMR); Heterodyne Instrument for the Far Infrared (HIFI) on Herschel); THz technology | **Moderate** -- instruments are adjacent to but not directly propulsion |
 | [Eskridge](../cases/eskridge.md) | Private gravity-modification research with NASA-retired father | **Low** -- private org, no peer-reviewed results, no government funding documented |
 
 **Assessment:** Reza and McCasland are the strongest pair for domain overlap -- both worked in aerospace materials/propulsion at institutions connected to the AFRL ecosystem. WION (Indian media) flagged a "Mondaloy connection" between them. However, no source has documented that they knew each other or worked on the same program. McCasland's AFRL command (2011-2013) and Reza's Aerojet Rocketdyne career (1988-~2024) could have overlapped through Air Force contracting, but this is inference, not documented fact. **Confidence in documented connection: Low. Confidence in domain adjacency: Moderate.** [T4 -- WION; T7 -- independent media]
@@ -69,7 +71,7 @@ These connections require inference beyond documented facts but are grounded in 
 
 | Individual | Relevance | Confidence |
 |---|---|---|
-| [Loureiro](../cases/loureiro.md) | Director, MIT PSFC; DOE/ARPA-E funded fusion research; SPARC tokamak partnership | **High** -- MIT News (T1) |
+| [Loureiro](../cases/loureiro.md) | Director, MIT Plasma Science and Fusion Center (PSFC); DOE/ARPA-E funded fusion research; SPARC tokamak partnership | **High** -- MIT News (T1) |
 | [Eskridge](../cases/eskridge.md) | Father (Richard Eskridge) was NASA MSFC plasma physicist | **Low** -- father's career, not Amy's; private org |
 
 **Assessment:** Loureiro is the only subject with direct, confirmed work in fusion/plasma physics. His case has a named suspect with ballistic evidence, video confession, and documented personal motive. The fusion connection, while real, is not the explanatory factor for his death. **Confidence that fusion research was a targeting motive: Very low.** [T1 -- DOJ, MIT]

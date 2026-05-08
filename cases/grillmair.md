@@ -1,5 +1,7 @@
 # Carl Johann Grillmair
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/grillmair.md). 2026-05-08 revision expanded acronyms on first use (NEOWISE, LASD).*
+
 | Field | Value |
 |---|---|
 | **Slug** | `grillmair` |
@@ -7,7 +9,7 @@
 | **Date of death** | February 16, 2026 |
 | **Location** | 30700 block of 165th Street East, Llano (unincorporated Antelope Valley), Los Angeles County, CA |
 | **Affiliation** | Caltech / IPAC (Infrared Processing and Analysis Center) — research scientist, 1997–2026 [Confirmed, T1] |
-| **Role** | Astrophysicist; instrument support (Spitzer IRS team), quality-assurance scientist (NEOWISE), instrument characterization (NEO Surveyor) [Confirmed, T1] |
+| **Role** | Astrophysicist; instrument support (Spitzer IRS team), quality-assurance scientist (Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE)), instrument characterization (NEO Surveyor) [Confirmed, T1] |
 | **Inclusion rationale** | Named in the cluster of scientist deaths/disappearances under federal review. Has a named suspect and apparent non-conspiracy criminal explanation. Included as a control case. **Strong fit for inclusion; weak fit for conspiracy hypothesis.** |
 
 ---
@@ -16,7 +18,7 @@
 
 | Date | Event |
 |---|---|
-| December 20, 2025 | Grillmair reported a trespasser on his property; LASD deputies arrested Freddy Snyder nearby with a loaded, unregistered rifle [Confirmed, T3] |
+| December 20, 2025 | Grillmair reported a trespasser on his property; Los Angeles County Sheriff's Department (LASD) deputies arrested Freddy Snyder nearby with a loaded, unregistered rifle [Confirmed, T3] |
 | December 21, 2025 | Snyder allegedly attempted to escape from Palmdale station jail [Reported, T3] |
 | December 23, 2025 | Snyder released on own recognizance after court appearance [Confirmed, T3] |
 | December 28, 2025 | Snyder allegedly burglarized a neighbor's home in nearby Valyermo [Reported, T3] |

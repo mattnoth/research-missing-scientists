@@ -1,10 +1,12 @@
 # Michael David Hicks
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/hicks.md). 2026-05-08 revision expanded acronyms on first use (DART).*
+
 **Status:** Deceased -- cause of death not publicly disclosed; no autopsy record found
 **Date of incident:** July 30, 2023
 **Location:** Sunland (Los Angeles County), California
 **Affiliation:** NASA Jet Propulsion Laboratory (JPL), Research Scientist (1998--2022)
-**Inclusion rationale:** JPL scientist who worked on planetary defense (DART) and near-Earth object tracking missions; died at 59 with no publicly disclosed cause of death; case included in White House/FBI/Congressional review of 11 scientist deaths and disappearances (April 2026)
+**Inclusion rationale:** JPL scientist who worked on planetary defense (Double Asteroid Redirection Test (DART)) and near-Earth object tracking missions; died at 59 with no publicly disclosed cause of death; case included in White House/FBI/Congressional review of 11 scientist deaths and disappearances (April 2026)
 
 ## Key Dates
 

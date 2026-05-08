@@ -1,5 +1,7 @@
 # Foreign Intelligence Analysis Layer
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/analysis/foreign-intel-layer.md). 2026-05-08 revision added enrichment links (Swecker, Kaku, Wright + DOE primary), expanded acronyms on first use (SAPOC, DOD, OUSD(AT&L), AFRL, DOE, CSIS, NTI, MSS, GRU, SVR, IRGC, MOIS).*
+
 This document evaluates the hypothesis that foreign state intelligence services are involved in any of the 11 cases. It examines historical precedent, specific case evidence, expert assessments, and foreign media coverage patterns. The analysis aims for explicit neutrality -- neither dismissing the possibility nor endorsing it without evidence.
 
 ---
@@ -18,7 +20,7 @@ This document evaluates the hypothesis that foreign state intelligence services 
 
 The Israeli precedent is the closest analogue but differs in critical ways:
 
-1. **Iran's program was small and vulnerable.** Iran had a limited number of irreplaceable nuclear weapons scientists. The U.S. defense-science workforce numbers in the tens of thousands, making individual targeting strategically futile for capability degradation (as NTI's Roecker argued). [T4, Reported]
+1. **Iran's program was small and vulnerable.** Iran had a limited number of irreplaceable nuclear weapons scientists. The U.S. defense-science workforce numbers in the tens of thousands, making individual targeting strategically futile for capability degradation (as Nuclear Threat Initiative (NTI) staffer Roecker argued). [T4, Reported]
 
 2. **Methods were sophisticated and attributable.** Israeli operations used car bombs, motorcycle shootings, and remote-controlled weapons -- operationally complex methods that left clear evidence of state-actor involvement. The current cases show no such operational signatures. No case has physical evidence suggesting sophisticated tradecraft. [Case file review]
 
@@ -34,7 +36,7 @@ The Israeli precedent is the closest analogue but differs in critical ways:
 
 **[McCasland](../cases/mccasland.md)** (Missing, Feb 2026)
 
-*For:* Career profile makes him objectively a high-value intelligence target. Former SAPOC executive secretary (oversight of all DOD Special Access Programs). Former AFRL commander. Director of Special Programs in OUSD(AT&L). Post-retirement work at Applied Technology Associates/BlueHalo (directed energy, space warfare, missile defense). His knowledge base, even 13 years after military retirement, would be of interest to any peer adversary. [T1 official biography, Confirmed]
+*For:* Career profile makes him objectively a high-value intelligence target. Former Special Access Program Oversight Committee (SAPOC) executive secretary (oversight of all U.S. Department of Defense (DOD) Special Access Programs). Former Air Force Research Laboratory (AFRL) commander. Director of Special Programs in the Office of the Under Secretary of Defense for Acquisition, Technology & Logistics (OUSD(AT&L)). Post-retirement work at Applied Technology Associates/BlueHalo (directed energy, space warfare, missile defense). His knowledge base, even 13 years after military retirement, would be of interest to any peer adversary. [T1 official biography, Confirmed]
 
 *Against:* BCSO stated it has "not developed evidence establishing that Mr. McCasland's disappearance is connected to his classified work" [T4 Newsweek, Confirmed]. Wife reported he experienced "mental fog," anxiety, memory loss, and sleep issues [T4, Reported]. She stated he had "only very commonly held clearances" since retiring [T4, Reported]. He took his wallet and revolver -- inconsistent with forced abduction but potentially consistent with voluntary departure under distress. No intelligence agency has indicated foreign involvement. [T4, Confirmed]
 
@@ -64,21 +66,21 @@ The Israeli precedent is the closest analogue but differs in critical ways:
 
 ### Supporting foreign-involvement concern
 
-**Chris Swecker** (Former FBI Assistant Director): Characterized cases as potential "modern-day espionage." Suggested foreign powers could be involved through abduction, blackmail, torture, or killing. Warned against treating each case separately. Framed his analysis conditionally. [T4 Fox News, Reported]
+**[Chris Swecker](https://en.wikipedia.org/wiki/Chris_Swecker)** (Former FBI Assistant Director): Characterized cases as potential "modern-day espionage." Suggested foreign powers could be involved through abduction, blackmail, torture, or killing. Warned against treating each case separately. Framed his analysis conditionally. [T4 Fox News, Reported]
 
 **Rep. Eric Burlison** (House Oversight Subcommittee Chair): Stated pattern "has all the hallmarks of a foreign operation" and named China, Russia, and Iran as potential actors. Called it the "most likely explanation." His statement carries political weight but is not based on disclosed evidence. [T4 Newsweek, Reported]
 
-**Michio Kaku** (Physicist, City College of New York): Called the clustering "unheard of" and a cause for "national concern." Advocated for evidence-driven investigation, not speculation. Did not specifically endorse the foreign-intelligence theory. [T4 Fox News/Newsweek, Reported]
+**[Michio Kaku](https://en.wikipedia.org/wiki/Michio_Kaku)** (Physicist, City College of New York): Called the clustering "unheard of" and a cause for "national concern." Advocated for evidence-driven investigation, not speculation. Did not specifically endorse the foreign-intelligence theory. [T4 Fox News/Newsweek, Reported]
 
 ### Against foreign-involvement theory
 
 **Jennifer Coffindaffer** (Retired FBI Special Agent): Stated categorically this is "not a large-scale conspiracy targeting people in science-based industry." Sees "no connections between the cases other than similar scientific occupations." Predicted the FBI will find "pragmatic and logical explanations." [T4 Newsweek, Reported]
 
-**Joseph Rodgers** (Deputy Director, Project on Nuclear Issues, CSIS): Noted cases are "scattered across several years at different and only loosely affiliated organizations." Said he would be "more suspicious if all the scientists were working on one project or weapons system." Found no clear common thread. [T4 CBS News, Reported]
+**Joseph Rodgers** (Deputy Director, [Project on Nuclear Issues](https://www.csis.org/programs/project-nuclear-issues), Center for Strategic and International Studies (CSIS)): Noted cases are "scattered across several years at different and only loosely affiliated organizations." Said he would be "more suspicious if all the scientists were working on one project or weapons system." Found no clear common thread. [T4 CBS News, Reported]
 
 **Scott Roecker** (VP Nuclear Materials Security, NTI): Argued there would be "nothing strategic a foreign adversary could achieve by targeting 10 or 20 U.S. nuclear scientists." Noted many subjects were long-retired or outside classified domains. Pointed out the U.S. has thousands of scientists and robust infrastructure that is not vulnerable to individual-level disruption. [T4 CBS News, Reported]
 
-**Chris Wright** (DOE Secretary): Confirmed DOE is investigating but stated "we have not found anything alarming yet." [T4 Fortune, Reported]
+**[Chris Wright](https://en.wikipedia.org/wiki/Chris_Wright)** ([U.S. Department of Energy (DOE) Secretary](https://www.energy.gov/person/chris-wright)): Confirmed DOE is investigating but stated "we have not found anything alarming yet." [T4 Fortune, Reported]
 
 ### Assessment of expert divide
 
@@ -131,17 +133,17 @@ Foreign state-affiliated media coverage provides indirect evidence about how adv
 
 ### China
 - **Collection priority alignment:** Moderate. Chinese intelligence has documented interest in U.S. defense technology, aerospace, and advanced materials. Reza's superalloy work and McCasland's SAP knowledge are in domains where Chinese collection is active.
-- **Operational history:** China's espionage model emphasizes recruitment, insider access, cyber intrusion, and "thousand grains of sand" human intelligence. Documented operations focus on knowledge extraction, not assassination or disappearance. The MSS has not been documented conducting lethal operations against foreign targets on U.S. soil.
+- **Operational history:** China's espionage model emphasizes recruitment, insider access, cyber intrusion, and "thousand grains of sand" human intelligence. Documented operations focus on knowledge extraction, not assassination or disappearance. The Chinese Ministry of State Security (MSS) has not been documented conducting lethal operations against foreign targets on U.S. soil.
 - **Evidence in these cases:** None. [Assessment based on public record of Chinese espionage operations]
 
 ### Russia
 - **Collection priority alignment:** Moderate. Russian intelligence has interest in propulsion technology (relevant to Reza) and space/missile defense programs (relevant to McCasland's career).
-- **Operational history:** Russia has conducted lethal operations abroad (Litvinenko 2006, Skripal 2018, multiple operations against defectors). However, targets have been Russian nationals/defectors, not foreign defense scientists. GRU and SVR operations typically leave forensic signatures (nerve agents, radioactive materials).
+- **Operational history:** Russia has conducted lethal operations abroad (Litvinenko 2006, Skripal 2018, multiple operations against defectors). However, targets have been Russian nationals/defectors, not foreign defense scientists. Russian Military Intelligence (GRU) and Russian Foreign Intelligence Service (SVR) operations typically leave forensic signatures (nerve agents, radioactive materials).
 - **Evidence in these cases:** None. No forensic evidence of Russian tradecraft has been reported. [Assessment based on public record]
 
 ### Iran
 - **Collection priority alignment:** Low to moderate. Iran's intelligence collection priorities focus on nuclear technology (relevant only if subjects had nuclear weapons knowledge), regional adversaries (Israel, Saudi Arabia), and opposition figures. Most subjects' work is not aligned with Iranian collection priorities.
-- **Operational history:** Iran has conducted assassination plots on U.S. soil (e.g., the 2011 plot against Saudi ambassador Adel al-Jubeir, disrupted by FBI). IRGC and MOIS have targeted Iranian dissidents abroad. However, targeting American defense scientists would represent a significant escalation with no documented precedent.
+- **Operational history:** Iran has conducted assassination plots on U.S. soil (e.g., the 2011 plot against Saudi ambassador Adel al-Jubeir, disrupted by FBI). The Iranian Revolutionary Guard Corps (IRGC) and Iranian Ministry of Intelligence and Security (MOIS) have targeted Iranian dissidents abroad. However, targeting American defense scientists would represent a significant escalation with no documented precedent.
 - **Evidence in these cases:** None. [Assessment based on public record]
 
 ### Other state actors

@@ -1,7 +1,9 @@
-# Chris Wright (DOE)
+# [Chris Wright](https://en.wikipedia.org/wiki/Chris_Wright) (DOE)
+
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/named-expert-commentary/chris-wright-doe.md). 2026-05-08 revision added Wikipedia link plus a DOE staff-page primary-source link to the subject's name.*
 
 ## Credentials
-U.S. Secretary of Energy (appointed 2025). Former CEO of Liberty Energy. Background in engineering and energy industry leadership.
+[U.S. Secretary of Energy](https://www.energy.gov/person/chris-wright) (appointed 2025). Former CEO of Liberty Energy. Background in engineering and energy industry leadership.
 
 ## Relevance Assessment
 Direct authority. As Energy Secretary, Wright oversees the Department of Energy, which manages the national laboratories (LANL, Sandia, etc.) where several of the missing/dead scientists worked or had affiliations.

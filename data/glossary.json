@@ -3,18 +3,20 @@
   "description": "Acronym and abbreviation glossary for the research dossier. Used by the website build to generate <abbr> tooltips. Entries with a 'url' field also become outbound links to the authoritative institutional page.",
   "entries": [
     { "abbr": "AFRL", "full": "Air Force Research Laboratory", "url": "https://www.afrl.af.mil/" },
-    { "abbr": "LANL", "full": "Los Alamos National Laboratory", "url": "https://www.lanl.gov/" },
-    { "abbr": "JPL", "full": "Jet Propulsion Laboratory (NASA)", "url": "https://www.jpl.nasa.gov/" },
+    { "abbr": "USAF", "full": "U.S. Air Force", "url": "https://www.af.mil/" },
+    { "abbr": "LANL", "full": "Los Alamos National Laboratory", "url": "https://web.archive.org/web/20260101005448/https://www.lanl.gov/", "url_note": "Wayback snapshot (2026-01-01); www.lanl.gov has been returning 404 across all paths since site redesign began." },
+    { "abbr": "JPL", "full": "NASA Jet Propulsion Laboratory", "url": "https://www.jpl.nasa.gov/" },
     { "abbr": "NNSA", "full": "National Nuclear Security Administration", "url": "https://www.energy.gov/nnsa/" },
     { "abbr": "DOE", "full": "U.S. Department of Energy", "url": "https://www.energy.gov/" },
     { "abbr": "DOD", "full": "U.S. Department of Defense", "url": "https://www.defense.gov/" },
     { "abbr": "SAPOC", "full": "Special Access Program Oversight Committee" },
     { "abbr": "SAP", "full": "Special Access Program" },
     { "abbr": "OUSD(AT&L)", "full": "Office of the Under Secretary of Defense for Acquisition, Technology & Logistics" },
+    { "abbr": "C4ISR", "full": "Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance" },
     { "abbr": "IPAC", "full": "Infrared Processing and Analysis Center (Caltech)", "url": "https://www.ipac.caltech.edu/" },
     { "abbr": "KCNSC", "full": "Kansas City National Security Campus", "url": "https://kcnsc.doe.gov/" },
-    { "abbr": "PSFC", "full": "Plasma Science and Fusion Center (MIT)", "url": "https://www.psfc.mit.edu/" },
-    { "abbr": "MSFC", "full": "Marshall Space Flight Center (NASA)", "url": "https://www.nasa.gov/marshall/" },
+    { "abbr": "PSFC", "full": "MIT Plasma Science and Fusion Center", "url": "https://www.psfc.mit.edu/" },
+    { "abbr": "MSFC", "full": "NASA Marshall Space Flight Center", "url": "https://www.nasa.gov/marshall/" },
     { "abbr": "BCSO", "full": "Bernalillo County Sheriff's Office", "url": "https://www.bernco.gov/sheriff/" },
     { "abbr": "APD", "full": "Albuquerque Police Department", "url": "https://www.cabq.gov/police" },
     { "abbr": "NMSP", "full": "New Mexico State Police", "url": "https://www.nmsp.nm.gov/" },
@@ -50,6 +52,7 @@
     { "abbr": "HAL5", "full": "Huntsville Alabama L5 Society" },
     { "abbr": "IST", "full": "Instituto Superior Técnico (Portugal)", "url": "https://tecnico.ulisboa.pt/en/" },
     { "abbr": "UAP", "full": "Unidentified Aerial Phenomena" },
-    { "abbr": "DEW", "full": "Directed Energy Weapon" }
+    { "abbr": "DEW", "full": "Directed Energy Weapon" },
+    { "abbr": "IGIC", "full": "Intelligence Community Inspector General" }
   ]
 }

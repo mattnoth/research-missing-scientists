@@ -1,6 +1,8 @@
 # Melissa Casias
 
-**Status:** Missing, Endangered (per NamUs MP150628 and NMSP classification)
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/casias.md). 2026-05-08 revision expanded acronyms on first use (NamUs, NMSP) and annotated the soft-404 NamUs URL.*
+
+**Status:** Missing, Endangered (per National Missing and Unidentified Persons System (NamUs) record MP150628 and New Mexico State Police (NMSP) classification)
 **Date of incident:** June 26, 2025
 **Location:** Talpa / Ranchos de Taos, Taos County, New Mexico
 **Affiliation:** Administrative assistant, Los Alamos National Laboratory (LANL)
@@ -70,7 +72,7 @@ As of September 2025, NMSP spokesperson Wilson Silver confirmed there were no up
 
 | Source | Type | URL |
 |--------|------|-----|
-| NamUs MP150628 | Federal missing-persons database (T1) | https://namus.nij.ojp.gov/missing-person-namus-mp150628 |
+| NamUs MP150628 | Federal missing-persons database (T1) | https://namus.nij.ojp.gov/missing-person-namus-mp150628 *(record exists; content fields blank as of 2026-05-08)* |
 | NMSP statements (via media) | Law enforcement spokesperson quotes (T1) | Quoted in ABQ Journal and Taos News articles below |
 
 ## Secondary Sources

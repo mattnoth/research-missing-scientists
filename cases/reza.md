@@ -1,5 +1,7 @@
 # Monica Jacinto Reza
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/reza.md). 2026-05-08 revision annotated the soft-404 solvethecase.org URL.*
+
 | Field | Value |
 |---|---|
 | **Full Name** | Monica Jacinto Reza |
@@ -130,7 +132,7 @@ Reza's disappearance is one of 11 cases of missing or deceased scientists with g
 
 | # | Source | Type | URL |
 |---|---|---|---|
-| S1 | LASD missing person bulletin / Solve the Case listing | LE record | https://www.solvethecase.org/case/2025-56/monica-reza |
+| S1 | LASD missing person bulletin / Solve the Case listing | LE record | https://www.solvethecase.org/case/2025-56/monica-reza *(record exists; content fields blank as of 2026-05-08)* |
 | S2 | LASD statement via Acting Captain Ryan A. Vienna, Crescenta Valley Station | LE statement | https://www.crescentavalleyweekly.com/news/07/03/2025/update-on-efforts-to-locate-missing-hiker-monica-reza/ |
 | S3 | US Patent US-20100266442-A1 (Google Patents) | Government record | https://patents.google.com/patent/US20100266442A1/en |
 | S4 | US Patent US-20030053926-A1 (Google Patents) | Government record | https://patents.google.com/patent/US20030053926A1/en |

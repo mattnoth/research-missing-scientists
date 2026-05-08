@@ -1,4 +1,6 @@
-# Steven Greer
+# [Steven Greer](https://en.wikipedia.org/wiki/Steven_M._Greer)
+
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/named-expert-commentary/steven-greer.md). 2026-05-08 revision added Wikipedia link to the subject's name.*
 
 ## Credentials
 Retired emergency medicine physician (former Chairman of Emergency Medicine at Caldwell Memorial Hospital). Founder of the Disclosure Project (1993) and the Center for the Study of Extraterrestrial Intelligence (CSETI). Has organized National Press Club events featuring military and intelligence witnesses. Prolific filmmaker and author on UAP topics.

@@ -1,10 +1,12 @@
 # Foreign Coverage: Iran
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/foreign-coverage/iran.md)*
+
 ## Outlet(s)
 
 ### Tehran Times
 - **Orientation:** State-affiliated (linked to Islamic Propagation Organization)
-- **Tier:** 7 (Foreign state-affiliated press)
+- **Tier:** 8 (Foreign state-affiliated press) *(updated 2026-05-08 — [see GitHub for details](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/foreign-coverage/iran.md))*
 - **Article found:**
   - "The disappearance of 10 American scientists and a potential weapons program" (April 18, 2026)
   - Author: Kourosh Alyani
@@ -12,7 +14,7 @@
 
 ### Press TV
 - **Orientation:** State-affiliated (Iranian state broadcaster's English-language service)
-- **Tier:** 7 (Foreign state-affiliated press)
+- **Tier:** 8 (Foreign state-affiliated press) *(updated 2026-05-08 — [see GitHub for details](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/foreign-coverage/iran.md))*
 - **Article found:**
   - "White House launches probe into mysterious disappearances of elite US scientists" (April 17, 2026)
   - URL: https://www.presstv.ir/Detail/2026/04/17/767034/White-House-launching-probe-into-mysterious-disappearances-of-elite-US-scientists

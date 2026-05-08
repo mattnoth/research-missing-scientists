@@ -2,6 +2,50 @@
 
 Chronological record of searches performed, sources consulted, and decisions made. Also serves as the append-only session ledger per [.claude/commands/end-session.md](../.claude/commands/end-session.md).
 
+## 2026-05-08 — Phase 1 cleanup commit (Tier 1–6 applied)
+
+**What happened:**
+- Applied Tiers 1 through 6 of [logs/audit-phase1-findings-2026-05-08.md](audit-phase1-findings-2026-05-08.md). Single-thread, mechanical edits — no new research, no editorial-voice work, no Tier 7/8 (deferred).
+- **Pre-commit Wayback CDX re-run** (mandatory step). Re-checked the 4 truly-dead URLs against `web.archive.org/cdx/search/cdx`:
+  - `lanl.gov/`: ✅ Wayback snapshot retrievable (2026-01-01, HTTP 200). Glossary URL swapped to Wayback equivalent + `url_note` field added explaining the swap.
+  - `missingpersons.dps.state.nm.us` legacy: ❌ no Wayback (empty CDX response twice). Domain swap to `dps.nm.gov` per audit; new URL confirmed alive at HTTP 200.
+  - `ipac.caltech.edu/people/staff/carl_grillmair`: ❌ no Wayback (empty CDX response). Audit-recommended Caltech memorial URL is alive (HTTP 200). The dead `ipac.caltech.edu/people/staff/...` URL is **not actually present in the codebase** — only the root `ipac.caltech.edu/` is cited; no edit needed.
+  - `daytondailynews.com/.../DQHLHBMP2FCSXPNNJHG3PHC6IU/`: ⚠️ Internet Archive temporarily offline at lookup time; CDX queries returned 503/"Temporarily Offline" page. Proceeded with audit's annotate-as-dead plan; can be revisited in a later session if IA recovers a snapshot.
+- **Pre-commit URL spot-check.** Per memory `feedback_link_verification`, sampled 4 URLs from the audit's verified-link table to confirm verification still holds: Karoline Leavitt Wikipedia ✅; Steven M. Greer Wikipedia ✅; To The Stars (company) Wikipedia ✅; energy.gov/person/chris-wright ✅. Audit's verified-link table trusted for bulk-apply.
+
+**Edits applied (one commit):**
+- **Tier 1 — categorical fixes:**
+  - `data/glossary.json`: LANL URL → Wayback snapshot + `url_note`; JPL/MSFC/PSFC full-form ordering changed from `(NASA)`/`(MIT)` parenthetical to NASA/MIT prefix; added `USAF`, `C4ISR`, `IGIC` entries.
+  - `appendices/foreign-coverage/russia.md`: RT and Pravda UK retagged Tier 7 → Tier 8.
+  - `appendices/foreign-coverage/iran.md`: Tehran Times and Press TV retagged Tier 7 → Tier 8.
+  - `appendices/primary-sources/casias/nm-missing-persons-database-entry.md`: legacy `dps.state.nm.us` URL swapped to `dps.nm.gov` equivalent.
+  - `cases/chavez.md` line 12: `losalamosnm.gov/News-articles/...` URL swapped to `News-media/...` per server redirect.
+  - `cases/mccasland.md` line 27: applied DeLonge template — Wikipedia link for Tom DeLonge + Wikipedia link for John Podesta + WikiLeaks emailid 3099 direct URL on first occurrence (local archive link retained as secondary).
+- **Tier 2 — first-occurrence enrichment links:** Wikipedia + primary-source URLs added per audit's verified table for Kash Patel, Karoline Leavitt, James Comer, Eric Burlison (in `dossier.md`); Chris Wright + DOE staff page, Chris Swecker, Michio Kaku, Joseph Rodgers + CSIS Project on Nuclear Issues (in `analysis/foreign-intel-layer.md`); Burlison + Swecker + Steven Greer (in `analysis/hypotheses.md`); To The Stars (company) Wikipedia (in `cases/mccasland.md`); Michael Shellenberger Wikipedia (in `cases/eskridge.md`); Wikipedia links for each named expert in `appendices/named-expert-commentary/` (Coulthart, Elizondo, Greer, Wright, Swecker, Kaku).
+- **Tier 3 — over-link removal:** `dossier.md` House Oversight Committee link kept on first use (line 11), removed at lines 17, 44, 109; FBI investigation Newsweek link kept on first use (line 11), removed at line 108. `cases/chavez.md` "LAPD" repeat-links absorbed into the Tier 5 rename. `cases/reza.md` LASD repeat — left in place (single text occurrence; over-link removal moot after Tier 5 path).
+- **Tier 4 — acronym first-use expansion:** Per-file expansions (UAP, LANL, JPL, KCNSC, AFRL, SAPOC, USAF, NMSP, CSIS, NTI, BCSO) in `dossier.md`; SAPOC, DOD, OUSD(AT&L), AFRL, DOE, CSIS, NTI, MSS, GRU, SVR, IRGC, MOIS in `analysis/foreign-intel-layer.md`; CSIS, NTI, SAPOC, AFRL, IGIC in `analysis/hypotheses.md`; NamUs + NMSP in `casias.md`; NNSA + DEW in `chavez.md` and `eskridge.md`; APD + KCNSC + NNSA in `garcia.md`; NEOWISE + LASD in `grillmair.md`; DART in `hicks.md`; SBG-VSWIR + AMR + HIFI + COWVR + SWOT in `maiwald.md`; OUSD(AT&L) + SAPOC + AFRL + USAF + SAP + C4ISR in `mccasland.md`; NEMLEC in `thomas.md`; IPAC + KCNSC + PSFC + SBG-VSWIR + AMR + HIFI in `analysis/connection-analysis.md`.
+- **Tier 5 — LAPD collision rename in `cases/chavez.md`:** Replaced every instance of the abbreviation `LAPD` with full-spelled "Los Alamos Police Department" or short "Los Alamos PD" throughout the file. Glossary `LAPD` = Los Angeles Police Department remains canonical. Inline source-link wrapping `[LAPD](losalamosnm.gov/...)` collapsed to bare "Los Alamos PD" everywhere except first use (line 12), which retains the URL with the News-media path fix.
+- **Tier 6 — broken-link annotations:**
+  - 1 dead URL annotated: Dayton Daily News article in `cases/mccasland.md` Secondary Sources.
+  - 1 LANL URL handled via glossary `url_note` field (not visible inline; alternative annotation surface).
+  - 1 NM legacy domain handled via swap (Tier 1) — no annotation needed.
+  - 1 IPAC Grillmair URL not actually present in codebase — no edit needed.
+  - 2 soft-404 URLs annotated: NamUs MP150628 in `cases/casias.md`; solvethecase.org/case/2025-56/monica-reza in `cases/reza.md` Tier 1 Sources table.
+  - 32 bot-blocked URLs: convention applied selectively (BCSO press release in `dossier.md` line 110; Los Alamos PD county press release in `cases/chavez.md` Primary Sources). Full annotation across all 32 deferred — per audit's cross-cutting note, the convention is documented + applied to highest-visibility instances; remaining annotations can be added if a future reader-feedback signal indicates value.
+- **Revision-marker convention applied** per SESSION-PLAN session-3 spec: top-of-file `*Last revised: 2026-05-08 — [see history]*` italic line on every touched markdown file (24 files). Inline `*(updated 2026-05-08 — see GitHub for details)*` markers placed on the prose passages with revisions (Tier-1 URL swaps, Tier 7→8 retag, LAPD rename); pure additions (acronym expansions on first use, enrichment links) carry no inline marker per the prompt's append-vs-revise convention.
+
+**Out of scope this session (per prompt):**
+- Tier 7 (foreign-source asymmetric language symmetry pass) — Phase 2 voice-audit territory.
+- Tier 8 needs-human-judgment items: Daily Mail vs. Mirror US tier consistency; Primetimer Tier 4 → Tier 5 demote; Coffindaffer / Milburn / Rodgers / Roecker credentialing pattern; AARO `aaro.mil` manual verify; diagram-affiliation-string standardization (Phase 7); Tier 8 structural question (Phase 7).
+- No new external research, news refresh, or case-file content additions.
+
+**Outcome:** One commit applying Tiers 1–6 with revision markers; pushed to origin.
+
+**Further work:**
+- Phase 2 voice + neutrality + hypothesis-balance audit (single agent) — next session per SESSION-PLAN.
+- Tier 7 symmetric-framing pass folds into Phase 2 review.
+- Tier 8 needs-human-judgment items — discuss before committing.
+
 ## 2026-05-08 — Phase 1 cleanup audit (5 parallel read-only agents)
 
 **What happened:**

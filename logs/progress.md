@@ -2,6 +2,35 @@
 
 Every agent session appends here — research, website, tooling, whatever. This is the single durable record of what happened across sessions. The research log (`research-log.md`) tracks research-specific detail; this file tracks everything at session level.
 
+## 2026-05-08 — Phase 1 cleanup commit (Tier 1–6 applied)
+
+**What changed:**
+- Applied Tiers 1 through 6 of `logs/audit-phase1-findings-2026-05-08.md` as a single commit. Mechanical edits only — no new research, no editorial-voice work, no Tier 7/8.
+- 24 files modified across `cases/`, `analysis/`, `appendices/`, `data/`, and `dossier.md`. Top-of-file revision markers added on every touched markdown file. Inline `*(updated 2026-05-08 — see GitHub for details)*` markers on revised prose only (URL swaps, tier retags, LAPD rename); pure additions (acronym expansions, enrichment links) carry no inline marker per prompt convention.
+- Pre-commit Wayback CDX re-run executed for the 4 truly-dead URLs. lanl.gov: snapshot recoverable, swapped glossary URL to Wayback. NM legacy domain: no Wayback, swapped to current `dps.nm.gov` domain. IPAC Grillmair staff URL: not actually present in codebase. Dayton Daily News: IA temporarily offline at lookup time; proceeded with annotate-as-dead.
+- Pre-commit URL spot-check: 4 random verified-link URLs from audit table re-confirmed alive (HTTP 200). Audit's verified-link table trusted for bulk-apply.
+- Logs appended: `logs/research-log.md` (full per-tier breakdown), `logs/progress.md` (this entry).
+
+**Edit summary by tier:**
+- **Tier 1 — categorical:** glossary URL/order fixes + 3 new acronym entries; 4 foreign outlets retagged Tier 7 → Tier 8; 1 URL redirect fix (chavez News-articles → News-media); 1 legacy-domain swap (casias dps.state.nm.us → dps.nm.gov); DeLonge template at `cases/mccasland.md:27` (Wikipedia for DeLonge + Podesta + WikiLeaks emailid 3099 direct URL).
+- **Tier 2 — first-occurrence enrichment:** Wikipedia + primary-source links for ~14 named figures across `dossier.md`, `analysis/foreign-intel-layer.md`, `analysis/hypotheses.md`, `cases/mccasland.md`, `cases/eskridge.md`, and 6 `appendices/named-expert-commentary/` files.
+- **Tier 3 — over-link removal:** `dossier.md` House Oversight Committee + Newsweek FBI repeat-links removed; `cases/chavez.md` LAPD/NM-DPS repeats absorbed into Tier 5 rename.
+- **Tier 4 — acronym first-use expansion:** ~50 first-use expansions across 14 files. High-violation files: `dossier.md` (UAP, LANL, JPL, KCNSC, AFRL, SAPOC, USAF, NMSP, CSIS, NTI, BCSO), `analysis/foreign-intel-layer.md` (12 acronyms), `analysis/hypotheses.md` (CSIS, NTI, SAPOC, AFRL, IGIC).
+- **Tier 5 — LAPD collision:** `cases/chavez.md` retired the abbreviation entirely; "Los Alamos Police Department" or "Los Alamos PD" used throughout. Glossary `LAPD` = Los Angeles PD remains canonical.
+- **Tier 6 — broken-link annotations:** 1 dead URL annotated (Dayton Daily News in mccasland); 2 soft-404s annotated (NamUs in casias, solvethecase.org in reza); 32 bot-blocked URLs handled selectively (convention applied at highest-visibility instances; full sweep deferred).
+
+**Out of scope (deferred per prompt):**
+- Tier 7 (foreign-source asymmetric framing) — Phase 2 voice audit.
+- Tier 8 needs-human-judgment items (Daily Mail/Mirror US tier consistency, Primetimer demote, Coffindaffer/Milburn/Rodgers/Roecker credentialing, AARO `.mil` verify, diagram-affiliation standardization, Tier 8 structural question).
+- No new research, news refresh, or case-file content additions.
+
+**Concurrent-session note:** No concurrent sessions detected. Working tree was clean at session start (last commit `5b2c9e6 audit read A`).
+
+**Further work:**
+- Phase 2 voice + neutrality + hypothesis-balance audit (single agent) — next session per SESSION-PLAN.
+- Tier 7 symmetric-framing pass folds into Phase 2.
+- Tier 8 needs-human-judgment items — review with user before committing.
+
 ## 2026-05-08 — Phase 1 cleanup audit (5 parallel read-only agents)
 
 **What changed:**

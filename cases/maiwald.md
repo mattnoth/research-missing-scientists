@@ -1,10 +1,12 @@
 # Frank Maiwald
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/maiwald.md). 2026-05-08 revision expanded acronyms on first use (SBG-VSWIR, AMR, HIFI, COWVR, SWOT).*
+
 **Status:** Deceased -- cause of death not publicly disclosed; reportedly no autopsy performed
 **Date of incident:** July 4, 2024
 **Location:** Los Angeles, California
 **Affiliation:** NASA Jet Propulsion Laboratory (JPL), Principal Researcher (~1999--2024)
-**Inclusion rationale:** JPL principal researcher working on advanced Earth observation and space instrumentation (SBG-VSWIR, AMR, HIFI/Herschel); died at 61 with no publicly disclosed cause of death and reportedly no autopsy; case included in White House/FBI/Congressional review of 11 scientist deaths and disappearances (April 2026)
+**Inclusion rationale:** JPL principal researcher working on advanced Earth observation and space instrumentation (Surface Biology and Geology — Visible to Shortwave Infrared (SBG-VSWIR); Advanced Microwave Radiometer (AMR); Heterodyne Instrument for the Far Infrared (HIFI) on Herschel); died at 61 with no publicly disclosed cause of death and reportedly no autopsy; case included in White House/FBI/Congressional review of 11 scientist deaths and disappearances (April 2026)
 
 ## Key Dates
 
@@ -14,7 +16,7 @@
 | ~Late 1980s--1990s | PhD in Applied Physics, University of Cologne |
 | ~1999 | Joined JPL |
 | ~2000s | Contributed to HIFI instrument for Herschel Space Observatory (local oscillator, THz frequency components) |
-| ~2010s | Worked on AMR/Jason 3, AMR/SWOT, COWVR, AMR-C programs |
+| ~2010s | Worked on AMR/Jason 3, AMR/Surface Water and Ocean Topography (SWOT), Cloud and Ocean Vector Radiometer (COWVR), AMR-C programs |
 | June 2023 | Led breakthrough research related to detecting signs of life on icy moons (Europa, Enceladus, Ceres) |
 | May 2024 | Co-authored SPIE paper on SBG-VSWIR optical design |
 | July 4, 2024 | Died in Los Angeles, CA, age 61 |

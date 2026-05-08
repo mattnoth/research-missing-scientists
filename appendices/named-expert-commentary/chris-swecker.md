@@ -1,4 +1,6 @@
-# Chris Swecker
+# [Chris Swecker](https://en.wikipedia.org/wiki/Chris_Swecker)
+
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/named-expert-commentary/chris-swecker.md). 2026-05-08 revision added Wikipedia link to the subject's name.*
 
 ## Credentials
 Former FBI Assistant Director (Criminal Investigative Division). Served in the FBI for 24 years. Now a consultant and media commentator on law enforcement and national security matters.

@@ -57,7 +57,7 @@ Four patterns from `/Users/mnoth/source/asoiaf-chat/` (Weirwood Network) that ma
 Every scratch.txt open item also lives here as a trackable checkbox. **For the operating context, decisions, and agent strategy per item, see [SESSION-PLAN.md](SESSION-PLAN.md) and [scratch.txt](scratch.txt).** This list is the index — those files hold the substance.
 
 ### Phase 1 — Cleanup audit (5 parallel read-only agents)
-*Findings consolidated 2026-05-08 in [logs/audit-phase1-findings-2026-05-08.md](logs/audit-phase1-findings-2026-05-08.md). Cleanup commit pending review (SESSION-PLAN session 3).*
+*Findings consolidated 2026-05-08 in [logs/audit-phase1-findings-2026-05-08.md](logs/audit-phase1-findings-2026-05-08.md). Cleanup commit applied 2026-05-08 (Tier 1–6); Tier 7 deferred to Phase 2 voice audit; Tier 8 needs-human-judgment items pending discussion.*
 - [x] **Agent A — both-links sweep** (Tom DeLonge + other public figures: Wikipedia + primary-source URL on first occurrence per file; verify-don't-trust)
 - [x] **Agent B — acronym audit** (first-use expansion per file; glossary completeness; cross-file consistency; over-linking flag)
 - [x] **Agent C — broken-links pass** (every URL across case files / appendices / glossary.json / data JSON; alive/dead/redirected; Wayback availability for dead) — *Wayback CDX API was down during sweep; re-run before cleanup commit.*

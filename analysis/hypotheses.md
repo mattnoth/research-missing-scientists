@@ -1,5 +1,7 @@
 # Pre-Registered Hypotheses
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/analysis/hypotheses.md). 2026-05-08 revision added enrichment links (Burlison, Swecker, Greer) and expanded acronyms on first use (CSIS, NTI, SAPOC, IGIC).*
+
 These hypotheses were registered before pattern analysis began. The research evaluates evidence for and against each, rather than pattern-hunting post hoc. Hypotheses may be added but not removed or weakened without explicit justification.
 
 ---
@@ -27,9 +29,9 @@ Several findings support this hypothesis:
 
 2. **No common vector or method.** Cases include hiking disappearances (Reza, possibly Chavez), walking away from home (Casias, Garcia, McCasland, Thomas), shooting by identified suspect (Grillmair, Loureiro), undisclosed cause of death (Hicks, Maiwald), and ruled suicide (Eskridge). No two cases share a method.
 
-3. **Selection bias is documented.** The 11 cases were not identified as a cluster by law enforcement or intelligence agencies. They were grouped by media and social media beginning in early 2026, with earlier cases (Hicks 2023, Maiwald 2024, Eskridge 2022) retroactively added. CBS News and CSIS analyst Joseph Rodgers noted the cases are "scattered across several years at different and only loosely affiliated organizations" [T4, Reported]. Former FBI agent Jennifer Coffindaffer stated she sees "no connections between the cases other than similar scientific occupations" and predicted the FBI will find "pragmatic and logical explanations" [T4 Newsweek, Reported].
+3. **Selection bias is documented.** The 11 cases were not identified as a cluster by law enforcement or intelligence agencies. They were grouped by media and social media beginning in early 2026, with earlier cases (Hicks 2023, Maiwald 2024, Eskridge 2022) retroactively added. CBS News and Center for Strategic and International Studies (CSIS) analyst Joseph Rodgers noted the cases are "scattered across several years at different and only loosely affiliated organizations" [T4, Reported]. Former FBI agent Jennifer Coffindaffer stated she sees "no connections between the cases other than similar scientific occupations" and predicted the FBI will find "pragmatic and logical explanations" [T4 Newsweek, Reported].
 
-4. **Base rates not formally calculated but contextually relevant.** NTI's Scott Roecker noted the U.S. has "thousands of scientists" in the defense/nuclear workforce, and that targeting 10-20 would achieve nothing strategic [T4 CBS News, Reported]. The combined workforce of LANL (~14,000), JPL (~6,000), and affiliated institutions is in the tens of thousands. Over a four-year window, the expected number of deaths and disappearances in a population this size is nontrivial, though no formal actuarial analysis has been performed.
+4. **Base rates not formally calculated but contextually relevant.** Nuclear Threat Initiative (NTI) staffer Scott Roecker noted the U.S. has "thousands of scientists" in the defense/nuclear workforce, and that targeting 10-20 would achieve nothing strategic [T4 CBS News, Reported]. The combined workforce of LANL (~14,000), JPL (~6,000), and affiliated institutions is in the tens of thousands. Over a four-year window, the expected number of deaths and disappearances in a population this size is nontrivial, though no formal actuarial analysis has been performed.
 
 Against this hypothesis:
 
@@ -136,9 +138,9 @@ Supporting evidence:
 
 1. **Historical precedent exists** for state-actor targeting of scientists (Israel's targeting of Iranian nuclear scientists is the most relevant modern case). This establishes that the category is real, not that it applies here. [Public record, Confirmed]
 
-2. **Some subjects had strategic knowledge.** McCasland's career (SAPOC executive secretary, AFRL commander, space weapons, classified special programs) makes him objectively a high-value intelligence target. Reza's Mondaloy superalloy has direct relevance to U.S. rocket engine development and efforts to reduce dependence on Russian RD-180 engines. [T1 official biography; T1 USPTO patents]
+2. **Some subjects had strategic knowledge.** McCasland's career (Special Access Program Oversight Committee (SAPOC) executive secretary, Air Force Research Laboratory (AFRL) commander, space weapons, classified special programs) makes him objectively a high-value intelligence target. Reza's Mondaloy superalloy has direct relevance to U.S. rocket engine development and efforts to reduce dependence on Russian RD-180 engines. [T1 official biography; T1 USPTO patents]
 
-3. **Congressional investigators have raised the possibility.** Rep. Burlison stated the pattern "has all the hallmarks of a foreign operation" and identified China, Russia, and Iran as potential actors. Former FBI Assistant Director Chris Swecker characterized the cases as potential "modern-day espionage." [T4, Reported]
+3. **Congressional investigators have raised the possibility.** Rep. [Eric Burlison](https://en.wikipedia.org/wiki/Eric_Burlison) stated the pattern "has all the hallmarks of a foreign operation" and identified China, Russia, and Iran as potential actors. Former FBI Assistant Director [Chris Swecker](https://en.wikipedia.org/wiki/Chris_Swecker) characterized the cases as potential "modern-day espionage." [T4, Reported]
 
 Against this hypothesis -- and the "against" evidence is substantially stronger:
 
@@ -215,7 +217,7 @@ Against this hypothesis -- and the "against" evidence is substantially stronger:
 **Statement:** Targeting by U.S. government or contractor elements to protect classified programs from disclosure. This is a more specific version of conspiracy theories circulating in UAP-disclosure communities and requires a higher evidentiary bar given the severity of the claim.
 
 **Evidence that would support:**
-- Subjects documented as whistleblowers, IGIC complainants, or participants in Congressional disclosure processes
+- Subjects documented as whistleblowers, Intelligence Community Inspector General (IGIC) complainants, or participants in Congressional disclosure processes
 - Historical precedent for U.S. government targeting of its own personnel (documented, not fictional)
 - Timing correlated with disclosure events, Congressional hearings, or IGIC activity
 - Intelligence community or Congressional statements suggesting internal interference
@@ -234,7 +236,7 @@ Against this hypothesis -- and the "against" evidence is substantially stronger:
 
 3. **Congressional investigators have not alleged this.** Rep. Burlison and Chairman Comer, who have the most direct motive to expose internal government targeting if it existed, have pointed to foreign intelligence, not domestic actors. Burlison stated the pattern has "all the hallmarks of a foreign operation." [T4, Reported]
 
-4. **Steven Greer alleged this.** Greer claimed some disappearances involve "transnational criminal organizations" suppressing UAP research. His claims are unsupported by evidence and his track record (debunked Atacama skeleton claims, commercial UAP ventures) warrants significant skepticism. [T4 Fox News, Reported]
+4. **[Steven Greer](https://en.wikipedia.org/wiki/Steven_M._Greer) alleged this.** Greer claimed some disappearances involve "transnational criminal organizations" suppressing UAP research. His claims are unsupported by evidence and his track record (debunked Atacama skeleton claims, commercial UAP ventures) warrants significant skepticism. [T4 Fox News, Reported]
 
 **Current assessment:** **No support.** No evidence supports this hypothesis. The evidentiary bar for claiming that the U.S. government is killing or disappearing its own scientists is necessarily very high, and not a single piece of supporting evidence has been identified. This hypothesis remains documented for transparency but is assessed as unsupported.
 

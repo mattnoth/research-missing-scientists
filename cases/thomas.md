@@ -1,5 +1,7 @@
 # Jason R. Thomas
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/thomas.md). 2026-05-08 revision expanded the NEMLEC acronym on first use.*
+
 **Status:** Deceased (body recovered)
 **Date of incident:** December 12, 2025 (last seen); body recovered March 17, 2026
 **Location:** Wakefield, Massachusetts; body found in Lake Quannapowitt
@@ -12,7 +14,7 @@
 - **November 2025:** Both parents -- Larry Thomas and Chong (Kim) Thomas -- died within approximately 90 minutes of each other; mother died in hospice (dementia), father collapsed from a heart attack in Jason's arms shortly after [T3 ([Boston 25 News](https://www.boston25news.com/news/local/he-literally-vanished-wakefield-woman-asks-public-help-search-husband/FPPCD6SIIFFM3LW4I4WHNG2D6I/), wife's account), Reported]
 - **December 12, 2025 (~midnight):** Last seen by wife Kristen Bartoli walking away from their home on Murray Street, Wakefield, MA [T1 ([Wakefield PD](https://www.wakefieldma.gov/m/newsflash/Home/Detail/113)), Confirmed]
 - **December 13, 2025:** Reported missing to Wakefield Police Department [T1 ([Middlesex DA](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) statement), Confirmed]
-- **December 13, 2025 (morning):** NEMLEC resources deployed including 5-6 canine units and 4 drones [T4 ([NBC Dateline](https://www.nbcnews.com/dateline/missing-in-america/jason-thomas-missing-wakefield-massachusetts-rcna263785), citing Chief Skory), Reported]
+- **December 13, 2025 (morning):** Northeastern Massachusetts Law Enforcement Council (NEMLEC) resources deployed including 5-6 canine units and 4 drones [T4 ([NBC Dateline](https://www.nbcnews.com/dateline/missing-in-america/jason-thomas-missing-wakefield-massachusetts-rcna263785), citing Chief Skory), Reported]
 - **January 5, 2026:** Wife Kristen Bartoli makes public appeal for help; case covered by [Boston.com](https://www.boston.com/news/local-news/2026/01/05/wakefield-man-vanished-has-been-missing-for-3-weeks-wife-says/), [Boston 25 News](https://www.boston25news.com/news/local/he-literally-vanished-wakefield-woman-asks-public-help-search-husband/FPPCD6SIIFFM3LW4I4WHNG2D6I/) [T3, Confirmed]
 - **March 2026 (approx.):** NBC Dateline "Missing in America" segment airs [T4, Confirmed]
 - **March 17, 2026 (~12:30 PM):** Wakefield police detective spots body in Lake Quannapowitt (lake had been frozen, ice recently melted); drone confirms; body recovered by Wakefield Police and Fire [T1 ([Middlesex DA](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) statement), Confirmed]

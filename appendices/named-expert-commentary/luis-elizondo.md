@@ -1,4 +1,6 @@
-# Luis "Lue" Elizondo
+# [Luis "Lue" Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)
+
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/named-expert-commentary/luis-elizondo.md). 2026-05-08 revision added Wikipedia link to the subject's name.*
 
 ## Credentials
 Former director of the Advanced Aerospace Threat Identification Program (AATIP) at the Pentagon. Former U.S. Army counterintelligence officer. Author of "Imminent" (2024). Central figure in UAP disclosure advocacy since 2017.

@@ -1,4 +1,6 @@
-# Ross Coulthart
+# [Ross Coulthart](https://en.wikipedia.org/wiki/Ross_Coulthart)
+
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/named-expert-commentary/ross-coulthart.md). 2026-05-08 revision added Wikipedia link to the subject's name.*
 
 ## Credentials
 Award-winning investigative journalist (Australia and U.S.); currently hosts "Reality Check" podcast on NewsNation. Author of "In Plain Sight" (2021) on UAP. Former reporter for Australian 60 Minutes and other major outlets. Has covered national security and intelligence topics for decades.

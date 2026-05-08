@@ -1,5 +1,7 @@
 # Case File: William Neil McCasland
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/mccasland.md). 2026-05-08 revision added enrichment links (Tom DeLonge, John Podesta, To The Stars Academy, direct WikiLeaks email URL), expanded acronyms on first use (USAF, AFRL, OUSD(AT&L), SAPOC, SAP, C4ISR), and annotated the dead Dayton Daily News URL.*
+
 | Field | Value |
 |---|---|
 | **Slug** | `mccasland` |
@@ -8,7 +10,7 @@
 | **Date of Incident** | February 27, 2026 |
 | **Location** | Albuquerque, New Mexico (residence near Quail Run Court NE) |
 | **Age at Disappearance** | 68 |
-| **Affiliation** | Retired USAF Major General; Director of Technology, Applied Technology Associates (BlueHalo subsidiary); former Commander, Air Force Research Laboratory; former Director of Special Programs, OUSD(AT&L); former Executive Secretary, Special Access Program Oversight Committee |
+| **Affiliation** | Retired U.S. Air Force (USAF) Major General; Director of Technology, Applied Technology Associates (BlueHalo subsidiary); former Commander, Air Force Research Laboratory (AFRL); former Director of Special Programs, Office of the Under Secretary of Defense for Acquisition, Technology & Logistics (OUSD(AT&L)); former Executive Secretary, Special Access Program (SAP) Oversight Committee (SAPOC) |
 | **Inclusion Rationale** | **Strong fit.** Retired two-star general with career spanning the highest levels of classified aerospace/space programs. Disappeared under unexplained circumstances. Named in House Oversight and White House investigations into missing/dead defense-adjacent scientists. |
 
 ---
@@ -24,7 +26,7 @@
 | 2009 | Director, Special Programs, OUSD(AT&L); Executive Secretary, SAPOC | T1 (official bio) | Confirmed |
 | May 2011 | Assumed command of AFRL, Wright-Patterson AFB | T1 (official bio) | Confirmed |
 | Oct 2013 | Retired from USAF after 34 years of active duty | T1 (official bio) | Confirmed |
-| Jan 25, 2016 | Tom DeLonge email to John Podesta referencing McCasland, published via WikiLeaks | T1 ([WikiLeaks document](../appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md)) | Confirmed (email exists; claims within email are DeLonge's assertions) |
+| Jan 25, 2016 | [Tom DeLonge](https://en.wikipedia.org/wiki/Tom_DeLonge) email to [John Podesta](https://en.wikipedia.org/wiki/John_Podesta) referencing McCasland, published via WikiLeaks | T1 ([WikiLeaks emailid 3099](https://wikileaks.org/podesta-emails/emailid/3099); [local archive](../appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md)) | Confirmed (email exists; claims within email are DeLonge's assertions) |
 | Jun 27, 2019 | Joined Riverside Research Board of Trustees | T1 ([press release](../appendices/primary-sources/mccasland/riverside-research-appointment.md)) | Confirmed |
 | Feb 27, 2026 | Disappeared from Albuquerque home | T1 (BCSO Silver Alert, 911 call) | Confirmed |
 | Feb 27, 2026 | Wife reports missing at 3:07 PM | T4 ([news reports](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) citing BCSO) | Confirmed |
@@ -53,14 +55,14 @@ William Neil McCasland graduated from the U.S. Air Force Academy in 1979 with a 
 - **Vice Commander, Ogden Air Logistics Center**, Hill AFB, UT (2004, ~1 year)
 - **Vice Commander, Space and Missile Systems Center**, LA AFB
 - **Director of Space Acquisition**, Office of the Secretary of the Air Force, Pentagon (2007)
-- **Director of Special Programs, OUSD(AT&L)**, Pentagon (2009) — served as executive secretary of the Special Access Program Oversight Committee (SAPOC)
+- **Director of Special Programs, OUSD(AT&L)**, Pentagon (2009) — served as executive secretary of SAPOC
 - **Commander, Air Force Research Laboratory (7th commander)**, Wright-Patterson AFB, OH (May 2011 – October 2013) — oversaw ~10,800 personnel globally and a $4+ billion annual S&T portfolio
 
 **Rank at retirement:** Major General (two stars)
 
 ### Post-Military Career (Confirmed — T1, press releases; T3/T4, news reports)
 
-- **Director of Technology, Applied Technology Associates** (ATA), Albuquerque, NM — a subsidiary of BlueHalo (Arlington, VA defense conglomerate; space warfare, directed energy, missile defense, cyber, C4ISR). Responsible for technology identification and development across ATA competencies.
+- **Director of Technology, Applied Technology Associates** (ATA), Albuquerque, NM — a subsidiary of BlueHalo (Arlington, VA defense conglomerate; space warfare, directed energy, missile defense, cyber, Command/Control/Communications/Computers/Intelligence/Surveillance and Reconnaissance (C4ISR)). Responsible for technology identification and development across ATA competencies.
 - **Board of Trustees, Riverside Research** (nonprofit advancing scientific research for U.S. government) — elected June 27, 2019.
 - **Associate Fellow, American Institute of Aeronautics and Astronautics** (since 2013)
 - **Senior Member, IEEE**
@@ -166,7 +168,7 @@ BCSO also confirmed it has "no verified information" linking McCasland's disappe
 
 **The WikiLeaks email (T1 — the document itself is primary):**
 
-On January 25, 2016, Tom DeLonge emailed John Podesta (then Hillary Clinton's campaign chairman) with the subject line "General McCasland" ([full email text](../appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md)). In it, DeLonge wrote that he had been working with McCasland for four months, that McCasland was "very, very aware" of his project despite publicly maintaining a "skeptic" stance, that McCasland had previously commanded "the exact laboratory" at Wright-Patterson where Roswell materials were allegedly shipped, and that McCasland "helped assemble my advisory team" and was "a very important man." DeLonge identified himself as founder of To The Stars Media and stated McCasland had received a four-hour briefing on the project. This email was published by WikiLeaks as part of the Podesta email release in October 2016.
+On January 25, 2016, DeLonge emailed Podesta (then Hillary Clinton's campaign chairman) with the subject line "General McCasland" ([full email text](../appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md); [WikiLeaks emailid 3099](https://wikileaks.org/podesta-emails/emailid/3099)). In it, DeLonge wrote that he had been working with McCasland for four months, that McCasland was "very, very aware" of his project despite publicly maintaining a "skeptic" stance, that McCasland had previously commanded "the exact laboratory" at Wright-Patterson where Roswell materials were allegedly shipped, and that McCasland "helped assemble my advisory team" and was "a very important man." DeLonge identified himself as founder of [To The Stars](https://en.wikipedia.org/wiki/To_the_Stars_(company)) Media and stated McCasland had received a four-hour briefing on the project. This email was published by WikiLeaks as part of the Podesta email release in October 2016.
 
 **Important caveats:**
 - The email is DeLonge's characterization of the relationship. McCasland has never publicly confirmed or denied these claims.
@@ -211,7 +213,7 @@ See `appendices/primary-sources/mccasland/` for excerpts:
 - Fox News: [Sheriff updates timeline](https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing)
 - CBS News: [Deaths and disappearances at secretive government labs](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/)
 - Albuquerque Journal: [Wife disputes dementia claims](https://www.abqjournal.com/news/retired-general-was-not-confused-and-disoriented-when-he-went-missing-wife-says/2999479)
-- Dayton Daily News: [FBI involved in search for former AFRL commander](https://www.daytondailynews.com/local/new-mexico-authorities-ask-for-help-in-search-for-former-afrl-commander/DQHLHBMP2FCSXPNNJHG3PHC6IU/)
+- Dayton Daily News: [FBI involved in search for former AFRL commander](https://www.daytondailynews.com/local/new-mexico-authorities-ask-for-help-in-search-for-former-afrl-commander/DQHLHBMP2FCSXPNNJHG3PHC6IU/) *(link dead — CMS migration broke the URL; no Wayback snapshot recovered as of 2026-05-08; Internet Archive CDX was temporarily offline at lookup time)*
 - NewsNation: [Who is William Neil McCasland](https://www.newsnationnow.com/missing/who-is-william-neil-mccasland/)
 - NewsNation: [Wife told 911 he planned not to be found](https://www.newsnationnow.com/missing/missing-air-force-general-wife-911/)
 - NewsNation: [Timeline](https://www.newsnationnow.com/missing/neil-mccasland-missing-timeline/)

@@ -1,5 +1,7 @@
 # Steven Abel Garcia
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/garcia.md). 2026-05-08 revision expanded acronyms on first use (APD, KCNSC, NNSA).*
+
 ## Status
 
 **Missing** -- no trace found as of April 2026.
@@ -8,10 +10,10 @@
 
 | Event | Date | Source |
 |---|---|---|
-| Last seen | August 28, 2025, ~9:00 a.m. MDT | NM DPS Missing Persons database (T1); APD via secondary reporting ([KOB 4](https://www.kob.com/new-mexico/4-missing-persons-with-nuclear-ties-spark-concern-in-new-mexico/), T3) |
+| Last seen | August 28, 2025, ~9:00 a.m. MDT | NM DPS Missing Persons database (T1); Albuquerque Police Department (APD) via secondary reporting ([KOB 4](https://www.kob.com/new-mexico/4-missing-persons-with-nuclear-ties-spark-concern-in-new-mexico/), T3) |
 | Reported missing | August 2025 (exact report date not publicly documented) | Inferred from NM DPS listing |
 | Listed on NM DPS Missing Persons database | Undetermined (active as of April 2026) | NM DPS record M101688 (T1) |
-| First national media coverage linking Garcia to KCNSC | ~April 12, 2026 | Daily Mail exclusive citing anonymous source (T6); repeated by [British Brief](https://britbrief.co.uk/crime/police/nuclear-secrets-contractor-vanishes-in-new-mexico-mystery.html) |
+| First national media coverage linking Garcia to Kansas City National Security Campus (KCNSC) | ~April 12, 2026 | Daily Mail exclusive citing anonymous source (T6); repeated by [British Brief](https://britbrief.co.uk/crime/police/nuclear-secrets-contractor-vanishes-in-new-mexico-mystery.html) |
 
 ## Location(s)
 
@@ -27,7 +29,7 @@
 | Held top security clearance with broad facility access | **Alleged** | **T6** | Same anonymous source via Daily Mail |
 | Oversaw "tens, maybe hundreds of millions of dollars in equipment and assets, some classified, some not" | **Alleged** | **T6** | Same anonymous source, quoted in Daily Mail and repeated by [British Brief](https://britbrief.co.uk/crime/police/nuclear-secrets-contractor-vanishes-in-new-mexico-mystery.html), [NewsNation](https://www.newsnationnow.com/space/ufo/steven-garcia-disappearance-neil-mccasland/) |
 
-**CRITICAL SOURCE-TRACING NOTE:** The entire KCNSC employment claim traces to a single anonymous source who spoke to the Daily Mail. No outlet -- including [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/), [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116), Fox News, [NewsNation](https://www.newsnationnow.com/space/ufo/steven-garcia-disappearance-neil-mccasland/), or [KOB 4](https://www.kob.com/new-mexico/4-missing-persons-with-nuclear-ties-spark-concern-in-new-mexico/) -- has publicly stated that it independently confirmed Garcia's employment at KCNSC. [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116) explicitly noted it "has not independently verified his employment details" and stated it reached out to KCNSC for comment (no response documented). [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/) used the qualifier "reportedly." Fox News Digital appears to have repeated the claim without independent attribution. [LiveNOW from FOX](https://www.livenowfox.com/news/missing-us-scientists-white-house) cited "Fox News" as its source. The KCNSC (managed by Honeywell FM&T for NNSA) has not issued any public statement confirming or denying Garcia's employment. The NNSA issued a general statement acknowledging "awareness of reports related to employees of our labs, plants, and sites" but did not name Garcia or confirm any individual's affiliation.
+**CRITICAL SOURCE-TRACING NOTE:** The entire KCNSC employment claim traces to a single anonymous source who spoke to the Daily Mail. No outlet -- including [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/), [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116), Fox News, [NewsNation](https://www.newsnationnow.com/space/ufo/steven-garcia-disappearance-neil-mccasland/), or [KOB 4](https://www.kob.com/new-mexico/4-missing-persons-with-nuclear-ties-spark-concern-in-new-mexico/) -- has publicly stated that it independently confirmed Garcia's employment at KCNSC. [Newsweek](https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116) explicitly noted it "has not independently verified his employment details" and stated it reached out to KCNSC for comment (no response documented). [CBS News](https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/) used the qualifier "reportedly." Fox News Digital appears to have repeated the claim without independent attribution. [LiveNOW from FOX](https://www.livenowfox.com/news/missing-us-scientists-white-house) cited "Fox News" as its source. The KCNSC (managed by Honeywell Federal Manufacturing & Technologies (FM&T) for the National Nuclear Security Administration (NNSA)) has not issued any public statement confirming or denying Garcia's employment. The NNSA issued a general statement acknowledging "awareness of reports related to employees of our labs, plants, and sites" but did not name Garcia or confirm any individual's affiliation.
 
 ## Inclusion rationale
 

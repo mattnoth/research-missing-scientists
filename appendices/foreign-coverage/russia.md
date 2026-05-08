@@ -1,17 +1,19 @@
 # Foreign Coverage: Russia
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/foreign-coverage/russia.md)*
+
 ## Outlet(s)
 
 ### RT (Russia Today)
 - **Orientation:** State-affiliated (funded by Russian government)
-- **Tier:** 7 (Foreign state-affiliated press)
+- **Tier:** 8 (Foreign state-affiliated press) *(updated 2026-05-08 — [see GitHub for details](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/foreign-coverage/russia.md))*
 - **Articles found:**
   - "Trump orders probe into mysterious deaths of US nuclear scientists" (April 17, 2026)
   - "Nine dead or missing top US scientists raise disturbing pattern concerns" (April 8, 2026)
 
 ### Pravda UK
 - **Orientation:** State-affiliated / pro-Kremlin commentary aggregator
-- **Tier:** 7 (Foreign state-affiliated press)
+- **Tier:** 8 (Foreign state-affiliated press) *(updated 2026-05-08 — [see GitHub for details](https://github.com/mattnoth/research-missing-scientists/commits/main/appendices/foreign-coverage/russia.md))*
 - **Article found:**
   - Dmitry Drobnitsky column: "Deaths and Disappearances of Scientists Are Being Investigated in the United States" (April 18, 2026)
 
