@@ -2,6 +2,32 @@
 
 Every agent session appends here — research, website, tooling, whatever. This is the single durable record of what happened across sessions. The research log (`research-log.md`) tracks research-specific detail; this file tracks everything at session level.
 
+## 2026-05-08 — Phase 6 triage + Phase 5 Eskridge bundle + news-refresh (3 parallel agents, read-only)
+
+**What changed:**
+- Three agents fired in parallel, all read-only on case files. **No case-file or analysis edits this session** — bundles only, per the prompt's stop condition.
+- New file: [logs/triage-2026-05-08.md](triage-2026-05-08.md) — Phase 6 hybrid triage of all 11 cases. Source-weakness ranking + new-material-density ranking + union-of-top-3 recommendation. Agent T (Sonnet 4.6, Explore subagent) produced the analysis but lacks Write tool; main session wrote the file from agent's returned content. Union pick: **mccasland, garcia, reza** for next-session depth pass.
+- New file: [logs/eskridge-research-bundle-2026-05-08.md](eskridge-research-bundle-2026-05-08.md) (352 lines) — Multi-angle Eskridge research bundle, X-Files posture (Mulder + Scully equal rigor). Agent E (Opus 4.7, general-purpose, web). Headline finding: **"I would not commit suicide" precursor statement found verbatim** in two independent disclosure paths (Milburn 2026 SMS release + Reid 2025 Signal-message release). Also surfaced: Joshua LeBlanc Huntsville sub-cluster (NASA-MSFC DRACO, d. 2025-07-22), Sam Reid + Geometric Energy Corp + SpaceX DOGE-1 commercial-aerospace tie not in current case file, federal probe formally engaged (White House + House Oversight + FBI), Burlison's Havana Syndrome attribution (T4, sitting congressman), Richard Eskridge's NASA NTRS Tier 1/2 publication record documenting real propulsion lineage (PTX, PuFF Engine), and sharpened skeptic critique on-record (Coffindaffer, Hanania, Shermer).
+- New file: [logs/news-refresh-2026-05-08.md](news-refresh-2026-05-08.md) (149 lines) — Quick web pass on TODO "Actionable now" items. Agent N (Sonnet 4.6, general-purpose, web). Notable updates: **Loureiro case formally closed by FBI + US Attorney (D. Mass.) on 2026-04-29** (lone killer Valente, no terrorism nexus); **BBC coverage CONFIRMED** (Sheila Flynn 2026-04-23 — was previously assumed absent); House Oversight April 27 deadline passed with only DoW replying substantively; Daily Mail still nothing surfaced (site blocked); both T1 403 retries unchanged.
+- Modified: [logs/research-log.md](research-log.md) — appended dated session entry with full bundle headlines, quality flags, and next-session pointers.
+
+**Quality flags surfaced for next session (no edits this session):**
+- "Steven Garcia" vs. "Eddison Garcia" naming discrepancy in Wikipedia vs. case file. Verify against original sources before next case-file edit.
+- Wikipedia error: places Eskridge investigation in "Birmingham AL police" (every other source: Huntsville/Madison County). Don't propagate.
+- Loureiro FBI 2026-04-29 closure is a small Update-block addition for the case file.
+- Sheila Flynn freelance overlap (Daily Mail + BBC) may explain prior Daily Mail search misses — try her byline directly next session.
+- T4 outlets confirmed but not in dossier yet: IBTimes UK (×2), Axios, Forbes, CBS News, Scientific American, PolitiFact, Rolling Stone, Snopes, Boston Globe.
+
+**Concurrent-session note:** Phase 1 audit session (continue2026-05-08-phase1-audit.md) was running in another terminal during this session. Pre-existing WIP in working tree (TODO-research.md modification + prompts/build/ reorganization into completed/ and queued/) belongs to that session, not this one — left untouched. This session's commit only stages files in `logs/`.
+
+**Further work:**
+- User picks 2–3 cases from triage union (recommended: mccasland, garcia, reza) for Phase 6 depth pass next session.
+- Eskridge bundle review → drafted `## Update — 2026-05-08` block for `cases/eskridge.md` (original prose untouched) + revision markers + commit.
+- Loureiro Update block (FBI 2026-04-29 closure — material update for currently "fully resolved" case).
+- Garcia name discrepancy resolution.
+- BBC source addition to relevant case files now that coverage is confirmed.
+- Imbalance addressed: Mulder side has more publicly documented evidentiary depth this cycle but routes through Milburn/Reid (single-source-cluster fragility); Scully side genuinely thin on public records (no released coroner / HPD docs). Next-session research could pursue Madison County records request.
+
 ## 2026-05-08 — Historical preservation mechanism (design + implement)
 
 **What changed:**

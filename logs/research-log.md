@@ -2,6 +2,57 @@
 
 Chronological record of searches performed, sources consulted, and decisions made. Also serves as the append-only session ledger per [.claude/commands/end-session.md](../.claude/commands/end-session.md).
 
+## 2026-05-08 — Phase 6 triage + Phase 5 Eskridge bundle + news-refresh (3 parallel agents, read-only)
+
+**What happened:**
+- Three agents fired in parallel, all read-only on case files:
+  - **Agent T (Sonnet, Explore):** Phase 6 hybrid triage of all 11 cases. Output: [logs/triage-2026-05-08.md](triage-2026-05-08.md). (Note: Explore agents lack Write tool; main session wrote the file from agent's returned content.)
+  - **Agent E (Opus, general-purpose, web):** Multi-angle Eskridge research bundle, X-Files posture (Mulder + Scully equal rigor). Output: [logs/eskridge-research-bundle-2026-05-08.md](eskridge-research-bundle-2026-05-08.md). 352 lines.
+  - **Agent N (Sonnet, general-purpose, web):** News-refresh on 5 TODO "Actionable now" items. Output: [logs/news-refresh-2026-05-08.md](news-refresh-2026-05-08.md). 149 lines.
+
+**No case-file edits this session.** All bundles feed next-session writes with revision markers.
+
+**Triage union pick (top 3 by leverage = weakness ∩ new-material density):** **mccasland, garcia, reza.**
+- *mccasland* — 3rd weakest + 1st most-ongoing; FBI/Congress/BCSO all live; one document could shift the analytical frame.
+- *garcia* — KCNSC employment claim sits on a single anonymous T6 source; APD silent; one verifiable fact would resolve.
+- *reza* — 2nd most new-material density; 5 most-operationally-significant gap-markers (withheld cell-phone forensics, Find-a-Grave anomaly, 911 screaming report, companion identities).
+- *Methodology flag:* loureiro ranks 2nd weakest (46) but it's a methodology artifact — its 28 R/A/S markers reflect exhaustive tiering discipline, not poor sourcing. Excluded from union picks.
+- *Anomalies:* grillmair has zero T4+ tags (best-sourced case in the dataset); casias has only 1 T4+ tag yet 9 open questions (widest local-coverage / unknowns gap).
+
+**Eskridge bundle headline findings:**
+1. **Precursor statement found verbatim, two independent disclosure paths.** May 13, 2022 SMS to Franc Milburn (released by Milburn Apr 2026 to NewsNation/Daily Mail): *"If you see any report that I killed myself, I most definitely did not. If you see any report that I overdosed myself, I most definitely did not."* Parallel May 24, 2022 Signal-message tranche to Samuel Reid (Institute for Exotic Science co-founder + CEO of Geometric Energy Corp / SpaceX DOGE-1 mission), released by Reid Apr 2025 — a year before Milburn went public. [T4 cluster, Confirmed as published; underlying claim Reported]
+2. **Federal investigation formally engaged.** White House (Press Sec. Karoline Leavitt, Apr 17, 2026) confirms FBI–WH joint review; House Oversight (Comer + Burlison) requested briefings from DOE/DoW/FBI/NASA. **Burlison publicly attributed Eskridge's symptoms to Havana Syndrome / directed-energy weapon** — a sitting congressman, T4. [T2/T4, Confirmed]
+3. **Huntsville sub-cluster surfaced.** Joshua LeBlanc (29, NASA-MSFC DRACO nuclear thermal propulsion engineer, d. 2025-07-22, Walker County AL — fiery Tesla crash after 4-hour airport stop) directly paired with Eskridge in Newsweek's "Huntsville Mystery" (2026-04-24). Wikipedia's Missing-Scientists article also lists Ning Li (UAH, AC Gravity LLC, d. 2021) as a third Huntsville antigravity-research death. [T4, Confirmed as media event; connection Speculated]
+4. **Richard Eskridge's NASA-Marshall research record is documented Tier 1 / Tier 2** — not speculative. NASA NTRS papers on inductive pulsed plasma thrusters, PTX, and PuFF (Pulsed Fission-Fusion) Engine. Places HoloChron's "gravity modification" framing inside a real propulsion lineage.
+5. **Sam Reid / DOGE-1 / SpaceX commercial-aerospace tie** — direct from the Arab Tribune obituary (Reid memorialized Eskridge with a payload on DOGE-1). Not in current case file.
+6. **Independent skeptic critique now sharp and on-record.** Coffindaffer (retired FBI, Newsweek): "no doubt" suicide; Institute for Exotic Science = "fringe science … not accredited or recognized." Hanania (UnHerd, 2026-04-20): only one peer-reviewed Eskridge paper (2009 bridge engineering); characterizes her as "a crank who committed suicide." Shermer (Skeptic, 2026-04-25): base-rate / patternicity framing. [T4/T6, Reported]
+
+**Mulder/Scully balance (Agent E's call):** Mulder side has more publicly documented evidentiary depth this cycle but routes through Milburn or Reid — single-source-cluster fragility. Scully side genuinely thin on the public-records front (no released coroner / HPD docs). Imbalance flagged in the bundle rather than padded.
+
+**News-refresh status:**
+- *House Oversight briefing (April 27 deadline):* **Partial.** Only Department of War replied substantively ("no active national security investigations of any reported missing person who was a current or former clearance holder involved in special access programs"). FBI / NASA / DOE silent on record. Comer/Burlison signaled subpoenas remain possible; none confirmed as of 2026-05-08. oversight.house.gov press release still 403.
+- *FBI investigation:* **Partial.** **Loureiro case formally closed by FBI + US Attorney (D. Mass.) on 2026-04-29 — Cláudio Manuel Neves Valente solely responsible, no nexus to terrorism.** Patel's broader "report in short order" not yet published. Material update for Loureiro case file (which Agent T's triage flagged as "fully resolved" — confirmed).
+- *Daily Mail retry:* **Still nothing surfaced.** Site-blocked for direct fetch; 7 search queries returned no Daily Mail URLs. Wikipedia confirms Daily Mail covered the cluster but no specific article located.
+- *BBC retry:* **Coverage CONFIRMED — was previously assumed absent.** Sheila Flynn byline, 2026-04-23, family-reaction angle. URL `https://www.bbc.com/news/articles/cwyw9rpdl4po`. Verified via Yahoo syndication and Google Translate mirror (BBC.com itself blocked for direct WebFetch). Notable: NYT, WaPo, Guardian, Le Monde, Spiegel, TASS, Xinhua silent.
+- *T1 403-retry:* Both still 403. BCSO press release PDF and oversight.house.gov page unchanged.
+
+**Quality flags surfaced for next session (no edits this session):**
+1. **"Steven Garcia" vs. "Eddison Garcia" naming discrepancy.** Wikipedia's Missing-Scientists article uses "Steven Garcia" for the KCNSC contractor; case file uses "Eddison Garcia." Verify against original sources before next case-file edit.
+2. **Wikipedia error on Eskridge police agency.** Wikipedia says the death was investigated by "Birmingham, Alabama police" — every other source places it in Huntsville (Madison County). Birmingham is in Jefferson County, ~100 miles south. Don't propagate.
+3. **Sheila Flynn / Daily Mail / BBC overlap.** Muck Rack lists Flynn as a "Daily Mail U.S. Journalist"; her BBC byline on the missing-scientists piece suggests freelance overlap. The "Daily Mail original source" for Garcia may sit under her byline rather than a site search.
+4. **Loureiro FBI closure (2026-04-29)** is a small material update for the Loureiro case file (currently "fully resolved" per triage; Update block worth adding).
+5. **Several T4 outlets confirmed as having covered the cluster but not yet referenced in the dossier:** IBTimes UK (two articles), Axios, Forbes/Fortune, CBS News, Scientific American, PolitiFact, Rolling Stone, Snopes, Boston Globe.
+
+**No commits made.** Bundles are internal logs / drafts — case-file rewrite happens its own session per the user's stop condition.
+
+**Next session:**
+- User picks 2–3 cases from union for Phase 6 depth pass (mccasland / garcia / reza recommended).
+- Eskridge bundle review → drafted `## Update — 2026-05-08` block for `cases/eskridge.md` + revision markers.
+- Loureiro Update block (FBI 2026-04-29 closure).
+- Garcia name discrepancy resolution.
+
+---
+
 ## 2026-05-06 — Session 1: Phase 0 decisions (planning only)
 
 **What happened:**
