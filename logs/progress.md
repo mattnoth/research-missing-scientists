@@ -2,6 +2,34 @@
 
 Every agent session appends here — research, website, tooling, whatever. This is the single durable record of what happened across sessions. The research log (`research-log.md`) tracks research-specific detail; this file tracks everything at session level.
 
+## 2026-05-08 — Phase 1 cleanup audit (5 parallel read-only agents)
+
+**What changed:**
+- Five agents fired in parallel, all read-only on narrative + data files. **No edits to research content.**
+  - **Agent A (Sonnet 4.6, Explore):** Both-links sweep — Wikipedia + primary-source URL on first occurrence per file; verify-don't-trust applied to every URL; first-occurrence-only link-discipline check + over-link flagging.
+  - **Agent B (Sonnet 4.6, Explore):** Acronym audit — first-use expansion per file, glossary completeness, cross-file consistency, over-linking flag.
+  - **Agent C (Sonnet 4.6, general-purpose, web):** Broken-links pass — every URL across `cases/`, `appendices/`, `glossary.json`, `data/*.json`. 174 unique URLs categorized. Wayback availability checked for dead URLs.
+  - **Agent D (Opus 4.7, Explore):** Foreign-source bias audit — tier assignments compared U.S.-vs-foreign for asymmetric treatment.
+  - **Agent E (Sonnet 4.6, Explore):** Alias-resolver scan — canonical-name → aliases map across glossary + diagram + case files.
+- New file: [logs/audit-phase1-findings-2026-05-08.md](audit-phase1-findings-2026-05-08.md) — consolidated findings doc (~700 lines). Per-agent sections + cross-cutting observations + ranked proposed-edits checklist for next session's cleanup commit (Tiers 1-9, highest-value/lowest-risk first).
+- Pre-existing WIP in working tree (TODO-research.md modification + prompts/build/ reorganization into `completed/` and `queued/`) was untouched this session — predates both this session and the parallel research-update session.
+
+**Headline findings (full detail in the consolidated doc):**
+- Agent A: 18 named candidates examined. Tom DeLonge's Wikipedia link still missing on first occurrence in `cases/mccasland.md:27` (the WikiLeaks document is linked, the person is not). Verified Wikipedia URLs for Podesta, Leavitt, Comer, Burlison, Patel, Wright, Swecker, Kaku, Coulthart, Elizondo, Greer, Shellenberger, AARO, TTSA, Loureiro, Grillmair. 4 figures have no Wikipedia article (Coffindaffer, Milburn, Rodgers CSIS, Roecker NTI) — flag as needs-human-judgment.
+- Agent B: 29 first-use violations across 13 files. **`cases/chavez.md` uses `LAPD` for "Los Alamos Police Department"** — collides with glossary canonical "Los Angeles Police Department." High-priority consistency fix.
+- Agent C: 174 URLs scanned. **4 truly dead** (`lanl.gov/`, retired `dps.state.nm.us` legacy, IPAC Grillmair staff page, Dayton Daily News McCasland article). 32 "403" results — most are alive in browsers; oversight.house.gov + brookline.news + IBTimes UK confirmed alive on curl. **Wayback CDX API was down during sweep** — re-run before commit.
+- Agent D: **Tier 7 → Tier 8 mislabeling** for state-affiliated foreign press in `russia.md` (RT, Pravda UK) and `iran.md` (Tehran Times, Press TV); `china.md` correctly tags Global Times Tier 8. Clean categorical fix. Also: U.S. Primetimer over-tiered at Tier 4 vs. structurally equivalent Britannia Daily / Northeast Live TV at Tier 5; Daily Mail (UK) Tier 4 vs. Mirror US (UK) Tier 5 inconsistency. Asymmetric framing-language pattern in foreign-coverage descriptions (intent imputation) vs. U.S. coverage descriptions (forensic) — flag for Phase 2 voice audit.
+- Agent E: 17 canonical entities mapped, 43 alias variants tracked. **Glossary entries `JPL`/`MSFC`/`PSFC` use NASA-as-parenthetical** while case files + diagram use NASA-as-prefix — single glossary edit fixes the inconsistency. **No true duplicate institution nodes** in the diagram; affiliation-string vs. node-label fragmentation is the soft issue (Phase 7 territory).
+- **Cross-cutting:** Agents A and B converge on the same over-link findings (de-link `LAPD`/`NM DPS` repeats in `cases/chavez.md`, `LASD` in `cases/reza.md`, House Oversight Committee + FBI investigation links in `dossier.md`). Single de-link pass covers both audits.
+
+**Concurrent-session note:** A parallel session (`continue2026-05-08-research-update.md`) ran in another terminal during this session, producing logs/triage-2026-05-08.md, logs/eskridge-research-bundle-2026-05-08.md, logs/news-refresh-2026-05-08.md and committed as `98932ac`. Both sessions' file scopes were limited to logs/ — no collision. Close ritual was serialized: parallel session finished + committed first per the prompt's concurrent-execution note.
+
+**No commits this session.** Per Phase 1 stop condition: findings only.
+
+**Further work:**
+- **Next session = SESSION-PLAN session 3.** Tag current HEAD `pre-rebalance-2026-05-06` (or `pre-rebalance-2026-05-08`) before reviewing findings. Re-run Wayback CDX (5 min) for the 4 truly-dead URLs once the API is back. Walk the consolidated findings doc with the user; approve specific edits; single low-risk commit pass applying Tier 1-6 of the ranked checklist (categorical fixes → enrichment links → over-link removal → acronym expansions → LAPD collision rename → broken-link annotations) with revision markers per SESSION-PLAN convention.
+- Tier 7-8 items (Daily Mail/Mirror US tier consistency, Primetimer demote, foreign-source asymmetric framing language, AARO `aaro.mil` URL verification) flagged as needs-human-judgment — discuss before committing.
+
 ## 2026-05-08 — Phase 6 triage + Phase 5 Eskridge bundle + news-refresh (3 parallel agents, read-only)
 
 **What changed:**

@@ -2,6 +2,75 @@
 
 Chronological record of searches performed, sources consulted, and decisions made. Also serves as the append-only session ledger per [.claude/commands/end-session.md](../.claude/commands/end-session.md).
 
+## 2026-05-08 — Phase 1 cleanup audit (5 parallel read-only agents)
+
+**What happened:**
+- Five agents fired in parallel. All read-only on narrative + data files. No edits to research content. Output: [logs/audit-phase1-findings-2026-05-08.md](audit-phase1-findings-2026-05-08.md) — consolidated findings + ranked proposed-edits checklist for the next session's cleanup commit.
+  - **Agent A (Sonnet, Explore):** Both-links sweep with verify-don't-trust on every proposed URL.
+  - **Agent B (Sonnet, Explore):** Acronym audit (first-use expansion, glossary completeness, cross-file consistency, over-linking).
+  - **Agent C (Sonnet, general-purpose, web):** Broken-links pass with Wayback availability check.
+  - **Agent D (Opus, Explore):** Foreign-source bias audit against the existing tier assignments.
+  - **Agent E (Sonnet, Explore):** Alias-resolver scan across glossary + diagram + case files.
+
+**Source-tier-relevant findings (highest-value action items for next session):**
+
+1. **Tier 7 → Tier 8 mislabeling for state-affiliated foreign press** (Agent D). README defines Tier 8 explicitly as "Foreign state-affiliated press." Tier 7 is "Independent commentary, Substack, YouTube, TikTok, podcasts, social media." Four state-funded outlets are currently mistagged Tier 7:
+   - `appendices/foreign-coverage/russia.md:7` — RT (Russia Today): T7 → **T8**
+   - `appendices/foreign-coverage/russia.md:14` — Pravda UK: T7 → **T8**
+   - `appendices/foreign-coverage/iran.md:7` — Tehran Times: T7 → **T8**
+   - `appendices/foreign-coverage/iran.md:15` — Press TV: T7 → **T8**
+   - `appendices/foreign-coverage/china.md:7` — Global Times correctly tagged Tier 8 (proves the convention is known).
+   - Categorical fix; no judgment call needed.
+
+2. **Daily Mail (UK) ↔ Mirror US (UK) tier inconsistency** (Agent D). Both are UK national tabloids covering similar UAP-aggregation material. Daily Mail is Tier 4 in `cases/maiwald.md:67` (with "Tabloid" caveat); Mirror US is Tier 5 in `cases/eskridge.md:95`. Pick one and apply across the dossier — they cannot diverge on outlet basis. Counter-direction: **Primetimer (U.S.) at Tier 4** in `cases/eskridge.md:84` is structurally equivalent to Britannia Daily (UK Tier 5) and Northeast Live TV (India Tier 5); Primetimer should likely demote to Tier 5. The README's Tier 4 list is "CNN/CBS/ABC/NBC/Reuters/AP/WaPo/NYT" — Primetimer doesn't qualify.
+
+3. **WION (India) Tier 3-4 hedge → flat Tier 4** (Agent D). Independent commercial international broadcaster, structurally analogous to Newsweek/NewsNation (both flat Tier 4 in this dossier). The hedge reads as origin-uncertainty, not editorial-standard difference.
+
+4. **Asymmetric framing language in foreign-coverage appendices** (Agent D). Foreign outlets described in terms of editorial intent ("dressed up theorizing," "framing emphasized vulnerability," "implicitly portrays"); U.S. outlets described in forensic, content-only terms ("repeated the claim without attribution"). 4 specific examples in `russia.md:20-22`, `iran.md:26`, `iran.md:40`, `china.md:31`. Recommend symmetric language — describe behavior, not intent — across all appendices. **Cross-references Phase 2 voice audit; flagged here for Phase 2 inclusion.**
+
+5. **Structural Tier-8 question (long-term, Phase 7).** Tier 8 itself is an origin-based tier — there is no parallel skeptical tier for U.S. state-adjacent or partisan outlets. In tension with the standing rule "National mainstream = Tier 4 regardless of country." Options: keep as-is, evaluate state-press articles on content (propaganda → T5/6, news-aggregation → T4), or add a parallel U.S. partisan tier. Defer to Phase 7 methodology discussion.
+
+**Source-quality findings (broken-links pass, Agent C):**
+
+- **174 unique URLs scanned. 107 alive.**
+- **4 truly dead URLs** with no automated Wayback recovery (CDX API was down — re-run before commit):
+  - `https://www.lanl.gov/` (entire domain dead — every path 404; cited in `data/glossary.json:6`)
+  - `http://missingpersons.dps.state.nm.us/.../id=M100749` (legacy domain retired; replace with `dps.nm.gov` equivalent — confirmed alive at the new domain)
+  - `https://www.ipac.caltech.edu/people/staff/carl_grillmair` (staff page removed after death; Caltech memorial URL alive as substitute)
+  - `https://www.daytondailynews.com/.../DQHLHBMP2FCSXPNNJHG3PHC6IU/` (CMS migration broke URL; no archive recovered)
+- **32 "403" results — most are alive in real browsers.** Confirmed alive via curl: oversight.house.gov press release + PDF, brookline.news Loureiro article, all 4 IBTimes UK articles. Bot-blocked but human-readable: legacy.com obits, NewsNation 8 URLs, ResearchGate, Hoodline, NTI staff, The Hill, Middlesex DA. Recommend keeping links + adding a `*(blocks automated checks; viewable in browser)*` footnote convention.
+- **2 soft-404s** (status 200, content empty): `namus.nij.ojp.gov/missing-person-namus-mp150628` (Casias) and `solvethecase.org/case/2025-56/monica-reza` (Reza). Annotate as "record exists but content fields are blank as of 2026-05-08."
+- **1 redirect** worth updating: `losalamosnm.gov/News-articles/Search-Continues-Anthony-Chavez` → `News-media/...` path rename (`cases/chavez.md:12`).
+
+**Glossary integrity findings (Agents B + E):**
+
+- 3 acronyms used in narrative but missing from `data/glossary.json`: `IGIC`, `USAF`, `C4ISR`.
+- 7 institutional entities used across the dossier but missing entries: Sandia National Laboratories (mentioned in dossier + both analysis files + diagram), Kirtland AFB, Riverside Research, Institute for Exotic Science, HoloChron LLC, Aerojet Rocketdyne, Honeywell FM&T (KCNSC operator).
+- 3 ordering inconsistencies between glossary and case-file convention: `JPL`/`MSFC`/`PSFC` glossary entries use `(NASA)`/`(MIT)` parenthetical; case files + diagram use NASA/MIT as prefix. Single glossary edit aligns.
+- 1 cross-file expansion conflict: `LAPD` in `cases/chavez.md` is "Los Alamos Police Department"; glossary canonical is "Los Angeles Police Department." High-priority — collision risk in any reader's mind. Resolution: spell out "Los Alamos Police Department" in full and retire the `LAPD` abbreviation from `cases/chavez.md` entirely.
+
+**Public-figure enrichment findings (Agent A — verified URL list):**
+
+- Tom DeLonge — Wikipedia (`https://en.wikipedia.org/wiki/Tom_DeLonge`) ✓ + WikiLeaks email URL (`https://wikileaks.org/podesta-emails/emailid/3099`) ✓
+- John Podesta, Karoline Leavitt, James Comer (note `_(politician)` disambiguator), Eric Burlison, Kash Patel, Chris Wright (DOE Sec.), Chris Swecker (stub), Michio Kaku, Ross Coulthart, Luis Elizondo, Steven M. Greer (note middle initial), Michael Shellenberger, AARO, To The Stars (use `_(company)` URL — not the `Academy_of_Arts_%26_Science` 404), Nuno Loureiro, Carl Grillmair — all Wikipedia URLs verified.
+- 4 figures have **no Wikipedia article**: Jennifer Coffindaffer, Joseph Rodgers (CSIS — use CSIS PONI program URL instead), Scott Roecker (NTI staff page returns 403, manual confirmation needed), Franc Milburn. For these, the right enrichment is an institutional/about-page link or a credentials footnote, not a Wikipedia link.
+
+**Acronym hygiene findings (Agent B):**
+
+- 29 first-use violations across 13 files. Highest-density: `dossier.md` (12 acronyms first-appear bare), `analysis/foreign-intel-layer.md` (12), `cases/maiwald.md` (5), `cases/hicks.md` (4), `cases/mccasland.md` (4), `analysis/hypotheses.md` (4), `analysis/connection-analysis.md` (4).
+- Per "new file = reset" rule, every file starts the link-and-expand counter from zero — so even acronyms expanded in another file need re-expansion on first use here.
+
+**Quality flags surfaced for next session:**
+1. Wayback CDX re-run for the 4 dead URLs (5 minutes; do before commit).
+2. AARO `aaro.mil` URL — `.mil` domain didn't fetch automatically; verify manually before adding as primary source.
+3. Daily Mail vs. Mirror US tier decision — judgment call needed; no clean categorical fix.
+4. Primetimer Tier 4 → Tier 5 demote — confirm with user.
+5. Diagram affiliation-string standardization (Agent E options a vs. b) — Phase 7 territory; do NOT change in cleanup commit.
+
+**No commits made.** Findings only, per Phase 1 stop condition. Next session: SESSION-PLAN session 3 — tag baseline, review findings, single cleanup commit applying approved edits with revision markers.
+
+---
+
 ## 2026-05-08 — Phase 6 triage + Phase 5 Eskridge bundle + news-refresh (3 parallel agents, read-only)
 
 **What happened:**

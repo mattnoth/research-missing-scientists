@@ -4,6 +4,13 @@ Items deferred from the prompt-001 cycle. Revisit before or after PDF/website ge
 
 > **For phased execution + agent strategy, see [SESSION-PLAN.md](SESSION-PLAN.md).** This file holds the canonical task list; the plan handles ordering and parallelization.
 
+## Editorial & framing
+
+- [ ] **Project-purpose + AI-disclosure banner** — Add an obvious banner conveying (1) the project goal: deriving sources for deep research and unbiased analysis, readers draw their own conclusions; (2) the prose is entirely AI-generated. Two surfaces: top of `dossier.md` (above the abstract), and a persistent header on the website (mattnoth-dev — separate session). Don't soften the AI disclosure into a euphemism. See memory entry `project_banner_required.md`.
+- [ ] **Strip verdict language from dossier abstract + executive summary** — Sentences like *"The research finds that the cluster is substantially a media-constructed artifact"* and *"the skeptical camp has the stronger factual basis"* draw conclusions for the reader. Replace with neutral fact-laying. Subset of Phase 2 audit but flagged here because the abstract is the most-read surface. See memory entry `feedback_conclusion_neutrality.md` (2026-05-08 update).
+- [ ] **Reframe the H1–H9 hypothesis-evaluation table** — Current cells (*"Strong support" / "Not supported" / "Weak support"*) are verdicts dressed as assessments. Replace with **two columns**: "Evidence for" + "Evidence against," no synthesis verdict. Applies to `dossier.md` table and `analysis/hypotheses.md` per-hypothesis writeups. Aligns with X-Files posture (Mulder + Scully evidence presented with equal rigor).
+- [ ] **X-Files presentation layer for analysis pages** — Beyond the hypothesis table fix above: each hypothesis writeup in `analysis/hypotheses.md` should explicitly enumerate Mulder-side evidence-for and Scully-side evidence-against in parallel, no "the dossier finds" closer. Investigation ≠ endorsement; reader synthesizes.
+
 ## Tooling — Snapshot pipeline (Playwright / headless browser)
 
 - [ ] **Build `scripts/snapshot-source` (Playwright)** — Input: URL. Output: raw HTML + linked assets + screenshot + PDF + extracted text + manifest (timestamp, source URL, http status, content hash). Stored under `appendices/primary-sources/<case>/snapshots/<slug>/`. Used by both broken-links recovery and the standing self-host primary-source workflow. Decide language: Python (Playwright Python) or Node. See SESSION-PLAN.md Phase 3.
@@ -39,10 +46,52 @@ Items deferred from the prompt-001 cycle. Revisit before or after PDF/website ge
 
 Four patterns from `/Users/mnoth/source/asoiaf-chat/` (Weirwood Network) that map onto this dossier's workflow. Captured 2026-05-06. Context and rationale in `scratch.txt` ("Continuation — Weirwood transfer + general update pass").
 
-- [ ] **Path B "categorizer extension"** — when a new case has features the existing case schema doesn't cover (a new agency type, a new death classification), extend the schema rather than force-fit. Applies whenever cases are added (e.g., the Chinese-scientists item). *Action:* document the extension protocol in `RUNBOOK.md` (or the case-file template) so future case adds follow it; record each extension when it happens.
-- [ ] **Alias resolver / orphan-edge resolution** — same entity under name variants (JPL ↔ Jet Propulsion Laboratory, AFRL ↔ Air Force Research Lab). Worth applying to glossary + connection diagram, where there are likely dangling references. *Action:* scan `glossary.json`, `data/diagram-data.json`, and case files for entity name variants; build a canonical-name → aliases map; deduplicate diagram nodes and cross-link glossary entries.
+- [ ] **Path B "categorizer extension"** — when a new case has features the existing case schema doesn't cover (a new agency type, a new death classification), extend the schema rather than force-fit. Applies whenever cases are added (e.g., the Chinese-scientists item). *Action:* document the extension protocol in `RUNBOOK.md` (or the case-file template) so future case adds follow it; record each extension when it happens. **Phase 0.5 guardrail:** extend only when ≥2 cases share the new feature.
+- [ ] **Alias resolver / orphan-edge resolution** — same entity under name variants (JPL ↔ Jet Propulsion Laboratory, AFRL ↔ Air Force Research Lab). Worth applying to glossary + connection diagram, where there are likely dangling references. *Action:* scan `glossary.json`, `data/diagram-data.json`, and case files for entity name variants; build a canonical-name → aliases map; deduplicate diagram nodes and cross-link glossary entries. (Phase 1 Agent E in SESSION-PLAN.)
 - [ ] **Stage-1 prose-only re-emission ("Option C")** — re-extract just the prose layer to enrich existing nodes without rerunning the whole pipeline. This is the pattern that satisfies "don't overwrite original narrative" — append/enrich rather than replace. *Action:* adopt as the standing update pattern; new info appended as dated `## Update — YYYY-MM-DD` blocks under existing narrative; original prose never overwritten. Document in `prompts/build/queued/prompt-004-update.md` so all future maintenance runs follow it.
 - [ ] **Mechanical vs. prose extraction split** — implicit in our case schema (mechanical fields vs. narrative), but Weirwood's discipline of touching them in *separate passes* is healthier than mixed edits. *Action:* document the split in `RUNBOOK.md`. Mechanical = case schema fields (dates, names, agencies, source URLs, tier/confidence tags). Prose = narrative. Never mix in one commit.
+- [ ] **Reconsider scaled-extraction patterns once Phase 4 grows** — Wave-based parallel extraction, race protection, and a multi-agent fleet were filtered out as overkill for 11 cases. If the worldwide discovery sweep (Phase 4) surfaces ≥50 candidate cases across 8 languages, revisit: wave-based parallel may become worthwhile, and race protection matters once multiple agents touch the same case files. Decision deferred until candidate volume is known.
+
+## Research-phase backlog (mirror of SESSION-PLAN, scratch.txt items)
+
+Every scratch.txt open item also lives here as a trackable checkbox. **For the operating context, decisions, and agent strategy per item, see [SESSION-PLAN.md](SESSION-PLAN.md) and [scratch.txt](scratch.txt).** This list is the index — those files hold the substance.
+
+### Phase 1 — Cleanup audit (5 parallel read-only agents)
+*Findings consolidated 2026-05-08 in [logs/audit-phase1-findings-2026-05-08.md](logs/audit-phase1-findings-2026-05-08.md). Cleanup commit pending review (SESSION-PLAN session 3).*
+- [x] **Agent A — both-links sweep** (Tom DeLonge + other public figures: Wikipedia + primary-source URL on first occurrence per file; verify-don't-trust)
+- [x] **Agent B — acronym audit** (first-use expansion per file; glossary completeness; cross-file consistency; over-linking flag)
+- [x] **Agent C — broken-links pass** (every URL across case files / appendices / glossary.json / data JSON; alive/dead/redirected; Wayback availability for dead) — *Wayback CDX API was down during sweep; re-run before cleanup commit.*
+- [x] **Agent D — foreign-source bias audit** (existing tier assignments; flag US-favored tiering of comparable foreign outlets)
+- [x] **Agent E — alias-resolver scan** (glossary + diagram + case files; canonical → aliases map; dedup proposals)
+
+### Phase 2 — Conclusion-neutrality + X-Files balance audit (single agent)
+- [ ] **Voice + neutrality + hypothesis-balance audit** — opinion-tinted phrasing; "no connection" type assertions; subjective characterizations from interested parties stated as fact (e.g., "*his wife characterizes it as brief, unpaid consulting for fiction writing*"); H1–H9 Mulder vs. Scully balance check. See SESSION-PLAN Phase 2.
+
+### Phase 4 — Worldwide discovery sweep (8 threads)
+- [ ] **W-1 — TikTok / video creators** (Critical priority; primary insider venue; hybrid: WebSearch + cross-posted URLs + user-curated hashtag picks)
+- [ ] **W-2 — Reddit deep dive** (topical + case-specific subs; full comment trees; Reveddit/Unddit/Wayback for deleted)
+- [ ] **W-3 — Russian-language press** (TASS, Kommersant, Meduza, regional)
+- [ ] **W-4 — Chinese-language press** (Xinhua, People's Daily, regional) — **also covers the "Add Chinese scientists" scratch item; surfaced cases get full case-file treatment**
+- [ ] **W-5 — French / German / Spanish press** (Le Monde, Der Spiegel, El País)
+- [ ] **W-6 — Japanese press** (Asahi, Yomiuri, NHK, regional)
+- [ ] **W-7 — Korean press** (Chosun, Hankyoreh, Yonhap, regional)
+- [ ] **W-8 — English-language indie / Substack / aggregator lists** (Wayback for takedowns; verify each lead independently)
+
+### Phase 5 — Amy Eskridge case update
+- [ ] **Eskridge research bundle + precursor-statement hunt** — primary/court/local first; specifically hunt for the "I would not commit suicide" precursor statement (interviews, social posts, video, third-party reporting); Tier carefully (such claims often originate low-tier and need primary verification). Research only — case file update happens after, with neutrality voice.
+
+### Phase 6 — Depth-first update on existing cases
+- [ ] **Step A — hybrid triage** (rank all 11 by source weakness AND surface new-material density; user picks 2–3 from the union)
+- [ ] **Step B — source-deepening pass** on top-N (parallel agents, one per case)
+- [ ] **Step C — news-refresh pass** on same top-N (dated `## Update —` blocks, originals untouched)
+
+### Phase 8 — Pattern-recognition appendix
+- [ ] **Behavioral-patterns appendix** — factory-reset phones, walking out / leaving belongings, undisclosed cause of death, **precursor statements (Eskridge plus any others surfaced)**. Lists which cases share each pattern. Includes human-fallibility caveat. New file: `appendices/behavioral-patterns.md` or `analysis/behavioral-patterns.md`.
+
+### Phase 9 — Geographic & domain clustering
+- [ ] **9a — Huntsville hotbed analysis** — Huntsville hosts Redstone Arsenal, Marshall Space Flight Center, U.S. Space Command HQ, dozens of defense contractors. Other deaths/disappearances/scandals at Huntsville-based entities since 2022; people in Eskridge's research circle; local-press + TikTok/Reddit insider discourse.
+- [ ] **9b — Antigravity / zero-gravity / exotic-propulsion domain map** — Public-facing figures (Podkletnov, Ning Li, Hal Puthoff, Eric Davis, others); research entities (Institute for Exotic Science, HoloChron, EarthTech, TTSA, etc.); connections to dossier subjects; relationship to UAP-disclosure community already documented for McCasland. Dossier currently treats this as a "weak signal" attached to one case — re-examine as a domain.
+- [ ] **9c — Other domain lenses** — instantiate per-domain if the worldwide sweep surfaces them.
 
 ## Significant gaps (harder to fill)
 
@@ -91,7 +140,8 @@ The connection diagram needs significantly more data to match the richness of th
 - [ ] Add more cool animations to the diagram (transitions, hover effects, edge pulses, etc.)
 
 ## Website — Diagram Layout & Readability
-- [ ] **Fix force-directed auto-spreading** — When there are too many nodes, the graph is unreadable because nodes pile up on top of each other. The auto-spreading/repulsion that should be keeping nodes apart isn't working. Investigate force simulation parameters (charge strength, link distance, collision radius) and fix so the graph scales gracefully as node count grows.
+- [ ] **Fix force-directed auto-spreading** — When there are too many nodes, the graph is unreadable because nodes pile up on top of each other. The auto-spreading/repulsion that should be keeping nodes apart isn't working. Investigate force simulation parameters (charge strength, link distance, collision radius) and fix so the graph scales gracefully as node count grows. **Specifically: nodes are too close together on initial launch** — bump default link-distance / charge-repulsion so the first render is readable without manual zoom-out.
+- [ ] **Surface edge labels in the rendering** — `data/diagram-data.json` already carries a `label` field on every edge ("Retired LANL employee (retired 2017, decades of service)" etc.) and an `edge_type`, but the website doesn't render either. Show edge labels by default (with collision avoidance) or on hover/click — decide per density. Not a data task; the data is there. Pure rendering work in mattnoth-dev.
 - [ ] **Fix truncated labels** — Long names like "NASA Jet Propulsion Laboratory" and "Planetary Science & …" are cut off mid-word with ellipsis. Either wrap to two lines, show full text on hover/tooltip, or expand the label bounding box. Decide per node type.
 - [ ] **Resolve label/edge collisions** — Case name labels (e.g., "Michael David Hicks") render directly on top of connecting edges, making both unreadable. Add label collision avoidance, a background halo/pill behind text, or reposition labels away from edges.
 - [ ] **Resolve label/label collisions** — Adjacent node labels (e.g., "Aerojet Rocketdyne" overlapping an edge and a neighboring label) pile onto each other. Needs label-level collision detection or a force term that repels labels as well as nodes.
@@ -154,6 +204,7 @@ The connection diagram needs significantly more data to match the richness of th
 - [x] **Mobile table scroll containers** — Completed 2026-04-22 via `prompts/build/completed/prompt-mobile-table-styling.md`. Tables wrapped in `.ms-table-wrap`, viewport-capped, 7th column hidden on narrow screens.
 - [ ] **Mobile TOC overlay** — Contents disclosure should be a compact trigger that opens a floating overlay (not inline expansion). See `prompts/build/queued/prompt-mobile-toc-overlay.md`.
 - [ ] **Tighten header-to-content vertical spacing** — "Abstract" too far from page title on mobile. Part of the TOC overlay prompt.
+- [ ] **Abstract reveal on scroll-up (mobile)** — Sticky-header pattern: hide abstract on scroll-down, reveal on scroll-up. Confirm interaction: reveal-on-scroll-up + hide-on-scroll-down sticky header, or always-visible pinned-at-top? Mattnoth-dev (website) task. (Scratch.txt origin.)
 - [ ] **Horizontal rule alignment on mobile** — `<hr>` lines between sections don't align with content edges on narrow viewports. Pre-existing layout bug, not yet prompted.
 
 ## Research — Significant Locations
