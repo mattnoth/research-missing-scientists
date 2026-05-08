@@ -26,6 +26,10 @@ Routing table: if you are trying to do X, look here first. This is a pointer ind
 - **Reusable prompts** → `prompts/`
 - **Project history and motivation** → [PROJECT-HISTORY.md](PROJECT-HISTORY.md)
 
+## Historical snapshots
+
+- **State of the dossier on past dates** → [archive/HISTORY.md](archive/HISTORY.md) *(chronological index of checkpoints; forward checkpoints include full synthesis-file snapshots, retroactive entries are git tags)*
+
 ## Open threads and integrity
 
 - **Session progress (all sessions)** → [logs/progress.md](logs/progress.md) *(mandatory append at every session close)*

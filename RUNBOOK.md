@@ -208,6 +208,86 @@ If you run `prompt-004.md` and it changes the research:
 
 Prompt 004 will ask whether to regenerate these. You can say yes/no case by case.
 
+## Historical preservation
+
+Readers without git skills should be able to see what the dossier said at past points in time and how its framing evolved. Two layers handle this:
+
+- **Inline preservation** (per-file): top-of-file `*Last revised: YYYY-MM-DD*` line + inline `*(updated YYYY-MM-DD — see GitHub for details)*` markers + `## Update — YYYY-MM-DD` blocks. Original prose is never deleted. See SESSION-PLAN.md "Append, don't overwrite" for the full convention.
+- **Whole-dossier snapshots** (this section): a date-stamped copy of the synthesis files at major-revision moments, plus a git tag and an entry in [archive/HISTORY.md](archive/HISTORY.md).
+
+### Tag-and-push convention
+
+Any session that ships a substantive content or framing change tags HEAD before the change-set commit and pushes the tag:
+
+```bash
+git tag dossier-YYYY-MM-DD-<short-label>
+git push origin dossier-YYYY-MM-DD-<short-label>
+```
+
+`<short-label>`: 1–3 hyphenated lowercase words (`pre-rebalance`, `xfiles-reframe`, `eskridge-update`, `phase1-cleanup`, `huntsville-pass`). The tag captures the state *before* the change lands, so the named version recovers cleanly with `git checkout dossier-YYYY-MM-DD-<short-label>`.
+
+### When to take a full snapshot
+
+Snapshot — i.e., copy synthesis files into `archive/snapshots/<date-label>/` *and* tag — at moments like:
+
+- Banner / project-purpose / disclosure changes that alter how a reader interprets the whole dossier.
+- Voice or framing rewrites (e.g., conclusion-neutrality pass, X-Files / Evidence-for-against rebalance).
+- Phase-completion commits that ship a coherent revised state (Phase 1 cleanup, Phase 2 voice, Phase 3 tooling integration, etc.).
+- Any time the editorial frame of `dossier.md` or `analysis/*.md` shifts in a way that future readers should be able to compare to.
+
+Do **not** snapshot for: typo fixes, single-source updates, log-only commits, mechanical reformatting, ephemeral session-state changes.
+
+### Snapshot file scope
+
+Each snapshot directory contains four files only:
+
+- `dossier.md`
+- `analysis/hypotheses.md`
+- `analysis/connection-analysis.md`
+- `analysis/foreign-intel-layer.md`
+
+**Not** the 11 case files — they have their own inline-history markers and snapshotting all of them on every checkpoint bloats the repo. **Not** the JSON data — git history covers those.
+
+Each copied file gets a one-line banner prepended (above the H1):
+
+```markdown
+*Snapshot YYYY-MM-DD. Current: [<filename>](<relative-path-to-live>). Tag: [<tag-name>](<github-tag-url>).*
+
+---
+```
+
+Relative paths from the snapshot location to the live file:
+- `archive/snapshots/<date>/dossier.md` → `../../../dossier.md` (3 levels up)
+- `archive/snapshots/<date>/analysis/<file>.md` → `../../../../analysis/<file>.md` (4 levels up)
+
+Snapshots are **read-only after creation**. Never edit a snapshot file. If you want a different captured state, take a new snapshot under a new date-label directory.
+
+### `archive/HISTORY.md` maintenance
+
+Newest at top. One section per checkpoint: H2 with `YYYY-MM-DD — <short-label>`, one descriptive (not editorial) sentence, snapshot link if applicable, tag link. Format is descriptive (what changed substantively) — never editorial ("we used to do X but realized X was wrong"). Retroactive entries link the tag only and note `(No snapshot — recoverable via git tag.)`.
+
+### Commit / tag / push ordering for snapshot sessions
+
+The tag must point at HEAD *before* the snapshot commit lands, otherwise the tag captures the state-with-archive-tooling rather than the genuinely-pre-change state.
+
+```bash
+# 1. Tag HEAD before any new commits
+git tag dossier-YYYY-MM-DD-<label>
+
+# 2. Take the snapshot (copy synthesis files, prepend banners), update HISTORY.md
+# 3. Commit the archive changes
+git add archive/ NAVIGATION.md RUNBOOK.md   # plus any other files touched in the session
+git commit -m "..."
+
+# 4. Push tag and commit
+git push origin dossier-YYYY-MM-DD-<label>
+git push origin main
+```
+
+### Submodule note
+
+This research repo is a submodule of the `mattnoth-dev` website repo. Tracked content here flows through to the rendered site automatically. Snapshots are committed to git (not gitignored) so they appear on the website. Untracked snapshots disappear at session end — always `git add archive/snapshots/<date>/`.
+
 ## Known limitations
 
 - **Paywalled foreign coverage** (e.g., some major international outlets behind subscription walls): documented in `logs/known-unknowns.md`. The research does not bypass paywalls; it looks for syndicated reposts and notes when those are not available.
