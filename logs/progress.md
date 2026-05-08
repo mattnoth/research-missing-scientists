@@ -2,6 +2,22 @@
 
 Every agent session appends here — research, website, tooling, whatever. This is the single durable record of what happened across sessions. The research log (`research-log.md`) tracks research-specific detail; this file tracks everything at session level.
 
+## 2026-05-08 — Historical preservation mechanism (design + implement)
+
+**What changed:**
+- New `archive/` tree with the first checkpoint snapshot under `archive/snapshots/2026-05-08-pre-rebalance/`. Contents: copies of `dossier.md`, `analysis/hypotheses.md`, `analysis/connection-analysis.md`, `analysis/foreign-intel-layer.md`, each with a verdict-free banner pointing back to the live file and the matching git tag. Snapshots are read-only after creation.
+- `archive/HISTORY.md` — chronological index of dossier checkpoints, newest-at-top. Today's entry plus 5 retroactive entries: `repo-bootstrap` (2026-04-20), `dossier-complete` (2026-04-20), `tier8-migration` (2026-04-21), `crosslink-pass` (2026-04-21), `session-plan` (2026-05-06). Retroactive entries link the tag only — recoverable via `git checkout`.
+- `NAVIGATION.md` — new "Historical snapshots" section pointing at `archive/HISTORY.md`.
+- `RUNBOOK.md` — new "Historical preservation" section documenting the tag-and-push convention, when to take snapshots, snapshot file scope (synthesis files only — not the 11 case files, not the JSON), banner format, relative-path math, HISTORY.md maintenance, and commit/tag/push ordering.
+- 6 git tags pushed under `dossier-YYYY-MM-DD-<label>` convention. The pre-rebalance tag points at the genuinely pre-archive HEAD so `git checkout dossier-2026-05-08-pre-rebalance` recovers the dossier without the archive infrastructure.
+- One subagent fired: Sonnet Explore pass enumerating retroactive checkpoint candidates. Returned 8; trimmed to 5 after review (dropped same-day-as-bootstrap framework commit, mid-step case-research-start, and the renderer-only PDF pipeline commit).
+- Push handling: encountered a non-fast-forward rejection — origin had `6846fc4` (authorship-clarification edit to `PROJECT-HISTORY.md` from 2026-04-22) that was not local. Rebased local 3 commits onto `6846fc4`, re-applied the 2 affected tags (`session-plan` and `pre-rebalance`) on the new SHAs. Other 4 retroactive tags unaffected (below the merge-base). Pushed main + 6 tags successfully.
+
+**Further work:**
+- Website-side rendering of the archive index (browseable HISTORY.md page, snapshot viewers) — separate `mattnoth-dev` session.
+- Future substantive-revision sessions: follow the documented tag-and-snapshot convention. Next likely checkpoint: post-rebalance after the X-Files / Evidence-for-against framing pass lands.
+- Pre-existing WIP in working tree (TODO-research.md modification + prompts/build/ reorganization into `completed/` and `queued/`) was untouched this session — those are the user's pre-existing in-progress work.
+
 ## 2026-05-06 — Session 1: Phase 0 decisions + multi-session plan
 
 **What changed:**
