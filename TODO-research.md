@@ -81,9 +81,9 @@ Every scratch.txt open item also lives here as a trackable checkbox. **For the o
 - [ ] **Eskridge research bundle + precursor-statement hunt** — primary/court/local first; specifically hunt for the "I would not commit suicide" precursor statement (interviews, social posts, video, third-party reporting); Tier carefully (such claims often originate low-tier and need primary verification). Research only — case file update happens after, with neutrality voice.
 
 ### Phase 6 — Depth-first update on existing cases
-- [ ] **Step A — hybrid triage** (rank all 11 by source weakness AND surface new-material density; user picks 2–3 from the union)
-- [ ] **Step B — source-deepening pass** on top-N (parallel agents, one per case)
-- [ ] **Step C — news-refresh pass** on same top-N (dated `## Update —` blocks, originals untouched)
+- [x] **Step A — hybrid triage** — Completed 2026-05-08 (Sonnet Explore agent, [logs/triage-2026-05-08.md](logs/triage-2026-05-08.md)). Union pick: mccasland, garcia, reza.
+- [x] **Step B — source-deepening pass** — Completed 2026-05-08 (3 parallel general-purpose agents, Wave 1). Bundles: [logs/mccasland-source-deepening-2026-05-08.md](logs/mccasland-source-deepening-2026-05-08.md), [logs/garcia-source-deepening-2026-05-08.md](logs/garcia-source-deepening-2026-05-08.md), [logs/reza-source-deepening-2026-05-08.md](logs/reza-source-deepening-2026-05-08.md).
+- [x] **Step C — news-refresh pass** — Completed 2026-05-08 (3 parallel general-purpose agents, Wave 2). Bundles: [logs/mccasland-news-refresh-2026-05-08.md](logs/mccasland-news-refresh-2026-05-08.md), [logs/garcia-news-refresh-2026-05-08.md](logs/garcia-news-refresh-2026-05-08.md), [logs/reza-news-refresh-2026-05-08.md](logs/reza-news-refresh-2026-05-08.md). Three drafted `## Update — 2026-05-08` blocks at [drafts/mccasland-update-block-2026-05-08.md](drafts/mccasland-update-block-2026-05-08.md), [drafts/garcia-update-block-2026-05-08.md](drafts/garcia-update-block-2026-05-08.md), [drafts/reza-update-block-2026-05-08.md](drafts/reza-update-block-2026-05-08.md). Apply step is a separate session.
 
 ### Phase 8 — Pattern-recognition appendix
 - [ ] **Behavioral-patterns appendix** — factory-reset phones, walking out / leaving belongings, undisclosed cause of death, **precursor statements (Eskridge plus any others surfaced)**. Lists which cases share each pattern. Includes human-fallibility caveat. New file: `appendices/behavioral-patterns.md` or `analysis/behavioral-patterns.md`.
