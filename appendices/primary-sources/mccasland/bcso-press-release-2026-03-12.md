@@ -3,9 +3,10 @@
 | Field | Value |
 |---|---|
 | **Source URL** | https://www.bernco.gov/bernalillo-county-sheriff/wp-content/uploads/sites/48/2026/03/PressRelease3.12.2026.pdf |
-| **Access Date** | 2026-04-20 (PDF returned 403; content reconstructed from news reporting that quotes the release) |
+| **Local archive** | [PressRelease3.12.2026.pdf](PressRelease3.12.2026.pdf) (downloaded 2026-05-08; 2-page image-PDF, OCR not applied) |
+| **Access Date** | 2026-04-20 (PDF returned 403 to automated fetch; user confirmed browser access on 2026-05-08 and saved local copy). Reconstructed content below dates to the original 2026-04-20 reconstruction from news reporting that quotes the release; primary PDF retained for direct verification. |
 | **Publisher** | Bernalillo County Sheriff's Office |
-| **Document Type** | Law enforcement press release |
+| **Document Type** | Law enforcement press release (image-based PDF, 2 pages) |
 | **Date of Document** | March 12, 2026 |
 | **Tier** | T1 (law enforcement official release) |
 
@@ -27,4 +28,4 @@ The BCSO issued a press release updating the public on the search for retired Ai
 
 ## Access Note
 
-Direct access to the PDF at the BCSO URL returned HTTP 403 on 2026-04-20. Content above is reconstructed from multiple T4 sources (ABC News, Albuquerque Journal, Newsweek, Fox News) that quote the release. This is noted as a limitation — the primary document was not directly verified.
+The BCSO URL returns HTTP 403 to automated fetches but is accessible in browser; user confirmed and downloaded a local copy on 2026-05-08 (`PressRelease3.12.2026.pdf` in this directory). The reconstructed content above predates that download — sourced from multiple T4 outlets (ABC News, Albuquerque Journal, Newsweek, Fox News) quoting the release. The PDF itself is image-based (no extractable text); direct quoting from the PDF requires OCR (deferred to a Phase 3 task). Inline citations in `cases/mccasland.md` link the original BCSO URL directly per the inline-source-URLs convention.

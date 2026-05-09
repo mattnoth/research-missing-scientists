@@ -30,10 +30,10 @@
 | Jun 27, 2019 | Joined Riverside Research Board of Trustees | T1 ([press release](../appendices/primary-sources/mccasland/riverside-research-appointment.md)) | Confirmed |
 | Feb 27, 2026 | Disappeared from Albuquerque home | T1 (BCSO Silver Alert, 911 call) | Confirmed |
 | Feb 27, 2026 | Wife reports missing at 3:07 PM | T4 ([news reports](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) citing BCSO) | Confirmed |
-| ~Mar 2, 2026 | Silver Alert issued by BCSO | T1 ([BCSO press release](../appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md)) | Confirmed |
+| ~Mar 2, 2026 | Silver Alert issued by BCSO | T1 ([BCSO press release PDF, Mar 12 2026](https://www.bernco.gov/bernalillo-county-sheriff/wp-content/uploads/sites/48/2026/03/PressRelease3.12.2026.pdf); [reconstruction notes](../appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md)) | Confirmed |
 | Mar 7, 2026 | Gray USAF sweatshirt found ~1.25 miles east of home | T4 ([news reports](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) citing BCSO) | Reported -- not confirmed as McCasland's |
 | ~Mar 11, 2026 | FBI joins search | T4 ([CNN](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing), [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054)) | Confirmed |
-| Mar 12, 2026 | BCSO press release with expanded search details | T1 ([BCSO press release](../appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md)) | Confirmed |
+| Mar 12, 2026 | BCSO press release with expanded search details | T1 ([BCSO press release PDF](https://www.bernco.gov/bernalillo-county-sheriff/wp-content/uploads/sites/48/2026/03/PressRelease3.12.2026.pdf); [reconstruction notes](../appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md)) | Confirmed |
 | Apr 2026 | Still missing; no confirmed sightings | T4 (multiple outlets) | Confirmed |
 
 ---
