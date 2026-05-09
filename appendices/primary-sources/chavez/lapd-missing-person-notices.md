@@ -4,7 +4,7 @@
 - LAPD notice published via Los Alamos Reporter, May 12, 2025: https://losalamosreporter.com/2025/05/12/lapd-missing-person/
 - LAPD search update published via Los Alamos Reporter, May 20, 2025: https://losalamosreporter.com/2025/05/20/los-alamos-police-department-continues-search-for-anthony-chavez/
 - LAPD search update published via LA Daily Post, May 19, 2025: https://ladailypost.com/los-alamos-police-continue-search-for-anthony-chavez/
-- Official county page (returned 403): https://www.losalamosnm.gov/News-articles/Search-Continues-Anthony-Chavez
+- Official county page (returned 403): https://www.losalamosnm.gov/News-media/Search-Continues-Anthony-Chavez (URL path corrected 2026-05-08 from `/News-articles/` per server redirect)
 
 **Tier:** T1 (law enforcement statements published through local media and county website)
 **Accessed:** 2026-04-20

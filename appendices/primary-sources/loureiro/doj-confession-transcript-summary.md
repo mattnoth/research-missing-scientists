@@ -1,11 +1,11 @@
 # DOJ Video Confession Transcript Release
 
 **Source:** U.S. Attorney's Office for the District of Massachusetts / Department of Justice
+**Source URL:** No primary URL located on justice.gov or justice.gov/usao-ma as of 2026-05-08. The DOJ/USAO-MA release of the transcript was reported uniformly by Boston 25 News, ABC News, PBS, Fox News, and CBS News, but the underlying release page was not located in this research. Sourcing reconstructed from T4 outlets quoting the release. Logged here so the case-file citation is not misread as having an inaccessible primary URL behind it.
 **Date released:** January 6, 2026
 **Date accessed (via media):** April 20, 2026
-**Tier:** T1 (federal law enforcement primary source)
+**Tier:** T1 (federal law enforcement primary source) — accessed only via T4 secondary reporting
 **Confidence:** Confirmed
-**Note:** Direct DOJ release page not fetched; details extracted from multiple media reports of the transcript (Boston 25 News, ABC News, PBS, Fox News, CBS News). All major outlets reported consistent details from the same DOJ release.
 
 ## Key Facts Extracted
 

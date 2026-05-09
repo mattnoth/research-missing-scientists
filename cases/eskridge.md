@@ -1,6 +1,6 @@
 # Amy Catherine Eskridge
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/eskridge.md). 2026-05-08 revision added enrichment link (Michael Shellenberger) and expanded acronyms on first use (MSFC, DEW).*
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/eskridge.md). 2026-05-08 revision added enrichment link (Michael Shellenberger), expanded acronyms on first use (MSFC, DEW), and added a local-archive reference for the HAL5 antigravity-talk PDF (downloaded 2026-05-08; small non-profit publisher with link-rot risk).*
 
 **Status:** Deceased
 **Date of incident:** June 11, 2022
@@ -14,7 +14,7 @@
 - **Date unknown:** Pursued advanced studies in electrical engineering, chemistry, physics, and genetic engineering [T1 ([obituary](https://www.thearabtribune.com/obituaries/amy-eskridge/article_3779ff44-ecd0-11ec-b084-a70e496e902a.html)), Confirmed]
 - **Date unknown:** Co-founded The Institute for Exotic Science with father Richard Eskridge [T4, Reported]
 - **Date unknown:** Co-founded HoloChron LLC with father Richard Eskridge [T4, Reported]
-- **December 2018:** Presented "A Historical Perspective on Anti-Gravity Technology" at HAL5 (Huntsville Alabama L5 Society) [T1 ([HAL5 PDF](https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf)), Confirmed]
+- **December 2018:** Presented "A Historical Perspective on Anti-Gravity Technology" at HAL5 (Huntsville Alabama L5 Society) [T1 ([HAL5 PDF](https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf); [local archive](../appendices/primary-sources/eskridge/HAL5-Dec2018-Talk-AntiGravity.pdf)), Confirmed]
 - **May 20, 2020:** Interview with Jeremy Rys and Mark Sokol in which she described threats, harassment, and alleged directed energy weapon (DEW) attacks [T4 (YouTube/podcast), Confirmed as published; claims unverified]
 - **June 11, 2022:** Died at age 34 in Huntsville, Alabama [T1 ([obituary](https://www.thearabtribune.com/obituaries/amy-eskridge/article_3779ff44-ecd0-11ec-b084-a70e496e902a.html)), Confirmed]
 - **June 21, 2022:** Obituary published in AL.com (Huntsville) [T1, Confirmed]
@@ -76,7 +76,7 @@ Separately, retired British intelligence officer Franc Milburn has claimed to ha
 ## Primary Sources
 - [Amy Eskridge obituary (The Arab Tribune)](https://www.thearabtribune.com/obituaries/amy-eskridge/article_3779ff44-ecd0-11ec-b084-a70e496e902a.html) -- Obituary with biographical details [T1]
 - [Amy Eskridge obituary (Legacy.com)](https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-obituary?id=35311909) -- Obituary mirror [T1]
-- [HAL5 December 2018 Presentation PDF](https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf) -- "A Historical Perspective on Anti-Gravity Technology" [T1]
+- [HAL5 December 2018 Presentation PDF](https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf) ([local archive](../appendices/primary-sources/eskridge/HAL5-Dec2018-Talk-AntiGravity.pdf)) -- "A Historical Perspective on Anti-Gravity Technology" [T1]
 
 ## Secondary Sources
 - [Newsweek: "Who is Amy Eskridge?"](https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659) -- Biographical overview and case context [T4]

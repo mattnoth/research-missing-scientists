@@ -1,6 +1,6 @@
 # NNSA General Statement on Missing Scientists Reports
 
-- **Source URL:** Not directly located as standalone document; quoted in multiple secondary sources including Newsweek and CBS News
+- **Source URL:** No primary URL located. The statement was provided to journalists in response to inquiries; it has not appeared as a standalone press release on nnsa.energy.gov, kcnsc.doe.gov, or any other NNSA / DOE / Honeywell FM&T property as of 2026-05-08. Sourcing reconstructed from T4 outlets quoting NNSA (Newsweek, CBS News, others). Recorded here so the case-file citation is not misread as having an inaccessible primary URL behind it.
 - **Access date:** April 20, 2026
 - **Publisher:** National Nuclear Security Administration (NNSA)
 - **Document type:** Agency statement to media (exact format and date undetermined)

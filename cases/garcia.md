@@ -1,6 +1,6 @@
 # Steven Abel Garcia
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/garcia.md). 2026-05-08 revision expanded acronyms on first use (APD, KCNSC, NNSA).*
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/garcia.md). 2026-05-08 revision expanded acronyms on first use (APD, KCNSC, NNSA), surfaced the NM DPS primary URL inline (previously linked only to local audit page), and annotated the NNSA statement entry to make explicit that no standalone primary URL exists.*
 
 ## Status
 
@@ -71,8 +71,8 @@ No trace of Garcia has been reported found as of April 20, 2026. He remains list
 
 ## Primary sources
 
-- **NM DPS Missing Persons record M101688** -- See `appendices/primary-sources/garcia/nm-dps-missing-persons.md`
-- **NNSA general statement** (acknowledging awareness of reports) -- See `appendices/primary-sources/garcia/nnsa-statement.md`
+- **NM DPS Missing Persons record M101688** -- [missingpersons.dps.nm.gov record](https://missingpersons.dps.nm.gov/mpweb/mpdetailreport_serv?id=M101688) (T1, active listing); [reconstruction notes](../appendices/primary-sources/garcia/nm-dps-missing-persons.md)
+- **NNSA general statement** (acknowledging awareness of reports) -- No standalone primary URL located on nnsa.energy.gov or kcnsc.doe.gov; statement was provided to journalists in response to inquiries. Sourcing reconstructed from T4 outlets quoting NNSA. [Reconstruction notes](../appendices/primary-sources/garcia/nnsa-statement.md).
 
 No APD press release, Silver Alert, or KCNSC statement has been located as a primary source. The APD statements cited in secondary reporting appear to originate from police communications to media rather than published press releases. This is logged as a known unknown.
 

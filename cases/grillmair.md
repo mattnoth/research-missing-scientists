@@ -1,6 +1,6 @@
 # Carl Johann Grillmair
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/grillmair.md). 2026-05-08 revision expanded acronyms on first use (NEOWISE, LASD).*
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/grillmair.md). 2026-05-08 revision expanded acronyms on first use (NEOWISE, LASD) and surfaced primary URLs for the three Primary Sources entries (Caltech memorial, LA County BoS adjournment, LASD initial report) that previously linked only to local audit pages.*
 
 | Field | Value |
 |---|---|
@@ -83,9 +83,9 @@ This case has the strongest non-conspiracy explanation of any in the cluster:
 
 | Source | Type | Tier | Location |
 |---|---|---|---|
-| Caltech memorial statement | Institutional statement | T1 | [appendices/primary-sources/grillmair/caltech-memorial.md](../appendices/primary-sources/grillmair/caltech-memorial.md) |
-| LA County Board of Supervisors adjournment | Government action | T1 | [appendices/primary-sources/grillmair/la-county-bos-adjournment.md](../appendices/primary-sources/grillmair/la-county-bos-adjournment.md) |
-| LASD initial report (via CBS/media) | LE report (indirect) | T1/T3 | [appendices/primary-sources/grillmair/lasd-initial-report.md](../appendices/primary-sources/grillmair/lasd-initial-report.md) |
+| Caltech memorial statement | Institutional statement | T1 | [caltech.edu memorial](https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-carl-grillmair-19592026); [reconstruction notes](../appendices/primary-sources/grillmair/caltech-memorial.md) |
+| LA County Board of Supervisors adjournment | Government action | T1 | [Supervisor Barger press release](https://kathrynbarger.lacounty.gov/supervisor-barger-adjourns-board-of-supervisors-meeting-in-memory-of-slain-antelope-valley-astrophysicist-dr-carl-grillmair-caltech-scientist-honored-for-groundbreaking-space-research/); [reconstruction notes](../appendices/primary-sources/grillmair/la-county-bos-adjournment.md) |
+| LASD initial report (via CBS/media) | LE report (indirect) | T1/T3 | No direct LASD URL located; reconstructed from [CBS LA](https://www.cbsnews.com/losangeles/news/llano-fatal-shooting-homicide-investigation-antelope-valley/) and [MyNewsLA](https://mynewsla.com/crime/2026/02/20/man-who-fatally-shot-caltech-scientist-had-been-released-after-gun-arrest/); [reconstruction notes](../appendices/primary-sources/grillmair/lasd-initial-report.md) |
 
 ## Secondary sources
 

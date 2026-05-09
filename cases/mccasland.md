@@ -1,6 +1,6 @@
 # Case File: William Neil McCasland
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/mccasland.md). 2026-05-08 revision added enrichment links (Tom DeLonge, John Podesta, To The Stars Academy, direct WikiLeaks email URL), expanded acronyms on first use (USAF, AFRL, OUSD(AT&L), SAPOC, SAP, C4ISR), and annotated the dead Dayton Daily News URL.*
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/mccasland.md). 2026-05-08 revision added enrichment links (Tom DeLonge, John Podesta, To The Stars Academy, direct WikiLeaks email URL), expanded acronyms on first use (USAF, AFRL, OUSD(AT&L), SAPOC, SAP, C4ISR), annotated the dead Dayton Daily News URL, and surfaced the PR Newswire primary URL for the Riverside Research Board appointment (previously linked only to local audit page).*
 
 | Field | Value |
 |---|---|
@@ -27,7 +27,7 @@
 | May 2011 | Assumed command of AFRL, Wright-Patterson AFB | T1 (official bio) | Confirmed |
 | Oct 2013 | Retired from USAF after 34 years of active duty | T1 (official bio) | Confirmed |
 | Jan 25, 2016 | [Tom DeLonge](https://en.wikipedia.org/wiki/Tom_DeLonge) email to [John Podesta](https://en.wikipedia.org/wiki/John_Podesta) referencing McCasland, published via WikiLeaks | T1 ([WikiLeaks emailid 3099](https://wikileaks.org/podesta-emails/emailid/3099); [local archive](../appendices/primary-sources/mccasland/wikileaks-podesta-email-3099.md)) | Confirmed (email exists; claims within email are DeLonge's assertions) |
-| Jun 27, 2019 | Joined Riverside Research Board of Trustees | T1 ([press release](../appendices/primary-sources/mccasland/riverside-research-appointment.md)) | Confirmed |
+| Jun 27, 2019 | Joined Riverside Research Board of Trustees | T1 ([PR Newswire press release](https://www.prnewswire.com/news-releases/riverside-research-welcomes-dr-neil-mccasland-to-their-board-of-trustees-300921796.html); [reconstruction notes](../appendices/primary-sources/mccasland/riverside-research-appointment.md)) | Confirmed |
 | Feb 27, 2026 | Disappeared from Albuquerque home | T1 (BCSO Silver Alert, 911 call) | Confirmed |
 | Feb 27, 2026 | Wife reports missing at 3:07 PM | T4 ([news reports](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) citing BCSO) | Confirmed |
 | ~Mar 2, 2026 | Silver Alert issued by BCSO | T1 ([BCSO press release PDF, Mar 12 2026](https://www.bernco.gov/bernalillo-county-sheriff/wp-content/uploads/sites/48/2026/03/PressRelease3.12.2026.pdf); [reconstruction notes](../appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md)) | Confirmed |
