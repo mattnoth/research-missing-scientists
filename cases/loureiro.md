@@ -1,5 +1,7 @@
 # Nuno Filipe Gomes Loureiro
 
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/loureiro.md). 2026-05-08 revision: appended `## Update — 2026-04-29` block capturing the FBI Boston Division + U.S. Attorney's Office for the District of Massachusetts joint findings (Valente acted alone, no nexus to terrorism, victims "symbolic in nature").*
+
 **Status:** Deceased (homicide)
 **Date of incident:** December 15, 2025 (shot); died December 16, 2025
 **Location:** 9 Gibbs Street, Brookline, Massachusetts (apartment building foyer)
@@ -175,6 +177,14 @@ The criminal case against Claudio Manuel Neves Valente is exceptionally well-doc
 5. **Established institutional connection:** Valente was a former Brown PhD student who dropped out; Brown was explicitly his primary target [T1, Confirmed].
 
 **Assessment:** The evidence strongly supports the conclusion that Loureiro's murder was a personally motivated act by a former classmate who harbored long-standing resentment, likely related to academic/professional jealousy. There is no evidence in available sources suggesting any defense, national security, foreign intelligence, or conspiracy-related motive. The case's inclusion in the broader "missing scientists" pattern is primarily temporal coincidence; the criminal facts distinguish it sharply from unsolved disappearances. This case is the strongest candidate for exclusion or reclassification from the "pattern" on evidentiary grounds.
+
+## Update — 2026-04-29
+
+The Federal Bureau of Investigation (Boston Division) and the U.S. Attorney's Office for the District of Massachusetts jointly released findings concluding that Cláudio Manuel Neves Valente "worked alone" in the December 13 Brown University mass shooting and the December 15 murder of Nuno Loureiro, and that his actions "were determined to have no nexus to terrorism" [T1 ([FBI Boston press release](https://www.fbi.gov/contact-us/field-offices/boston/news/fbi-and-us-attorneys-office-for-the-district-of-massachusetts-release-findings-on-brown-university-and-brookline-shootings) — blocks automated checks; viewable in browser; T3 mirror at [Brown Daily Herald (Emily Feil, 2026-04-29)](https://www.browndailyherald.com/article/2026/04/fbi-investigation-finds-dec-13-shooter-acted-alone-was-motivated-by-perceived-personal-failures)), Confirmed].
+
+Per the release, the investigation recovered more than 112 pieces of evidence, pursued more than 490 leads, reviewed more than 11,000 surveillance files, analyzed 815 videos and 1,327 audio files from Valente's electronic devices, and conducted more than 260 interviews [T1, Confirmed]. The FBI assessed that Brown University and Loureiro "represented to the shooter his personal failures and injustices he perceived were inflicted by others over time," and characterized the targets as "symbolic in nature." The release noted Valente experienced "a failure to thrive" and "long-standing suicidality" but cautioned that "mental health stressors alone cannot fully explain the attacks." It added: "Only Neves Valente knew the real reason why he committed these heinous acts." [T1, Confirmed]
+
+This is the only case-specific FBI finding publicly released to date among the broader missing-and-deceased-scientists review (FBI Director Patel's promised comprehensive report not yet published as of 2026-05-08). The federal closure resolves the lone-actor determination and the absence of any terrorism / national-security nexus; Open Questions about Valente's explicit motive, any post-2000 contact between Valente and Loureiro, and the firearms-acquisition timeline remain unanswered by the public release.
 
 ## Related Cases
 

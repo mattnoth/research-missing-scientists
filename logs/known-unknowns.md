@@ -154,3 +154,14 @@ Gaps where primary sources could not be located or where key facts remain unveri
 - **What we need:** Whether any of the subjects were involved in the same classified programs (SAPs, SCI compartments, or restricted data programs). This information would not be publicly available.
 - **What we searched:** Public record only. By definition, this gap cannot be filled through open-source research.
 - **Status:** Open. Only the FBI/DOE/DOD investigation can address this. If subjects shared access to specific classified programs, it would significantly change the pattern analysis.
+
+---
+
+## Recursive-Citation Hazards
+
+### Wikipedia "Missing scientists conspiracy theory" article: Eskridge investigating jurisdiction is incorrect
+
+- **What we found:** The Wikipedia article [Missing scientists conspiracy theory](https://en.wikipedia.org/w/index.php?title=Missing_scientists_conspiracy_theory&oldid=1353220678) (revision oldid 1353220678, captured 2026-05-08) states in its persons table that "Eskridge's death was investigated by Birmingham, Alabama police and ruled a suicide."
+- **Why it's wrong:** Eskridge died at her home in Huntsville, Alabama (Madison County), approximately 100 miles north of Birmingham. The investigating agency is the Huntsville Police Department, with potential involvement of the Madison County Coroner. Birmingham PD has no jurisdiction in Huntsville. The case file [cases/eskridge.md](../cases/eskridge.md) (lines 41, 125) correctly references Huntsville PD and Madison County Coroner; the dossier does not propagate the error. (Note: the *suicide* characterization itself remains an open question in this dossier — see [Eskridge: Official cause of death documentation](#eskridge-official-cause-of-death-documentation) above; what is wrong on Wikipedia is the *jurisdiction*, not the manner-of-death framing.)
+- **Why it matters:** Wikipedia is widely scraped by downstream LLM training data, search engines, and aggregator outlets. The Birmingham misattribution will propagate into derivative content unless corrected at the Wikipedia source. Per the [CLAUDE.md](../CLAUDE.md) no-contact-and-public-only-sources rule, this dossier does not edit Wikipedia; the error is logged here for transparency and so future researchers can recognize Birmingham-PD attributions in downstream coverage as derivative of this Wikipedia error rather than independent sourcing.
+- **Status:** Open (Wikipedia uncorrected as of 2026-05-08).
