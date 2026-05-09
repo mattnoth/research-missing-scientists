@@ -1,6 +1,6 @@
 # Connection Analysis
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/analysis/connection-analysis.md). 2026-05-08 revision expanded acronyms on first use (IPAC, KCNSC, PSFC, SBG-VSWIR, AMR, HIFI).*
+*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/analysis/connection-analysis.md). 2026-05-08 revisions: (1) Phase 1 cleanup expanded acronyms on first use (IPAC, KCNSC, PSFC, SBG-VSWIR, AMR, HIFI). (2) Neutrality re-pass replaced one verdict-style summary clause ("are within plausible base rates before controlling for other factors") with neutral framing of the unanswered base-rate question.*
 
 This document maps verifiable connections between the 11 cases. Connections are organized into three layers of decreasing evidentiary confidence. Every connection carries a confidence rating and evidence pointer. Connections are facts; whether they indicate causation is evaluated separately in `hypotheses.md`.
 
@@ -18,7 +18,7 @@ These connections are confirmed by primary or credible secondary sources.
 | JPL (current or recent employees) | [Reza](../cases/reza.md) (Director, Materials Processing), [Hicks](../cases/hicks.md) (research scientist 1998-2022), [Maiwald](../cases/maiwald.md) (principal researcher ~1999-2024) | LASD record (T1), Forest Lawn obituary (T1), Legacy.com obituary (T1) | **High** |
 | Caltech system (Infrared Processing and Analysis Center (IPAC) is Caltech-operated) | [Grillmair](../cases/grillmair.md) (IPAC, 1997-2026) | Caltech memorial (T1) | **High** -- but IPAC is institutionally distinct from JPL despite both being Caltech-managed |
 
-**What this means:** Two institutional clusters exist. Three of 11 subjects worked at JPL; two at LANL. Grillmair is Caltech-adjacent but not JPL. These clusters are real but must be evaluated against institutional size: JPL employs ~6,000 people and LANL ~14,000. Three deaths across JPL over a 2023-2025 window and two disappearances among LANL's current/former workforce of tens of thousands are within plausible base rates before controlling for other factors.
+**What this means:** Two institutional clusters exist. Three of 11 subjects worked at JPL; two at LANL. Grillmair is Caltech-adjacent but not JPL. JPL employs ~6,000 people and LANL ~14,000. Three deaths across JPL over a 2023-2025 window and two disappearances across LANL's current/former workforce of tens of thousands have not been formally evaluated against actuarial base rates; whether the observed counts exceed expectation is an open question. *(updated 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/analysis/connection-analysis.md))*
 
 ### Geographic Clustering
 
