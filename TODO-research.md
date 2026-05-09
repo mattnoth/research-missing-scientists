@@ -95,7 +95,21 @@ Every scratch.txt open item also lives here as a trackable checkbox. **For the o
 - [ ] **W-8 — English-language indie / Substack / aggregator lists** (Wayback for takedowns; verify each lead independently)
 
 ### Phase 5 — Amy Eskridge case update
-- [ ] **Eskridge research bundle + precursor-statement hunt** — primary/court/local first; specifically hunt for the "I would not commit suicide" precursor statement (interviews, social posts, video, third-party reporting); Tier carefully (such claims often originate low-tier and need primary verification). Research only — case file update happens after, with neutrality voice.
+- [x] **Eskridge research bundle + precursor-statement hunt** — Completed 2026-05-08. Bundle: [logs/eskridge-research-bundle-2026-05-08.md](logs/eskridge-research-bundle-2026-05-08.md). Precursor statement is now sourced to verbatim text-message screenshots, dated May 13, 2022 (28 days before death), released April 2026 by Franc Milburn — plus a parallel Reid disclosure (May 24, 2022 Signal messages, released April 2025 — Reid was first by ~12 months).
+- [x] **Eskridge case file apply** — Completed 2026-05-08. Update block + 3 inline revision markers + top-of-file marker append committed against `cases/eskridge.md`. Draft staged at [drafts/eskridge-update-block-2026-05-08.md](drafts/eskridge-update-block-2026-05-08.md). Diff scale 132 → ~370 lines.
+
+#### Eskridge Update follow-ups (re-fetch flags carried from bundle)
+- [ ] **Daily Mail Eskridge URL discovery** — site:dailymail.co.uk search returns 0; aggregator content (news.mogaznews.com) suggests publication exists. Try DuckDuckGo / direct URL discovery.
+- [ ] **Cybernews "I did not kill myself" article** — `https://cybernews.com/news/plasma-science-ufo-uap-classified/` returns HTTP 403 systematic; flag for re-fetch via mirror.
+- [ ] **Wayback Machine direct fetch** for `instituteforexoticscience.org` — agent-level web.archive.org block; user-side curl needed.
+- [ ] **congress.gov fetch** of Michael Shellenberger House Subcommittee on the Weaponization of the Federal Government testimony naming Eskridge — direct congressional record search.
+- [ ] **Alabama SoS direct query** for HoloChron LLC officer list — `https://arc-sos.state.al.us/CGI/CORPNAME.MBR/INPUT`.
+- [ ] **Madison County Coroner public-records status check** — public-records-only verification, NOT submission. Confirms whether a coroner finding has been issued and its public-release status. **Single most load-bearing missing piece for either Scully or Mulder framing.**
+- [ ] **2021 voice recording (Daily Mail / Milburn)** Whisper transcription — Phase 3 yt-dlp + Whisper deferral. Pre-existing recorded audio of Eskridge describing a 2021 airport-bypass / vehicle-tampering / military-colonel-stranger event.
+- [ ] **2020 Rys/Sokol interview full Whisper transcription** — Phase 3 deferral. Canonical archive copy at `archive.org/details/youtube-HOtsZSzpnhI`.
+- [ ] **Reddit direct subreddit query** — r/UFOs, r/aerospace, r/Huntsville, r/conspiracy for Eskridge threads (site:reddit.com web search returned 0 — anomalous given TikTok / YouTube volume).
+- [ ] **NTD News removed video with Eskridge ex-boyfriend** (per Wikispooks) — unverified lead; no current URL surfaced.
+- [ ] **"Reid" disambiguation** — HoloChron officer list "Reid (Professor / Sr. EE Director Emeritus)" vs. Samuel Reid (Geometric Energy CEO / SpaceX DOGE-1 customer). Two different Reids, or one in two roles?
 
 ### Phase 6 — Depth-first update on existing cases
 - [x] **Step A — hybrid triage** — Completed 2026-05-08 (Sonnet Explore agent, [logs/triage-2026-05-08.md](logs/triage-2026-05-08.md)). Union pick: mccasland, garcia, reza.

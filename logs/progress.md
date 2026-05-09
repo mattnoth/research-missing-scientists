@@ -2,6 +2,31 @@
 
 Every agent session appends here — research, website, tooling, whatever. This is the single durable record of what happened across sessions. The research log (`research-log.md`) tracks research-specific detail; this file tracks everything at session level.
 
+## 2026-05-08 — Phase 5 / Eskridge apply (Update block + 3 inline revision markers)
+
+**What changed:** Applied the [eskridge research bundle](eskridge-research-bundle-2026-05-08.md) to `cases/eskridge.md` per the standing **Append, don't overwrite** convention. One `## Update — 2026-05-08` block (~240 lines, headline updates + Scully A1–A4 + Mulder B1–B5 + 9 Anomalies + Imbalance note + 11 re-fetch flags) inserted after **Contradictions** and before **Related Cases**, with `---` visual rules above and below. Three inline revision markers added (L22 Key Dates April 2026 — federal probe formal engagement; L30 Richard Eskridge / NASA paragraph — NTRS T1/T2 substantiation; L49 Milburn / Shellenberger paragraph — credentials + venue refinement). Top-of-file `*Last revised:*` line at L3 amended (single sentence appended; prior content preserved). Draft staged at [drafts/eskridge-update-block-2026-05-08.md](../drafts/eskridge-update-block-2026-05-08.md) before apply.
+
+**Pre-flight verifications:**
+- 5 of 7 sampled bundle URLs returned curl HTTP 200 (Fox News, IBTimes UK Reid disclosure, The Mirror, NTRS, Mountain Eagle); 2 Newsweek URLs returned 406 to curl regardless of UA (anti-bot fingerprinting — bundle had verified via WebFetch). None dead.
+- Wikipedia URL verification surfaced **6 invented-page 404s** the draft had populated speculatively: Franc Milburn, Joshua LeBlanc (engineer), Samuel Reid (entrepreneur), Geometric Energy Corporation, Jennifer Coffindaffer, Eric W. Davis / Eric Davis (astrophysicist) — all dropped from the applied block. **DOGE-1 path corrected** from `/wiki/DOGE-1_Mission_to_the_Moon` (404) to `/wiki/DOGE-1` (200).
+- Wikipedia links retained (verified 200 each): Karoline Leavitt, James Comer, Eric Burlison, Kash Patel, Michael Shermer, Richard Hanania, Eugene Podkletnov, Ning Li (physicist), Harold E. Puthoff, Ross Coulthart, George Knapp (television journalist), Luis Elizondo, Bob Lazar, Demonstration_Rocket_for_Agile_Cislunar_Operations (DRACO), DOGE-1, Havana_syndrome, Zersetzung, Redstone_Arsenal, United_States_Space_Command, Missile_Defense_Agency, United_States_Army_Aviation_and_Missile_Command, WHNT-TV, WAFF.
+
+**Link discipline applied during the apply pass:** within-Update-block link repeats bared on subsequent uses (Newsweek Huntsville Mystery, Hobart Substack, Boykin Substack, IBTimes UK federal-investigation / mystery-death / amy-eskridge-death-investigation, instituteforexoticscience.org, archive.org youtube-HOtsZSzpnhI, youtube.com fqKEgAVGxEU + 9pmi9AMQHCg, factually.co both URLs, NTRS API URLs, yahoo.com death-genius). URLs already linked elsewhere in the existing case-file prose (above the Update block) bared on first occurrence within the Update block per the "first occurrence per file" rule (Newsweek who-is, Fox News 11th-scientist, NewsNation father-dead-scientist, IBTimes UK grieving-father, IBTimes UK mysterious-death-anti-gravity, The Mirror, Britannia Daily, Arab Tribune obituary, Michael Shellenberger Wikipedia).
+
+**Re-fetch flags carried into TODO-research.md** (Phase 5 / new "Eskridge Update follow-ups" section, 11 checkboxes): Daily Mail Eskridge URL discovery; Cybernews mirror; Wayback for instituteforexoticscience.org; congress.gov Shellenberger House Subcommittee on the Weaponization of the Federal Government testimony; Alabama SoS direct query for HoloChron LLC; Madison County Coroner public-records status check (NOT submission); 2021 voice recording Whisper transcription (Phase 3); 2020 Rys/Sokol interview Whisper transcription (Phase 3); Reddit direct subreddit query (r/UFOs, r/aerospace, r/Huntsville, r/conspiracy); NTD News removed video lead; "Reid" disambiguation (HoloChron officer "Reid" vs. Samuel Reid Geometric Energy CEO).
+
+**Hard rules honored:** no new external research (apply-only); no contact; provenance dependency on Milburn/Reid preserved as standing caveat throughout Mulder side; tier + confidence on every new claim; imbalance presented not adjudicated (both framings remain compatible explicitly stated); Daily Mail / Cybernews / web.archive.org / congress.gov / Alabama SoS / Coroner status all flagged not chased; verify-don't-trust caught 6 invented Wikipedia links + 1 path correction.
+
+**Memory honored:** `feedback_conclusion_neutrality`, `feedback_xfiles_posture`, `feedback_source_trust`, `feedback_link_verification`, `feedback_link_discipline`, `feedback_enrichment_priority`, `feedback_response_format`.
+
+**Subagent strategy:** none — apply step is mechanical execution of the pre-approved bundle. Single-thread.
+
+**Diff scale:** `cases/eskridge.md` 132 lines → ~370 lines.
+
+**Phase 5 box ticked** in TODO-research.md. Bundle research was the prior session's deliverable; this session is its apply counterpart.
+
+**Apply notes for next sessions:** (1) 11 re-fetch flags now in TODO-research.md — pickup whenever Phase 3 archival pipeline + user-side curl access become available. (2) Phase 9a Huntsville hotbed analysis queued via Update block B5 (Eskridge / LeBlanc / Ning Li / Moffatt cluster surfaced). (3) Phase 9b antigravity / exotic-propulsion domain map queued via B3 (Podkletnov / Ning Li / Puthoff / Davis / Knapp / Coulthart / Shellenberger / Elizondo / Geometric Energy / DOGE-1 / Institute for Exotic Science / HoloChron / HAL5 all surfaced as domain-graph nodes). (4) Phase 8 behavioral-patterns appendix gains May 13 2022 Milburn-precursor + May 24 2022 Reid-precursor as canonical Eskridge precursor evidence — sweep across other 10 cases for parallel statements remains TODO.
+
 ## 2026-05-08 — Phase 6 apply (mccasland / garcia / reza Update blocks + factual corrections)
 
 **What changed:** Applied the three drafted `## Update — 2026-05-08` blocks from the Phase 6 depth-pass to `cases/mccasland.md`, `cases/garcia.md`, `cases/reza.md`, plus inline factual corrections surfaced by the depth-pass. Single commit `f8d4e46` (376 insertions, 21 deletions across the three files), pushed to origin.
