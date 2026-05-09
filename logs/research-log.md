@@ -2,6 +2,63 @@
 
 Chronological record of searches performed, sources consulted, and decisions made. Also serves as the append-only session ledger per [.claude/commands/end-session.md](../.claude/commands/end-session.md).
 
+## 2026-05-08 — Editorial neutrality re-pass + BCSO PDF backfill
+
+**What happened:**
+
+Two-track session: (1) editorial neutrality re-pass on the dossier's most-read surfaces, per the four checkbox items in TODO-research.md "Editorial & framing"; (2) committed the user's manual BCSO press release PDF backfill that had been sitting in the working tree.
+
+**Track 1 — Neutrality re-pass (commit `c8f1465`, pushed):**
+
+- **Find-pass agent** (Explore, Sonnet 4.6, read-only): scanned `dossier.md`, `analysis/hypotheses.md`, `analysis/connection-analysis.md` for verdict-language phrases and Mulder/Scully imbalance. Returned ~22–25 distinct verdict-phrase instances concentrated in dossier abstract + executive summary + H1–H9 table; identified systematic Mulder-side imbalance on H4 (3 for / 5 against + inline editorial pre-grade), H6 (0 affirmative for-bullets), H7 (1 for, immediately undercut by source-credibility aside), H9 (0 affirmative for-bullets, all 4 bullets documented absence-of-evidence).
+- **`dossier.md`:** Added project-purpose + AI-disclosure banner above abstract. Stripped verdict language from abstract paras 2–3 and from executive-summary headings/sentences. Reframed H1–H9 evaluation table from single "Assessment" verdict column to parallel "Evidence for" / "Evidence against" columns. Inline italic update markers on every reworded paragraph. Substantive cuts moved to a dated `## Update — 2026-05-08` block at file bottom (originals preserved).
+- **`analysis/hypotheses.md`:** Restructured each H# writeup into parallel `### Evidence for` / `### Evidence against` subsections. Added `### Context (category-level)` subsection on H4 (state-actor precedent, foreign-collection priority), H5 (collection priority), H6 (AFRL/Wright-Patt UAP lineage), H7 (COINTELPRO precedent + SAP infrastructure), H9 (AFRL lineage + AARO). Dropped `**Current assessment:**` synthesis paragraphs from in-place; originals preserved in Update block. Mulder-side hardening on H6, H7, H9: added affirmative evidence-for bullets where the prior writeup contained only absence-of-evidence framing. Removed inline editorial pre-grade in H4 ("and the 'against' evidence is substantially stronger"). Tier-and-confidence tags `[T# – Confidence]` applied to named-figure attributions on both sides for evidentiary-standard parity (per `feedback_voice_register` 2026-05-08).
+- **`analysis/connection-analysis.md`:** Replaced one verdict-style summary clause ("are within plausible base rates before controlling for other factors") with neutral framing of the unanswered actuarial question.
+- **AARO inclusion** as category-level context (not case-specific bullet) per user-directed reframe — included in H6 and H9 Context subsections + dossier H1–H9 table H9 evidence-for cell. NDAA Section 1683 specificity dropped per "no new external links in this pass" hard rule; tagged `[T4 – Reported]` (Phase 1 backfills primary citation).
+
+**Track 2 — BCSO PDF backfill (commit `b9cc239`, local only — NOT pushed):**
+
+- User manually downloaded the BCSO press release PDF on 2026-05-08; PDF previously returned HTTP 403 to automated fetches and was tracked in known-unknowns + the appendix reconstruction note.
+- Files committed: `appendices/primary-sources/mccasland/PressRelease3.12.2026.pdf` (1.07 MB, 2-page image-PDF), updated `bcso-press-release-2026-03-12.md` (local archive reference + image-based note), updated `cases/mccasland.md` (timeline entries link both BCSO source URL and reconstruction notes).
+- The reconstructed text in the appendix is unchanged; the new commit only attaches the now-available primary PDF as canonical reference. OCR deferred to Phase 3.
+
+**Memory honored this session:**
+
+- `feedback_conclusion_neutrality` (2026-05-08 update) — explicit verdict phrases stripped; Evidence-for/against framing applied.
+- `feedback_xfiles_posture` — Mulder-side hypotheses received affirmative evidence-for bullets; investigation ≠ endorsement.
+- `feedback_voice_register` (2026-05-08, new) — forensic prose on both columns; tier-and-confidence parity carries the weighting; no narrativizing of Mulder bullets to balance Scully.
+- `project_banner_required` — banner on `dossier.md` markdown surface (website surface in mattnoth-dev — separate session).
+- `feedback_response_format` — tight in-thread proposals with concrete rewrite text, single-pass execution, no approve-token ceremony.
+
+**Append-don't-overwrite discipline:**
+
+- Top-of-file revision markers extended on all three touched files (existing Phase 1 markers were extended, not replaced).
+- Inline italic `*(updated 2026-05-08 — see history)*` markers on every reworded paragraph.
+- Substantive cuts (abstract paras 2–3, H1–H9 verdict cells, all 9 `**Current assessment:**` paragraphs) moved to dated Update blocks at bottom of each file. Originals preserved verbatim.
+
+**Out of scope (deferred):**
+
+- Case-file edits — Phase 6 depth pass.
+- Phase 1 backfill of an AARO primary-source citation (the H9 Context bullet currently uses `[T4 – Reported]`; promoting to T1 needs a verified DoD/Congressional URL added to glossary and is Phase 1's job).
+- Website-side banner — mattnoth-dev, separate session.
+
+**Stop conditions met:**
+- Find-pass agent returned with verdict-phrase inventory + balance table ✅
+- Banner applied to `dossier.md` with revision marker ✅
+- Abstract + executive-summary verdict language stripped (originals in Update block) ✅
+- H1–H9 table reframed in `dossier.md` and `analysis/hypotheses.md` ✅
+- Per-hypothesis writeups rebalanced and synthesis-closers removed ✅
+- Top-of-file revision markers on all three files ✅
+- Commit + push (push for `c8f1465` per session prompt's explicit authorization; `b9cc239` BCSO commit local-only per end-session skill default) ✅
+
+**TODO updates owed (next session opportunity):**
+
+The four checkbox items under "Editorial & framing" in `TODO-research.md` are now complete — should be checked off:
+- Banner ✅
+- Strip verdict language from abstract + exec summary ✅
+- Reframe H1–H9 hypothesis-evaluation table ✅
+- X-Files presentation layer for analysis pages ✅
+
 ## 2026-05-08 — Phase 1 cleanup commit (Tier 1–6 applied)
 
 **What happened:**
