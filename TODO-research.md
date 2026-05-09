@@ -17,6 +17,22 @@ Items deferred from the prompt-001 cycle. Revisit before or after PDF/website ge
 - [ ] **Backfill pass** — Run snapshot pipeline against every external URL currently cited as primary source. Existing markdown archives get an HTML + screenshot + PDF companion in their case's `snapshots/` directory.
 - [ ] **Document self-host workflow in RUNBOOK.md** — How and when to snapshot; where files live; how citations should reference both local archive and external URL.
 
+## Source-URL cleanup follow-ups
+
+Inline-source-URL + local-archive convention applied across the dossier 2026-05-08 (commit `7fa8346`; master audit log [logs/source-url-audit-2026-05-08.md](logs/source-url-audit-2026-05-08.md)). The audit surfaced findings outside that session's scope — listed here for routing to future passes.
+
+- [ ] **Browser-confirmation pass for 22 403-blocked URLs** — Inventory at [logs/403-urls-2026-05-08.md](logs/403-urls-2026-05-08.md). Open each in browser; if accessible, save rendered page (Cmd-S → "Web Page, Complete") into the appropriate `appendices/primary-sources/{case}/` folder. Highest-priority: `oversight.house.gov` (T1 congressional record, cited in mccasland + reza + maiwald + hicks); `dps.aas.org` (T1 AAS DPS obituary for hicks); NBC Dateline (sole source for several thomas quotes).
+- [ ] **Hicks cause-of-death content gap** — `appendices/primary-sources/hicks/la-county-coroner-cause-of-death.md` documents arteriosclerotic cardiovascular disease + manner: natural per LA County Coroner (via Fox 11 LA). Open Question #1 in `cases/hicks.md` still says "no source has disclosed the cause of death." Update narrative + close OQ#1.
+- [ ] **Casias Taos News refresh** — Taos News "family divided" article (currently marked "not fully accessible" in OQ#4 of `cases/casias.md`) is now returning full content including FBI/DHS involvement. Update narrative.
+- [ ] **Garcia mislabeled audit page** — `appendices/primary-sources/garcia/albuquerque-police-missing-person.md` presents Newsweek-sourced content as if it were an APD primary document. Reclassify or annotate.
+- [ ] **Grillmair audit-page bail-amount discrepancy** — `appendices/primary-sources/grillmair/la-county-da-murder-charges-snyder.md` records bail at $2M; case file Contradictions table records $3.175M consensus. Reconcile or annotate.
+- [ ] **Reza "phone reported dead" commenter claim** — Sentinel "Phone Gap" article commenter (identifying as Adriana Jacinto Ostling) claims "Monica's phone was reported dead" — not in `cases/reza.md` Cell Phone Evidence section. Provenance uncertain (commenter, not journalist). Verify or document as T7 with caveat.
+- [ ] **Reza missing audit pages** — Several S-numbered sources have no audit page; S15 cited 5× inline with no backing page. Add per Phase 3 backfill.
+- [ ] **Maiwald obit overstatement** — `appendices/primary-sources/maiwald/frank-maiwald-obituary.md` line 15 says "Officials confirmed that an autopsy was never performed" — case file's hedge ("reportedly… not confirmed on-record") is correct. Soften the audit-page line.
+- [ ] **Loureiro NBC News 403** — NBC News URL is sole source for several quotes including "first in class" and Scott Watson quote; bot-blocked. Wayback or browser-archived alternative needed.
+- [ ] **Mccasland Dayton Daily News Wayback retry** — URL confirmed dead (404); Wayback CDX was offline during Phase 1 cleanup; retry to recover the cited piece.
+- [ ] **Future depth-pass: hunt for primary URLs for no-primary-URL audit pages** — `garcia/nnsa-statement.md`, `casias/nmsp-statements.md`, `loureiro/doj-confession-transcript-summary.md` are annotated as no-primary-URL because the underlying agency comms were never republished as standalone press releases. Future agency-archive sweeps (e.g., justice.gov/usao-ma backfill, nnsa.energy.gov press archive) might surface them.
+
 ## Actionable now (web search could fill)
 
 - [ ] **House Oversight briefing results** — Comer/Burlison requested briefing by April 27, 2026. Check for public statements, press releases, or news coverage of what was disclosed.
