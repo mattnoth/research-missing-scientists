@@ -46,6 +46,14 @@ His obituary directed charitable donations to al-anon.org.
 
 In April 2026, his death was publicly linked by journalists to a broader pattern of deaths and disappearances of scientists with connections to U.S. defense and aerospace programs. His case was included in [House Oversight Committee](https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/) Chairman James Comer and Rep. Eric Burlison's letters to NASA, DOE, DOD, and the FBI requesting information. The White House confirmed a [federal review](https://www.newsweek.com/fbi-investigating-missing-dead-scientists-what-we-know-11852176) of these cases.
 
+## Update — 2026-07-05
+
+**Daughter's on-camera statement (KATV / local ABC affiliate).** A KATV Channel 7 news package ("10 people tied to sensitive US research projects have died recently, sparking investigation," uploaded April 23, 2026) features an on-camera interview with **Julia Hicks**, who found her father when he died. She states: *"He had underlying medical conditions for years and years and years. And when he passed away, I knew why. There was no need for an autopsy for me."* On the federal review she adds that her father would be *"rolling in his grave knowing that his name is going around being involved in something like this."*
+
+This is the first located instance of an immediate family member speaking on the record about the death. It bears directly on Open Questions #1 and #2: it offers a family-sourced explanation (long-standing underlying medical conditions; no autopsy sought by the family) but is **not** an official cause-of-death disclosure by the LA County Medical Examiner, and does not name the condition. Confidence: **Reported** (T3 local broadcast; daughter is a primary but interested party). It is consistent with, and independent of, the LA County Coroner finding (arteriosclerotic cardiovascular disease; manner: natural) documented separately in `appendices/primary-sources/hicks/`.
+
+*Source: KATV Channel 7, YouTube (video id `NvRwzQePqZY`), uploaded 2026-04-23; transcript captured 2026-07-05 via caption pull. Local archive of transcript pending Phase 3 snapshot pipeline.*
+
 ## What Is Documented vs. Reported vs. Alleged vs. Speculated
 
 ### Documented (Tier 1)
