@@ -352,7 +352,7 @@ Whisper is the compute-heavy step: `base.en` runs ≈ 12× real time on the M4 M
 
 ### Citing a snapshot
 
-Cite the original URL inline, then the local transcript: `[@newsnationnow TikTok](https://www.tiktok.com/@newsnationnow/video/7629859059788713229) ([local transcript](../appendices/primary-sources/eskridge/snapshots/video/20260417-tiktok-7629859059788713229/transcript.txt))`. Tier is assigned at citation time: independent creators T7; outlet-run accounts inherit the outlet's tier (a NewsNation TikTok is T4). Whisper output is a machine transcription — quote sparingly, tag `[Whisper transcript]`, and expect proper-noun misspellings (it renders Eskridge as "Escridge").
+Cite the original URL inline, then the local transcript: `[@newsnationnow TikTok](https://www.tiktok.com/@newsnationnow/video/7629859059788713229) ([local transcript](../appendices/primary-sources/eskridge/snapshots/video/20260417-tiktok-7629859059788713229/transcript.txt))`. Tier is assigned at citation time: independent creators T7; outlet-run accounts inherit the outlet's tier (a NewsNation TikTok is T4). Whisper output is a machine transcription — quote sparingly, tag `[Whisper transcript]`, and expect proper-noun misspellings (it renders Eskridge as "Escridge"). Uploader identifiers are kept as captured, including archive.org account e-mails (maintainer decision 2026-10-07: they are already public on the platform and are the mirror's provenance); use `--redact-uploader-email` only for a capture that needs it.
 
 ## Known limitations
 

@@ -318,13 +318,16 @@ def cmd_ingest(args) -> int:
         if raw_info.exists():
             raw_info.unlink()
         captions = sorted(dest.glob("captions.*.vtt")) or sorted(dest.glob("captions.*"))
-        # Privacy: some platforms (archive.org) expose the uploader's e-mail as the uploader
-        # name. Redact e-mail-like strings before anything is written to the repo.
-        for k in ("uploader", "uploader_id", "channel", "channel_id", "uploader_url", "channel_url"):
-            if isinstance(info.get(k), str) and EMAIL_RE.search(info[k]):
-                info[k] = EMAIL_RE.sub("[uploader e-mail redacted]", info[k])
-        if isinstance(info.get("description"), str):
-            info["description"] = EMAIL_RE.sub("[e-mail redacted]", info["description"])
+        # Provenance vs. privacy: some platforms (archive.org) expose the uploader's e-mail as
+        # the account identifier. Maintainer direction 2026-10-07: KEEP it — it is already public
+        # on the platform and it is the provenance of the mirror. Pass --redact-uploader-email
+        # to strip e-mail-like strings for a sensitive capture.
+        if getattr(args, "redact_uploader_email", False):
+            for k in ("uploader", "uploader_id", "channel", "channel_id", "uploader_url", "channel_url"):
+                if isinstance(info.get(k), str) and EMAIL_RE.search(info[k]):
+                    info[k] = EMAIL_RE.sub("[uploader e-mail redacted]", info[k])
+            if isinstance(info.get("description"), str):
+                info["description"] = EMAIL_RE.sub("[e-mail redacted]", info["description"])
         trimmed = {k: v for k, v in info.items() if k not in INFO_DROP_KEYS}
         (dest / "info.json").write_text(json.dumps(trimmed, indent=1, ensure_ascii=False))
 
@@ -481,6 +484,8 @@ def main(argv: list[str] | None = None) -> int:
                     help="re-download only the media file into the existing snapshot (e.g. upgrade audio → video)")
     pi.add_argument("--force", action="store_true", help="re-capture even if the snapshot dir exists")
     pi.add_argument("--note", default=None, help="free-text relevance note stored in manifest")
+    pi.add_argument("--redact-uploader-email", action="store_true",
+                    help="strip e-mail-like uploader identifiers (default keeps them as provenance)")
     pi.set_defaults(fn=cmd_ingest)
 
     ps = sub.add_parser("search", parents=[common], help="YouTube search (any language) via yt-dlp")
