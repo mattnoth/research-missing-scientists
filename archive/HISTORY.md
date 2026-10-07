@@ -8,6 +8,15 @@ Forward checkpoints (today and onward) include a snapshot directory under `archi
 
 ---
 
+## 2026-10-07 — pre-refresh
+
+Captures synthesis-file state immediately before the 2026-10-07 general refresh (first research pass since 2026-05-08: news refresh across all 11 cases plus cross-case official channels, and the first use of the video snapshot pipeline).
+
+- Snapshot: [snapshots/2026-10-07-pre-refresh/](snapshots/2026-10-07-pre-refresh/)
+- Tag: [dossier-2026-10-07-pre-refresh](https://github.com/mattnoth/research-missing-scientists/releases/tag/dossier-2026-10-07-pre-refresh)
+
+---
+
 ## 2026-05-08 — pre-rebalance
 
 First checkpoint in the historical-preservation system. Captures synthesis-file state at the start of an editorial-pass session.

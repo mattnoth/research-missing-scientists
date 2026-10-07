@@ -1,0 +1,33 @@
+{
+ "source_url": "https://archive.org/details/youtube-HOtsZSzpnhI",
+ "canonical_url": "https://archive.org/details/youtube-HOtsZSzpnhI",
+ "platform": "archive.org",
+ "id": "youtube-HOtsZSzpnhI",
+ "title": "Public - Amy Eskridge Interview - Jeremy Rys and Mark Sokol",
+ "uploader": "[archive.org uploader — email redacted]",
+ "uploader_id": null,
+ "uploader_url": null,
+ "upload_date": "20250202",
+ "duration_s": 11733.77,
+ "view_count": null,
+ "like_count": null,
+ "comment_count": null,
+ "description": "Video was uploaded and unlisted from public search by a user.\n\nReuploaded and made public by me in effort of investigative transparency.",
+ "capture_utc": "2026-10-07T19:36:06Z",
+ "captured_by": "scripts/snapshot-video.py",
+ "yt_dlp_version": "2026.09.27.232945",
+ "media_file": "media.m4a",
+ "media_sha256": "6cd98d3a288c566c63eab7711cb503f7d0f533d3fb979e3b3c66d6a172ee743b",
+ "media_bytes": 348976447,
+ "thumbnail_file": null,
+ "captions_files": [],
+ "caption_lang": null,
+ "transcript_method": "whisper:base.en",
+ "whisper": {
+  "language": "en",
+  "language_probability": 1,
+  "duration_s": 11733.8
+ },
+ "note": "2020-05-20 Amy Eskridge interview with Jeremy Rys and Mark Sokol; canonical archive.org mirror of privated YouTube upload; clears TODO Phase 5 'Rys/Sokol full Whisper transcription'",
+ "tier_note": "Tier is assigned at citation time. Default for independent creators is T7; outlet-run accounts inherit the outlet's tier."
+}

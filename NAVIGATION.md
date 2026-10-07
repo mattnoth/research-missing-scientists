@@ -18,6 +18,7 @@ Routing table: if you are trying to do X, look here first. This is a pointer ind
 - **Foreign press coverage** → `appendices/foreign-coverage/{country}.md`
 - **Named-expert commentary** → `appendices/named-expert-commentary/`
 - **Diagram / timeline data** → `data/`
+- **Archived video transcripts (TikTok / YouTube / archive.org)** → `appendices/primary-sources/{slug}/snapshots/video/INDEX.md` *(captured by `scripts/snapshot-video.py`; see RUNBOOK "Video snapshots")*
 
 ## Methodology and rules
 
@@ -42,5 +43,6 @@ Routing table: if you are trying to do X, look here first. This is a pointer ind
 ## Agent operation
 
 - **Session-close ritual** → `/end-session` → [.claude/commands/end-session.md](.claude/commands/end-session.md)
+- **Video snapshot / discovery tool** → [scripts/snapshot-video.py](scripts/snapshot-video.py) → [RUNBOOK.md](RUNBOOK.md) "Video snapshots"
 - **Harness spec (for deeper context)** → [AGENT-HARNESS.md](AGENT-HARNESS.md)
 - **Install prompt (for reference / reinstalling elsewhere)** → [INSTALL-PROMPT.md](INSTALL-PROMPT.md)

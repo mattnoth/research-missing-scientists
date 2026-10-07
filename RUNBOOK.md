@@ -288,6 +288,72 @@ git push origin main
 
 This research repo is a submodule of the `mattnoth-dev` website repo. Tracked content here flows through to the rendered site automatically. Snapshots are committed to git (not gitignored) so they appear on the website. Untracked snapshots disappear at session end — always `git add archive/snapshots/<date>/`.
 
+## Video snapshots (Phase 3 — video leg)
+
+[`scripts/snapshot-video.py`](scripts/snapshot-video.py) archives a TikTok / YouTube / archive.org / other yt-dlp-supported video as a research artifact and provides cookie-free discovery. First proof-of-concept 2026-07-05; built, documented and re-verified 2026-10-07. The web-page (Playwright) and Reddit legs of Phase 3 are **not** built yet — see `TODO-research.md` "Tooling".
+
+### Setup (user site-packages, no sudo)
+
+```bash
+pip3 install --user -U --pre "yt-dlp[default,curl-cffi]" faster-whisper
+brew install ffmpeg        # already present on the maintainer's machine
+```
+
+- Use the **nightly** (`--pre`). The 2026.08 stable release failed on TikTok ("Unexpected response from webpage request"); nightly 2026.09.27 works, with `curl_cffi` providing Chrome TLS impersonation.
+- The `yt-dlp` CLI lands in `~/Library/Python/3.14/bin`, which is not on `PATH` by default. The script imports the module directly, so `PATH` does not matter; for ad-hoc use run `python3 -m yt_dlp …`.
+- First Whisper run downloads the model into `~/.cache/huggingface/hub/` (`base.en` ≈ 141 MB).
+
+### Commands
+
+```bash
+# Archive known URLs for a case (metadata + captions/Whisper transcript + thumbnail + audio + manifest)
+python3 scripts/snapshot-video.py ingest --case eskridge "https://www.tiktok.com/@user/video/123" [URL …] --note "why it matters"
+
+# Discover candidates on YouTube — any language, no API key, no login
+python3 scripts/snapshot-video.py search "Amy Eskridge scientist" --n 15
+python3 scripts/snapshot-video.py search "美国 科学家 失踪 死亡 2026" --n 15
+
+# Enumerate a creator's catalogue
+python3 scripts/snapshot-video.py channel "https://www.youtube.com/@PopCrimeTV/videos" --n 50
+```
+
+Options: `--model small|medium|large-v3` (default `base.en`), `--no-transcribe`, `--audio-only`, `--max-height 720`, `--refetch-media`, `--force` (re-capture), `--cookies-from-browser brave|chrome|safari`, `--extractor-args …`.
+
+### Layout and what is committed
+
+```
+appendices/primary-sources/<case>/snapshots/video/
+  INDEX.md                                 one row per snapshot (committed)
+  <upload-date>-<platform>-<id>/
+    manifest.json                          provenance: URLs, uploader, dates, duration, counts,
+                                           capture time, yt-dlp version, media SHA-256, transcript method
+    info.json                              trimmed yt-dlp metadata
+    transcript.txt                         from platform captions when present, else Whisper
+    transcript.segments.json               timestamped segments (Whisper path)
+    captions.<lang>.vtt                    platform captions when present
+    thumbnail.*                            when available
+    media.mp4 | media.m4a                  LOCAL ONLY — gitignored; hash recorded in manifest
+```
+
+**The footage is kept by default** (≤720p mp4; `--audio-only` for long audio-centric items; `--refetch-media` upgrades an existing audio-only snapshot to video without re-transcribing). Media stays out of git because a few dozen videos would bloat the repo and the public site copy; the committed manifest carries the SHA-256 so a re-fetched or restored file can be verified against the archived transcript. Until a durable off-repo store is chosen (TODO-research.md "Durable video storage"), the local disk is the archive — back it up.
+
+### Platform status (verified 2026-10-07)
+
+| Platform | Discovery | Ingest | Notes |
+|---|---|---|---|
+| TikTok | No search extractor. Use `WebSearch site:tiktok.com <terms>`, hashtag/discover pages, cross-posts on Reddit/X, creator enumeration, and user-curated URLs from in-app search. | **Works** (nightly + impersonation). | No platform captions → Whisper path. 78 s clip ≈ 6 s wall-clock on `base.en`. |
+| YouTube | `search` (ytsearch) and `channel` **work**. | **Blocked on the maintainer's network** — "Sign in to confirm you're not a bot" for every player client, with the bgutil PO-token provider, and even in the desktop app's own browser pane on an unrelated video. This is IP-level, not a tooling gap. | Workarounds are a **user decision**: (a) `--cookies-from-browser brave|chrome|safari` (uses your own Google session; yt-dlp warns accounts can be rate-limited), (b) run from another network, (c) third-party caption relays are **not** a fallback right now — youtubetranscript.com returned a "YouTube is currently blocking us from fetching subtitles" stub on 2026-10-07. Already-captured KATV transcript (2026-07-05) predates the block. |
+| archive.org | n/a | **Works.** | Preferred mirror for privated / removed YouTube uploads (e.g. `archive.org/details/youtube-HOtsZSzpnhI`). |
+| Reddit-hosted (v.redd.it) | via Reddit thread URLs | Supported by yt-dlp; untested here. | |
+
+### Relevance gate (mandatory before Whisper)
+
+Whisper is the compute-heavy step: `base.en` runs ≈ 12× real time on the M4 Max CPU (a 3 h 15 m interview ≈ 15 min). Discover first, then gate on uploader, title, upload date, view count and whether the clip is a re-upload of outlet footage already in the dossier. Ingest only likely-relevant items; use `--no-transcribe` to archive metadata-only for marginal ones. **Non-English speech needs a multilingual model**: `--model small --language es` (the default `base.en` is English-only and emits noise on other languages — the Spanish @anderciencia clip had to be re-run).
+
+### Citing a snapshot
+
+Cite the original URL inline, then the local transcript: `[@newsnationnow TikTok](https://www.tiktok.com/@newsnationnow/video/7629859059788713229) ([local transcript](../appendices/primary-sources/eskridge/snapshots/video/20260417-tiktok-7629859059788713229/transcript.txt))`. Tier is assigned at citation time: independent creators T7; outlet-run accounts inherit the outlet's tier (a NewsNation TikTok is T4). Whisper output is a machine transcription — quote sparingly, tag `[Whisper transcript]`, and expect proper-noun misspellings (it renders Eskridge as "Escridge").
+
 ## Known limitations
 
 - **Paywalled foreign coverage** (e.g., some major international outlets behind subscription walls): documented in `logs/known-unknowns.md`. The research does not bypass paywalls; it looks for syndicated reposts and notes when those are not available.

@@ -34,6 +34,8 @@ Tested on the maintainer's machine 2026-07-05 and known to work. Treat anything 
 - **Creator enumeration:** a channel URL expands to that creator's full catalog via `yt-dlp`.
 - **Built-in `WebSearch`** is US/English-biased; **`ytsearch` is not** — native-language queries are the unlock for foreign material.
 
+**Re-verified 2026-10-07 (Fable 5.1 session):** TikTok ingest requires the yt-dlp **nightly** (`pip3 install --user -U --pre "yt-dlp[default,curl-cffi]"`) — the 2026.08 stable broke on TikTok. YouTube **search and channel enumeration still work**, but YouTube **single-video ingest is blocked on the maintainer's network** ("Sign in to confirm you're not a bot") for every player client, for the bgutil PO-token provider, and for the desktop app's browser pane — an IP-level condition, not a tooling gap; treat YouTube caption pull as "works only with user-supplied cookies or from another network." archive.org ingest works. The pipeline now exists as `scripts/snapshot-video.py` (RUNBOOK.md "Video snapshots"); design Phase 2 to it rather than to ad-hoc commands.
+
 **Known weak spots (state plainly, do not paper over):** TikTok has no clean *search* extractor (blind discovery leans on `WebSearch site:tiktok.com`, hashtag pages, cross-posted duplicates, creator enumeration; ingesting a *known* TikTok URL is solid). No Douyin/Weibo/Bilibili *search* integration (yt-dlp pulls a *known* Bilibili URL only); Baidu/Weibo go through `WebFetch` and may hit bot-blocks. Whisper is the compute-heavy step, so a **relevance gate before transcription is mandatory.**
 
 ---

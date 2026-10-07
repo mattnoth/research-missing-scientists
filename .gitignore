@@ -24,3 +24,8 @@ reconcile.log
 
 # WIP prompt drafts (not shipped)
 drafts/
+
+# Video snapshot media (scripts/snapshot-video.py) — large binaries stay local;
+# transcripts, captions, thumbnails and manifests (with media SHA-256) are committed.
+appendices/primary-sources/*/snapshots/video/*/media.*
+appendices/primary-sources/*/snapshots/video/.tmp-*/
