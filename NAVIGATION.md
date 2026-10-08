@@ -37,6 +37,7 @@ Routing table: if you are trying to do X, look here first. This is a pointer ind
 - **Research-specific search history** → [logs/research-log.md](logs/research-log.md) *(appended when session touches research content)*
 - **Outstanding contradictions** → [logs/contradictions.md](logs/contradictions.md)
 - **Analytical gaps** → [logs/known-unknowns.md](logs/known-unknowns.md)
+- **Candidate cases (not yet in the dossier)** → [logs/candidate-case-evaluation-2026-10-08.md](logs/candidate-case-evaluation-2026-10-08.md)
 - **Open tasks** → [TODO-research.md](TODO-research.md)
 - **Audit artifacts** → `logs/audit-*.md`
 
