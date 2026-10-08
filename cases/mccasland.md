@@ -1,6 +1,6 @@
 # Case File: William Neil McCasland
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/mccasland.md). 2026-05-08 revision added enrichment links (Tom DeLonge, John Podesta, To The Stars Academy, direct WikiLeaks email URL), expanded acronyms on first use (USAF, AFRL, OUSD(AT&L), SAPOC, SAP, C4ISR), annotated the dead Dayton Daily News URL, and surfaced the PR Newswire primary URL for the Riverside Research Board appointment (previously linked only to local audit page). 2026-05-08 Phase 6 depth-pass added DeLonge–Podesta meeting expansion (7 WikiLeaks emails, six-attendee scheduled meeting), Pagosa Springs CO second-residence walkback, Comer/Burlison Apr 20 letter capture, Reza professional-tie language with provenance hazard noted, dissertation-year correction (1988 → 1989), and Kirtland Partnership Committee + DBE Consulting LLC affiliations — see `## Update — 2026-05-08` block at end of file.*
+*Last revised: 2026-10-07 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/mccasland.md). 2026-05-08 revision added enrichment links (Tom DeLonge, John Podesta, To The Stars Academy, direct WikiLeaks email URL), expanded acronyms on first use (USAF, AFRL, OUSD(AT&L), SAPOC, SAP, C4ISR), annotated the dead Dayton Daily News URL, and surfaced the PR Newswire primary URL for the Riverside Research Board appointment (previously linked only to local audit page). 2026-05-08 Phase 6 depth-pass added DeLonge–Podesta meeting expansion (7 WikiLeaks emails, six-attendee scheduled meeting), Pagosa Springs CO second-residence walkback, Comer/Burlison Apr 20 letter capture, Reza professional-tie language with provenance hazard noted, dissertation-year correction (1988 → 1989), and Kirtland Partnership Committee + DBE Consulting LLC affiliations — see `## Update — 2026-05-08` block at end of file. 2026-10-07 revision: news-refresh Update block added (window 2026-05-08 → 2026-10-07); see Update — 2026-10-07.*
 
 | Field | Value |
 |---|---|
@@ -32,7 +32,7 @@
 | Feb 27, 2026 | Wife reports missing at 3:07 PM | T4 ([news reports](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) citing BCSO) | Confirmed |
 | ~Mar 2, 2026 | Silver Alert issued by BCSO | T1 ([BCSO press release PDF, Mar 12 2026](https://www.bernco.gov/bernalillo-county-sheriff/wp-content/uploads/sites/48/2026/03/PressRelease3.12.2026.pdf); [reconstruction notes](../appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md)) | Confirmed |
 | Mar 7, 2026 | Gray USAF sweatshirt found ~1.25 miles east of home | T4 ([news reports](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) citing BCSO) | Reported -- not confirmed as McCasland's |
-| ~Mar 11, 2026 | FBI joins search | T4 ([CNN](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing), [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054)) | Confirmed |
+| ~Mar 11, 2026 | FBI joins search | T4 ([CNN](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing), [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054)) | Confirmed *(updated 2026-10-07 — see Update — 2026-10-07 below)* |
 | Mar 12, 2026 | BCSO press release with expanded search details | T1 ([BCSO press release PDF](https://www.bernco.gov/bernalillo-county-sheriff/wp-content/uploads/sites/48/2026/03/PressRelease3.12.2026.pdf); [reconstruction notes](../appendices/primary-sources/mccasland/bcso-press-release-2026-03-12.md)) | Confirmed |
 | Apr 2026 | Still missing; no confirmed sightings | T4 (multiple outlets) | Confirmed |
 
@@ -85,9 +85,9 @@ On the morning of February 27, 2026, a repairman was working at McCasland's Albu
 
 McCasland left on foot. He was last seen wearing a light green, long-sleeved button-up outdoor shirt with a button-down collar and two chest pockets (T4, [Fox News](https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing) citing BCSO -- Reported). *(updated 2026-05-08 — [see GitHub for details](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/mccasland.md); a light green long-sleeved button-up shirt and hiking boots were subsequently located by BCSO at McCasland's Pagosa Springs, Colorado second residence — see Update block. BCSO Lt. Kyle Woods: "We're not saying he left in them. They are just unaccounted for.")*
 
-**Items left at home:** His phone, prescription glasses, and wearable devices — all described as items he normally carried (T4, multiple outlets citing BCSO — Confirmed).
+**Items left at home:** His phone, prescription glasses, and wearable devices — all described as items he normally carried (T4, multiple outlets citing BCSO — Confirmed). *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 
-**Items believed missing with him:** Hiking boots, wallet, a .38-caliber revolver with leather holster, and a red backpack (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054)/[NewsNation](https://www.newsnationnow.com/missing/who-is-william-neil-mccasland/) citing BCSO -- Confirmed). *(updated 2026-05-08 — [see GitHub for details](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/mccasland.md); BCSO subsequently located the hiking boots at McCasland's Pagosa Springs CO second residence, so they should not be on the "with him" list — wallet, .38 revolver and holster, and red backpack remain unaccounted for. See Update block.)*
+**Items believed missing with him:** Hiking boots, wallet, a .38-caliber revolver with leather holster, and a red backpack (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054)/[NewsNation](https://www.newsnationnow.com/missing/who-is-william-neil-mccasland/) citing BCSO -- Confirmed). *(updated 2026-05-08 — [see GitHub for details](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/mccasland.md); BCSO subsequently located the hiking boots at McCasland's Pagosa Springs CO second residence, so they should not be on the "with him" list — wallet, .38 revolver and holster, and red backpack remain unaccounted for. See Update block.)* *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 
 ### The 911 Call
 
@@ -95,7 +95,7 @@ In the [911 call on February 27](https://www.newsnationnow.com/missing/missing-a
 
 ### The "Mental Fog"
 
-McCasland had reported experiencing what he described as a "mental fog" prior to his disappearance (T4, multiple outlets citing BCSO/family -- Confirmed). Investigators said he cited this condition as the reason for stepping down from various groups he worked with (T4, [NewsNation](https://www.newsnationnow.com/missing/who-is-william-neil-mccasland/) -- Reported). However, BCSO Lt. Kyle Woods stated McCasland was "not disoriented, confused" at the time of his disappearance and "would still be the most intelligent person in the room" (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054) -- Reported).
+McCasland had reported experiencing what he described as a "mental fog" prior to his disappearance (T4, multiple outlets citing BCSO/family -- Confirmed). Investigators said he cited this condition as the reason for stepping down from various groups he worked with (T4, [NewsNation](https://www.newsnationnow.com/missing/who-is-william-neil-mccasland/) -- Reported). However, BCSO Lt. Kyle Woods stated McCasland was "not disoriented, confused" at the time of his disappearance and "would still be the most intelligent person in the room" (T4, [ABC News](https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054) -- Reported). *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 
 His wife later [issued a statement](https://www.abqjournal.com/news/retired-general-was-not-confused-and-disoriented-when-he-went-missing-wife-says/2999479) disputing that he had dementia, saying he "was not confused and disoriented" and faced "some risk, but not from dementia." She called reports of a "concerning Friday-morning telephone call to a close relative" a "[complete fabrication](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216)."
 
@@ -117,7 +117,7 @@ As of mid-April 2026, no confirmed video or sighting has been found showing McCa
 
 ### FBI Involvement
 
-The [FBI joined the search](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) approximately two weeks after McCasland's disappearance (~March 11, 2026). The FBI described the situation as "developing" and stated it was "providing all assistance requested." Kirtland AFB's 377th Air Base Wing commander, Col. Justin Secrest, stated they were "[coordinating closely with local authorities](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216)."
+The [FBI joined the search](https://www.cnn.com/2026/03/17/us/fbi-search-william-mccasland-general-missing) approximately two weeks after McCasland's disappearance (~March 11, 2026). The FBI described the situation as "developing" and stated it was "providing all assistance requested." Kirtland AFB's 377th Air Base Wing commander, Col. Justin Secrest, stated they were "[coordinating closely with local authorities](https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216)." *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 
 ### Investigation Status
 
@@ -143,7 +143,7 @@ BCSO also confirmed it has "no verified information" linking McCasland's disappe
 
 ### Reported (T3/T4 news coverage with named sourcing)
 - McCasland experienced "mental fog" and was seeing a doctor for anxiety, memory loss, and sleep issues
-- He stepped down from groups due to the mental fog
+- He stepped down from groups due to the mental fog *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 - His wife characterized his statements about deterioration as frustration, not a plan
 - The USAF sweatshirt was found 1.25 miles east with no blood detected
 - Over 700 homes canvassed with no confirmed sightings
@@ -263,18 +263,18 @@ See also: `logs/contradictions.md`
 
 ## Open Questions
 
-1. **What was the specific medical condition?** BCSO cited privacy laws. Wife described anxiety, short-term memory loss, and sleep issues. No formal diagnosis disclosed. Was it consistent with voluntary departure?
+1. **What was the specific medical condition?** BCSO cited privacy laws. Wife described anxiety, short-term memory loss, and sleep issues. No formal diagnosis disclosed. Was it consistent with voluntary departure? *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 2. **Where did he go?** No confirmed sightings, no video of departure direction, no vehicle involved. Over 700 homes canvassed. Did he travel on foot into the terrain east of his home (where the sweatshirt was found)?
 3. **Was the USAF sweatshirt his?** Forensic analysis was described as pending. No public update on results.
 4. **What is the status of the .38 revolver?** Confirmed missing from the home along with holster. Its role in the disappearance is unknown.
 5. **What was the scope of his actual interaction with DeLonge?** Wife confirms it; DeLonge amplifies it. McCasland has never spoken publicly. What did he actually tell DeLonge?
-6. **What clearances did he hold post-retirement?** Wife stated he had "only very commonly held clearances" since retiring nearly 13 years prior. What level? For what programs?
+6. **What clearances did he hold post-retirement?** Wife stated he had "only very commonly held clearances" since retiring nearly 13 years prior. What level? For what programs? *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 7. **What was his work at Applied Technology Associates / BlueHalo?** Director of Technology at a defense company specializing in directed energy, space warfare, etc. Did this work involve SAPs?
 8. **Is there any connection to the other missing/dead scientists?** BCSO says no verified information links this case to others. The geographic overlap with Albuquerque/NM cases (Chavez, Casias, Garcia) is noted but not evidence of connection.
 9. **Has the FBI reached any conclusions?** The FBI described it as "developing" and provided "all assistance requested." No public FBI statement on findings.
 10. **Did McCasland leave any written communication?** The 911 call suggests his wife had "some indication" he planned not to be found. What was that indication?
 11. **What is the substantive content of the April 27 House Oversight staff-level briefing?** The deadline passed inside the 2026-04-08 – 2026-05-08 refresh window with no public follow-up disclosure as of 2026-05-08. Briefings were classified / staff-level; no public readouts.
-12. **What is the relationship between McCasland's Pagosa Springs second-home pattern-of-life and his disappearance route?** McCasland was an "avid outdoorsman" (Sheriff John Allen) with regular travel between Albuquerque and Pagosa Springs, CO (~6 hours' drive into the San Juan Mountains).
+12. **What is the relationship between McCasland's Pagosa Springs second-home pattern-of-life and his disappearance route?** McCasland was an "avid outdoorsman" (Sheriff John Allen) with regular travel between Albuquerque and Pagosa Springs, CO (~6 hours' drive into the San Juan Mountains). *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 
 ---
 
@@ -375,3 +375,76 @@ This update applies findings from a two-pass depth review (source-deepening + 30
 - **Susan Wilkerson has not issued a new statement** in the same window. The March 6 / 11 / 13 / April 3 (911-call release) statements remain canonical. CNN April 30 reuses prior quotes.
 - **Applied Technology Associates / BlueHalo / Riverside Research / KPC / Hertz Foundation are all silent.** Five of McCasland's institutional homes have produced zero public commentary.
 - These silences are reported here as observed-and-multiply-sourced facts. No interpretation.
+
+---
+
+## Update — 2026-10-07
+
+This update applies the 2026-10-07 news-refresh bundle ([logs/mccasland-news-refresh-2026-10-07.md](../logs/mccasland-news-refresh-2026-10-07.md); window 2026-05-08 → 2026-10-07; X-Files posture, Mulder + Scully equal rigor) and §4b of the cross-case log ([logs/news-refresh-2026-10-07-cross-case.md](../logs/news-refresh-2026-10-07-cross-case.md)). Original prose and the 2026-05-08 Update are preserved; superseded lines carry inline markers.
+
+**Scope and documented negatives.** Swept: mainstream (CNN, ABC, CBS, NBC, Newsweek, Fox, NYT, ABC Australia, Mother Jones), local (KOB, KRQE, Albuquerque Journal, Dayton Daily News, Pagosa Springs Sun), Los Angeles Magazine's public-records series, BCSO / FBI / House Oversight / Burlison channels, family and employer channels, podcasts, Substacks, forums, foreign press. **Status: still missing** as of 2026-10-07; no remains, no confirmed sighting, no direction of travel. No new BCSO press release located (the BCSO press index returned 403 this pass); no FBI statement or "final report"; no Oversight follow-up; zero missing-scientist releases from Rep. Burlison's office in window (output was UAP-records legislation). No new voluntary statement from Susan Wilkerson; Tom DeLonge, Applied Technology Associates / BlueHalo, Riverside Research, Kirtland Partnership Committee, Hertz Foundation, and DBE Consulting all silent. No in-window McCasland-specific piece located from CNN, ABC, CBS, NBC, WaPo, Reuters, AP, BBC, or Guardian ("not located," not "confirmed absent" — search budget exhausted). NYT (Nazaryan, 2026-06-02, families piece) not fetchable; whether it addresses McCasland is unknown. Searches not performed (budget): Reddit subreddits (crawler-blocked, third consecutive pass); Daily Mail; TikTok; RT/Pravda/TASS/Xinhua and Continental European press; a dedicated Burlison/Burchett/Comer June–July sweep. Unfetched: KRQE and Law&Crime (403), NewsNation canonical URLs (403; AMP variants loaded 200).
+
+### Findings — law enforcement and records (Scully)
+
+- **BCSO: "no updates."** A BCSO spokesperson told LA Magazine on Aug 4: "We do not have any updates for release at this time"; the FBI, Kirtland AFB, and other agencies are assisting [T3 ([LA Magazine, 2026-08-04](https://lamag.com/crimeinla/police-identify-gun-found-near-melissa-casias-as-search-for-retired-general-neil-mccasland-stalls/)) relaying T1 statement — Confirmed as stated]. [GunsAmerica Digest (2026-10-01)](https://gunsamerica.com/digest/neil-mccasland-vanished/) reports BCSO still lists him as missing [T7 — Reported].
+- **BCSO records via LA Magazine public-records request (2026-06-12).** A Feb 26, 2026 surveillance still shows McCasland at what appears to be an REI store carrying a large white parcel, a small boxed item, and what appears to be a first-aid kit (no usable metadata; store location unconfirmed). Items left at home enumerated as cell phone, Garmin watch, pocket knife, utility tool, comb. Wife told deputies he was unusually "clingy" that morning and recalled him saying "I don't know how much longer I can go on like this"; he argued with a solar-panel worker that morning. Health concerns listed: anxiety, depression, persistent dry mouth, temperature-regulation issues, "brain fog," declining short-term memory. Stressors listed: father's death, mother's move to memory care, several extended-family deaths within a year, an abruptly shortened January ski trip to Japan. **Records state the FBI joined on March 3** (case file: ~March 11) [T3 ([LA Magazine, 2026-06-12](https://lamag.com/crimeinla/the-last-sighting-of-retired-general-neil-mccasland/)) citing T1 BCSO records — Reported; records not posted by BCSO]. LA Magazine names the wife "Susan McCasland"; other outlets use "Susan Wilkerson" or both surnames.
+- **Body-camera footage (initial BCSO response).** An unidentified female colleague, described as a fellow Kirtland Partnership Committee board member, told deputies he was "kind of spacey and quiet" at a Feb 26 dinner that included U.S. Space Force members, and quoted him: "I'm just foggy." She said he had recently been prescribed a new sleep medication, took it the night before, had lost ~20 lbs without clear cause, and had anxiety [T4 ([NewsNation, Djordjevic, ~June 2026](https://www.newsnationnow.com/missing/william-mccasland-foggy-disappearance-colleague/) — blocks automated checks; AMP variant loaded) attributing the footage to Law&Crime — Reported]. GunsAmerica attributes "newly released body-camera footage" to KRQE and reports the wife showed deputies food and supplies assembled for a backcountry ski trip with 17 friends [T7 relaying T1 footage — Reported]. Neither the Law&Crime nor the KRQE primary URL was located. No drug has been named in any fetched source.
+- **BCSO corrections (LA Magazine exclusive, 2026-06-26).** BCSO stated: its reports contain no reference to the Pentagon (LA Magazine suggests the referent is Riverside Research, whose Board of Trustees McCasland joined in 2019 — already documented above); his clearance was a standard retiree clearance, not an active operational one; his wife never claimed a "desperate attempt to resign"; Detective Lucero worked the case as a Missing Persons detective only, not as part of the GHOST unit; "at this time there is no known connection" to trafficking, gangs, or other missing-scientist cases. BCSO's own earlier statement that he stepped down from retiree-affiliated groups because of brain fog is **not supported in the records LA Magazine received**; LA Magazine asked BCSO to clarify. Items at the Pagosa Springs, CO residence: light green shirt, **hiking boots**, Garmin watch, GPS items, medication, an iPhone (wife: he did not need the medication to survive). Still missing: wallet, .38 revolver and holster, red backpack [T3 ([LA Magazine, 2026-06-26](https://lamag.com/crimeinla/exclusive-sheriff-pushes-back-on-reports-surrounding-retired-missing-air-force-general-william-neil-mccasland/)) relaying T1 BCSO statements — Confirmed as stated].
+- **Renewed Sandia Mountains search, night of 2026-06-26.** State search-and-rescue crews began at midnight, citing cooler temperatures to help scent dogs; no new tip or evidence cited; no outcome reported [T3 ([KOB 4, 2026-06-26](https://www.kob.com/new-mexico/albuquerque-metro/search-for-missing-retired-major-general-resumes-in-sandia-mountains-friday-night/)) — Confirmed as event].
+- **FBI FOIA denied twice.** The FBI told LA Magazine it "cannot provide" records about a missing person and, after appeal, was "unable to resolve your dispute" [T3 — Confirmed as stated by LA Magazine]. Privacy-based denials for missing-person records are routine; the denial is recorded without interpretation.
+- **Geographic profiler.** Douglas MacGregor, reviewing the BCSO file for LA Magazine, said no confirmed footage or eyewitness places McCasland leaving his neighborhood, and that documented cognitive and medication concerns mean "Your search area has to expand"; he states profiling yields leads, not conclusions [T2 named practitioner via T3 ([LA Magazine, 2026-06-30](https://lamag.com/crimeinla/geographic-profiler-finds-unusual-clues-in-three-new-mexico-mysteries/)) — Reported].
+
+### Findings — insider claims (Mulder)
+
+- **David Grusch on The Joe Rogan Experience #2560 (aired 2026-09-30; ~2h31m).** Per LA Magazine and a published transcript, Grusch said McCasland used to tell Tom DeLonge to "think of the Greek gods," adding he now understands what was meant; said "I know a lot about General McCasland" without elaborating; said McCasland was part of a pre-2016 "acclimatization" effort with DeLonge (naming Robert Weiss of Lockheed) approved by John Podesta; said McCasland bought a medical kit at REI the day before and was due to travel with ~18 friends; called the timing after a Trump UAP-declassification announcement "very bizarre"; described the mental-health/aging issues as mild and said suicide cannot be ruled out; and called connections among the other missing scientists "a little overblown" [T7 podcast; T2 to the extent Grusch is a named former official on record ([LA Magazine, ~2026-10-05](https://lamag.com/science/david-grusch-makes-cryptic-new-claims-about-missing-air-force-general-neil-mccasland/); [Happy Scribe transcript](https://podcasts.happyscribe.com/the-joe-rogan-experience/2560-david-grusch)) — **Alleged**; Confirmed only as statements made]. He offered no documents. The REI purchase and the group ski trip correspond to items in the BCSO records and body-cam reporting above (REI still; supplies for 17 friends); the "acclimatization," "Greek gods," and Podesta-approval claims have no law-enforcement or documentary counterpart located. Grusch also raised the 2024 death of Matthew Sullivan (not a dossier case), which he called an open investigation. Earlier, NewsNation relayed producer Miguel Sancho's account that Grusch regards McCasland as the "granddaddy" case [T4, second-hand — Reported]. Metabunk thread 15114 discusses the appearance (content not fetched).
+- **Ross Coulthart** told LA Magazine (2026-06-11) he disputes that McCasland left his house at all, citing doorbell/CCTV footage along the likely route, and called the case "a major national security issue" [T2/T4 via T3 ([LA Magazine, 2026-06-11](https://lamag.com/crimeinla/holy-f-this-is-real-ross-coulthart-says-americas-ufo-reckoning-has-already-begun/)) — Alleged; no specific footage identified]. This conflicts with BCSO's and MacGregor's on-foot premise; unresolved.
+- **Other insider venues.** *Missing Scientists* podcast (The Narrative), Ep 1 "Where is Neil McCasland?" (2026-05-01) frames four theories; Ep 2 (06-02) calls McCasland Reza's "former boss," repeating the IBTimes-origin chain flagged in the 2026-05-08 Update as flat fact [T7]. IBTimes UK (2026-06-22) relays a podcast commentator, "Melissa Casillas," theorizing McCasland may be alive and hiding in New Mexico [T4 relaying T7 — Speculated]. **Name-collision hazard:** "Melissa Casillas" (commentator) is not [Melissa Casias](casias.md) (LANL decedent).
+
+### Skeptic / mainstream framing in window
+
+- [ABC Australia (Wiseman, 2026-05-10)](https://www.abc.net.au/news/2026-05-10/us-scientists-missing-dead-fbi-nasa/106646664) repeats the Congressional-letter Reza–McCasland "close professional connection" language without new substantiation and quotes Wilkerson that abduction for dated secrets "seems quite unlikely" [T4 — Reported]. [Mother Jones (Merlan, 2026-05-14)](https://www.motherjones.com/politics/2026/05/missing-ufo-scientists-rumors-holistic-doctors/) characterizes the disappearance as real but linked to "specious" claims (Mother Jones's characterization) [T4 — Reported].
+- NM-cluster context: Melissa Casias's remains were found 2026-05-28 (see [casias.md](casias.md)); BCSO and LA Magazine report no confirmed connection to McCasland.
+
+### Wikipedia / downstream flags (do not propagate)
+
+- Wikipedia *Neil McCasland* (last edited 2026-09-14) gives a 1988 dissertation date (dossier: 1989 per Hertz Foundation and MIT DSpace), lists hiking boots as missing, and omits the red backpack.
+
+### Contradictions surfaced
+
+| Claim A | Claim B | Status |
+|---|---|---|
+| Hiking boots located at Pagosa Springs (BCSO via LA Magazine 06-26; KOB/Pagosa Springs Sun, March) | Hiking boots listed as missing (LA Magazine 08-04; Wikipedia 09-14) | **Unresolved** — same outlet, both versions; the most recent BCSO-sourced list (06-26) places boots in Colorado. Needs a direct BCSO inventory. |
+| FBI joined ~Mar 11 (CNN/ABC, public) | FBI joined Mar 3 (BCSO records via LA Magazine 06-12) | **Unresolved** — eight-day gap. |
+| BCSO (March): stepped down from groups due to brain fog | BCSO (June): no support for that statement in released records; clarification requested | **Open** — BCSO has not clarified publicly. |
+| On-foot departure (BCSO; MacGregor) | Never left the house (Coulthart, citing unspecified footage) | **Unresolved** — no footage identified by either side. |
+| Ski trip with 17 friends (GunsAmerica, body-cam) | ~18 friends (Grusch, JRE) | Minor count variance. |
+
+### Corrections to existing content
+
+- **Key Dates, "~Mar 11, 2026 — FBI joins search" (L35)** and **FBI Involvement narrative (L120)** — markers: BCSO records state Mar 3.
+- **Mental fog narrative, "cited this condition as the reason for stepping down" (L98)** and **Reported list, "He stepped down from groups" (L146)** — markers: BCSO cannot locate support in its released records.
+- **Items left at home (L88)** — marker: records add Garmin watch, pocket knife, utility tool, comb; Pagosa Springs held a second Garmin/GPS items and an iPhone.
+- **Items believed missing (L90)** — marker: boots-found vs boots-missing contradiction persists in later reporting.
+- **Open Questions #1, #6, #12** — markers pointing to the status entries below.
+
+### Open Questions — status
+
+1. Medical condition — **narrowed.** Records list anxiety, depression, dry mouth, temperature regulation, brain fog, memory decline; colleague reports a new sleep medication and ~20-lb weight loss. No diagnosis or drug named.
+2. Where did he go — **unchanged.** Renewed SAR 06-26, no result; Coulthart disputes he left the house.
+3. Sweatshirt — **unchanged.** No forensic result published (seven months).
+4. .38 revolver — **unchanged.** Still listed missing.
+5. Scope of DeLonge interaction — **unchanged.** Grusch's JRE claims add assertions, not documents (Alleged).
+6. Clearances — **narrowed.** BCSO: standard retiree clearance, not active operational.
+7. ATA / BlueHalo work — **unchanged.**
+8. Connection to other cases — **unchanged.** BCSO: "no known connection"; Grusch: "a little overblown."
+9. FBI conclusions — **unchanged.** FOIA denied twice; no FBI report released.
+10. Written communication — **unchanged.** Records add his reported "how much longer" remark; no note reported.
+11. April 27 Oversight briefing — **unchanged.** No public readout five months on.
+12. Pagosa Springs pattern-of-life — **narrowed.** Inventory there now includes iPhone, Garmin, GPS items, medication.
+
+### Pending / not resolved
+
+- The full BCSO file as released to LA Magazine (public-records retrieval only); the body-cam footage itself (KRQE / Law&Crime); a direct BCSO item inventory.
+- JRE #2560 video/audio ingestion (candidate in bundle; YouTube access pending per TODO).
+- NYT 2026-06-02 (Nazaryan) — user-side retrieval.
+- The FBI "final report" promised in April remains unreleased.

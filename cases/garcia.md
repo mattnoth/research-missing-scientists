@@ -1,10 +1,10 @@
 # Steven Abel Garcia
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/garcia.md). 2026-05-08 revision expanded acronyms on first use (APD, KCNSC, NNSA), surfaced the NM DPS primary URL inline (previously linked only to local audit page), and annotated the NNSA statement entry to make explicit that no standalone primary URL exists. 2026-05-08 Phase 6 depth-pass added: Daily Mail original Chris Melore URL (article 15722375, 2026-04-11); Santa Fe New Mexican / Cormac Dodd + KOAT-TV / John Rupolo T3 sources; NM DPS record-header date anomaly (08/12/2025 precedes Last Seen 08/28/2025) and "Other-Caution" status flag; KCNSC NM Operations facility detail (2540 Alamo SE); Garcia named in April 20, 2026 House Oversight letters; multiple new T4 mainstream pickups; KC-area Fox 4 fourth documented KCNSC-outreach with no response — see `## Update — 2026-05-08` block at end of file.*
+*Last revised: 2026-10-07 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/garcia.md). 2026-05-08 revision expanded acronyms on first use (APD, KCNSC, NNSA), surfaced the NM DPS primary URL inline (previously linked only to local audit page), and annotated the NNSA statement entry to make explicit that no standalone primary URL exists. 2026-05-08 Phase 6 depth-pass added: Daily Mail original Chris Melore URL (article 15722375, 2026-04-11); Santa Fe New Mexican / Cormac Dodd + KOAT-TV / John Rupolo T3 sources; NM DPS record-header date anomaly (08/12/2025 precedes Last Seen 08/28/2025) and "Other-Caution" status flag; KCNSC NM Operations facility detail (2540 Alamo SE); Garcia named in April 20, 2026 House Oversight letters; multiple new T4 mainstream pickups; KC-area Fox 4 fourth documented KCNSC-outreach with no response — see `## Update — 2026-05-08` block at end of file. 2026-10-07 revision: news-refresh Update block added (window 2026-05-08 → 2026-10-07); see Update — 2026-10-07.*
 
 ## Status
 
-**Missing** -- no trace found as of April 2026.
+**Missing** -- no trace found as of April 2026. *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 
 ## Key dates
 
@@ -235,3 +235,23 @@ This update applies findings from a two-pass depth review (source-deepening + 30
 - KCNSC NMO at 2540 Alamo SE — ~3-4 miles east of Garcia's residence; plausible commuting distance.
 - McCasland's last-seen location: northeast Albuquerque. **Garcia and McCasland on opposite sides of the city** — geographic clustering is "Albuquerque" but not "same neighborhood."
 - Per Cormac Dodd / Santa Fe New Mexican: APD has not framed Garcia's case as part of a cluster; FBI's "spearheading the effort to look for connections" is national. **NM-cluster framing is media-driven, not law-enforcement-driven.**
+
+---
+
+## Update — 2026-10-07
+
+**Scope.** News refresh, window 2026-05-08 → 2026-10-07 (mainstream, local, official, family/employer, insider venues, foreign); full bundle at [logs/garcia-news-refresh-2026-10-07.md](../logs/garcia-news-refresh-2026-10-07.md). **No material change in window.** NOT PERFORMED (search budget): Daily Mail follow-up; r/Albuquerque / r/UFOs; unrestricted TikTok; 0xTars / Paranormal Chris X sweep; Pravda / RT / IBTimes UK / mogaznews foreign sweep; Kansas City Star / KCUR sweep.
+
+- **Documented negative: zero Garcia-specific reporting in the window.** ~20 targeted searches located no Garcia-named article dated after 2026-05-08; he appears only as a list entry in cluster roundups. No APD release, family statement, or KCNSC / Honeywell FM&T / NNSA statement located; the employment claim remains T6 anonymous-source-only. The one-year mark (2026-08-28) passed with no indexed coverage. [Negative finding — Confirmed as "not located"]
+- **NM DPS record M101688 re-fetched 2026-10-07: still active,** "Missing Person – Other-Caution"; "Age Now: 49"; header-date anomaly (08/12/2025 vs last seen 08/28/2025) persists; reporting-agency field did not render on this fetch. [T1 — Confirmed]
+- **Dropped from in-window NM-cluster coverage.** Los Angeles Magazine's New Mexico pieces (May 28, Jun 30, Aug 4) and the CNN, Newsweek and Fox Casias pieces do not name Garcia. Casias's remains were found 2026-05-28 (see [casias.md](casias.md)); the NM "missing" set in coverage is now Chavez, Garcia, McCasland. [T3/T4 — Confirmed omission]
+- **Kirtland AFB named as an assisting agency in the McCasland case** (LA Mag, 2026-08-04). A McCasland fact; recorded here only as adjacency to the anonymous source's Kirtland quote above. No link asserted. [T3 — Reported]
+- **Flags (do not propagate):** [ABC Australia](https://www.abc.net.au/news/2026-05-10/us-scientists-missing-dead-fbi-nasa/106646664) (Lewis Wiseman, 2026-05-10) says Garcia "disappeared on August 8, 2025" — NM DPS: 08/28/2025 [T4 — error]. A same-name GoFundMe (Santa Ana CA, 2024 death) is unrelated — name-collision hazard for automated sweeps.
+
+**Corrections to existing content.** Status line — marked: still missing as of 2026-10-07 per NM DPS.
+
+**Open Questions — status.** OQ#1–#10 — unchanged. OQ#5 / #10 (family statement) — still negative across 13+ months. OQ#8 (one vs two anonymous sources) — unchanged; Daily Mail direct read not run.
+
+**Pending / not resolved.** User-side read of NYT (Nazaryan, 2026-06-02) families piece — whether it includes Garcia's family is unknown; Solve the Case 2025-150 re-fetch; direct subreddit queries.
+
+---

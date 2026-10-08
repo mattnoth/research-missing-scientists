@@ -1,6 +1,6 @@
 # Frank Maiwald
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/maiwald.md). 2026-05-08 revision expanded acronyms on first use (SBG-VSWIR, AMR, HIFI, COWVR, SWOT).*
+*Last revised: 2026-10-07 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/maiwald.md). 2026-05-08 revision expanded acronyms on first use (SBG-VSWIR, AMR, HIFI, COWVR, SWOT). 2026-10-07 revision: news-refresh Update block added (window 2026-05-08 → 2026-10-07); see Update — 2026-10-07.*
 
 **Status:** Deceased -- cause of death not publicly disclosed; reportedly no autopsy performed
 **Date of incident:** July 4, 2024
@@ -17,7 +17,7 @@
 | ~1999 | Joined JPL |
 | ~2000s | Contributed to HIFI instrument for Herschel Space Observatory (local oscillator, THz frequency components) |
 | ~2010s | Worked on AMR/Jason 3, AMR/Surface Water and Ocean Topography (SWOT), Cloud and Ocean Vector Radiometer (COWVR), AMR-C programs |
-| June 2023 | Led breakthrough research related to detecting signs of life on icy moons (Europa, Enceladus, Ceres) |
+| June 2023 | Led breakthrough research related to detecting signs of life on icy moons (Europa, Enceladus, Ceres) *(updated 2026-10-07 — see Update — 2026-10-07 below)* |
 | May 2024 | Co-authored SPIE paper on SBG-VSWIR optical design |
 | July 4, 2024 | Died in Los Angeles, CA, age 61 |
 | ~April 2026 | Case included in media reporting and Congressional/White House review of scientist deaths and disappearances |
@@ -38,7 +38,7 @@ He contributed to and managed instruments for multiple Advanced Microwave Radiom
 At the time of his death, Maiwald managed the development of the SBG-VSWIR (Visible to Shortwave Infrared) instrument, a wide-swath imaging spectrometer designed to map Earth's surface biology and geology. He co-authored a 2024 SPIE paper on the optical design of this instrument.
 
 **Astrobiology-related research:**
-In June 2023, approximately 13 months before his death, Maiwald was reportedly the lead researcher on work that could help future space missions detect signs of life on other worlds, including Jupiter's moon Europa, Saturn's moon Enceladus, and the dwarf planet Ceres.
+In June 2023, approximately 13 months before his death, Maiwald was reportedly the lead researcher on work that could help future space missions detect signs of life on other worlds, including Jupiter's moon Europa, Saturn's moon Enceladus, and the dwarf planet Ceres. *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 
 He served as a technical group supervisor at JPL. His research areas included high-frequency components (THz), electronics, mass spectrometry, and remote sensing instruments. His work has been cited over 3,400 times (per [ResearchGate](https://www.researchgate.net/profile/Frank-Maiwald)/[Google Scholar](https://scholar.google.com/citations?user=PPfNthEAAAAJ&hl=en)). He received several prestigious JPL and NASA awards and held the designation of JPL Principal, described as an award given to scientists "making outstanding individual contributions."
 
@@ -118,10 +118,29 @@ In April 2026, his death was publicly linked by journalists to a broader pattern
 
 ## Contradictions
 
-1. **"No autopsy performed" -- source unclear:** Multiple outlets report no autopsy was performed, but the original basis for this claim has not been traced to an on-record statement from the LA County Medical Examiner. It may originate from a records search that found no record, which is different from confirmed absence.
+1. **"No autopsy performed" -- source unclear:** Multiple outlets report no autopsy was performed, but the original basis for this claim has not been traced to an on-record statement from the LA County Medical Examiner. It may originate from a records search that found no record, which is different from confirmed absence. *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 2. **"Principal researcher" vs. "principal investigator":** Sources use both terms. The JPL "Principal" designation is a specific honor, separate from the role of principal investigator on a project. Some media conflate these.
 3. **Employment dates:** The obituary does not specify start/end dates at JPL; "since 1999" and "~25 years" are approximations from media reporting. His LinkedIn profile may provide more precision but was not fully accessible.
 4. **Pattern claims vs. skeptics:** Same tension as Hicks case -- Congressional and media claims of a suspicious pattern are contradicted by CBS News review, CSIS analysts, and former DOE officials who found no evidence of connection.
+
+---
+
+## Update — 2026-10-07
+
+**Scope.** News refresh, window 2026-05-08 → 2026-10-07 (mainstream, local, official, employer, family, insider venues); full bundle at [logs/maiwald-news-refresh-2026-10-07.md](../logs/maiwald-news-refresh-2026-10-07.md). **No material change in window.** No cause of death, LA County Medical Examiner statement, NASA/JPL statement, family statement, or Maiwald-specific FBI/House Oversight output located; the FBI cluster "final report" was not located as published. NOT PERFORMED (search budget): German regional-press query; Reddit/Substack sweep; Daily Mail dating query.
+
+- **"No autopsy" claim — still no located on-record origin.** Chain as reconstructed: Daily Mail article-15709875 (2026-04-07; unfetched) → Men's Journal ([AOL mirror](https://www.aol.com/lifestyle/eight-scientists-dead-missing-investigating-005158031.html), 2026-04-05: "Daily Mail reported that an autopsy was not performed") → [BroBible](https://brobible.com/culture/article/american-scientists-secret-research-dead-missing/) (no agency named) → berndpulch.org / intelligenceoriginal.com blog (2026-07-20; 403; "Officials confirmed…", unsourced). Softer records-search forms (Above the Norm News; LA Mag) say only that no record was located. The 04-05 vs 04-07 dating mismatch is unresolved. Existing hedge stands. [T4/T6/T7 — Alleged as to "officials confirmed"]
+- **New T1: JPL FY23 Strategic University Research Partnership (SURP) poster** [SP23012p.pdf](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP23012p.pdf) (clearance CL#23-5018; HTTP 200 re-checked 2026-10-08), "Unambiguous Detection of Biosignatures by Action Spectroscopy" — PI Frank Maiwald (section 3801), co-Is Robert Hodyss (JPL) and J. Mathias Weber / Lane Terry (CU Boulder); cryogenic ion-trap IR action spectroscopy distinguishing valine from an isomer; target-body table lists Europa, Enceladus, Ceres, Titan. Unclassified, university-partnered, openly presented. The poster's "in preparation" paper is not visible on Google Scholar as of 2026-10-07. [T1 — Confirmed]
+- **Flags (do not propagate):** [ABC Australia](https://www.abc.net.au/news/2026-05-10/us-scientists-missing-dead-fbi-nasa/106646664) (Lewis Wiseman, 2026-05-10) gives death date "July 7, 2024" (obituary: July 4) [T4 — error]. WION (2026-04-08, pre-window) calls Maiwald "a co-worker of Hicks," unsourced [T4]. A second Legacy.com listing (id=61298603; 403) shows a 1963 birth-year variant in a guestbook snippet — browser check pending.
+- **Name-collision hazard.** The 2026-07-20 Pulch blog post concerns two different men named Frank Maiwald; its allegations attach to the other man and the author does not link them to the JPL scientist. Not reproduced here. [T7]
+
+**Corrections to existing content.** Key Dates "June 2023" row and Narrative astrobiology paragraph — marked; the work is now identified via the SURP poster. Contradiction #1 — marked; origin traced to the Daily Mail chain above, still without an on-record agency source.
+
+**Open Questions — status.** OQ#4 (nature of the June 2023 research) — **closable** at T1 via the SURP poster. OQ#2 (autopsy) — unchanged; narrowed to a single-outlet origin. OQ#1, #3, #5–#7 — unchanged.
+
+**Pending / not resolved.** Daily Mail 2026-04-07 article direct read; Legacy id=61298603 browser check; CU Boulder Weber-group page or eventual valine paper (possible dedication).
+
+---
 
 ## Related Cases
 

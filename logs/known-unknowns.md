@@ -29,7 +29,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 ### Chavez: Specific role at LANL
 - **What we need:** Job title, division, or functional area for Chavez at LANL. Whether he was a scientist, engineer, technician, or support staff. Whether he held a security clearance and at what level.
 - **What we searched:** All available public sources including NM DPS, LAPD notices, local media, and national coverage. No source provides a specific role.
-- **Status:** Open. This is critical for assessing whether Chavez's disappearance fits the "missing scientist" pattern or whether he was a non-technical employee.
+- **Status:** Open. This is critical for assessing whether Chavez's disappearance fits the "missing scientist" pattern or whether he was a non-technical employee. *Re-checked 2026-10-07:* Narrowed. A Los Alamos PD case file obtained by LA Magazine (Lauren Conlin, 2026-06-26) describes him as a retired LANL HVAC technician (T1 record via T3; Reported), repeated by NewsNation and others (Daily Mail chain: retired 2017). Conflicting labels persist: "retired construction foreman" (Wikipedia, citing USA Today 2026-04-23) and "retired nuclear scientist" (Brit Brief, T5/T6). LANL has not confirmed; clearance level still unknown. The same file records the Los Alamos PD case as inactive since 2025-10-06, while the NM DPS entry remains active. See [chavez-news-refresh-2026-10-07.md](chavez-news-refresh-2026-10-07.md).
 
 ### Chavez: NM DPS case entry date anomaly
 - **What we need:** Explanation for why the NM DPS record shows a case entry date of 01/13/2023, over two years before the May 2025 disappearance.
@@ -39,12 +39,12 @@ Gaps where primary sources could not be located or where key facts remain unveri
 ### Casias: Who reset the phones and when
 - **What we need:** Law enforcement confirmation or denial of the factory-reset claim. Timeline of when the resets occurred relative to the disappearance. Whether LANL or DOE investigated the work phone reset.
 - **What we searched:** NMSP press statements, family interviews, all secondary reporting. NMSP has not publicly addressed this detail.
-- **Status:** Open. This is the most operationally significant evidentiary detail in the Casias case.
+- **Status:** Open. This is the most operationally significant evidentiary detail in the Casias case. *Re-checked 2026-10-07:* Still open. Remains were found 2026-05-28 and identified 2026-05-30 (status now deceased, OMI manner undetermined), but no NMSP statement in the window addresses the resets (Confirmed as negative search result). Within the family, Sierra Casias's earlier Facebook post (via LA Magazine) refers to one phone reset, against the "both phones" account (Reported). OSINT commentator Morgan Wright (LA Magazine, 2026-08-10) called resets consistent with a wish for a clean break (T2 commentary; Speculated). Whether LANL or DOE examined the work phone remains unstated. See [casias-news-refresh-2026-10-07.md](casias-news-refresh-2026-10-07.md).
 
 ### Casias: Nature of "family divided" reporting
 - **What we need:** Full content of Taos News July 9, 2025 article about family divisions. Understanding of what the division involved and its relevance to the investigation.
 - **What we searched:** Article headline and partial content accessed; full text behind paywall or access restriction.
-- **Status:** Open.
+- **Status:** Open. *Re-checked 2026-10-07:* Resolvable. The Taos News 2025-07-09 article is now fully readable (HTTP 200): the division concerned a June 26 witness tip McMillen acted on that Mark and Sierra Casias judged inaccurate, and the FBI/DHS involvement claim is McMillen's alone, with no official quoted (T3; Reported). See the casias bundle above.
 
 ### Reza: Cell phone forensic data results
 - **What we need:** What did Reza's phone's last ping show? Was the phone recovered? What carrier and device? What did the cell phone forensic analysis find?
@@ -54,7 +54,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 ### Reza: Find a Grave memorial creator identity
 - **What we need:** Identity of "lillian" (creator) and "J.C." (maintainer, ID 50725353) who created the memorial listing Reza's death 4 days after disappearance while search was active.
 - **What we searched:** Find a Grave records (memorial removed March 2026). Sentinel Briefing investigation. No identification published.
-- **Status:** Open. This is one of the most anomalous evidentiary details in the entire dataset.
+- **Status:** Open. This is one of the most anomalous evidentiary details in the entire dataset. *Re-checked 2026-10-07:* Unchanged. No in-window source mentions memorial 284387277; Sentinel Network, the only outlet that reported it, has published no Reza item since 2026-05-08; the memorial was not re-fetched (403 last pass) and no Wayback capture is on file (T7 negative; Confirmed as negative search result). Separately, the new California DOJ missing-person entry (LASD case 025-00905-1257-400) still lists her as missing (T1). See [reza-news-refresh-2026-10-07.md](reza-news-refresh-2026-10-07.md).
 
 ### Reza: Hiking companion identities and accounts
 - **What we need:** Names and detailed accounts of the two yoga-group companions who were with Reza on the Mt. Waterman Trail. What each observed. Whether their accounts are consistent.
@@ -79,7 +79,7 @@ Gaps where primary sources could not be located or where key facts remain unveri
 ### Hicks: Cause of death
 - **What we need:** Cause and manner of death. Whether an autopsy was conducted.
 - **What we searched:** Forest Lawn obituary (no cause listed), LPL memorial (no cause listed), AAS obituary (no cause listed), media reporting. [Newsweek](https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585) reported no autopsy record found.
-- **Status:** Open. The undisclosed cause of death is the central unknown. The Al-Anon donation request in the obituary may provide personal context but is not dispositive.
+- **Status:** Open. The undisclosed cause of death is the central unknown. The Al-Anon donation request in the obituary may provide personal context but is not dispositive. *Re-checked 2026-10-07:* Narrowed to Reported for cause. Three outlets independently describe the LA County Medical Examiner-Coroner record: Fox 11, Men's Journal (2026-04-11) and LA Magazine (2026-04-21/24, with ME screenshot): arteriosclerotic cardiovascular disease, morbid obesity a significant condition, manner natural (T4/T3 citing T1; Reported). The record was not viewed directly (ME public case search non-functional 2026-10-07), Men's Journal says the case is still listed "open" (see contradictions.md), and whether an autopsy was done is still unstated. Brother Steve Hicks told TMZ (2026-04-23) the family knows the cause and is keeping it private (Reported). See [hicks-news-refresh-2026-10-07.md](hicks-news-refresh-2026-10-07.md).
 
 ### Hicks: Reason for leaving JPL in 2022
 - **What we need:** Why Hicks's employment at JPL ended in 2022, one year before his death. Retirement, layoff, health, or other reason.
@@ -89,22 +89,22 @@ Gaps where primary sources could not be located or where key facts remain unveri
 ### Maiwald: Cause of death
 - **What we need:** Cause and manner of death. Whether an autopsy was conducted.
 - **What we searched:** Legacy.com obituary (no cause listed), media reporting. Multiple outlets report no autopsy performed ([Newsweek](https://www.newsweek.com/obituaries-shed-light-on-wave-of-dead-missing-scientists-as-white-house-probes-11841019)); original basis for this claim unclear.
-- **Status:** Open.
+- **Status:** Open. *Re-checked 2026-10-07:* Unchanged. No ME, NASA/JPL or family statement in the window (Confirmed as negative search result). The "no autopsy" claim traces to Daily Mail 2026-04-07 (article-15709875, unfetched) and hardens downstream: Men's Journal relays it as "Daily Mail reported"; BroBible as "authorities have confirmed" (no agency named); berndpulch.org as "officials confirmed" (unsourced, T7). No on-record origin located (Alleged). Name-collision hazard: the 2026-07-20 berndpulch.org post concerns a different Frank Maiwald; do not conflate. See [maiwald-news-refresh-2026-10-07.md](maiwald-news-refresh-2026-10-07.md).
 
 ### Eskridge: Official cause of death documentation
 - **What we need:** Huntsville PD or Madison County Coroner public report confirming the "self-inflicted gunshot wound" characterization widely reported in media.
 - **What we searched:** All available public sources. The "suicide" characterization is widespread but the original official source has not been located.
-- **Status:** Open.
+- **Status:** Open. *Re-checked 2026-10-07:* Unchanged. No Madison County Coroner or Huntsville PD record public (T1 negative). Per HPD release policy (as summarized by Revlox, 2026-04-17, T5/T6), full reports go only to the victim or reporting party or by subpoena, so absence of a public report is procedurally ordinary. The podcast *Gone Dark* (Ep 3) names the Madison County Coroner as the ruling authority without citing a document (T7; Alleged). See [eskridge-news-refresh-2026-10-07.md](eskridge-news-refresh-2026-10-07.md).
 
 ### Eskridge: Police reports for alleged threats
-- **What we need:** Whether Amy Eskridge filed police reports regarding the threats, harassment, or directed energy weapon attacks she described in her May 2020 interview. If so, what did investigators find?
+- **What we need:** Whether Amy Eskridge filed police reports regarding the threats, harassment, or directed energy weapon attacks she described in her May 2020 interview. If so, what did investigators find? *(updated 2026-10-07 — see Re-checked 2026-10-07 note in Status)*
 - **What we searched:** Media reporting on the case. No police reports referenced.
-- **Status:** Open.
+- **Status:** Open. *Re-checked 2026-10-07:* Still open; no police report referenced in any in-window source. Correction to the wording above: a full keyword sweep of the 2020-05-20 recording finds threats, harassment, surveillance and break-in statements (T7 self-report; Confirmed as said, Alleged as to substance) but no directed-energy, burn or radiation claims; those trace to the ≈May 2022 Right Angle News Network video (released 2026-04-22). See [eskridge-rys-sokol-transcript-notes-2026-10-07.md](eskridge-rys-sokol-transcript-notes-2026-10-07.md) §3 row 9 and contradictions.md.
 
 ### Thomas: Official cause and manner of death
 - **What we need:** Medical examiner determination of cause and manner of death following body recovery from Lake Quannapowitt on March 17, 2026.
 - **What we searched:** [Middlesex DA statement](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) (referred to Chief Medical Examiner), subsequent reporting. No public ME statement found.
-- **Status:** Open. DA stated no foul play suspected based on preliminary information.
+- **Status:** Open. DA stated no foul play suspected based on preliminary information. *Re-checked 2026-10-07:* Unchanged. No Massachusetts OCME cause/manner ruling located; NBC Dateline's page (last updated 2026-03-17, fetched 200) still says the medical examiner had not identified cause and manner (T4; Confirmed as published). "Drowning" circulates (LA Magazine 2026-04-24; ABC Australia 2026-05-10; Wikipedia) without a located ruling, with the no-foul-play line misattributed to a county medical examiner; the statement on record is DA Ryan's (see Recursive-Citation Hazards below and contradictions.md). The Wakefield town newsflash URL cited in the case file now returns 404. See [thomas-news-refresh-2026-10-07.md](thomas-news-refresh-2026-10-07.md).
 
 ---
 

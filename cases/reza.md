@@ -1,11 +1,11 @@
 # Monica Jacinto Reza
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/reza.md). 2026-05-08 revision annotated the soft-404 solvethecase.org URL. 2026-05-08 Phase 6 depth-pass added: Hardwick death-date correction (2015 → 2014, 5 T1/T2 sources confirm); Mondaloy patent-custody chain (Boeing → UTC → PWR → Aerojet Rocketdyne → L3Harris → AE Industrial Partners) and Russian patent grant RU2301276C2; family-on-record statements (anonymously) via LA Magazine + Daily Mail / London Mail mirror; House Oversight Apr 20, 2026 letter explicitly names Reza and ties her to McCasland; NASA spokesperson Bethany Stevens first formal statement; Allan Petre @astro_allan colleague-direct X post conflicts with Snopes "could not independently verify"; 2:30 PM Twin Peaks Saddle anguish report (T7 forum reconstruction); Boeing 2004 HENAAC press release (T1); 2016-09-06 GlobeNewswire AFRL/AR Mondaloy 200™ rocket-engine test press release — see `## Update — 2026-05-08` block at end of file.*
+*Last revised: 2026-10-07 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/reza.md). 2026-05-08 revision annotated the soft-404 solvethecase.org URL. 2026-05-08 Phase 6 depth-pass added: Hardwick death-date correction (2015 → 2014, 5 T1/T2 sources confirm); Mondaloy patent-custody chain (Boeing → UTC → PWR → Aerojet Rocketdyne → L3Harris → AE Industrial Partners) and Russian patent grant RU2301276C2; family-on-record statements (anonymously) via LA Magazine + Daily Mail / London Mail mirror; House Oversight Apr 20, 2026 letter explicitly names Reza and ties her to McCasland; NASA spokesperson Bethany Stevens first formal statement; Allan Petre @astro_allan colleague-direct X post conflicts with Snopes "could not independently verify"; 2:30 PM Twin Peaks Saddle anguish report (T7 forum reconstruction); Boeing 2004 HENAAC press release (T1); 2016-09-06 GlobeNewswire AFRL/AR Mondaloy 200™ rocket-engine test press release — see `## Update — 2026-05-08` block at end of file. 2026-10-07 revision: news-refresh Update block added (window 2026-05-08 → 2026-10-07); see Update — 2026-10-07.*
 
 | Field | Value |
 |---|---|
 | **Full Name** | Monica Jacinto Reza |
-| **Also Known As** | Monica Jacinto; Monica Reza |
+| **Also Known As** | Monica Jacinto; Monica Reza *(updated 2026-10-07 — see Update — 2026-10-07 below)* |
 | **Date of Birth** | December 30, 1964 |
 | **Age at Disappearance** | 60 |
 | **Status** | **Missing** (officially; no remains recovered) |
@@ -14,7 +14,7 @@
 | **Prior Employer** | Aerojet Rocketdyne (37+ years, Technical Fellow) |
 | **Security Clearance** | Reported but level unspecified |
 | **Lead Agency** | Los Angeles County Sheriff's Department (LASD) |
-| **LASD Case Numbers** | NIC: M668487735; FCN: 2322517300164 |
+| **LASD Case Numbers** | NIC: M668487735; FCN: 2322517300164 *(updated 2026-10-07 — see Update — 2026-10-07 below)* |
 | **Detectives Assigned** | Det. Shannon Rincon; Det. Richie Sanchez, Homicide Bureau - Missing Persons Unit |
 | **Classification** | At-Risk Missing Person |
 
@@ -132,7 +132,7 @@ Reza's disappearance is one of 11 cases of missing or deceased scientists with g
 
 | # | Source | Type | URL |
 |---|---|---|---|
-| S1 | LASD missing person bulletin / Solve the Case listing | LE record | https://www.solvethecase.org/case/2025-56/monica-reza *(record exists; content fields blank as of 2026-05-08)* |
+| S1 | LASD missing person bulletin / Solve the Case listing | LE record | https://www.solvethecase.org/case/2025-56/monica-reza *(record exists; content fields blank as of 2026-05-08)* *(updated 2026-10-07 — see Update — 2026-10-07 below)* |
 | S2 | LASD statement via Acting Captain Ryan A. Vienna, Crescenta Valley Station | LE statement | https://www.crescentavalleyweekly.com/news/07/03/2025/update-on-efforts-to-locate-missing-hiker-monica-reza/ |
 | S3 | US Patent US-20100266442-A1 (Google Patents) | Government record | https://patents.google.com/patent/US20100266442A1/en |
 | S4 | US Patent US-20030053926-A1 (Google Patents) | Government record | https://patents.google.com/patent/US20030053926A1/en |
@@ -154,7 +154,7 @@ Reza's disappearance is one of 11 cases of missing or deceased scientists with g
 
 | # | Source | Type | URL |
 |---|---|---|---|
-| S13 | Wikipedia - Monica Jacinto | Encyclopedia | https://en.wikipedia.org/wiki/Monica_Jacinto |
+| S13 | Wikipedia - Monica Jacinto | Encyclopedia | https://en.wikipedia.org/wiki/Monica_Jacinto *(updated 2026-10-07 — see Update — 2026-10-07 below)* |
 
 ### Tier 7 (Independent / Investigative)
 
@@ -257,7 +257,7 @@ This update applies findings from a two-pass depth review (source-deepening + 30
   - Custody chain: Boeing (2001 priority) → Boeing → Rospatent (2002 Russian filing) → United Technologies Corp (2006) → Pratt & Whitney Rocketdyne (2007) → Aerojet Rocketdyne (2013 GenCorp merger) → L3Harris (2023 acquisition, $4.7B) → AE Industrial Partners (2026-01-09 sale, $845M majority stake; new entity reverts to "Rocketdyne" brand; AR1 / Mondaloy disposition not specified in sale documents). [T1 corporate filings.]
   - Aerojet Rocketdyne and AFRL nonetheless continued referencing **Mondaloy 200™** in the **2016-09-06 GlobeNewswire press release** (`https://www.globenewswire.com/.../AFRL-Technology-Demonstration-Program-Gives-Boost-to-Future-Hydrocarbon-and-AR1-Engines.html`, T1, Confirmed) — first public Mondaloy 200™ rocket-engine hot-fire test at Edwards AFB Test Stand 2A (historic F-1 / Saturn V test stand). Named officials: **Joe Burnett** (HBTD Program Manager), **Eileen Drake** (CEO/President Aerojet Rocketdyne), **Maj. Gen. Tom Masiello** (AFRL commander at time): "An objective of this program is to help eliminate the United States' reliance on foreign rocket propulsion technology... key to ensuring our national security." **AR1 directly cited as RD-180 alternative.** AR1 program canceled 2018 when ULA picked Blue Origin's BE-4 for Vulcan — Mondaloy lost its program-of-record vehicle.
 - **Boeing 2004 HENAAC Luminary Award press release — replaces T4 multi-source citation.** `https://boeing.mediaroom.com/2004-10-11-Two-Boeing-Employees-Receive-National-Recognition` (T1, 200). Reza identified as "Boeing Integrated Defense Systems engineer / Boeing Associate Technical Fellow / metallurgical engineer at Rocketdyne laboratories in Canoga Park, California / co-inventor of Mondaloy." Co-honoree Mike Cave. [T1 employer-side, Confirmed.]
-- **L3Harris divested propulsion business 2026-01-09** ($845M, 60% majority stake to AE Industrial Partners). New entity reverts to standalone "Rocketdyne" brand. RS-25 excluded from sale. AR1 / Mondaloy disposition not specified. Closure expected H2 2026. [T3 Spaceflight Now, Confirmed.] L3Harris's 2023 10-K assigned **$0 to developed-technology assets** in its purchase-price allocation for Aerojet Rocketdyne (per Sentinel Briefing's "What Is Mondaloy" T7 reading of T1 SEC filings) — auditor-side framing that the proprietary IP including Mondaloy had no separately-recognized accounting value. [T1 SEC filing via T7 analysis.]
+- **L3Harris divested propulsion business 2026-01-09** ($845M, 60% majority stake to AE Industrial Partners). New entity reverts to standalone "Rocketdyne" brand. RS-25 excluded from sale. AR1 / Mondaloy disposition not specified. Closure expected H2 2026. [T3 Spaceflight Now, Confirmed.] L3Harris's 2023 10-K assigned **$0 to developed-technology assets** in its purchase-price allocation for Aerojet Rocketdyne (per Sentinel Briefing's "What Is Mondaloy" T7 reading of T1 SEC filings) — auditor-side framing that the proprietary IP including Mondaloy had no separately-recognized accounting value. [T1 SEC filing via T7 analysis.] *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 - **New disappearance-narrative detail not currently in case file: yoga instructor drove Reza to the trailhead; trail start ~6:30 AM; female companion turned back partway; running-on-terrain anomaly.** Per LA Magazine (Conlin) and Modernity News (Steve Watson, 2026-04-17). Reza had recently begun training as a yoga instructor at a studio incorporating astrology and Vedic teachings. London Mail mirror adds: summit reached ~8:45 AM; last photo of Reza ~9:00 AM near "Double Delight Peak"; ~40 miles from home. [T3 / T4, Reported.]
 - **NEW evidentiary detail: 2:30 PM Twin Peaks Saddle "anguish" report.** Forum reconstruction (websleuths, eispiraten threads) describes that on June 22, 2025 at approximately 2:30 PM, **two hikers returning from Twin Peaks reported hearing "a female in anguish or despair (not calling for help)" near Twin Peaks Saddle.** This is *separate from and ~5 hours later than* the morning 9:10 AM disappearance and the morning 911 call about screaming. Forum discussion notes "few searches were conducted in that area in the first couple of months." **If true and Reza-related, this would extend her last-known-alive window from ~9:30 AM to ~2:30 PM.** [T7 forum reconstruction; original police-report language not located. Flag for next-session LASD records-request status check (public records only, no FOIA submission).]
 - **First mainstream commercial-aerospace tie surfaced.** Fortune (Catherina Gioino, 2026-04-21) explicitly frames Reza's nickel super-alloy as relevant to "reusable rocket programs including New Glenn and Starship" — Mondaloy lineage as inheritance pathway to current commercial primes. **SpaceX and Blue Origin both declined to comment to Fortune.** [T4, Reported as published; commercial-tie claim Reported.]
@@ -376,3 +376,24 @@ This update applies findings from a two-pass depth review (source-deepening + 30
 - Patch's "CA scientists" framing (Lindahl 2026-04-24) ties Reza to broader California-clustering.
 - Three-state Mondaloy-triangle geographic spread (CA / OH / NM with Los Alamos NM and Wright-Patterson OH as institutional anchors).
 - Hardwick's 1982 LANL employment is a documented institutional bridge to the Casias / Chavez LANL cluster — **not currently mapped in the dossier's connection-analysis layer.**
+
+---
+
+## Update — 2026-10-07
+
+**Scope.** News refresh, window 2026-05-08 → 2026-10-07; full bundle at [logs/reza-news-refresh-2026-10-07.md](../logs/reza-news-refresh-2026-10-07.md). **No material change in status:** still missing, no remains, no new LASD statement located; the one-year mark (2026-06-22) passed with no indexed anniversary coverage. FBI "final report" not located as released; no Reza-specific NASA statement. NOT PERFORMED (search budget): Reddit (r/socalhiking, r/LosAngeles); TikTok; Daily Mail; IBTimes UK / WION / India Today sweep; RT / Pravda / TASS; Fortean Winds / uapmurders re-check; websleuths.
+
+- **New T1: [California DOJ Office of the Attorney General missing-person entry](https://www.oag.ca.gov/missing/person/monica-jacinto-reza)** (HTTP 200, re-checked 2026-10-08): agency LASD; **case number 025-00905-1257-400**; AKA "Monica Andrea Jacinto"; DOB 12/30/1964; last seen 06/22/2025; clothing listed. Wikipedia dates the entry 2026-07-07. [T1 — Confirmed]
+- **[Charley Project casefile](https://charleyproject.org/case/monica-jacinto-reza)** added 2026-08-09: "Lost/Injured Missing" (the site's classification, not LASD's); "may use the name Monica Andrea Reza." [T5 — Reported]
+- **Solve the Case 2025-56 page now populated** (status "Open"; lead Det. Richie Sanchez; beanie found 2025-06-23). It also shows two living persons labeled "Person of Interest" — a volunteer-site field with no stated basis or LASD attribution. **Not propagated; names withheld.** [T5 mirror; label T7 — Alleged at most]
+- **Geo-profiler hypothesis.** Douglas MacGregor via [LA Mag](https://lamag.com/crimeinla/missing-nasa-scientist-monica-reza-geo-profiler-suggests-possible-staged-disappearance/) (Lauren Conlin, 2026-05-11): "you can stage a disappearance"; also "I'm not accusing" the companions, and sees no "science-tech UFO level" conspiracy. No LASD response located. Family (via LA Mag): no FBI or White House contact. [T3/T7 — Alleged; MacGregor's hypothesis, not a finding]
+- **Corporate custody:** AE Industrial Partners closed its purchase of L3Harris's space propulsion & power business on 2026-08-04, relaunched as "Rocketdyne" (BusinessWire, snippet-confirmed). No source mentions Mondaloy or Reza; Mondaloy IP disposition unspecified. [T1 corporate via snippets — Confirmed as transaction]
+- **Flags (do not propagate):** Wikipedia article now titled "Monica Reza" (last edited 2026-08-29); it gives no JPL title. Talking Points Memo (Mike Rothschild, 2026-04-27, pre-window) says Reza "was declared dead" — a targeted presumption-of-death/probate search was negative [T4 — error]. "Missing Scientists" podcast (2026-06-02) calls McCasland "her former boss" — the IBTimes-UK-origin "direct oversight" chain, now in T7 as flat fact.
+
+**Corrections to existing content.** AKA and LASD case-number rows — marked (new AKA and LASD case number per CA OAG). S1 — marked (page now populated). S13 — marked (article retitled). 2026-05-08 block L3Harris divestiture line — marked (deal closed 2026-08-04).
+
+**Open Questions — status.** OQ#1–#10 — unchanged. OQ#2 (Find a Grave) — no new information; Sentinel Network has published nothing on Reza since 2026-05-08. OQ#7 (federal statement) — still negative.
+
+**Pending / not resolved.** User-side read of NYT (Nazaryan, 2026-06-02) families piece; save CA OAG entry to appendices/primary-sources/reza/; any LASD response to the staging hypothesis.
+
+---

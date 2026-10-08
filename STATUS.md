@@ -1,5 +1,18 @@
 # Status — Prompt 001 Completion
 
+## 2026-10 refresh (v0.2.0)
+
+**Produced:** research bundles for the 2026-05-08 → 2026-10-07 window (cross-case + 11 cases + Eskridge transcript notes + YouTube discovery sweep); `## Update — 2026-10-07` blocks on all 11 case files (full on the seven with material change, short on garcia / maiwald / reza / thomas); `dossier.md` markers + Update block with restated counts; contradictions and known-unknowns entries; `scripts/snapshot-video.py` and the first video captures.
+
+**Skipped / reduced:** full-length Update blocks for the four quiet cases (user chose the cheaper budget; bundles hold the detail). No new web research during the apply step. Candidate TikTok ingests from the bundles were not run.
+
+**Flags for review:**
+- **YouTube ingest access** — single-video downloads blocked at IP level ("confirm you're not a bot"); needs cookies or another network. Search / channel enumeration still work.
+- **Durable video storage** — media is gitignored and lives only on the maintainer's disk; decide on a backup location.
+- **Wikipedia Eskridge row** — RfC removal (2026-09-27) vs. row still rendering 2026-10-07; Birmingham-PD error persists. Human check needed.
+- **FBI "final report"** — not released as of 2026-10-07; beware the unrelated October 2026 internal "Patel Report" in searches.
+- **Candidate cases** — LeBlanc, Ning Li, Sullivan now appear on Burlison's list and Wikipedia's table; evaluate against the inclusion rationale before adding.
+
 ## What was produced
 
 ### Case files (11)

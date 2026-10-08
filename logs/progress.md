@@ -2,6 +2,16 @@
 
 Every agent session appends here — research, website, tooling, whatever. This is the single durable record of what happened across sessions. The research log (`research-log.md`) tracks research-specific detail; this file tracks everything at session level.
 
+## 2026-10-08 — General refresh: apply step (v0.2.0)
+
+**What changed:** Applied the 2026-10-07 research bundles. User chose the cheaper budget: full `## Update — 2026-10-07` blocks on casias, chavez, eskridge, grillmair, hicks, loureiro, mccasland; short blocks on garcia, maiwald, reza, thomas. Every case file's `*Last revised:*` line amended. Inline markers wherever existing prose is superseded (Casias status line → Deceased, manner undetermined; Hicks cause → Reported; Chavez role → retired HVAC technician + LAPD inactive 2025-10-06; Grillmair neck vs torso, plea, bail; Loureiro firearms "unanswered" line + NBC quotes not at URL; McCasland FBI join date Mar 3, boots, BCSO "brain fog" line; Eskridge DEW/burns claims not in the 2020 interview (15 markers, transcript-checked); Thomas wakefieldma.gov 404 → verified Wayback copy; Maiwald SURP poster; Reza AKA/LASD case number/L3Harris sale). `dossier.md`: 9 markers + Update block with restated counts and federal/Congressional status. `logs/contradictions.md`: 10 within-case entries + cross-case count inflation. `logs/known-unknowns.md`: re-check lines on 8 case-specific entries. Grillmair DA appendix bail annotated; Maiwald obituary appendix L15 origin-less marker. CHANGELOG v0.2.0; STATUS "2026-10 refresh" section; TODO apply backlog ticked.
+
+**Verification:** append-only confirmed by word-level diff (only removals are the old `Last revised` dates / moved closing asterisks); every block sits before `## Related Cases` or at end of file. Agents linked only URLs with a recorded HTTP 200 in the bundles or re-checked at insert time; blocked sources (CNN 451, KRQE, NewsNation, X, Daily Mail) named without links or via verified syndications.
+
+**Subagent strategy:** five parallel general-purpose apply agents (three case groups + quiet cases + integrity logs), one file set each; dossier, CHANGELOG, STATUS, TODO, ledgers in main thread.
+
+**Further work:** remaining TODO apply-backlog items (candidate cases LeBlanc / Ning Li / Sullivan; Snyder docket; Casias OMI report / NamUs / TRO after 09-16; McCasland BCSO inventory + KRQE body-cam; browser-side retrievals; Wikipedia Eskridge row; "17th name"; Maiwald SURP PDF archive); YouTube ingest access and durable video storage decisions; candidate TikTok ingests.
+
 ## 2026-10-07 — General refresh (IN PROGRESS — research done, apply pending)
 
 **What changed (committed):**
@@ -21,6 +31,8 @@ Every agent session appends here — research, website, tooling, whatever. This 
 5. `logs/research-log.md` session entry; CHANGELOG `v0.2.0`; STATUS.md refresh; commit + push.
 6. dossier-site: rsync tracked research files into `dossier-site/research/` (two files missing there since July: robert-bartholomew.md, prompt-005), `npm run build`, commit only `research/`, push (Netlify deploys). Leave the user's uncommitted TOC/prose-measure WIP alone.
 7. Optional: ingest candidate TikToks from the bundles; YouTube candidates wait on the access decision.
+
+*Superseded 2026-10-08: items 1–6 applied — see the 2026-10-08 apply entry above.*
 
 ## 2026-05-08 — Phase 5 / Eskridge apply (Update block + 3 inline revision markers)
 

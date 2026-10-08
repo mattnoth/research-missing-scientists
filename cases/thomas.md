@@ -1,6 +1,6 @@
 # Jason R. Thomas
 
-*Last revised: 2026-05-08 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/thomas.md). 2026-05-08 revision expanded the NEMLEC acronym on first use.*
+*Last revised: 2026-10-07 — [see history](https://github.com/mattnoth/research-missing-scientists/commits/main/cases/thomas.md). 2026-05-08 revision expanded the NEMLEC acronym on first use. 2026-10-07 revision: news-refresh Update block added (window 2026-05-08 → 2026-10-07); see Update — 2026-10-07.*
 
 **Status:** Deceased (body recovered)
 **Date of incident:** December 12, 2025 (last seen); body recovered March 17, 2026
@@ -12,13 +12,13 @@
 - **January 10, 1980:** Date of birth [T1 ([obituary](https://www.legacy.com/us/obituaries/name/jason-thomas-obituary?id=61184839)), Confirmed]
 - **2010:** Joined Novartis Institutes for Biomedical Research [T1 ([obituary](https://www.legacy.com/us/obituaries/name/jason-thomas-obituary?id=61184839)), Confirmed]
 - **November 2025:** Both parents -- Larry Thomas and Chong (Kim) Thomas -- died within approximately 90 minutes of each other; mother died in hospice (dementia), father collapsed from a heart attack in Jason's arms shortly after [T3 ([Boston 25 News](https://www.boston25news.com/news/local/he-literally-vanished-wakefield-woman-asks-public-help-search-husband/FPPCD6SIIFFM3LW4I4WHNG2D6I/), wife's account), Reported]
-- **December 12, 2025 (~midnight):** Last seen by wife Kristen Bartoli walking away from their home on Murray Street, Wakefield, MA [T1 ([Wakefield PD](https://www.wakefieldma.gov/m/newsflash/Home/Detail/113)), Confirmed]
+- **December 12, 2025 (~midnight):** Last seen by wife Kristen Bartoli walking away from their home on Murray Street, Wakefield, MA [T1 ([Wakefield PD](https://www.wakefieldma.gov/m/newsflash/Home/Detail/113)), Confirmed] *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 - **December 13, 2025:** Reported missing to Wakefield Police Department [T1 ([Middlesex DA](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) statement), Confirmed]
 - **December 13, 2025 (morning):** Northeastern Massachusetts Law Enforcement Council (NEMLEC) resources deployed including 5-6 canine units and 4 drones [T4 ([NBC Dateline](https://www.nbcnews.com/dateline/missing-in-america/jason-thomas-missing-wakefield-massachusetts-rcna263785), citing Chief Skory), Reported]
 - **January 5, 2026:** Wife Kristen Bartoli makes public appeal for help; case covered by [Boston.com](https://www.boston.com/news/local-news/2026/01/05/wakefield-man-vanished-has-been-missing-for-3-weeks-wife-says/), [Boston 25 News](https://www.boston25news.com/news/local/he-literally-vanished-wakefield-woman-asks-public-help-search-husband/FPPCD6SIIFFM3LW4I4WHNG2D6I/) [T3, Confirmed]
 - **March 2026 (approx.):** NBC Dateline "Missing in America" segment airs [T4, Confirmed]
 - **March 17, 2026 (~12:30 PM):** Wakefield police detective spots body in Lake Quannapowitt (lake had been frozen, ice recently melted); drone confirms; body recovered by Wakefield Police and Fire [T1 ([Middlesex DA](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) statement), Confirmed]
-- **March 17, 2026:** DA Marian Ryan releases statement; clothing consistent with Jason Thomas; referred to Office of Chief Medical Examiner for identification and cause/manner of death [T1 ([Middlesex DA](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) / [Wakefield town website](https://www.wakefieldma.gov/m/newsflash/Home/Detail/113)), Confirmed]
+- **March 17, 2026:** DA Marian Ryan releases statement; clothing consistent with Jason Thomas; referred to Office of Chief Medical Examiner for identification and cause/manner of death [T1 ([Middlesex DA](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) / [Wakefield town website](https://www.wakefieldma.gov/m/newsflash/Home/Detail/113)), Confirmed] *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 - **March 2026:** Obituary published; funeral services at Edward V. Sullivan Funeral Home, Burlington, MA [T1 ([Legacy.com obituary](https://www.legacy.com/us/obituaries/name/jason-thomas-obituary?id=61184839)), Confirmed]
 
 ## Narrative of Known Facts
@@ -63,7 +63,7 @@ As of research date (April 2026), no public statement has been made by the medic
 - Some social media posts have described the circumstances as "suspicious," but the documented facts -- severe grief after both parents' sudden deaths, departure on foot without belongings late at night, body found in nearby lake after winter thaw, no foul play suspected -- are consistent with a personal crisis.
 
 ## Primary Sources
-- [DA Marian Ryan statement, March 17, 2026 (Wakefield town website)](https://www.wakefieldma.gov/m/newsflash/Home/Detail/113) -- Official statement on body recovery; no foul play suspected [T1]
+- [DA Marian Ryan statement, March 17, 2026 (Wakefield town website)](https://www.wakefieldma.gov/m/newsflash/Home/Detail/113) -- Official statement on body recovery; no foul play suspected [T1] *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 - [Middlesex DA press release](https://www.middlesexda.com/press-releases/news/body-recovered-lake%C2%A0quannapowitt-wakefield) -- Official DA press release [T1]
 - [Jason R. Thomas obituary (Legacy.com / Edward V. Sullivan Funeral Home)](https://www.legacy.com/us/obituaries/name/jason-thomas-obituary?id=61184839) -- Biographical details, education, career, family [T1]
 - [Jason R. Thomas - Google Scholar](https://scholar.google.com/citations?user=T2VhMtYAAAAJ&hl=en) -- Published research record [T1]
@@ -87,7 +87,26 @@ As of research date (April 2026), no public statement has been made by the medic
 
 ## Contradictions
 - **Age discrepancy:** Some reports describe Thomas as 45, others as 46. The obituary states DOB January 10, 1980, and he disappeared December 12, 2025 (age 45). The obituary itself says "age 46," which would be correct if the date of death is considered as March 17, 2026 (after his January birthday).
-- **No substantive contradictions** in the factual reporting. All sources are consistent on the core facts: left home without phone/wallet on December 12, body found in Lake Quannapowitt on March 17, no foul play suspected.
+- **No substantive contradictions** in the factual reporting. All sources are consistent on the core facts: left home without phone/wallet on December 12, body found in Lake Quannapowitt on March 17, no foul play suspected. *(updated 2026-10-07 — see Update — 2026-10-07 below)*
+
+---
+
+## Update — 2026-10-07
+
+**Scope.** News refresh, window 2026-05-08 → 2026-10-07; full bundle at [logs/thomas-news-refresh-2026-10-07.md](../logs/thomas-news-refresh-2026-10-07.md). **No material change in window.** No Office of the Chief Medical Examiner (OCME) cause/manner ruling, formal identification announcement, Middlesex DA or Wakefield PD statement after 2026-03-17, Novartis statement, or post-recovery statement by Kristen Bartoli located. NOT PERFORMED (search budget): site:wakefieldma.gov; site:wakefielditem.com; OCME manner-of-death sweep; YouTube.
+
+- **Dead primary link.** wakefieldma.gov/m/newsflash/Home/Detail/113 returns **404** (re-checked 2026-10-08; non-mobile variant also 404). A Wayback Machine capture of the same page, titled as DA Marian Ryan's statement on the Lake Quannapowitt incident, is at [web.archive.org (2026-03-19)](https://web.archive.org/web/20260319041259/https://www.wakefieldma.gov/m/newsflash/Home/Detail/113) (HTTP 200). The Middlesex DA release URL returns 403 to automated checks but is index-confirmed extant. [T1 — Confirmed]
+- **NBC Boston details not previously in file** (Sarah Dahlberg, 2026-03-17; pre-window; already linked above) [T3 — Reported, wife and Chief Skory named]: wife heard the mailbox close and found his Apple Watch in it; phone and wallet were on the bathroom counter; a train conductor told her no one boarded there that night. Skory: lake "partially frozen on December 13th," froze over completely shortly after; shoreline covered in the first hours, but "no one has ever been able to search the water"; dive/sonar planned for spring thaw.
+- **Intra-source clothing tension.** The same NBC Boston piece lists a last-seen puffer jacket and hat, while Skory is quoted: "No gloves, no hat, no jacket. Nothing." Possibly items left behind vs. items worn; unresolved. [T3]
+- **"Drowning" circulates without a located ruling.** LA Mag (2026-04-24), [ABC Australia](https://www.abc.net.au/news/2026-05-10/us-scientists-missing-dead-fbi-nasa/106646664) (2026-05-10) and Wikipedia's "Missing scientists conspiracy theory" article state drowning; ABC AU and Wikipedia attribute "no foul play" to a "Middlesex County… medical examiner" — the no-foul-play line came from DA Ryan / Chief Skory, and Massachusetts has a statewide OCME. Flag; propagate neither. NBC Dateline page (now HTTP 200) still says the medical examiner has not identified cause and manner. [T4/T5 — error flag]
+
+**Corrections to existing content.** Key Dates (Dec 12 and Mar 17 DA-statement entries) and Primary Sources (town-website statement) — marked: link 404; Wayback capture above. Contradictions "No substantive contradictions" — marked: drowning-vs-no-ruling and clothing tensions above. OQ#3 — marked (see below).
+
+**Open Questions — status.** OQ#3 (was the lake searched in December) — **closable** at T3: shoreline searched; the water itself was not searched because it was frozen. OQ#1 — unchanged (no OCME ruling located). OQ#2, #4, #5 — unchanged.
+
+**Pending / not resolved.** Browser capture of the Middlesex DA release; the four NOT PERFORMED queries.
+
+---
 
 ## Related Cases
 
@@ -106,6 +125,6 @@ As of research date (April 2026), no public statement has been made by the medic
 ## Open Questions
 1. **Cause and manner of death:** The Office of the Chief Medical Examiner has not publicly released findings as of April 2026. Was the cause of death drowning, exposure, or something else?
 2. **How did Thomas enter the lake?** The timeline between his departure near midnight on December 12 and the lake's location relative to the surveillance footage near railroad tracks has not been publicly reconstructed.
-3. **Was the lake searched during the initial canine/drone operation?** Reports mention searches along railroad tracks and surrounding areas but do not confirm whether the lake was specifically checked in December (it would have been near-freezing or frozen).
+3. **Was the lake searched during the initial canine/drone operation?** Reports mention searches along railroad tracks and surrounding areas but do not confirm whether the lake was specifically checked in December (it would have been near-freezing or frozen). *(updated 2026-10-07 — see Update — 2026-10-07 below)*
 4. **Mental health context:** While wife described him as "struggling" after parents' deaths, no reporting addresses whether Thomas had any history of mental health treatment or whether he expressed suicidal ideation. This is appropriately private but represents a gap in understanding the case.
 5. **Why is this case included in the "scientist pattern"?** Thomas's work was in private-sector pharmaceutical research with no documented connection to defense, aerospace, nuclear, or classified programs. His inclusion in the media narrative appears to be driven by the fact that he was a scientist who disappeared, not by any substantive connection to the other cases.

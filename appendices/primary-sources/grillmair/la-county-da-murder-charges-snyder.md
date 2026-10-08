@@ -16,7 +16,7 @@ On February 18, 2026, the Los Angeles County District Attorney's Office charged 
 - Burglary (of a separate home, same day)
 - Allegation of personal and intentional discharge of a firearm causing great bodily injury
 
-Bail was set at $2 million.
+Bail was set at $2 million. *(updated 2026-10-07 — $2M was the LASD booking bail; the court set bail at $3.175M at the 2026-05-26 arraignment per the [LA County DA release of 2026-05-28](https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist); see cases/grillmair.md Update — 2026-10-07)*
 
 Grillmair was found shot to death on the porch of his home at the 30700 block of 165th Street East in Llano on the morning of February 16, 2026. The shooting was reported at 6:10 AM. The LA County Medical Examiner determined the cause of death as a gunshot wound to the torso.
 
