@@ -20,6 +20,26 @@ Items deferred from the prompt-001 cycle. Revisit before or after PDF/website ge
 - [ ] **Backfill pass** — Run snapshot pipeline against every external URL currently cited as primary source. Existing markdown archives get an HTML + screenshot + PDF companion in their case's `snapshots/` directory.
 - [ ] **Document self-host workflow in RUNBOOK.md** — How and when to snapshot; where files live; how citations should reference both local archive and external URL. *(Video leg documented 2026-10-07; web-page leg still pending.)*
 
+## 2026-10-07 refresh — apply backlog
+
+Research bundles are committed (`logs/*2026-10-07*.md`); the apply step is pending. Operating prompt: `drafts/continue2026-10-08-apply-refresh.md` (local, gitignored) — the same list lives in the top entry of [logs/progress.md](logs/progress.md).
+
+- [ ] **Case-file `## Update — 2026-10-07` blocks (11)** — material: casias (Missing → Deceased, OMI manner undetermined), hicks (ME cause Reported → OQ#1), grillmair (Snyder arraigned; bail $3.175M; neck vs torso), chavez (LAPD file: inactive 2025-10-06; retired HVAC technician), loureiro (firearms timeline public → OQ#7; NBC quotes not at URL), mccasland (BCSO corrections; body-cam; Grusch JRE), eskridge (DEW/burns not in 2020 interview → markers; transcript notes). Quiet: garcia, reza, maiwald, thomas (documented negatives + small T1 additions).
+- [ ] **dossier.md** — markers on the abstract/exec-summary counts (Casias, Hicks) and "ongoing as of April 2026"; `## Update — 2026-10-07` block; case-index rows.
+- [ ] **logs/contradictions.md** — Casias (distance; previously searched; body position; gun ownership vs carry), McCasland (boots; FBI join date), Grillmair (neck vs torso), Hicks ("natural" vs "open"), Thomas (drowning vs no ruling), Eskridge (DEW attribution), cross-case count inflation.
+- [ ] **logs/known-unknowns.md case-specific Status lines** — Casias phones; Hicks; Maiwald; Eskridge; Thomas; Chavez role; Reza Find-a-Grave (cross-case section already updated 2026-10-07).
+- [ ] **CHANGELOG v0.2.0 + STATUS.md refresh + progress/research-log apply entries; commit, push; optional tag `dossier-2026-10-08-refresh-applied`.**
+- [ ] **dossier-site sync** — rsync tracked files into `dossier-site/research/`, `npm run build`, commit `research/` only, push (Netlify deploys). Two files have been missing from the site copy since July (robert-bartholomew.md, prompt-005).
+- [ ] **Candidate case files under global scope** — Joshua LeBlanc (NASA MSFC, d. 2025-07-22), Ning Li (UAH, d. 2021-07-27), Matthew Sullivan (USAF, d. 2024-05-12): now on Burlison's list and Wikipedia's table; evaluate against the inclusion rationale (Path B extension protocol) rather than adopting by media grouping.
+- [ ] **Snyder docket check** — *People v. Snyder*, 26AVCF00232, prelim 2026-06-05 outcome / trial date.
+- [ ] **Casias follow-ups** — full OMI report; handgun registrant on record; NamUs MP150628 / NM DPS status (should now read resolved); TRO status after 2026-09-16; NMSP GPS coordinates vs the 6/10/15-mile reports.
+- [ ] **McCasland follow-ups** — BCSO authoritative item inventory (boots); KRQE body-cam footage capture (priority for the video pipeline once a URL is found).
+- [ ] **Browser-side retrievals** — NYT 2026-06-02 (Nazaryan, families); Daily Mail article-15722375 (Garcia) and article-15709875 (JPL/Maiwald); CNN 2025-12-19 Loureiro classmates piece (451); fbi.gov and NewsNation canonical pages (403).
+- [ ] **Wikipedia Eskridge row** — human check of the live article vs the 2026-09-27 removal diff (RfC "no consensus → removal"); Birmingham-PD error still rendering 2026-10-07.
+- [ ] **"17th name" / "Aiden Schaeffer"** — identify the Nancy Grace (2026-05-21) count and the transcript token.
+- [ ] **Maiwald audit page** — soften `appendices/primary-sources/maiwald/frank-maiwald-obituary.md` L15 ("Officials confirmed…") per the still-origin-less autopsy chain; archive the JPL FY23 SURP poster PDF.
+- [ ] **Thomas T1 link** — `wakefieldma.gov/m/newsflash/Home/Detail/113` is 404; locate Wayback copy; NBC Dateline URL now 200 (closes a 403-inventory line).
+
 ## Source-URL cleanup follow-ups
 
 Inline-source-URL + local-archive convention applied across the dossier 2026-05-08 (commit `7fa8346`; master audit log [logs/source-url-audit-2026-05-08.md](logs/source-url-audit-2026-05-08.md)). The audit surfaced findings outside that session's scope — listed here for routing to future passes.
